@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-13T21:23:14.313Z",
+  "fetched_at": "2026-09-13T21:31:00.724Z",
   "channel": {
     "username": "indypersian",
     "title": "IndyPersian",
@@ -10,6 +10,39 @@
     "subscriber_count": "74K"
   },
   "posts": [
+    {
+      "id": "Indypersian/177664",
+      "author_name": "IndyPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/cWiU4AQSXez9EUDuvXK_5o5R69s3M-TxK7rncrhV2MJ6OG4ra5p9zT4uwuCt-UwPR7MDtUEChvnTlbrXWNFM-mjgaQM4PCnnu7YNNDnT6JhbR6gdzWukrFOa2KibYziEk-hJZrF09bizm6EB1Peahx9cs0V2NZ6KAtIKRQxvq-gN_7HbKObcYpP54wC4NjBwAqN968PYBlJcrJaE-qG3Ms3D7XIK6IhaOSgCJlgyjiJC7RrspK5aL4drBLQf_ath6OwTwaSI1L-BbMkqzp632RuRo0CXKT_8Kff50dBVtOetdeXqZeHtX4vBs0q7M8GgJw1FhpnrdLI99s2Dc1MFxw.jpg",
+      "author_photo_path": "channels/indypersian/media/03832e223ab7fa640ff2ff09.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i>فرماندهی مرکزی آمریکا (سنتکام) روز یکشنبه، با انتشار تصویری از عرشه پرواز ناوشکن موشک‌انداز «یو‌اس‌اس جان پل جونز»، از تداوم اجرای تدابیر محاصره دریایی ایران خبر داد. سنتکام با اشاره به هدایت یک هلی‌کوپتر سی‌هاوک (MH-60R) توسط ملوان آمریکایی بر عرشه این ناوشکن اعلام کرد که تا روز ۱۳ سپتامبر، نیروهای نظامی آمریکا به منظور اطمینان از پایبندی به مقررات و تدابیر اعمال‌شده، مسیر ۱۰۱ کشتی تجاری را تغییر داده‌اند. <br><a href=\"https://t.me/indypersian\" target=\"_blank\">@indypersian</a>",
+      "plain_text": "♦️فرماندهی مرکزی آمریکا (سنتکام) روز یکشنبه، با انتشار تصویری از عرشه پرواز ناوشکن موشک‌انداز «یو‌اس‌اس جان پل جونز»، از تداوم اجرای تدابیر محاصره دریایی ایران خبر داد. سنتکام با اشاره به هدایت یک هلی‌کوپتر سی‌هاوک (MH-60R) توسط ملوان آمریکایی بر عرشه این ناوشکن اعلام کرد که تا روز ۱۳ سپتامبر، نیروهای نظامی آمریکا به منظور اطمینان از پایبندی به مقررات و تدابیر اعمال‌شده، مسیر ۱۰۱ کشتی تجاری را تغییر داده‌اند. @indypersian",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Indypersian/177664",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/SHkjGf_5KIIBzOrMZLnkvbJdpvITima9MfuVVD7oOsVo_5BdOsmtfaFyCnIJDJUjXtf99T08CufnM2GivAWg1aniYFLJMIK29jUZNaRKqABuzZ1wgrvxqfcUIjvhD7dqzETL9N5F0F3N66E_1CZ-Egf8G0SR1fiyNpoyZPogVgPFlZA8nDwkNC32AJnDn2LuCoUeiv017kLErE6XvIGPjdXyTspQSiuEPl27ro_3zKGC3NRsZV6wl4JKEXWsQBOZjUSlpy1nF_6M3S-qEnIcQ4A0NyTCbkOtTT7eBz3s3OC9ZnKQdBWR4NMHHEu6FB9nxq6oH7-5XBRQKfHRkAYi1Q.jpg",
+          "thumbnail_path": "channels/indypersian/media/15bf13f1790e6e20b624d853.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "5"
+        },
+        {
+          "emoji": "👏",
+          "count": "2"
+        }
+      ],
+      "views_label": "368",
+      "posted_at": "2026-09-13T21:24:43+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Indypersian/177664"
+    },
     {
       "id": "Indypersian/177663",
       "author_name": "IndyPersian",
@@ -36,9 +69,13 @@
         {
           "emoji": "🍾",
           "count": "2"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
         }
       ],
-      "views_label": "847",
+      "views_label": "1.14K",
       "posted_at": "2026-09-13T21:04:27+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/177663"
@@ -64,7 +101,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "46"
+          "count": "54"
         },
         {
           "emoji": "❤",
@@ -83,7 +120,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.61K",
+      "views_label": "1.81K",
       "posted_at": "2026-09-13T20:47:23+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/177662"
@@ -113,7 +150,7 @@
         },
         {
           "emoji": "🥴",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "👍",
@@ -128,7 +165,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.42K",
+      "views_label": "1.6K",
       "posted_at": "2026-09-13T20:45:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/177661"
@@ -157,7 +194,7 @@
           "count": "7"
         }
       ],
-      "views_label": "1.71K",
+      "views_label": "1.85K",
       "posted_at": "2026-09-13T20:36:00+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/177660"
@@ -183,7 +220,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "51"
+          "count": "55"
         },
         {
           "emoji": "❤",
@@ -194,7 +231,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.42K",
+      "views_label": "2.53K",
       "posted_at": "2026-09-13T20:21:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/177659"
@@ -235,7 +272,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.8K",
+      "views_label": "2.9K",
       "posted_at": "2026-09-13T20:03:49+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/177658"
@@ -261,7 +298,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "23"
+          "count": "24"
         },
         {
           "emoji": "❤",
@@ -272,7 +309,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.92K",
+      "views_label": "3K",
       "posted_at": "2026-09-13T19:52:57+00:00",
       "edited": true,
       "permalink": "https://t.me/Indypersian/177657"
@@ -298,7 +335,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "11"
+          "count": "12"
         },
         {
           "emoji": "❤",
@@ -313,7 +350,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.89K",
+      "views_label": "3K",
       "posted_at": "2026-09-13T19:42:41+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/177656"
@@ -350,7 +387,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.89K",
+      "views_label": "2.97K",
       "posted_at": "2026-09-13T19:30:41+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/177655"
@@ -391,7 +428,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.25K",
+      "views_label": "3.32K",
       "posted_at": "2026-09-13T19:07:37+00:00",
       "edited": true,
       "permalink": "https://t.me/Indypersian/177654"
@@ -428,7 +465,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.01K",
+      "views_label": "3.08K",
       "posted_at": "2026-09-13T19:05:20+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/177653"
@@ -461,7 +498,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.18K",
+      "views_label": "3.25K",
       "posted_at": "2026-09-13T18:54:33+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/177652"
@@ -487,7 +524,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "25"
+          "count": "26"
         },
         {
           "emoji": "🗿",
@@ -510,7 +547,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.51K",
+      "views_label": "3.55K",
       "posted_at": "2026-09-13T18:31:42+00:00",
       "edited": true,
       "permalink": "https://t.me/Indypersian/177651"
@@ -551,7 +588,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.73K",
+      "views_label": "3.76K",
       "posted_at": "2026-09-13T18:10:54+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/177650"
@@ -592,7 +629,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.17K",
+      "views_label": "4.2K",
       "posted_at": "2026-09-13T17:49:10+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/177649"
@@ -618,7 +655,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "23"
+          "count": "24"
         },
         {
           "emoji": "❤",
@@ -633,7 +670,7 @@
           "count": "2"
         }
       ],
-      "views_label": "4.41K",
+      "views_label": "4.44K",
       "posted_at": "2026-09-13T17:18:26+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/177648"
@@ -664,7 +701,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.39K",
+      "views_label": "4.4K",
       "posted_at": "2026-09-13T17:08:00+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/177647"
@@ -703,7 +740,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.83K",
+      "views_label": "4.86K",
       "posted_at": "2026-09-13T16:33:12+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/177646"
@@ -4159,43 +4196,6 @@
       "posted_at": "2026-09-12T13:45:16+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/177560"
-    },
-    {
-      "id": "Indypersian/177559",
-      "author_name": "IndyPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/ssSp0ZMGw2kddkCkklzPGS7Q_1NNOZCkDdE224AjQU2wTMi3qNgfEG0Dbw3IsMRb7SnEQOZjCqZZ8oO9iCUWj7CZmVqStguMXWXWgQCc48Zs0N1KhJkZppZQX5Yzms6w0bjCoqBDJV7ApxVgoBgpspvD3XN1XI30B488KgStraXmzEDjHRaD62GItlri6XmFvVuulUa1t9i0gS5hEMFw8r1Fd9kAVlCgdtxwMi8axd3qcO-m0yAENYQqpqI6LRJ0CClh88gkLwsAVym41i9WX2Im_HS9Hwv9-Ugu8dxfi63RL8LU5ontcxmbFFD4q1TqQ4gb38vM-55Pr9yzHhfNEQ.jpg",
-      "author_photo_path": "channels/indypersian/media/cb5aee7b640c4b968335f332.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i>فائزه احمدی، ملی‌پوش پاراتیراندازی ایران، روز شنبه ۲۱ شهریور در رقابت‌های قهرمانی جهان در کره جنوبی، در ماده تپانچه بادی ۱۰ متر زنان با رکورد ۲۳۸.۳ به مدال طلا دست یافت و سهمیه بازی‌های پارالمپیک لس‌آنجلس را نیز کسب کرد.<br><br>نسرین شاهی، دیگر نماینده ایران، پس از آنکه در مرحله مقدماتی با رکورد ۵۷۲ در جایگاه نخست قرار گرفته بود، در فینال رکورد ۲۳۳.۷ را ثبت کرد و نایب‌قهرمان جهان شد. ساره جوانمردی نیز با رکورد ۱۹۴.۱ در جایگاه چهارم قرار گرفت.<br><br>در بخش تیمی تپانچه بادی زنان نیز فائزه احمدی، ساره جوانمردی و نسرین شاهی با مجموع ۱۷۰۷ امتیاز مدال طلای قهرمانی جهان را برای ایران به دست آوردند.<br><br><a href=\"https://t.me/indypersian\" target=\"_blank\">@indypersian</a>",
-      "plain_text": "♦️فائزه احمدی، ملی‌پوش پاراتیراندازی ایران، روز شنبه ۲۱ شهریور در رقابت‌های قهرمانی جهان در کره جنوبی، در ماده تپانچه بادی ۱۰ متر زنان با رکورد ۲۳۸.۳ به مدال طلا دست یافت و سهمیه بازی‌های پارالمپیک لس‌آنجلس را نیز کسب کرد. نسرین شاهی، دیگر نماینده ایران، پس از آنکه در مرحله مقدماتی با رکورد ۵۷۲ در جایگاه نخست قرار گرفته بود، در فینال رکورد ۲۳۳.۷ را ثبت کرد و نایب‌قهرمان جهان شد. ساره جوانمردی نیز با رکورد ۱۹۴.۱ در جایگاه چهارم قرار گرفت. در بخش تیمی تپانچه بادی زنان نیز فائزه احمدی، ساره جوانمردی و نسرین شاهی با مجموع ۱۷۰۷ امتیاز مدال طلای قهرمانی جهان را برای ایران به دست آوردند. @indypersian",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Indypersian/177559",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/KIdfXosZbACAFUe5ecunyTMD44hgbg2kCcwExIwu5Jl565oSkoWsvVCMKe_nMi7NaWnxelr0bNni4S2D0ymWgBYuvrTQ7CsommJGTfkQu4lLjj9JA7qVSZoQYP9frAvfr7TBPjgkPfEg9y36PlWokHXhO_ud_GgRRZgh5rzXBLE3CzvsrbBJhs9V3aHDWfUhMKi4Hc1heHa7zBlW95Esb2gG03osfKrqPYYZDBH9PRtFTYZ7I5fqilvfIrzLicvD8oxHS7Dp6uYiNq0s8CLL0RR5mNTBGGKxUbAl5D4OoUG7pR10sOljwRCAGBerGQTVFkwnr28QqfaAsptRq14_Xg.jpg",
-          "thumbnail_path": "channels/indypersian/media/434da67c49cf360800512bd5.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "13"
-        },
-        {
-          "emoji": "👍",
-          "count": "3"
-        },
-        {
-          "emoji": "👏",
-          "count": "1"
-        }
-      ],
-      "views_label": "2.97K",
-      "posted_at": "2026-09-12T13:38:23+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Indypersian/177559"
     }
   ]
 }
