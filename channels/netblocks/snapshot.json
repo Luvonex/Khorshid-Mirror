@@ -1,20 +1,20 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-15T10:21:44.961Z",
+  "fetched_at": "2026-09-15T18:11:24.263Z",
   "channel": {
     "username": "netblocks",
     "title": "NetBlocks",
     "description_html": "The Internet's Observatory: Tracking network disruptions and shutdowns • tools and policy for change • bridging the digital divide • <a href=\"https://netblocks.org/\" target=\"_blank\" rel=\"noopener\">https://netblocks.org</a>",
-    "photo_url": "https://cdn4.telesco.pe/file/i9BWD7Nm9ptFdwQgDRRieDVknqQW7vcnsyzafp5jIw8sO_493dGUtIihg9Ysgf6KIqvFvQEZUQrEXtL1qgNJSh_PqbVIFykIYIlz7hdVlcSDNsCIWGYqw5yxtKQ4e9GqpmbY1jqzpHaP9LrcDYEof_26JHueQk-Pm1aCZDrGczMNYtldZzGopuklk543_IdmRBkTX74o_vZvuV7jLP1KRwt3pOw-NS9tqcLljScaNnZ0e9ZTnzjs0zykO2f2Le7dDCf8bG3KnyKE0lAiQ1-4dBBJlR_qzbQWu5uXa9IsxVhVh8weNjTsNYdWOtqNc-EvEjRIzNNrsw0ZuhJOi_gd6g.jpg",
-    "photo_path": "channels/netblocks/media/accad7873c67185bb56891a0.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/uzR9YxNg3HqhOud2JUyojjrn4fRu7PIUNRmwLW3z61ywzB2z0LnIhKLS3VCL48QmEGvHWjj1ER17unJVnmH7L8nb4dzAyLrrf7UMlXt3P8o0BZaJ2v3-9ivmnAzBdut4JgoYl6ThXuV8AJbYiRn9EufELf2uOCI3HDblhbosM5vtDLdGvY476YcfmVAdn8nxRmFYJqfO6Sr58WcZJI9aNJmfb17WX50gKVMwVhtqe6TTc0kIAx0whR39UOGHvcC61OcSHJXtE6rA9t1ivYCw2DZHeoO93px0lU8EShsjOwCRu8k314f6-F5-6tQu8YpRza03rlcPr5xebDEKvRkodA.jpg",
+    "photo_path": "channels/netblocks/media/f6cc4d055f5d7ce130007523.jpg",
     "subscriber_count": "48.9K"
   },
   "posts": [
     {
       "id": "netblocks/1547",
       "author_name": "NetBlocks",
-      "author_photo_url": "https://cdn4.telesco.pe/file/i9BWD7Nm9ptFdwQgDRRieDVknqQW7vcnsyzafp5jIw8sO_493dGUtIihg9Ysgf6KIqvFvQEZUQrEXtL1qgNJSh_PqbVIFykIYIlz7hdVlcSDNsCIWGYqw5yxtKQ4e9GqpmbY1jqzpHaP9LrcDYEof_26JHueQk-Pm1aCZDrGczMNYtldZzGopuklk543_IdmRBkTX74o_vZvuV7jLP1KRwt3pOw-NS9tqcLljScaNnZ0e9ZTnzjs0zykO2f2Le7dDCf8bG3KnyKE0lAiQ1-4dBBJlR_qzbQWu5uXa9IsxVhVh8weNjTsNYdWOtqNc-EvEjRIzNNrsw0ZuhJOi_gd6g.jpg",
-      "author_photo_path": "channels/netblocks/media/accad7873c67185bb56891a0.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/uzR9YxNg3HqhOud2JUyojjrn4fRu7PIUNRmwLW3z61ywzB2z0LnIhKLS3VCL48QmEGvHWjj1ER17unJVnmH7L8nb4dzAyLrrf7UMlXt3P8o0BZaJ2v3-9ivmnAzBdut4JgoYl6ThXuV8AJbYiRn9EufELf2uOCI3HDblhbosM5vtDLdGvY476YcfmVAdn8nxRmFYJqfO6Sr58WcZJI9aNJmfb17WX50gKVMwVhtqe6TTc0kIAx0whR39UOGHvcC61OcSHJXtE6rA9t1ivYCw2DZHeoO93px0lU8EShsjOwCRu8k314f6-F5-6tQu8YpRza03rlcPr5xebDEKvRkodA.jpg",
+      "author_photo_path": "channels/netblocks/media/f6cc4d055f5d7ce130007523.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E284B9.png')\"><b>ℹ️</b></i> Confirmed: Network data show a brief disruption to leading internet provider MEO in <a href=\"?q=%23Portugal\">#Portugal</a>, corroborating user reports of a short but widespread outage affecting broadband and mobile service; the operator has not issued an explanation <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9389.png')\"><b>📉</b></i>",
       "plain_text": "ℹ️ Confirmed: Network data show a brief disruption to leading internet provider MEO in #Portugal, corroborating user reports of a short but widespread outage affecting broadband and mobile service; the operator has not issued an explanation 📉",
       "media": [
@@ -31,7 +31,7 @@
       "reactions": [
         {
           "emoji": "🤔",
-          "count": "65"
+          "count": "70"
         },
         {
           "emoji": "😁",
@@ -46,7 +46,7 @@
           "count": "3"
         }
       ],
-      "views_label": "6.05K",
+      "views_label": "6.3K",
       "posted_at": "2026-09-14T03:44:03+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1547"
@@ -54,8 +54,8 @@
     {
       "id": "netblocks/1546",
       "author_name": "NetBlocks",
-      "author_photo_url": "https://cdn4.telesco.pe/file/i9BWD7Nm9ptFdwQgDRRieDVknqQW7vcnsyzafp5jIw8sO_493dGUtIihg9Ysgf6KIqvFvQEZUQrEXtL1qgNJSh_PqbVIFykIYIlz7hdVlcSDNsCIWGYqw5yxtKQ4e9GqpmbY1jqzpHaP9LrcDYEof_26JHueQk-Pm1aCZDrGczMNYtldZzGopuklk543_IdmRBkTX74o_vZvuV7jLP1KRwt3pOw-NS9tqcLljScaNnZ0e9ZTnzjs0zykO2f2Le7dDCf8bG3KnyKE0lAiQ1-4dBBJlR_qzbQWu5uXa9IsxVhVh8weNjTsNYdWOtqNc-EvEjRIzNNrsw0ZuhJOi_gd6g.jpg",
-      "author_photo_path": "channels/netblocks/media/accad7873c67185bb56891a0.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/uzR9YxNg3HqhOud2JUyojjrn4fRu7PIUNRmwLW3z61ywzB2z0LnIhKLS3VCL48QmEGvHWjj1ER17unJVnmH7L8nb4dzAyLrrf7UMlXt3P8o0BZaJ2v3-9ivmnAzBdut4JgoYl6ThXuV8AJbYiRn9EufELf2uOCI3HDblhbosM5vtDLdGvY476YcfmVAdn8nxRmFYJqfO6Sr58WcZJI9aNJmfb17WX50gKVMwVhtqe6TTc0kIAx0whR39UOGHvcC61OcSHJXtE6rA9t1ivYCw2DZHeoO93px0lU8EShsjOwCRu8k314f6-F5-6tQu8YpRza03rlcPr5xebDEKvRkodA.jpg",
+      "author_photo_path": "channels/netblocks/media/f6cc4d055f5d7ce130007523.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Network data show a decline in internet connectivity in parts of <a href=\"?q=%23Michigan\">#Michigan</a> including Detroit after severe storms bring down utility polls, leaving many residents cut off <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9389.png')\"><b>📉</b></i> <a href=\"?q=%23MIwx\">#MIwx</a>",
       "plain_text": "⚠️ Confirmed: Network data show a decline in internet connectivity in parts of #Michigan including Detroit after severe storms bring down utility polls, leaving many residents cut off 📉 #MIwx",
       "media": [
@@ -111,7 +111,7 @@
           "count": "1"
         }
       ],
-      "views_label": "14.8K",
+      "views_label": "15K",
       "posted_at": "2026-09-04T02:21:29+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1546"
@@ -119,8 +119,8 @@
     {
       "id": "netblocks/1545",
       "author_name": "NetBlocks",
-      "author_photo_url": "https://cdn4.telesco.pe/file/i9BWD7Nm9ptFdwQgDRRieDVknqQW7vcnsyzafp5jIw8sO_493dGUtIihg9Ysgf6KIqvFvQEZUQrEXtL1qgNJSh_PqbVIFykIYIlz7hdVlcSDNsCIWGYqw5yxtKQ4e9GqpmbY1jqzpHaP9LrcDYEof_26JHueQk-Pm1aCZDrGczMNYtldZzGopuklk543_IdmRBkTX74o_vZvuV7jLP1KRwt3pOw-NS9tqcLljScaNnZ0e9ZTnzjs0zykO2f2Le7dDCf8bG3KnyKE0lAiQ1-4dBBJlR_qzbQWu5uXa9IsxVhVh8weNjTsNYdWOtqNc-EvEjRIzNNrsw0ZuhJOi_gd6g.jpg",
-      "author_photo_path": "channels/netblocks/media/accad7873c67185bb56891a0.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/uzR9YxNg3HqhOud2JUyojjrn4fRu7PIUNRmwLW3z61ywzB2z0LnIhKLS3VCL48QmEGvHWjj1ER17unJVnmH7L8nb4dzAyLrrf7UMlXt3P8o0BZaJ2v3-9ivmnAzBdut4JgoYl6ThXuV8AJbYiRn9EufELf2uOCI3HDblhbosM5vtDLdGvY476YcfmVAdn8nxRmFYJqfO6Sr58WcZJI9aNJmfb17WX50gKVMwVhtqe6TTc0kIAx0whR39UOGHvcC61OcSHJXtE6rA9t1ivYCw2DZHeoO93px0lU8EShsjOwCRu8k314f6-F5-6tQu8YpRza03rlcPr5xebDEKvRkodA.jpg",
+      "author_photo_path": "channels/netblocks/media/f6cc4d055f5d7ce130007523.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: A power outage has knocked out internet connectivity across much of Donbas, Russian-occupied <a href=\"?q=%23Ukraine\">#Ukraine</a>; the losses in service are attributed to Ukrainian UAV attacks targeting a thermal power plant in Luhansk Oblast <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948C.png')\"><b>🔌</b></i>",
       "plain_text": "⚠️ Confirmed: A power outage has knocked out internet connectivity across much of Donbas, Russian-occupied #Ukraine; the losses in service are attributed to Ukrainian UAV attacks targeting a thermal power plant in Luhansk Oblast 🔌",
       "media": [
@@ -168,7 +168,7 @@
           "count": "1"
         }
       ],
-      "views_label": "22.6K",
+      "views_label": "22.7K",
       "posted_at": "2026-08-27T23:45:52+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1545"
@@ -176,8 +176,8 @@
     {
       "id": "netblocks/1544",
       "author_name": "NetBlocks",
-      "author_photo_url": "https://cdn4.telesco.pe/file/i9BWD7Nm9ptFdwQgDRRieDVknqQW7vcnsyzafp5jIw8sO_493dGUtIihg9Ysgf6KIqvFvQEZUQrEXtL1qgNJSh_PqbVIFykIYIlz7hdVlcSDNsCIWGYqw5yxtKQ4e9GqpmbY1jqzpHaP9LrcDYEof_26JHueQk-Pm1aCZDrGczMNYtldZzGopuklk543_IdmRBkTX74o_vZvuV7jLP1KRwt3pOw-NS9tqcLljScaNnZ0e9ZTnzjs0zykO2f2Le7dDCf8bG3KnyKE0lAiQ1-4dBBJlR_qzbQWu5uXa9IsxVhVh8weNjTsNYdWOtqNc-EvEjRIzNNrsw0ZuhJOi_gd6g.jpg",
-      "author_photo_path": "channels/netblocks/media/accad7873c67185bb56891a0.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/uzR9YxNg3HqhOud2JUyojjrn4fRu7PIUNRmwLW3z61ywzB2z0LnIhKLS3VCL48QmEGvHWjj1ER17unJVnmH7L8nb4dzAyLrrf7UMlXt3P8o0BZaJ2v3-9ivmnAzBdut4JgoYl6ThXuV8AJbYiRn9EufELf2uOCI3HDblhbosM5vtDLdGvY476YcfmVAdn8nxRmFYJqfO6Sr58WcZJI9aNJmfb17WX50gKVMwVhtqe6TTc0kIAx0whR39UOGHvcC61OcSHJXtE6rA9t1ivYCw2DZHeoO93px0lU8EShsjOwCRu8k314f6-F5-6tQu8YpRza03rlcPr5xebDEKvRkodA.jpg",
+      "author_photo_path": "channels/netblocks/media/f6cc4d055f5d7ce130007523.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Metrics show a sudden decline in internet connectivity across Russian-controlled Crimea with high impact to Sevastopol and Simferopol corresponding to a power blackout after overnight Ukrainian drone attacks targeting energy infrastructure <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948C.png')\"><b>🔌</b></i>",
       "plain_text": "⚠️ Confirmed: Metrics show a sudden decline in internet connectivity across Russian-controlled Crimea with high impact to Sevastopol and Simferopol corresponding to a power blackout after overnight Ukrainian drone attacks targeting energy infrastructure 🔌",
       "media": [
@@ -221,7 +221,7 @@
           "count": "5"
         }
       ],
-      "views_label": "29.7K",
+      "views_label": "29.8K",
       "posted_at": "2026-08-20T02:45:31+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1544"
@@ -229,8 +229,8 @@
     {
       "id": "netblocks/1543",
       "author_name": "NetBlocks",
-      "author_photo_url": "https://cdn4.telesco.pe/file/i9BWD7Nm9ptFdwQgDRRieDVknqQW7vcnsyzafp5jIw8sO_493dGUtIihg9Ysgf6KIqvFvQEZUQrEXtL1qgNJSh_PqbVIFykIYIlz7hdVlcSDNsCIWGYqw5yxtKQ4e9GqpmbY1jqzpHaP9LrcDYEof_26JHueQk-Pm1aCZDrGczMNYtldZzGopuklk543_IdmRBkTX74o_vZvuV7jLP1KRwt3pOw-NS9tqcLljScaNnZ0e9ZTnzjs0zykO2f2Le7dDCf8bG3KnyKE0lAiQ1-4dBBJlR_qzbQWu5uXa9IsxVhVh8weNjTsNYdWOtqNc-EvEjRIzNNrsw0ZuhJOi_gd6g.jpg",
-      "author_photo_path": "channels/netblocks/media/accad7873c67185bb56891a0.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/uzR9YxNg3HqhOud2JUyojjrn4fRu7PIUNRmwLW3z61ywzB2z0LnIhKLS3VCL48QmEGvHWjj1ER17unJVnmH7L8nb4dzAyLrrf7UMlXt3P8o0BZaJ2v3-9ivmnAzBdut4JgoYl6ThXuV8AJbYiRn9EufELf2uOCI3HDblhbosM5vtDLdGvY476YcfmVAdn8nxRmFYJqfO6Sr58WcZJI9aNJmfb17WX50gKVMwVhtqe6TTc0kIAx0whR39UOGHvcC61OcSHJXtE6rA9t1ivYCw2DZHeoO93px0lU8EShsjOwCRu8k314f6-F5-6tQu8YpRza03rlcPr5xebDEKvRkodA.jpg",
+      "author_photo_path": "channels/netblocks/media/f6cc4d055f5d7ce130007523.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Live metrics show a significant decline in internet connectivity in parts of #Hawaii including Hilo as Hurricane Lala batters the Big Island, corresponding to widespread power outages due to torrential rains and a heavy storm surge.",
       "plain_text": "⚠️ Confirmed: Live metrics show a significant decline in internet connectivity in parts of #Hawaii including Hilo as Hurricane Lala batters the Big Island, corresponding to widespread power outages due to torrential rains and a heavy storm surge.",
       "media": [
@@ -238,8 +238,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/netblocks/1543",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/NF55OXsuSk0ElkPI-swR_gfuVl3G7s1UNgdrfngVSSCkUQAZfh9tqbyKuiijcWWwFKdznPpFWpJ34QqevDQuUkV4ORtL0XR4oVrlXxN4YFflYqw9EHnt-FZnyo82DAHn9olYsi4d3Kv74j_tr3DY_-th7yiApGcAW-sifqUPctRNBhb5WAPA0wxYrSnvtai9EHYmnq68GrTw1Byab9VO9LtGi_aTdBa7OmO_yAL61REtOAJ8uRturOf0EU-DvRL1YGjDU8h73H9DBOAO7VRkJJBm3fa6nBIeUKmg1FR1FFl0jQrkh67EnKbiFipS00srjO3yYLMBV5VUP_BWSWFhag.jpg",
-          "thumbnail_path": "channels/netblocks/media/6034724727d215cbb8a831ed.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ooEELFdLh9R3MUq3Fq8v0g3InstFN3txkDPIqtfpXgUksxwzZ3_48Y8TmkbL22V9ZH2z8Bbz18y69oP3K-uAzj6KhTPt_iQgkG-WX9KJsyV-hi0c7bKLjaQlPpyo4BPkucNRwSiftFuZLrK1KwN_3bhE34u-GiluwU33nWeNpFDmsZ-l3S8FP_JrPtJzvof2zV4PkFhi48VFl1tKjYpHVRPZEQXEbGcSzKGPW3bYTSkHI6hejZQXJ75wezdXRkHAw6S-UGlIEuMp_Gdd7ettGFpjuZz1J0sf8_1qNI9belCWomVLYkCKUAr7o-XFLLny3PA86pLCIOqVJmtIOr6Kvw.jpg",
+          "thumbnail_path": "channels/netblocks/media/c1ab5b65b7eba9d8c28b1128.jpg",
           "duration_label": null,
           "aspect_ratio": 1.7777777777777777
         }
@@ -274,7 +274,7 @@
           "count": "2"
         }
       ],
-      "views_label": "28.8K",
+      "views_label": "28.9K",
       "posted_at": "2026-08-16T20:09:11+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1543"
@@ -282,8 +282,8 @@
     {
       "id": "netblocks/1542",
       "author_name": "NetBlocks",
-      "author_photo_url": "https://cdn4.telesco.pe/file/i9BWD7Nm9ptFdwQgDRRieDVknqQW7vcnsyzafp5jIw8sO_493dGUtIihg9Ysgf6KIqvFvQEZUQrEXtL1qgNJSh_PqbVIFykIYIlz7hdVlcSDNsCIWGYqw5yxtKQ4e9GqpmbY1jqzpHaP9LrcDYEof_26JHueQk-Pm1aCZDrGczMNYtldZzGopuklk543_IdmRBkTX74o_vZvuV7jLP1KRwt3pOw-NS9tqcLljScaNnZ0e9ZTnzjs0zykO2f2Le7dDCf8bG3KnyKE0lAiQ1-4dBBJlR_qzbQWu5uXa9IsxVhVh8weNjTsNYdWOtqNc-EvEjRIzNNrsw0ZuhJOi_gd6g.jpg",
-      "author_photo_path": "channels/netblocks/media/accad7873c67185bb56891a0.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/uzR9YxNg3HqhOud2JUyojjrn4fRu7PIUNRmwLW3z61ywzB2z0LnIhKLS3VCL48QmEGvHWjj1ER17unJVnmH7L8nb4dzAyLrrf7UMlXt3P8o0BZaJ2v3-9ivmnAzBdut4JgoYl6ThXuV8AJbYiRn9EufELf2uOCI3HDblhbosM5vtDLdGvY476YcfmVAdn8nxRmFYJqfO6Sr58WcZJI9aNJmfb17WX50gKVMwVhtqe6TTc0kIAx0whR39UOGHvcC61OcSHJXtE6rA9t1ivYCw2DZHeoO93px0lU8EShsjOwCRu8k314f6-F5-6tQu8YpRza03rlcPr5xebDEKvRkodA.jpg",
+      "author_photo_path": "channels/netblocks/media/f6cc4d055f5d7ce130007523.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Live metrics show a significant decline in internet connectivity in parts of <a href=\"?q=%23Hawaii\">#Hawaii</a> including Hilo as Hurricane Lala batters the Big Island, corresponding to widespread power outages due to torrential rains and a heavy storm surge.",
       "plain_text": "⚠️ Confirmed: Live metrics show a significant decline in internet connectivity in parts of #Hawaii including Hilo as Hurricane Lala batters the Big Island, corresponding to widespread power outages due to torrential rains and a heavy storm surge.",
       "media": [
@@ -335,8 +335,8 @@
     {
       "id": "netblocks/1541",
       "author_name": "NetBlocks",
-      "author_photo_url": "https://cdn4.telesco.pe/file/i9BWD7Nm9ptFdwQgDRRieDVknqQW7vcnsyzafp5jIw8sO_493dGUtIihg9Ysgf6KIqvFvQEZUQrEXtL1qgNJSh_PqbVIFykIYIlz7hdVlcSDNsCIWGYqw5yxtKQ4e9GqpmbY1jqzpHaP9LrcDYEof_26JHueQk-Pm1aCZDrGczMNYtldZzGopuklk543_IdmRBkTX74o_vZvuV7jLP1KRwt3pOw-NS9tqcLljScaNnZ0e9ZTnzjs0zykO2f2Le7dDCf8bG3KnyKE0lAiQ1-4dBBJlR_qzbQWu5uXa9IsxVhVh8weNjTsNYdWOtqNc-EvEjRIzNNrsw0ZuhJOi_gd6g.jpg",
-      "author_photo_path": "channels/netblocks/media/accad7873c67185bb56891a0.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/uzR9YxNg3HqhOud2JUyojjrn4fRu7PIUNRmwLW3z61ywzB2z0LnIhKLS3VCL48QmEGvHWjj1ER17unJVnmH7L8nb4dzAyLrrf7UMlXt3P8o0BZaJ2v3-9ivmnAzBdut4JgoYl6ThXuV8AJbYiRn9EufELf2uOCI3HDblhbosM5vtDLdGvY476YcfmVAdn8nxRmFYJqfO6Sr58WcZJI9aNJmfb17WX50gKVMwVhtqe6TTc0kIAx0whR39UOGHvcC61OcSHJXtE6rA9t1ivYCw2DZHeoO93px0lU8EShsjOwCRu8k314f6-F5-6tQu8YpRza03rlcPr5xebDEKvRkodA.jpg",
+      "author_photo_path": "channels/netblocks/media/f6cc4d055f5d7ce130007523.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Metrics show that popular web host and domain registrar #Namecheap is largely down, sending many websites and services offline. The company says it has been struck by both a DDoS attack and a power outage.",
       "plain_text": "⚠️ Confirmed: Metrics show that popular web host and domain registrar #Namecheap is largely down, sending many websites and services offline. The company says it has been struck by both a DDoS attack and a power outage.",
       "media": [
@@ -396,8 +396,8 @@
     {
       "id": "netblocks/1540",
       "author_name": "NetBlocks",
-      "author_photo_url": "https://cdn4.telesco.pe/file/i9BWD7Nm9ptFdwQgDRRieDVknqQW7vcnsyzafp5jIw8sO_493dGUtIihg9Ysgf6KIqvFvQEZUQrEXtL1qgNJSh_PqbVIFykIYIlz7hdVlcSDNsCIWGYqw5yxtKQ4e9GqpmbY1jqzpHaP9LrcDYEof_26JHueQk-Pm1aCZDrGczMNYtldZzGopuklk543_IdmRBkTX74o_vZvuV7jLP1KRwt3pOw-NS9tqcLljScaNnZ0e9ZTnzjs0zykO2f2Le7dDCf8bG3KnyKE0lAiQ1-4dBBJlR_qzbQWu5uXa9IsxVhVh8weNjTsNYdWOtqNc-EvEjRIzNNrsw0ZuhJOi_gd6g.jpg",
-      "author_photo_path": "channels/netblocks/media/accad7873c67185bb56891a0.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/uzR9YxNg3HqhOud2JUyojjrn4fRu7PIUNRmwLW3z61ywzB2z0LnIhKLS3VCL48QmEGvHWjj1ER17unJVnmH7L8nb4dzAyLrrf7UMlXt3P8o0BZaJ2v3-9ivmnAzBdut4JgoYl6ThXuV8AJbYiRn9EufELf2uOCI3HDblhbosM5vtDLdGvY476YcfmVAdn8nxRmFYJqfO6Sr58WcZJI9aNJmfb17WX50gKVMwVhtqe6TTc0kIAx0whR39UOGHvcC61OcSHJXtE6rA9t1ivYCw2DZHeoO93px0lU8EShsjOwCRu8k314f6-F5-6tQu8YpRza03rlcPr5xebDEKvRkodA.jpg",
+      "author_photo_path": "channels/netblocks/media/f6cc4d055f5d7ce130007523.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Metrics show that popular web host and domain registrar <a href=\"?q=%23Namecheap\">#Namecheap</a> is largely down, sending many websites and services offline. The company says it has been struck by both a DDoS attack and a power outage.",
       "plain_text": "⚠️ Confirmed: Metrics show that popular web host and domain registrar #Namecheap is largely down, sending many websites and services offline. The company says it has been struck by both a DDoS attack and a power outage.",
       "media": [
@@ -445,7 +445,7 @@
           "count": "2"
         }
       ],
-      "views_label": "20.6K",
+      "views_label": "20.7K",
       "posted_at": "2026-08-13T14:32:14+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1540"
@@ -453,8 +453,8 @@
     {
       "id": "netblocks/1539",
       "author_name": "NetBlocks",
-      "author_photo_url": "https://cdn4.telesco.pe/file/i9BWD7Nm9ptFdwQgDRRieDVknqQW7vcnsyzafp5jIw8sO_493dGUtIihg9Ysgf6KIqvFvQEZUQrEXtL1qgNJSh_PqbVIFykIYIlz7hdVlcSDNsCIWGYqw5yxtKQ4e9GqpmbY1jqzpHaP9LrcDYEof_26JHueQk-Pm1aCZDrGczMNYtldZzGopuklk543_IdmRBkTX74o_vZvuV7jLP1KRwt3pOw-NS9tqcLljScaNnZ0e9ZTnzjs0zykO2f2Le7dDCf8bG3KnyKE0lAiQ1-4dBBJlR_qzbQWu5uXa9IsxVhVh8weNjTsNYdWOtqNc-EvEjRIzNNrsw0ZuhJOi_gd6g.jpg",
-      "author_photo_path": "channels/netblocks/media/accad7873c67185bb56891a0.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/uzR9YxNg3HqhOud2JUyojjrn4fRu7PIUNRmwLW3z61ywzB2z0LnIhKLS3VCL48QmEGvHWjj1ER17unJVnmH7L8nb4dzAyLrrf7UMlXt3P8o0BZaJ2v3-9ivmnAzBdut4JgoYl6ThXuV8AJbYiRn9EufELf2uOCI3HDblhbosM5vtDLdGvY476YcfmVAdn8nxRmFYJqfO6Sr58WcZJI9aNJmfb17WX50gKVMwVhtqe6TTc0kIAx0whR39UOGHvcC61OcSHJXtE6rA9t1ivYCw2DZHeoO93px0lU8EShsjOwCRu8k314f6-F5-6tQu8YpRza03rlcPr5xebDEKvRkodA.jpg",
+      "author_photo_path": "channels/netblocks/media/f6cc4d055f5d7ce130007523.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Internet connectivity has been largely knocked out in Sevastopol, occupied Crimea, amid power outages caused by Ukrainian drone attacks targeting energy infrastructure. The incident is the latest in a series of intensifying blackouts <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948C.png')\"><b>🔌</b></i>",
       "plain_text": "⚠️ Confirmed: Internet connectivity has been largely knocked out in Sevastopol, occupied Crimea, amid power outages caused by Ukrainian drone attacks targeting energy infrastructure. The incident is the latest in a series of intensifying blackouts 🔌",
       "media": [
@@ -514,7 +514,7 @@
           "count": "1"
         }
       ],
-      "views_label": "21.2K",
+      "views_label": "21.3K",
       "posted_at": "2026-08-13T02:36:45+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1539"
@@ -522,8 +522,8 @@
     {
       "id": "netblocks/1538",
       "author_name": "NetBlocks",
-      "author_photo_url": "https://cdn4.telesco.pe/file/i9BWD7Nm9ptFdwQgDRRieDVknqQW7vcnsyzafp5jIw8sO_493dGUtIihg9Ysgf6KIqvFvQEZUQrEXtL1qgNJSh_PqbVIFykIYIlz7hdVlcSDNsCIWGYqw5yxtKQ4e9GqpmbY1jqzpHaP9LrcDYEof_26JHueQk-Pm1aCZDrGczMNYtldZzGopuklk543_IdmRBkTX74o_vZvuV7jLP1KRwt3pOw-NS9tqcLljScaNnZ0e9ZTnzjs0zykO2f2Le7dDCf8bG3KnyKE0lAiQ1-4dBBJlR_qzbQWu5uXa9IsxVhVh8weNjTsNYdWOtqNc-EvEjRIzNNrsw0ZuhJOi_gd6g.jpg",
-      "author_photo_path": "channels/netblocks/media/accad7873c67185bb56891a0.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/uzR9YxNg3HqhOud2JUyojjrn4fRu7PIUNRmwLW3z61ywzB2z0LnIhKLS3VCL48QmEGvHWjj1ER17unJVnmH7L8nb4dzAyLrrf7UMlXt3P8o0BZaJ2v3-9ivmnAzBdut4JgoYl6ThXuV8AJbYiRn9EufELf2uOCI3HDblhbosM5vtDLdGvY476YcfmVAdn8nxRmFYJqfO6Sr58WcZJI9aNJmfb17WX50gKVMwVhtqe6TTc0kIAx0whR39UOGHvcC61OcSHJXtE6rA9t1ivYCw2DZHeoO93px0lU8EShsjOwCRu8k314f6-F5-6tQu8YpRza03rlcPr5xebDEKvRkodA.jpg",
+      "author_photo_path": "channels/netblocks/media/f6cc4d055f5d7ce130007523.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Metrics show a significant decline in internet connectivity in northwest Indiana as heavy storms brings down power and telecoms lines, knocking hundreds of thousands of subscribers in the Midwest offline <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948C.png')\"><b>🔌</b></i> <a href=\"?q=%23INwx\">#INwx</a>",
       "plain_text": "⚠️ Confirmed: Metrics show a significant decline in internet connectivity in northwest Indiana as heavy storms brings down power and telecoms lines, knocking hundreds of thousands of subscribers in the Midwest offline 🔌 #INwx",
       "media": [
@@ -531,8 +531,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/netblocks/1538",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Ieef3fBo5cdOJ82F1RYgWuxeXxExMGOmxIf3RY7MwTwG75XmqyNp6UaL0fIeVC-eCcV83jAWWcquI2jHvqEuqKfPjmviHdrABEGkrVVH1HQeR5mQ7pWd6Jc73p8hHNeQ3zmke-xIEKTqlPvDh4lDfEk_RkcyoouttJ9-QLKu0uhaDpSTQOVEtnv900gvglmvQQfcnBbe-Xw78rsPdtA-bUklEgIp6_xB_r_N72v2VNoSyoq9tZPprTQu0Grwqe8iNcbSH_vbnYNuUE5nl_VoLDIjeGG0yMAFP05VUyIBqowhLXe1DSLagW9gyaefAk7dkTjtxPwJY0VYljRE7aew3g.jpg",
-          "thumbnail_path": "channels/netblocks/media/ab4bc1fe2b3bd150423ee6f7.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/DQcqGolqDeUAcHmEwWctiM_q4rGOnqhtItSj333FmR87hoWH_Kk1siY1gKn5c-TwJAittPiR17cpxJgWgtwvlUmAwg0GnmkHLJoy4uJHSObaMnqsrp5xsaH5zO6iALIXXoKFac6ZaRVJqvlK_Wq2jly1ZIasTuQPQvyOd5u2k4BF-_HfWw4lDaTgUSys0JCa2p1QEhL1QnaBW4rdXovLStZLSA5tQkNIt8YfKGApljJOOZJ7D7hrxC8FXRCf1rA7TTIAWZNdmKambj3U0hnWEk99zcdwgxwXh0p8GzQWY4X2Ls5TvtONxeeTZnLuJ8y8w3dFNeUrLNKQNcZM-TGAgg.jpg",
+          "thumbnail_path": "channels/netblocks/media/bc3bc3d035ce575e6ff57383.jpg",
           "duration_label": null,
           "aspect_ratio": 1.7777777777777777
         }
@@ -571,7 +571,7 @@
           "count": "1"
         }
       ],
-      "views_label": "23.3K",
+      "views_label": "23.4K",
       "posted_at": "2026-08-11T19:57:41+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1538"
@@ -579,8 +579,8 @@
     {
       "id": "netblocks/1537",
       "author_name": "NetBlocks",
-      "author_photo_url": "https://cdn4.telesco.pe/file/i9BWD7Nm9ptFdwQgDRRieDVknqQW7vcnsyzafp5jIw8sO_493dGUtIihg9Ysgf6KIqvFvQEZUQrEXtL1qgNJSh_PqbVIFykIYIlz7hdVlcSDNsCIWGYqw5yxtKQ4e9GqpmbY1jqzpHaP9LrcDYEof_26JHueQk-Pm1aCZDrGczMNYtldZzGopuklk543_IdmRBkTX74o_vZvuV7jLP1KRwt3pOw-NS9tqcLljScaNnZ0e9ZTnzjs0zykO2f2Le7dDCf8bG3KnyKE0lAiQ1-4dBBJlR_qzbQWu5uXa9IsxVhVh8weNjTsNYdWOtqNc-EvEjRIzNNrsw0ZuhJOi_gd6g.jpg",
-      "author_photo_path": "channels/netblocks/media/accad7873c67185bb56891a0.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/uzR9YxNg3HqhOud2JUyojjrn4fRu7PIUNRmwLW3z61ywzB2z0LnIhKLS3VCL48QmEGvHWjj1ER17unJVnmH7L8nb4dzAyLrrf7UMlXt3P8o0BZaJ2v3-9ivmnAzBdut4JgoYl6ThXuV8AJbYiRn9EufELf2uOCI3HDblhbosM5vtDLdGvY476YcfmVAdn8nxRmFYJqfO6Sr58WcZJI9aNJmfb17WX50gKVMwVhtqe6TTc0kIAx0whR39UOGHvcC61OcSHJXtE6rA9t1ivYCw2DZHeoO93px0lU8EShsjOwCRu8k314f6-F5-6tQu8YpRza03rlcPr5xebDEKvRkodA.jpg",
+      "author_photo_path": "channels/netblocks/media/f6cc4d055f5d7ce130007523.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Network data show disruptions to internet connectivity in parts of western <a href=\"?q=%23Colombia\">#Colombia</a> corresponding to infrastructure outages after a ~7.4 magnitude earthquake",
       "plain_text": "⚠️ Confirmed: Network data show disruptions to internet connectivity in parts of western #Colombia corresponding to infrastructure outages after a ~7.4 magnitude earthquake",
       "media": [
@@ -640,7 +640,7 @@
           "count": "1"
         }
       ],
-      "views_label": "39.9K",
+      "views_label": "40K",
       "posted_at": "2026-08-10T14:26:20+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1537"
@@ -648,8 +648,8 @@
     {
       "id": "netblocks/1536",
       "author_name": "NetBlocks",
-      "author_photo_url": "https://cdn4.telesco.pe/file/i9BWD7Nm9ptFdwQgDRRieDVknqQW7vcnsyzafp5jIw8sO_493dGUtIihg9Ysgf6KIqvFvQEZUQrEXtL1qgNJSh_PqbVIFykIYIlz7hdVlcSDNsCIWGYqw5yxtKQ4e9GqpmbY1jqzpHaP9LrcDYEof_26JHueQk-Pm1aCZDrGczMNYtldZzGopuklk543_IdmRBkTX74o_vZvuV7jLP1KRwt3pOw-NS9tqcLljScaNnZ0e9ZTnzjs0zykO2f2Le7dDCf8bG3KnyKE0lAiQ1-4dBBJlR_qzbQWu5uXa9IsxVhVh8weNjTsNYdWOtqNc-EvEjRIzNNrsw0ZuhJOi_gd6g.jpg",
-      "author_photo_path": "channels/netblocks/media/accad7873c67185bb56891a0.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/uzR9YxNg3HqhOud2JUyojjrn4fRu7PIUNRmwLW3z61ywzB2z0LnIhKLS3VCL48QmEGvHWjj1ER17unJVnmH7L8nb4dzAyLrrf7UMlXt3P8o0BZaJ2v3-9ivmnAzBdut4JgoYl6ThXuV8AJbYiRn9EufELf2uOCI3HDblhbosM5vtDLdGvY476YcfmVAdn8nxRmFYJqfO6Sr58WcZJI9aNJmfb17WX50gKVMwVhtqe6TTc0kIAx0whR39UOGHvcC61OcSHJXtE6rA9t1ivYCw2DZHeoO93px0lU8EShsjOwCRu8k314f6-F5-6tQu8YpRza03rlcPr5xebDEKvRkodA.jpg",
+      "author_photo_path": "channels/netblocks/media/f6cc4d055f5d7ce130007523.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Metrics show a major disruption to internet connectivity in Odesa, <a href=\"?q=%23Ukraine\">#Ukraine</a>, corresponding to power outages after Russian missile and drone attacks target energy infrastructure in one of the year’s largest bombardments on the seaport city to date <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9389.png')\"><b>📉</b></i>",
       "plain_text": "⚠️ Confirmed: Metrics show a major disruption to internet connectivity in Odesa, #Ukraine, corresponding to power outages after Russian missile and drone attacks target energy infrastructure in one of the year’s largest bombardments on the seaport city to date 📉",
       "media": [
@@ -713,8 +713,8 @@
     {
       "id": "netblocks/1535",
       "author_name": "NetBlocks",
-      "author_photo_url": "https://cdn4.telesco.pe/file/i9BWD7Nm9ptFdwQgDRRieDVknqQW7vcnsyzafp5jIw8sO_493dGUtIihg9Ysgf6KIqvFvQEZUQrEXtL1qgNJSh_PqbVIFykIYIlz7hdVlcSDNsCIWGYqw5yxtKQ4e9GqpmbY1jqzpHaP9LrcDYEof_26JHueQk-Pm1aCZDrGczMNYtldZzGopuklk543_IdmRBkTX74o_vZvuV7jLP1KRwt3pOw-NS9tqcLljScaNnZ0e9ZTnzjs0zykO2f2Le7dDCf8bG3KnyKE0lAiQ1-4dBBJlR_qzbQWu5uXa9IsxVhVh8weNjTsNYdWOtqNc-EvEjRIzNNrsw0ZuhJOi_gd6g.jpg",
-      "author_photo_path": "channels/netblocks/media/accad7873c67185bb56891a0.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/uzR9YxNg3HqhOud2JUyojjrn4fRu7PIUNRmwLW3z61ywzB2z0LnIhKLS3VCL48QmEGvHWjj1ER17unJVnmH7L8nb4dzAyLrrf7UMlXt3P8o0BZaJ2v3-9ivmnAzBdut4JgoYl6ThXuV8AJbYiRn9EufELf2uOCI3HDblhbosM5vtDLdGvY476YcfmVAdn8nxRmFYJqfO6Sr58WcZJI9aNJmfb17WX50gKVMwVhtqe6TTc0kIAx0whR39UOGHvcC61OcSHJXtE6rA9t1ivYCw2DZHeoO93px0lU8EShsjOwCRu8k314f6-F5-6tQu8YpRza03rlcPr5xebDEKvRkodA.jpg",
+      "author_photo_path": "channels/netblocks/media/f6cc4d055f5d7ce130007523.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: <a href=\"?q=%23Georgia\">#Georgia</a> has experienced the third in a series of nation-scale internet disruptions corresponding to power grid blackouts.<br><br>Authorities say today's incident was triggered by tests intended to diagnose Enguri HPP systems responsible for the earlier two outages.",
       "plain_text": "⚠️ Confirmed: #Georgia has experienced the third in a series of nation-scale internet disruptions corresponding to power grid blackouts. Authorities say today's incident was triggered by tests intended to diagnose Enguri HPP systems responsible for the earlier two outages.",
       "media": [
@@ -722,8 +722,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/netblocks/1535",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/FD2-rvqw-TC4nDRAit-PmmD2OGjBbeWNjnB3ClyGqfhie0AgsPrxVF3ePPp88X-9uNcovxfUfcWb61KmKYyntUSbRGrZw0Ex8AWAuQTckoYmIYrf2tXiejBsnPp-sVCWmNYxS0qxZzVpWNkUrtBfqlat2ktTd24JHTKlfA-l90WjgsaR6qDmP8y0o1J4VJfwsjK0iyyOzUNTEzjGG4IlCjDqUAlAn3r9Ug4EH6ZFHRfoiMxBfHaRVxVsTWeOt2_QHKlVvgks6YbVHqQ8xLwYjaN9qKW9CRWk8zwSSEX4lh0YCdFjtemFfBnRxEOFSvXHMVkbhAZqIwGi5zdI5V57-g.jpg",
-          "thumbnail_path": "channels/netblocks/media/6b34a6beacbeaa864c467198.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/UziMzf7uPrczQ6qWWDDW2d3sRZ-KKXHsCrVceL9IAtnJy9LiXE8epkfzzVpYyebMHxpZQe10GoJB3U4EjxnDGbec3-oQPVgJrIRHT5luB5wmxGsekzCWkkZvIY9pC8A3Dyd5_Gk44LWqFb6cyOy89tfaPgG2VU0Idi-zv_w8xzZPC0w8g05u_omnIQ-G5in5RT0pLd7EW1TCL1FIZaUPozeA0JZt18vYD3yjnSNsFR_6YQAWVsw-04vkIXTAOT6f48UqDSph5pIfd9lEtApGdcPosQsDtOc9BptJz5kjoI9JZQxkfVuGWhJepukhQowFrjr25OiXjeUltiFllW2jzg.jpg",
+          "thumbnail_path": "channels/netblocks/media/62bc136758cfa2661200a911.jpg",
           "duration_label": null,
           "aspect_ratio": 1.7777777777777777
         }
@@ -766,7 +766,7 @@
           "count": "1"
         }
       ],
-      "views_label": "29.2K",
+      "views_label": "29.3K",
       "posted_at": "2026-08-05T20:28:11+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1535"
@@ -774,8 +774,8 @@
     {
       "id": "netblocks/1534",
       "author_name": "NetBlocks",
-      "author_photo_url": "https://cdn4.telesco.pe/file/i9BWD7Nm9ptFdwQgDRRieDVknqQW7vcnsyzafp5jIw8sO_493dGUtIihg9Ysgf6KIqvFvQEZUQrEXtL1qgNJSh_PqbVIFykIYIlz7hdVlcSDNsCIWGYqw5yxtKQ4e9GqpmbY1jqzpHaP9LrcDYEof_26JHueQk-Pm1aCZDrGczMNYtldZzGopuklk543_IdmRBkTX74o_vZvuV7jLP1KRwt3pOw-NS9tqcLljScaNnZ0e9ZTnzjs0zykO2f2Le7dDCf8bG3KnyKE0lAiQ1-4dBBJlR_qzbQWu5uXa9IsxVhVh8weNjTsNYdWOtqNc-EvEjRIzNNrsw0ZuhJOi_gd6g.jpg",
-      "author_photo_path": "channels/netblocks/media/accad7873c67185bb56891a0.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/uzR9YxNg3HqhOud2JUyojjrn4fRu7PIUNRmwLW3z61ywzB2z0LnIhKLS3VCL48QmEGvHWjj1ER17unJVnmH7L8nb4dzAyLrrf7UMlXt3P8o0BZaJ2v3-9ivmnAzBdut4JgoYl6ThXuV8AJbYiRn9EufELf2uOCI3HDblhbosM5vtDLdGvY476YcfmVAdn8nxRmFYJqfO6Sr58WcZJI9aNJmfb17WX50gKVMwVhtqe6TTc0kIAx0whR39UOGHvcC61OcSHJXtE6rA9t1ivYCw2DZHeoO93px0lU8EShsjOwCRu8k314f6-F5-6tQu8YpRza03rlcPr5xebDEKvRkodA.jpg",
+      "author_photo_path": "channels/netblocks/media/f6cc4d055f5d7ce130007523.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Analysis of network data indicates a significant decline in internet traffic in <a href=\"?q=%23Cuba\">#Cuba</a> corresponding to reports of a national power blackout. The incident comes amid continuing fuel shortages <a href=\"?q=%23apag%C3%B3n\">#apagón</a>",
       "plain_text": "⚠️ Confirmed: Analysis of network data indicates a significant decline in internet traffic in #Cuba corresponding to reports of a national power blackout. The incident comes amid continuing fuel shortages #apagón",
       "media": [
@@ -827,8 +827,8 @@
     {
       "id": "netblocks/1533",
       "author_name": "NetBlocks",
-      "author_photo_url": "https://cdn4.telesco.pe/file/i9BWD7Nm9ptFdwQgDRRieDVknqQW7vcnsyzafp5jIw8sO_493dGUtIihg9Ysgf6KIqvFvQEZUQrEXtL1qgNJSh_PqbVIFykIYIlz7hdVlcSDNsCIWGYqw5yxtKQ4e9GqpmbY1jqzpHaP9LrcDYEof_26JHueQk-Pm1aCZDrGczMNYtldZzGopuklk543_IdmRBkTX74o_vZvuV7jLP1KRwt3pOw-NS9tqcLljScaNnZ0e9ZTnzjs0zykO2f2Le7dDCf8bG3KnyKE0lAiQ1-4dBBJlR_qzbQWu5uXa9IsxVhVh8weNjTsNYdWOtqNc-EvEjRIzNNrsw0ZuhJOi_gd6g.jpg",
-      "author_photo_path": "channels/netblocks/media/accad7873c67185bb56891a0.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/uzR9YxNg3HqhOud2JUyojjrn4fRu7PIUNRmwLW3z61ywzB2z0LnIhKLS3VCL48QmEGvHWjj1ER17unJVnmH7L8nb4dzAyLrrf7UMlXt3P8o0BZaJ2v3-9ivmnAzBdut4JgoYl6ThXuV8AJbYiRn9EufELf2uOCI3HDblhbosM5vtDLdGvY476YcfmVAdn8nxRmFYJqfO6Sr58WcZJI9aNJmfb17WX50gKVMwVhtqe6TTc0kIAx0whR39UOGHvcC61OcSHJXtE6rA9t1ivYCw2DZHeoO93px0lU8EShsjOwCRu8k314f6-F5-6tQu8YpRza03rlcPr5xebDEKvRkodA.jpg",
+      "author_photo_path": "channels/netblocks/media/f6cc4d055f5d7ce130007523.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Live metrics show a gradual decline in internet connectivity in Spokane County, Washington corresponding to evacuations and emergency power shutdowns in areas affected by the Old Trails Fire, a rapidly moving wildfire <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A92.png')\"><b>🚒</b></i>",
       "plain_text": "⚠️ Confirmed: Live metrics show a gradual decline in internet connectivity in Spokane County, Washington corresponding to evacuations and emergency power shutdowns in areas affected by the Old Trails Fire, a rapidly moving wildfire 🚒",
       "media": [
@@ -836,8 +836,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/netblocks/1533",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/BwqUU3SWnQK-qn5hBXov4CEhVUyjMgYehN-cw6j4olkXokNE-5mzxPg6xs4K9OwSQXsGU4giUMP6wa2LmYlAHk-URW4bSy9steVg6ku2o_jDBcSYV88Bee9mUnSFAnPEMJUqPFbKjW0gFAJAa4Oy45HRLNBnrXG3ybAJfOPH2NXQjbUT3rwf6o2iw3kX-u4TS-XGhUfi-ojvb34X2s-gQyFWxPaQZzyDZ8jg3Ls2pweZNFpQc-2p17X-Bzf5TLFfdFbFj2dHFdp0EdWZE7Y33JM-SWd6vnCk5hwRq9CA5r7bC3nFfHmW_QUX2nSfsUtjbJ0feauyaDRcmI2JEEaTxw.jpg",
-          "thumbnail_path": "channels/netblocks/media/b8181581b12b946586f5457d.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/CGIGbiaH_9cvGSbyW1Btlop2XwJy7JTyq09tpa38IkIggv-zvFooyUphXLacWnJieOsQEe2KDm86sJb_BqyaHmgSE_npfmA2MQOsmGvBnxWrq1tRz1iy5zDXA0yuQaeDksT0K7m5ntyr5mByyHvrKGE7DaDWV0-UIku3GVVwo8N9DE-KojsbSqVA37hSeaAq2JyZWBRwdCOAGqXbWvJvX3UmEGH_uwpdxNYtyI6ag6GhwllGV9oY3dg43S4SIkuf1wt49zZqj2qVb77OuybmUd-ir0BrtqLvgQ_6haypkgNYF9F7aYXIminA08AeCpX-jWxjPZzyzw99sQDZEF5jpA.jpg",
+          "thumbnail_path": "channels/netblocks/media/07c1727209bd300625d74100.jpg",
           "duration_label": null,
           "aspect_ratio": 1.7777777777777777
         }
@@ -884,7 +884,7 @@
           "count": "2"
         }
       ],
-      "views_label": "35.8K",
+      "views_label": "35.9K",
       "posted_at": "2026-08-02T01:34:43+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1533"
@@ -892,8 +892,8 @@
     {
       "id": "netblocks/1532",
       "author_name": "NetBlocks",
-      "author_photo_url": "https://cdn4.telesco.pe/file/i9BWD7Nm9ptFdwQgDRRieDVknqQW7vcnsyzafp5jIw8sO_493dGUtIihg9Ysgf6KIqvFvQEZUQrEXtL1qgNJSh_PqbVIFykIYIlz7hdVlcSDNsCIWGYqw5yxtKQ4e9GqpmbY1jqzpHaP9LrcDYEof_26JHueQk-Pm1aCZDrGczMNYtldZzGopuklk543_IdmRBkTX74o_vZvuV7jLP1KRwt3pOw-NS9tqcLljScaNnZ0e9ZTnzjs0zykO2f2Le7dDCf8bG3KnyKE0lAiQ1-4dBBJlR_qzbQWu5uXa9IsxVhVh8weNjTsNYdWOtqNc-EvEjRIzNNrsw0ZuhJOi_gd6g.jpg",
-      "author_photo_path": "channels/netblocks/media/accad7873c67185bb56891a0.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/uzR9YxNg3HqhOud2JUyojjrn4fRu7PIUNRmwLW3z61ywzB2z0LnIhKLS3VCL48QmEGvHWjj1ER17unJVnmH7L8nb4dzAyLrrf7UMlXt3P8o0BZaJ2v3-9ivmnAzBdut4JgoYl6ThXuV8AJbYiRn9EufELf2uOCI3HDblhbosM5vtDLdGvY476YcfmVAdn8nxRmFYJqfO6Sr58WcZJI9aNJmfb17WX50gKVMwVhtqe6TTc0kIAx0whR39UOGHvcC61OcSHJXtE6rA9t1ivYCw2DZHeoO93px0lU8EShsjOwCRu8k314f6-F5-6tQu8YpRza03rlcPr5xebDEKvRkodA.jpg",
+      "author_photo_path": "channels/netblocks/media/f6cc4d055f5d7ce130007523.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Network data show that major internet provider TurkNet in <a href=\"?q=%23Turkey\">#Turkey</a> is currently experiencing a nation-scale outage, corroborating widespread user complaints; the company says engineers are working to restore service <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9389.png')\"><b>📉</b></i>",
       "plain_text": "⚠️ Confirmed: Network data show that major internet provider TurkNet in #Turkey is currently experiencing a nation-scale outage, corroborating widespread user complaints; the company says engineers are working to restore service 📉",
       "media": [
@@ -961,8 +961,8 @@
     {
       "id": "netblocks/1531",
       "author_name": "NetBlocks",
-      "author_photo_url": "https://cdn4.telesco.pe/file/i9BWD7Nm9ptFdwQgDRRieDVknqQW7vcnsyzafp5jIw8sO_493dGUtIihg9Ysgf6KIqvFvQEZUQrEXtL1qgNJSh_PqbVIFykIYIlz7hdVlcSDNsCIWGYqw5yxtKQ4e9GqpmbY1jqzpHaP9LrcDYEof_26JHueQk-Pm1aCZDrGczMNYtldZzGopuklk543_IdmRBkTX74o_vZvuV7jLP1KRwt3pOw-NS9tqcLljScaNnZ0e9ZTnzjs0zykO2f2Le7dDCf8bG3KnyKE0lAiQ1-4dBBJlR_qzbQWu5uXa9IsxVhVh8weNjTsNYdWOtqNc-EvEjRIzNNrsw0ZuhJOi_gd6g.jpg",
-      "author_photo_path": "channels/netblocks/media/accad7873c67185bb56891a0.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/uzR9YxNg3HqhOud2JUyojjrn4fRu7PIUNRmwLW3z61ywzB2z0LnIhKLS3VCL48QmEGvHWjj1ER17unJVnmH7L8nb4dzAyLrrf7UMlXt3P8o0BZaJ2v3-9ivmnAzBdut4JgoYl6ThXuV8AJbYiRn9EufELf2uOCI3HDblhbosM5vtDLdGvY476YcfmVAdn8nxRmFYJqfO6Sr58WcZJI9aNJmfb17WX50gKVMwVhtqe6TTc0kIAx0whR39UOGHvcC61OcSHJXtE6rA9t1ivYCw2DZHeoO93px0lU8EShsjOwCRu8k314f6-F5-6tQu8YpRza03rlcPr5xebDEKvRkodA.jpg",
+      "author_photo_path": "channels/netblocks/media/f6cc4d055f5d7ce130007523.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Metrics show a disruption to multiple social media platforms in Guinea corroborating user reports of difficulty accessing Facebook, YouTube and TikTok <a href=\"?q=%23Guin%C3%A9e\">#Guinée</a>",
       "plain_text": "⚠️ Confirmed: Metrics show a disruption to multiple social media platforms in Guinea corroborating user reports of difficulty accessing Facebook, YouTube and TikTok #Guinée",
       "media": [
@@ -1041,8 +1041,8 @@
     {
       "id": "netblocks/1529",
       "author_name": "NetBlocks",
-      "author_photo_url": "https://cdn4.telesco.pe/file/i9BWD7Nm9ptFdwQgDRRieDVknqQW7vcnsyzafp5jIw8sO_493dGUtIihg9Ysgf6KIqvFvQEZUQrEXtL1qgNJSh_PqbVIFykIYIlz7hdVlcSDNsCIWGYqw5yxtKQ4e9GqpmbY1jqzpHaP9LrcDYEof_26JHueQk-Pm1aCZDrGczMNYtldZzGopuklk543_IdmRBkTX74o_vZvuV7jLP1KRwt3pOw-NS9tqcLljScaNnZ0e9ZTnzjs0zykO2f2Le7dDCf8bG3KnyKE0lAiQ1-4dBBJlR_qzbQWu5uXa9IsxVhVh8weNjTsNYdWOtqNc-EvEjRIzNNrsw0ZuhJOi_gd6g.jpg",
-      "author_photo_path": "channels/netblocks/media/accad7873c67185bb56891a0.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/uzR9YxNg3HqhOud2JUyojjrn4fRu7PIUNRmwLW3z61ywzB2z0LnIhKLS3VCL48QmEGvHWjj1ER17unJVnmH7L8nb4dzAyLrrf7UMlXt3P8o0BZaJ2v3-9ivmnAzBdut4JgoYl6ThXuV8AJbYiRn9EufELf2uOCI3HDblhbosM5vtDLdGvY476YcfmVAdn8nxRmFYJqfO6Sr58WcZJI9aNJmfb17WX50gKVMwVhtqe6TTc0kIAx0whR39UOGHvcC61OcSHJXtE6rA9t1ivYCw2DZHeoO93px0lU8EShsjOwCRu8k314f6-F5-6tQu8YpRza03rlcPr5xebDEKvRkodA.jpg",
+      "author_photo_path": "channels/netblocks/media/f6cc4d055f5d7ce130007523.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Metrics show a significant disruption to internet connectivity in Sumy, <a href=\"?q=%23Ukraine\">#Ukraine</a> corresponding to power outages after overnight Russian attacks targeting energy infrastructure <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9389.png')\"><b>📉</b></i>",
       "plain_text": "⚠️ Confirmed: Metrics show a significant disruption to internet connectivity in Sumy, #Ukraine corresponding to power outages after overnight Russian attacks targeting energy infrastructure 📉",
       "media": [
@@ -1098,7 +1098,7 @@
           "count": "1"
         }
       ],
-      "views_label": "33.9K",
+      "views_label": "34K",
       "posted_at": "2026-07-30T08:23:18+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1529"
@@ -1106,8 +1106,8 @@
     {
       "id": "netblocks/1528",
       "author_name": "NetBlocks",
-      "author_photo_url": "https://cdn4.telesco.pe/file/i9BWD7Nm9ptFdwQgDRRieDVknqQW7vcnsyzafp5jIw8sO_493dGUtIihg9Ysgf6KIqvFvQEZUQrEXtL1qgNJSh_PqbVIFykIYIlz7hdVlcSDNsCIWGYqw5yxtKQ4e9GqpmbY1jqzpHaP9LrcDYEof_26JHueQk-Pm1aCZDrGczMNYtldZzGopuklk543_IdmRBkTX74o_vZvuV7jLP1KRwt3pOw-NS9tqcLljScaNnZ0e9ZTnzjs0zykO2f2Le7dDCf8bG3KnyKE0lAiQ1-4dBBJlR_qzbQWu5uXa9IsxVhVh8weNjTsNYdWOtqNc-EvEjRIzNNrsw0ZuhJOi_gd6g.jpg",
-      "author_photo_path": "channels/netblocks/media/accad7873c67185bb56891a0.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/uzR9YxNg3HqhOud2JUyojjrn4fRu7PIUNRmwLW3z61ywzB2z0LnIhKLS3VCL48QmEGvHWjj1ER17unJVnmH7L8nb4dzAyLrrf7UMlXt3P8o0BZaJ2v3-9ivmnAzBdut4JgoYl6ThXuV8AJbYiRn9EufELf2uOCI3HDblhbosM5vtDLdGvY476YcfmVAdn8nxRmFYJqfO6Sr58WcZJI9aNJmfb17WX50gKVMwVhtqe6TTc0kIAx0whR39UOGHvcC61OcSHJXtE6rA9t1ivYCw2DZHeoO93px0lU8EShsjOwCRu8k314f6-F5-6tQu8YpRza03rlcPr5xebDEKvRkodA.jpg",
+      "author_photo_path": "channels/netblocks/media/f6cc4d055f5d7ce130007523.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i>Confirmed: Metrics show a disruption to internet service in <a href=\"?q=%23Kenya\">#Kenya</a> with national connectivity at 69% of ordinary levels; the incident corresponds to a widespread power outage affecting parts of the country including Nairobi <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9389.png')\"><b>📉</b></i>",
       "plain_text": "⚠️Confirmed: Metrics show a disruption to internet service in #Kenya with national connectivity at 69% of ordinary levels; the incident corresponds to a widespread power outage affecting parts of the country including Nairobi 📉",
       "media": [
@@ -1163,8 +1163,8 @@
     {
       "id": "netblocks/1527",
       "author_name": "NetBlocks",
-      "author_photo_url": "https://cdn4.telesco.pe/file/i9BWD7Nm9ptFdwQgDRRieDVknqQW7vcnsyzafp5jIw8sO_493dGUtIihg9Ysgf6KIqvFvQEZUQrEXtL1qgNJSh_PqbVIFykIYIlz7hdVlcSDNsCIWGYqw5yxtKQ4e9GqpmbY1jqzpHaP9LrcDYEof_26JHueQk-Pm1aCZDrGczMNYtldZzGopuklk543_IdmRBkTX74o_vZvuV7jLP1KRwt3pOw-NS9tqcLljScaNnZ0e9ZTnzjs0zykO2f2Le7dDCf8bG3KnyKE0lAiQ1-4dBBJlR_qzbQWu5uXa9IsxVhVh8weNjTsNYdWOtqNc-EvEjRIzNNrsw0ZuhJOi_gd6g.jpg",
-      "author_photo_path": "channels/netblocks/media/accad7873c67185bb56891a0.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/uzR9YxNg3HqhOud2JUyojjrn4fRu7PIUNRmwLW3z61ywzB2z0LnIhKLS3VCL48QmEGvHWjj1ER17unJVnmH7L8nb4dzAyLrrf7UMlXt3P8o0BZaJ2v3-9ivmnAzBdut4JgoYl6ThXuV8AJbYiRn9EufELf2uOCI3HDblhbosM5vtDLdGvY476YcfmVAdn8nxRmFYJqfO6Sr58WcZJI9aNJmfb17WX50gKVMwVhtqe6TTc0kIAx0whR39UOGHvcC61OcSHJXtE6rA9t1ivYCw2DZHeoO93px0lU8EShsjOwCRu8k314f6-F5-6tQu8YpRza03rlcPr5xebDEKvRkodA.jpg",
+      "author_photo_path": "channels/netblocks/media/f6cc4d055f5d7ce130007523.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E284B9.png')\"><b>ℹ️</b></i> Note: Meta platforms including Instagram and Facebook are currently experiencing international outages; incident not related to country-level internet disruptions or filtering <a href=\"?q=%23InstagramDown\">#InstagramDown</a> <a href=\"?q=%23FacebookDown\">#FacebookDown</a>",
       "plain_text": "ℹ️ Note: Meta platforms including Instagram and Facebook are currently experiencing international outages; incident not related to country-level internet disruptions or filtering #InstagramDown #FacebookDown",
       "media": [
