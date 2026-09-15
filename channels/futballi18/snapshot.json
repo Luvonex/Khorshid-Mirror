@@ -1,20 +1,375 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-15T05:26:48.268Z",
+  "fetched_at": "2026-09-15T10:21:36.204Z",
   "channel": {
     "username": "futballi18",
     "title": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
     "description_html": "زندگی؟ نه ممنون فوتبال می‌بینم.",
-    "photo_url": "https://cdn4.telesco.pe/file/fYmGmSSdMEqgP9IlO6yzahHc7QiB4qdGODnWAHd-hS5zRC2YkNh2xv5EbCwhgwpPryKRj-1DYI5sERGWBo3TlASflHKkEV0WOP1-28N1mK5ZflPk7ATFyM_veMWpDF3Wo9cDp0uKY4yRVlxlTxHWydRU4Pg7r4hXJiip0lSzaei09ukm86YDbWnSWwk_3Y7VH0b8QkXztSljmHfyqJ0FVP_EMTAcVq1y2JFSpvGYLmVIgZZ0DO55L1MyR0YHprXCMrxyR6eV8y8l-FRHzTwUUC7Xz5ju8TzdbmtkmoahKqbsmuvY5zL3ZHwapww_nD5925XvvEzIyvt1EwvWBP3d0Q.jpg",
-    "photo_path": "channels/futballi18/media/dceb6795fd7cc70b45e2cfba.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/NTFRzpnVXKPZZN3R706K50Z4JbgjDYsNyCmI_8371K29cTNPAT1psN6feRwVYuORfK-U0y0rs9dwzbU6eKLG6z8v2cQ040FHFKcPNg1AMJSawN8SCFntN78uQegAZu_yWwFWJ0ytwBTu9Z-O0ZhyaCsAuxJGjs87cHGXNmUpaEviqbSc1UuL5gmECnrczFoxQ8LrzHizPV2FmxdiR1hKH0ji42RKSokUgCp8i2Ro7xeTlXQHZU_1THxYgXq4N5nczvZJzbhiUtO4o1RYcdYnvhQLn7IOyQqa0_hGa6tKKgRP_R5gJcJo409W_Msf4znrHnxt7y5zfzvWgBPoeA6zWg.jpg",
+    "photo_path": "channels/futballi18/media/3452d0689b4439f09c000354.jpg",
     "subscriber_count": "490K"
   },
   "posts": [
     {
+      "id": "FUTBALLI18/93305",
+      "author_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NTFRzpnVXKPZZN3R706K50Z4JbgjDYsNyCmI_8371K29cTNPAT1psN6feRwVYuORfK-U0y0rs9dwzbU6eKLG6z8v2cQ040FHFKcPNg1AMJSawN8SCFntN78uQegAZu_yWwFWJ0ytwBTu9Z-O0ZhyaCsAuxJGjs87cHGXNmUpaEviqbSc1UuL5gmECnrczFoxQ8LrzHizPV2FmxdiR1hKH0ji42RKSokUgCp8i2Ro7xeTlXQHZU_1THxYgXq4N5nczvZJzbhiUtO4o1RYcdYnvhQLn7IOyQqa0_hGa6tKKgRP_R5gJcJo409W_Msf4znrHnxt7y5zfzvWgBPoeA6zWg.jpg",
+      "author_photo_path": "channels/futballi18/media/3452d0689b4439f09c000354.jpg",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>خوزه فلیکس دیاز، خبرنگار اسپانیایی و یکی از رأی‌دهندگان توپ طلا:<br><br><a href=\"https://t.me/FUTBALLI18/93289\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>توپ طلا</b></a><b> یه جایزه فردیه، حتی اگه فوتبال یه ورزش تیمی باشه؛ برای همین، چیزی که بیشتر از همه اهمیت داره عملکرد فردی خودِ بازیکنه</b>.<br><br><a href=\"https://t.me/FUTBALLI18\" target=\"_blank\">@FUTBALLI18</a></div>",
+      "plain_text": "🔴خوزه فلیکس دیاز، خبرنگار اسپانیایی و یکی از رأی‌دهندگان توپ طلا: توپ طلا یه جایزه فردیه، حتی اگه فوتبال یه ورزش تیمی باشه؛ برای همین، چیزی که بیشتر از همه اهمیت داره عملکرد فردی خودِ بازیکنه. @FUTBALLI18",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/FUTBALLI18/93305?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn5.telesco.pe/file/vehYlw2SpfeHGtHyHrhUfvfQksxYvzSgPYy2XulTGK7kIYO77-COJqaJtXUChB8ANF9zMmaaGHxjALkvXPlhdpPvrL4Ue9uXqpgeDmzPIGafJ8vrT9WcfXOvOYBMunMtWPu4mzxsIkD71m6b2A7myawEBrSo8ZjuPlabNrlZdXUNRc2hB2I8IdDDGo6PlAQ33EK2Lr40esXEuVTj6Z-X73c6ZvRM3bpiki4HIuxnFqdY_g9TCeZ-rpml0OnbR3QKzFuQXvIGjbn7_eZYUN0oRdPXp2pGCIFrIL3k2jb4N1zT1-2UXzRZDKlTDlqmbSJPp8E_2FhPs-JzH8ye7K8UrQ.jpg",
+          "thumbnail_path": "channels/futballi18/media/493ba90c319428d3412775c2.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.74875
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/FUTBALLI18/93306?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn5.telesco.pe/file/sDtVjOIlJTAFphvbDOZC6Jpjil90lr0monjzQtHU0-HuKNJ7cT92NpRcmhwlBvDUhQLyND88KJsR8ApGsvRgI_imeDNMLuhpVC-1D6NYNzfQ2jUNkZabX27MM7gFMfrC1bHPFZ2Y7wIQiQ5nsXbLEg3mdhRIPFDFLA1CRJzKZUpLrOFo3wFDUhargAdsxdv7F50Q_LiFWrQq5-QR8-G2ewnmQKfr-IsLhaUuUSH_PK8P_QHEMuBU6UH31rF9HB90Ul4R-kFO7A3e5P6ANZPlR7mkbEouuYSln4w3az9FB4zfzEZmqdWT4d7mmqTrphmFF7C8uJSDT5OGOjSZS92RIQ.jpg",
+          "thumbnail_path": "channels/futballi18/media/e98282d1b74d07ab7d60a0a7.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "352"
+        },
+        {
+          "emoji": "👎",
+          "count": "47"
+        },
+        {
+          "emoji": "🤣",
+          "count": "25"
+        },
+        {
+          "emoji": "❤",
+          "count": "12"
+        },
+        {
+          "emoji": "🤨",
+          "count": "1"
+        }
+      ],
+      "views_label": "6.12K",
+      "posted_at": "2026-09-15T10:13:33+00:00",
+      "edited": false,
+      "permalink": "https://t.me/FUTBALLI18/93305"
+    },
+    {
+      "id": "FUTBALLI18/93304",
+      "author_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NTFRzpnVXKPZZN3R706K50Z4JbgjDYsNyCmI_8371K29cTNPAT1psN6feRwVYuORfK-U0y0rs9dwzbU6eKLG6z8v2cQ040FHFKcPNg1AMJSawN8SCFntN78uQegAZu_yWwFWJ0ytwBTu9Z-O0ZhyaCsAuxJGjs87cHGXNmUpaEviqbSc1UuL5gmECnrczFoxQ8LrzHizPV2FmxdiR1hKH0ji42RKSokUgCp8i2Ro7xeTlXQHZU_1THxYgXq4N5nczvZJzbhiUtO4o1RYcdYnvhQLn7IOyQqa0_hGa6tKKgRP_R5gJcJo409W_Msf4znrHnxt7y5zfzvWgBPoeA6zWg.jpg",
+      "author_photo_path": "channels/futballi18/media/3452d0689b4439f09c000354.jpg",
+      "body_html": "بالاخره چمپ به نیوکمپ برمی‌گرده<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i>",
+      "plain_text": "بالاخره چمپ به نیوکمپ برمی‌گرده🔥",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "1.39K"
+        },
+        {
+          "emoji": "🔥",
+          "count": "154"
+        },
+        {
+          "emoji": "🖕",
+          "count": "36"
+        },
+        {
+          "emoji": "👎",
+          "count": "5"
+        },
+        {
+          "emoji": "🏆",
+          "count": "4"
+        },
+        {
+          "emoji": "❤",
+          "count": "3"
+        },
+        {
+          "emoji": "🤷‍♂",
+          "count": "2"
+        },
+        {
+          "emoji": "😁",
+          "count": "2"
+        },
+        {
+          "emoji": "💔",
+          "count": "2"
+        },
+        {
+          "emoji": "🍌",
+          "count": "1"
+        },
+        {
+          "emoji": "😭",
+          "count": "1"
+        }
+      ],
+      "views_label": "14.3K",
+      "posted_at": "2026-09-15T09:55:00+00:00",
+      "edited": false,
+      "permalink": "https://t.me/FUTBALLI18/93304"
+    },
+    {
+      "id": "FUTBALLI18/93303",
+      "author_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NTFRzpnVXKPZZN3R706K50Z4JbgjDYsNyCmI_8371K29cTNPAT1psN6feRwVYuORfK-U0y0rs9dwzbU6eKLG6z8v2cQ040FHFKcPNg1AMJSawN8SCFntN78uQegAZu_yWwFWJ0ytwBTu9Z-O0ZhyaCsAuxJGjs87cHGXNmUpaEviqbSc1UuL5gmECnrczFoxQ8LrzHizPV2FmxdiR1hKH0ji42RKSokUgCp8i2Ro7xeTlXQHZU_1THxYgXq4N5nczvZJzbhiUtO4o1RYcdYnvhQLn7IOyQqa0_hGa6tKKgRP_R5gJcJo409W_Msf4znrHnxt7y5zfzvWgBPoeA6zWg.jpg",
+      "author_photo_path": "channels/futballi18/media/3452d0689b4439f09c000354.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5438463168458296496\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87B8.png')\"><b>🇪🇸</b></i></tg-emoji>رسمی :  اسپاتیفای نیوکمپ، استادیوم خونگی بارسلونا به عنوان میزبان چمپیونزلیگ 2029 انتخاب شد!  @FUTBALLI18",
+      "plain_text": "🇪🇸رسمی : اسپاتیفای نیوکمپ، استادیوم خونگی بارسلونا به عنوان میزبان چمپیونزلیگ 2029 انتخاب شد! @FUTBALLI18",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/FUTBALLI18/93303",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn5.telesco.pe/file/ShTKq2xL2diNqFecbwN4VNAgR4toeEYJDvBrWSbZMDkiMTDNc1Gy9s6MuSRKJZyb1w6C14dk3Az8a2LZnhcuqx-4zLyxNdFZsLZuI19HxDGBmyvSOZEEQJHsxSelTX2_JFWBcspHZO5UUoQzUnNhmAGiyPjwBMcG3pxBWa5sRX41wjED7iehgIchK6FpmP23U1yOVmAKo8vcQW_vyz4hlmyyTWHuCDyfqj2WT1A7UFWxPwavHD7GIR0hTOjLJaqLvge_rJe_ALqCQ9XbyXkPrPexYfhPjFrdeMG4xYpjjIHksXDbF26JigNWjLcGpSjppQmccoOHVC0m3U7bX-9jBQ.jpg",
+          "thumbnail_path": "channels/futballi18/media/395ea2b164986da45e238457.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.4999999999999925
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "528"
+        },
+        {
+          "emoji": "🔥",
+          "count": "91"
+        },
+        {
+          "emoji": "🤣",
+          "count": "16"
+        },
+        {
+          "emoji": "🤷‍♂",
+          "count": "10"
+        },
+        {
+          "emoji": "👍",
+          "count": "4"
+        },
+        {
+          "emoji": "👌",
+          "count": "1"
+        },
+        {
+          "emoji": "😭",
+          "count": "1"
+        }
+      ],
+      "views_label": "18.3K",
+      "posted_at": "2026-09-15T09:46:39+00:00",
+      "edited": false,
+      "permalink": "https://t.me/FUTBALLI18/93303"
+    },
+    {
+      "id": "FUTBALLI18/93302",
+      "author_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NTFRzpnVXKPZZN3R706K50Z4JbgjDYsNyCmI_8371K29cTNPAT1psN6feRwVYuORfK-U0y0rs9dwzbU6eKLG6z8v2cQ040FHFKcPNg1AMJSawN8SCFntN78uQegAZu_yWwFWJ0ytwBTu9Z-O0ZhyaCsAuxJGjs87cHGXNmUpaEviqbSc1UuL5gmECnrczFoxQ8LrzHizPV2FmxdiR1hKH0ji42RKSokUgCp8i2Ro7xeTlXQHZU_1THxYgXq4N5nczvZJzbhiUtO4o1RYcdYnvhQLn7IOyQqa0_hGa6tKKgRP_R5gJcJo409W_Msf4znrHnxt7y5zfzvWgBPoeA6zWg.jpg",
+      "author_photo_path": "channels/futballi18/media/3452d0689b4439f09c000354.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5438272652298979717\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87BA.png')\"><b>🇪🇺</b></i></tg-emoji><tg-emoji emoji-id=\"5438463168458296496\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87B8.png')\"><b>🇪🇸</b></i></tg-emoji>اسپاتیفای نیوکمپ شانس خیلی زیادی داره که میزبان فینال لیگ قهرمانان اروپا تو سال 2029 بشه!  @FUTBALLI18 | FCBRAC1",
+      "plain_text": "🇪🇺🇪🇸اسپاتیفای نیوکمپ شانس خیلی زیادی داره که میزبان فینال لیگ قهرمانان اروپا تو سال 2029 بشه! @FUTBALLI18 | FCBRAC1",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/FUTBALLI18/93302",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/HgpQtSYPG5Zs1UlO3CUdxn9ADhUbQFoUVsVue0GlnbKsk8LOsu2IVJSf2_BdQ668A-SGpRoPxh_-Az4Xw05QUbppxkz-wE3-5dQKvn_ta1qly9KN0yg6azhen4hR35GVwf3CKug1LnWHKV6sTHBbU8kw_3FhTKqaurpdpWFagoUYkXpJK_b3TcwA5dzxN9_ECRpuK0frdzikKNdoGccYLYEnVMLAVEuSi0EymImnRORXjjnkYu2K6WwrYNXcQG2i7kVnPdiMp0BBHGN7Ao9cQHIqG7fbfZzXbGCYZr_02cAn3CgN0F8sEyuBcjRksbU6LFvuHmjs7v-PTPHQn-zyvw.jpg",
+          "thumbnail_path": "channels/futballi18/media/054227c91c9bae59d2e4e45f.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "⭐",
+          "count": "1"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1.22K"
+        },
+        {
+          "emoji": "🤣",
+          "count": "181"
+        },
+        {
+          "emoji": "❤",
+          "count": "64"
+        },
+        {
+          "emoji": "👎",
+          "count": "6"
+        },
+        {
+          "emoji": "👍",
+          "count": "3"
+        },
+        {
+          "emoji": "🤷‍♂",
+          "count": "2"
+        }
+      ],
+      "views_label": "22.4K",
+      "posted_at": "2026-09-15T09:36:27+00:00",
+      "edited": false,
+      "permalink": "https://t.me/FUTBALLI18/93302"
+    },
+    {
+      "id": "FUTBALLI18/93300",
+      "author_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NTFRzpnVXKPZZN3R706K50Z4JbgjDYsNyCmI_8371K29cTNPAT1psN6feRwVYuORfK-U0y0rs9dwzbU6eKLG6z8v2cQ040FHFKcPNg1AMJSawN8SCFntN78uQegAZu_yWwFWJ0ytwBTu9Z-O0ZhyaCsAuxJGjs87cHGXNmUpaEviqbSc1UuL5gmECnrczFoxQ8LrzHizPV2FmxdiR1hKH0ji42RKSokUgCp8i2Ro7xeTlXQHZU_1THxYgXq4N5nczvZJzbhiUtO4o1RYcdYnvhQLn7IOyQqa0_hGa6tKKgRP_R5gJcJo409W_Msf4znrHnxt7y5zfzvWgBPoeA6zWg.jpg",
+      "author_photo_path": "channels/futballi18/media/3452d0689b4439f09c000354.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5438442896212653746\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8FB4F3A081A7F3A081A2F3A081A5F3A081AEF3A081A7F3A081BF.png')\"><b>🏴󠁧󠁢󠁥󠁮󠁧󠁿</b></i></tg-emoji>منچستریونایتد معتقده قیمت الخاندرو بالده بیش از حد بالاست؛ آخرین گفت‌وگوی طرفین هم روز یکشنبه انجام شده؛  ژرژ مندس تأکید کرده که یونایتد از تمام شرایط معامله باخبره، اما شیاطین سرخ فقط به جذب بالده به صورت قرضی علاقه دارن.  @FUTBALLI18 | رومانو<tg-emoji emoji-id=\"5438149073204976908\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AEF09F87B9.png')\"><b>🇮🇹</b></i></tg-emoji>",
+      "plain_text": "🏴󠁧󠁢󠁥󠁮󠁧󠁿منچستریونایتد معتقده قیمت الخاندرو بالده بیش از حد بالاست؛ آخرین گفت‌وگوی طرفین هم روز یکشنبه انجام شده؛ ژرژ مندس تأکید کرده که یونایتد از تمام شرایط معامله باخبره، اما شیاطین سرخ فقط به جذب بالده به صورت قرضی علاقه دارن. @FUTBALLI18 | رومانو🇮🇹",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/FUTBALLI18/93300?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn5.telesco.pe/file/jBtI7jOE7CE7zXhPOwT9RhBBVlXNxe3rpis8UctK-gXQbJTRMPPTisOV2t4qTLqrOf5_xrAWtLUFetHI7E4BVMzfbrh5W0c93bN4w0JxgW1g_RSMA4uHRxtMDVTSdc93TTsYXgNNXx0y3yoAjdKt43O3d8T43LoXS6gVmLd2e5WNx0wHDznxRKzz2Ncz0kJdQZjntsBoOHCQxAHmJHCaGZN2Fw3uJM-97JD8VlX2kuuy9A99ndljjOGyDlHYbu0TAKYdjLtlap0vJMe4j3kPm_WPe0ioxZ902zQFQYk56psVNoa3QWNyjq21SsbY7L9MRNuV8jPjSK3YMH9iCjqaRg.jpg",
+          "thumbnail_path": "channels/futballi18/media/8d86d417cc8caf4e055cf1ea.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/FUTBALLI18/93301?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn5.telesco.pe/file/TrtC4sMxgSFWn34eGuN_ihLvep3ungIlbIqAPpisO4ehGT3pBJZQF9lWOCGJfYn0XfUh-AUjQ2BTcj334NzYYVoIylGUQ9OhRw9mlHzapM21OOOKwjmgdKLHg8E3rA3OG8Addmup3o6v7PE6RjWZ86F8BpRQ26DIaAhRp6QlfEQOheplw6_ZAoTkYt11lbYro-LZ65Qg-meFzA4Dwo3nyXfCnIgPVuQJZMXWH4A7hBTLMYYiTxxtRdv_5KjAUpNQ7s77maTDIKgy6Nml21drFRhCDaupcWmIF5zNZg76Lm49YHUnvhg8N0SDvk-3CSp7oSPIDZ89sv898TQiwwCiZw.jpg",
+          "thumbnail_path": "channels/futballi18/media/cc4df0da6a3d16839eedd454.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.88
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "347"
+        },
+        {
+          "emoji": "🤣",
+          "count": "42"
+        },
+        {
+          "emoji": "🔥",
+          "count": "28"
+        },
+        {
+          "emoji": "👎",
+          "count": "23"
+        },
+        {
+          "emoji": "👍",
+          "count": "14"
+        },
+        {
+          "emoji": "💔",
+          "count": "9"
+        }
+      ],
+      "views_label": "24.4K",
+      "posted_at": "2026-09-15T09:23:50+00:00",
+      "edited": false,
+      "permalink": "https://t.me/FUTBALLI18/93300"
+    },
+    {
+      "id": "FUTBALLI18/93298",
+      "author_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NTFRzpnVXKPZZN3R706K50Z4JbgjDYsNyCmI_8371K29cTNPAT1psN6feRwVYuORfK-U0y0rs9dwzbU6eKLG6z8v2cQ040FHFKcPNg1AMJSawN8SCFntN78uQegAZu_yWwFWJ0ytwBTu9Z-O0ZhyaCsAuxJGjs87cHGXNmUpaEviqbSc1UuL5gmECnrczFoxQ8LrzHizPV2FmxdiR1hKH0ji42RKSokUgCp8i2Ro7xeTlXQHZU_1THxYgXq4N5nczvZJzbhiUtO4o1RYcdYnvhQLn7IOyQqa0_hGa6tKKgRP_R5gJcJo409W_Msf4znrHnxt7y5zfzvWgBPoeA6zWg.jpg",
+      "author_photo_path": "channels/futballi18/media/3452d0689b4439f09c000354.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5204019496683057971\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87B8F09F87A6.png')\"><b>🇸🇦</b></i></tg-emoji>آقای آنجلو <a href=\"https://t.me/FUTBALLI18/91619?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">گابریل</a> بازیکن النصر به همراه همسرشون در حال آفتاب گرفتن<tg-emoji emoji-id=\"5855161668610300988\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29880.png')\"><b>☀️</b></i></tg-emoji><br><br>+ آنجلو خودش 21 ساله‌ست و حاج خانوم 33 ساله...<br><br><a href=\"https://t.me/FUTBALLI18\" target=\"_blank\">@FUTBALLI18</a>",
+      "plain_text": "🇸🇦آقای آنجلو گابریل بازیکن النصر به همراه همسرشون در حال آفتاب گرفتن☀️ + آنجلو خودش 21 ساله‌ست و حاج خانوم 33 ساله... @FUTBALLI18",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/FUTBALLI18/93298?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/DJ4WCp9EX8r_e2hqHUYK9B-WhW-d1MhCePG_jp0QkbQq_InAySvPztGKC9RuCOA1PRgAiQQTZ_ijFXMNKSYpq0xcE11-UOa_JWFEwoKhXPJuWSptbB7l1UsgO9-0xFE6iwOvdq4GC6KFLozJ3vTDU5wwfuLS-pH11EJzP77d71vKIFSJHxMWUThUNytFWasuXz818EaZlp2myMOYZYwYU8Z4qibk3WrTpca0LLxZO5V3jQcg50AzpwMt5JEoRSkzzkpOEr4HsT-vdDn3RAebVtxbVf2-8RFe2nqvSPX_h5tNZ9q3XvbIeTB2HBUXaI25eMjdJSEUeNN--inxbZxAuA.jpg",
+          "thumbnail_path": "channels/futballi18/media/ea09d96d0087ab597b6ad8fb.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.76625
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/FUTBALLI18/93299?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/XVl_fSHIIAAn7uIZJB0LG2nOVdEieBCUNdSG0AgSPRbiAWfn4r8bmCdApJ9xHxv8yg83U2Af2tbpnxUk1YAZ3-T_cyAbmcf2AAPl4kYnFChwtSEvha_9MH6ZDbJR-QLHSf9MvK1vllEtxTwHspma-l9CVe4ZJbB9vj7yHx5mx9NFmNYGMVQRWvBQgRRLULGbSdnpoh9woVdgaieyDD979QendLNGC57ZmwBNv8h0BgeFy_DtPWBWszetSHef-h7BgHQjDq-ICtwuLBgHmavrqCpv8c80oG3_ZOg9fYS_DAISXt_HtZ47ZjDD8d6zFszHEKIdLoe45Y4VZRiQcEeCsA.jpg",
+          "thumbnail_path": "channels/futballi18/media/d6de69c3baafc58cbeff3b63.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.76875
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "700"
+        },
+        {
+          "emoji": "🤣",
+          "count": "177"
+        },
+        {
+          "emoji": "💔",
+          "count": "46"
+        },
+        {
+          "emoji": "😐",
+          "count": "32"
+        },
+        {
+          "emoji": "💋",
+          "count": "18"
+        },
+        {
+          "emoji": "❤",
+          "count": "17"
+        },
+        {
+          "emoji": "🍌",
+          "count": "6"
+        },
+        {
+          "emoji": "👍",
+          "count": "4"
+        },
+        {
+          "emoji": "🤬",
+          "count": "4"
+        },
+        {
+          "emoji": "😱",
+          "count": "2"
+        },
+        {
+          "emoji": "👏",
+          "count": "1"
+        }
+      ],
+      "views_label": "31.4K",
+      "posted_at": "2026-09-15T08:52:56+00:00",
+      "edited": false,
+      "permalink": "https://t.me/FUTBALLI18/93298"
+    },
+    {
       "id": "FUTBALLI18/93297",
       "author_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fYmGmSSdMEqgP9IlO6yzahHc7QiB4qdGODnWAHd-hS5zRC2YkNh2xv5EbCwhgwpPryKRj-1DYI5sERGWBo3TlASflHKkEV0WOP1-28N1mK5ZflPk7ATFyM_veMWpDF3Wo9cDp0uKY4yRVlxlTxHWydRU4Pg7r4hXJiip0lSzaei09ukm86YDbWnSWwk_3Y7VH0b8QkXztSljmHfyqJ0FVP_EMTAcVq1y2JFSpvGYLmVIgZZ0DO55L1MyR0YHprXCMrxyR6eV8y8l-FRHzTwUUC7Xz5ju8TzdbmtkmoahKqbsmuvY5zL3ZHwapww_nD5925XvvEzIyvt1EwvWBP3d0Q.jpg",
-      "author_photo_path": "channels/futballi18/media/dceb6795fd7cc70b45e2cfba.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NTFRzpnVXKPZZN3R706K50Z4JbgjDYsNyCmI_8371K29cTNPAT1psN6feRwVYuORfK-U0y0rs9dwzbU6eKLG6z8v2cQ040FHFKcPNg1AMJSawN8SCFntN78uQegAZu_yWwFWJ0ytwBTu9Z-O0ZhyaCsAuxJGjs87cHGXNmUpaEviqbSc1UuL5gmECnrczFoxQ8LrzHizPV2FmxdiR1hKH0ji42RKSokUgCp8i2Ro7xeTlXQHZU_1THxYgXq4N5nczvZJzbhiUtO4o1RYcdYnvhQLn7IOyQqa0_hGa6tKKgRP_R5gJcJo409W_Msf4znrHnxt7y5zfzvWgBPoeA6zWg.jpg",
+      "author_photo_path": "channels/futballi18/media/3452d0689b4439f09c000354.jpg",
       "body_html": "<tg-emoji emoji-id=\"5256243515863638523\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A9F09F87AA.png')\"><b>🇩🇪</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EBE.png')\"><b>🎾</b></i>\"<b>الکساندر زورف\" دو روز پیش قهرمانِ US Open شد و اینجوری خوشگل، از مادرش تقدیر کرد؛<br><br>می‌خوام از یه نفر دیگه هم تشکر کنم. کسی که تقریباً هیچ‌وقت مسابقاتم رو نمی‌بینه (بخاطر استرس)، ولی مهم‌ترین آدم تو زندگی ورزشی من و کلاً زندگیمه!</b><br><blockquote>وقتی چهار سالم بود، دکترها تشخیص دادن دیابت دارم گفتن که زندگی پسرت قراره خیلی محدود بشه و نمی‌تونه زیاد تحرک داشته باشه!<br></blockquote><b>ولی مادرم خیلی قوی‌ از اون مطب اومد بیرون و بهم گفت:</b><br><blockquote>پسرم هر جایی که بخواد باشه، میتونه باشه. اگه بخواد تنیسور بشه، تنیسور می‌شه. اگه بخواد کار دیگه‌ای بکنه، همون کار رو می‌کنه. این بیماری قرار نیست اون رو تعریف کنه.<br></blockquote><b>مادرم مهم‌ترین و قوی‌ترین آدمیه که می‌شناسم. زن فوق‌العاده قوی‌ای می‌خواد که بتونه کاری که اون کرد رو انجام بده.</b>»​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​<br><br><a href=\"https://t.me/FUTBALLI18\" target=\"_blank\">@FUTBALLI18</a>",
       "plain_text": "🇩🇪🎾\"الکساندر زورف\" دو روز پیش قهرمانِ US Open شد و اینجوری خوشگل، از مادرش تقدیر کرد؛ می‌خوام از یه نفر دیگه هم تشکر کنم. کسی که تقریباً هیچ‌وقت مسابقاتم رو نمی‌بینه (بخاطر استرس)، ولی مهم‌ترین آدم تو زندگی ورزشی من و کلاً زندگیمه! وقتی چهار سالم بود، دکترها تشخیص دادن دیابت دارم گفتن که زندگی پسرت قراره خیلی محدود بشه و نمی‌تونه زیاد تحرک داشته باشه! ولی مادرم خیلی قوی‌ از اون مطب اومد بیرون و بهم گفت: پسرم هر جایی که بخواد باشه، میتونه باشه. اگه بخواد تنیسور بشه، تنیسور می‌شه. اگه بخواد کار دیگه‌ای بکنه، همون کار رو می‌کنه. این بیماری قرار نیست اون رو تعریف کنه. مادرم مهم‌ترین و قوی‌ترین آدمیه که می‌شناسم. زن فوق‌العاده قوی‌ای می‌خواد که بتونه کاری که اون کرد رو انجام بده.»​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ @FUTBALLI18",
       "media": [
@@ -35,30 +390,38 @@
         },
         {
           "emoji": "❤",
-          "count": "1.08K"
+          "count": "2.28K"
         },
         {
           "emoji": "🔥",
-          "count": "21"
+          "count": "31"
         },
         {
           "emoji": "👍",
-          "count": "4"
+          "count": "8"
         },
         {
           "emoji": "🕊",
-          "count": "4"
-        },
-        {
-          "emoji": "🤣",
-          "count": "3"
+          "count": "8"
         },
         {
           "emoji": "😭",
+          "count": "5"
+        },
+        {
+          "emoji": "🤣",
+          "count": "4"
+        },
+        {
+          "emoji": "👏",
+          "count": "1"
+        },
+        {
+          "emoji": "🏆",
           "count": "1"
         }
       ],
-      "views_label": "23.9K",
+      "views_label": "52.3K",
       "posted_at": "2026-09-15T00:00:08+00:00",
       "edited": true,
       "permalink": "https://t.me/FUTBALLI18/93297"
@@ -66,8 +429,8 @@
     {
       "id": "FUTBALLI18/93296",
       "author_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fYmGmSSdMEqgP9IlO6yzahHc7QiB4qdGODnWAHd-hS5zRC2YkNh2xv5EbCwhgwpPryKRj-1DYI5sERGWBo3TlASflHKkEV0WOP1-28N1mK5ZflPk7ATFyM_veMWpDF3Wo9cDp0uKY4yRVlxlTxHWydRU4Pg7r4hXJiip0lSzaei09ukm86YDbWnSWwk_3Y7VH0b8QkXztSljmHfyqJ0FVP_EMTAcVq1y2JFSpvGYLmVIgZZ0DO55L1MyR0YHprXCMrxyR6eV8y8l-FRHzTwUUC7Xz5ju8TzdbmtkmoahKqbsmuvY5zL3ZHwapww_nD5925XvvEzIyvt1EwvWBP3d0Q.jpg",
-      "author_photo_path": "channels/futballi18/media/dceb6795fd7cc70b45e2cfba.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NTFRzpnVXKPZZN3R706K50Z4JbgjDYsNyCmI_8371K29cTNPAT1psN6feRwVYuORfK-U0y0rs9dwzbU6eKLG6z8v2cQ040FHFKcPNg1AMJSawN8SCFntN78uQegAZu_yWwFWJ0ytwBTu9Z-O0ZhyaCsAuxJGjs87cHGXNmUpaEviqbSc1UuL5gmECnrczFoxQ8LrzHizPV2FmxdiR1hKH0ji42RKSokUgCp8i2Ro7xeTlXQHZU_1THxYgXq4N5nczvZJzbhiUtO4o1RYcdYnvhQLn7IOyQqa0_hGa6tKKgRP_R5gJcJo409W_Msf4znrHnxt7y5zfzvWgBPoeA6zWg.jpg",
+      "author_photo_path": "channels/futballi18/media/3452d0689b4439f09c000354.jpg",
       "body_html": "<tg-emoji emoji-id=\"5440660757194744323\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i></tg-emoji><b>کانال</b> <a href=\"https://t.me/+fgkgTXJ8tCU5MGQ0\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>بلایندرز</b></a> <b>کل سایت های شرطبندی رو ورشکست کرده</b><br><br><tg-emoji emoji-id=\"5443038326535759644\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AC.png')\"><b>💬</b></i></tg-emoji> این کانال با کمک تحلیلگران اروپایی روزانه کلی فرم های VIP&nbsp; دارک بت قرار میده و ایرانی ها دارن از طریق این کانال درآمدزایی میکنن بدون ریسک<tg-emoji emoji-id=\"5409048419211682843\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B5.png')\"><b>💵</b></i></tg-emoji><tg-emoji emoji-id=\"5409048419211682843\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B5.png')\"><b>💵</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5818733886309406917\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC85.png')\"><b>⬅️</b></i></tg-emoji>هر روز میتونی فوتبالا اروپا شرط بندی کنی و بین 10 الی 50 میلیون پول به جیب بزنی<tg-emoji emoji-id=\"6217685925191750376\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰</b></i>23<br><tg-emoji emoji-id=\"6271512469684883558\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i></tg-emoji>ادرس عضویت کانال vip: <br><tg-emoji emoji-id=\"5271604874419647061\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i></tg-emoji><a href=\"https://t.me/+fgkgTXJ8tCU5MGQ0\" target=\"_blank\" rel=\"noopener\">https://t.me/+fgkgTXJ8tCU5MGQ0</a><br><tg-emoji emoji-id=\"5271604874419647061\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i></tg-emoji><a href=\"https://t.me/+fgkgTXJ8tCU5MGQ0\" target=\"_blank\" rel=\"noopener\">https://t.me/+fgkgTXJ8tCU5MGQ0</a>",
       "plain_text": "‼️کانال بلایندرز کل سایت های شرطبندی رو ورشکست کرده 💬 این کانال با کمک تحلیلگران اروپایی روزانه کلی فرم های VIP دارک بت قرار میده و ایرانی ها دارن از طریق این کانال درآمدزایی میکنن بدون ریسک💵💵 ⬅️هر روز میتونی فوتبالا اروپا شرط بندی کنی و بین 10 الی 50 میلیون پول به جیب بزنی✅ 🅰23 💎ادرس عضویت کانال vip: 🔗https://t.me/+fgkgTXJ8tCU5MGQ0 🔗https://t.me/+fgkgTXJ8tCU5MGQ0",
       "media": [
@@ -84,18 +447,18 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "7"
+          "count": "13"
+        },
+        {
+          "emoji": "🖕",
+          "count": "10"
         },
         {
           "emoji": "🤣",
           "count": "1"
-        },
-        {
-          "emoji": "🖕",
-          "count": "1"
         }
       ],
-      "views_label": "22.8K",
+      "views_label": "49.8K",
       "posted_at": "2026-09-15T00:00:07+00:00",
       "edited": false,
       "permalink": "https://t.me/FUTBALLI18/93296"
@@ -103,8 +466,8 @@
     {
       "id": "FUTBALLI18/93295",
       "author_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fYmGmSSdMEqgP9IlO6yzahHc7QiB4qdGODnWAHd-hS5zRC2YkNh2xv5EbCwhgwpPryKRj-1DYI5sERGWBo3TlASflHKkEV0WOP1-28N1mK5ZflPk7ATFyM_veMWpDF3Wo9cDp0uKY4yRVlxlTxHWydRU4Pg7r4hXJiip0lSzaei09ukm86YDbWnSWwk_3Y7VH0b8QkXztSljmHfyqJ0FVP_EMTAcVq1y2JFSpvGYLmVIgZZ0DO55L1MyR0YHprXCMrxyR6eV8y8l-FRHzTwUUC7Xz5ju8TzdbmtkmoahKqbsmuvY5zL3ZHwapww_nD5925XvvEzIyvt1EwvWBP3d0Q.jpg",
-      "author_photo_path": "channels/futballi18/media/dceb6795fd7cc70b45e2cfba.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NTFRzpnVXKPZZN3R706K50Z4JbgjDYsNyCmI_8371K29cTNPAT1psN6feRwVYuORfK-U0y0rs9dwzbU6eKLG6z8v2cQ040FHFKcPNg1AMJSawN8SCFntN78uQegAZu_yWwFWJ0ytwBTu9Z-O0ZhyaCsAuxJGjs87cHGXNmUpaEviqbSc1UuL5gmECnrczFoxQ8LrzHizPV2FmxdiR1hKH0ji42RKSokUgCp8i2Ro7xeTlXQHZU_1THxYgXq4N5nczvZJzbhiUtO4o1RYcdYnvhQLn7IOyQqa0_hGa6tKKgRP_R5gJcJo409W_Msf4znrHnxt7y5zfzvWgBPoeA6zWg.jpg",
+      "author_photo_path": "channels/futballi18/media/3452d0689b4439f09c000354.jpg",
       "body_html": "<tg-emoji emoji-id=\"5438463168458296496\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87B8.png')\"><b>🇪🇸</b></i></tg-emoji>رودری درباره قهرمانی تو لیگ قهرمانان اروپا:<br><br><b>قطعاً فکر می‌کنم قهرمانی تو چمپیونزلیگ شدنیه.</b><br><blockquote>شاید این همون قدم آخریه که باید برداریم تا خودمون رو تو اروپا ثابت کنیم و نشون بدیم چه تیمی هستیم.<br></blockquote><blockquote>ولی با این حال فکر نمی‌کنم مدعی اصلی قهرمانی باشیم.</blockquote><br><blockquote>باید بدونیم از کجا اومدیم و برای قهرمان شدن به چی نیاز داریم.</blockquote><br><b>این تیم هنوز چندتا چیز داره که باید درستشون کنه تا بتونه قهرمان بشه.</b><br><br><a href=\"https://t.me/FUTBALLI18\" target=\"_blank\">@FUTBALLI18</a>",
       "plain_text": "🇪🇸رودری درباره قهرمانی تو لیگ قهرمانان اروپا: قطعاً فکر می‌کنم قهرمانی تو چمپیونزلیگ شدنیه. شاید این همون قدم آخریه که باید برداریم تا خودمون رو تو اروپا ثابت کنیم و نشون بدیم چه تیمی هستیم. ولی با این حال فکر نمی‌کنم مدعی اصلی قهرمانی باشیم. باید بدونیم از کجا اومدیم و برای قهرمان شدن به چی نیاز داریم. این تیم هنوز چندتا چیز داره که باید درستشون کنه تا بتونه قهرمان بشه. @FUTBALLI18",
       "media": [
@@ -121,19 +484,19 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "891"
+          "count": "1.35K"
         },
         {
           "emoji": "🤣",
-          "count": "395"
+          "count": "610"
         },
         {
           "emoji": "👍",
-          "count": "64"
+          "count": "74"
         },
         {
           "emoji": "🖕",
-          "count": "14"
+          "count": "20"
         },
         {
           "emoji": "🔥",
@@ -148,7 +511,7 @@
           "count": "2"
         }
       ],
-      "views_label": "33K",
+      "views_label": "53.8K",
       "posted_at": "2026-09-14T22:26:41+00:00",
       "edited": false,
       "permalink": "https://t.me/FUTBALLI18/93295"
@@ -156,8 +519,8 @@
     {
       "id": "FUTBALLI18/93293",
       "author_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fYmGmSSdMEqgP9IlO6yzahHc7QiB4qdGODnWAHd-hS5zRC2YkNh2xv5EbCwhgwpPryKRj-1DYI5sERGWBo3TlASflHKkEV0WOP1-28N1mK5ZflPk7ATFyM_veMWpDF3Wo9cDp0uKY4yRVlxlTxHWydRU4Pg7r4hXJiip0lSzaei09ukm86YDbWnSWwk_3Y7VH0b8QkXztSljmHfyqJ0FVP_EMTAcVq1y2JFSpvGYLmVIgZZ0DO55L1MyR0YHprXCMrxyR6eV8y8l-FRHzTwUUC7Xz5ju8TzdbmtkmoahKqbsmuvY5zL3ZHwapww_nD5925XvvEzIyvt1EwvWBP3d0Q.jpg",
-      "author_photo_path": "channels/futballi18/media/dceb6795fd7cc70b45e2cfba.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NTFRzpnVXKPZZN3R706K50Z4JbgjDYsNyCmI_8371K29cTNPAT1psN6feRwVYuORfK-U0y0rs9dwzbU6eKLG6z8v2cQ040FHFKcPNg1AMJSawN8SCFntN78uQegAZu_yWwFWJ0ytwBTu9Z-O0ZhyaCsAuxJGjs87cHGXNmUpaEviqbSc1UuL5gmECnrczFoxQ8LrzHizPV2FmxdiR1hKH0ji42RKSokUgCp8i2Ro7xeTlXQHZU_1THxYgXq4N5nczvZJzbhiUtO4o1RYcdYnvhQLn7IOyQqa0_hGa6tKKgRP_R5gJcJo409W_Msf4znrHnxt7y5zfzvWgBPoeA6zWg.jpg",
+      "author_photo_path": "channels/futballi18/media/3452d0689b4439f09c000354.jpg",
       "body_html": "<tg-emoji emoji-id=\"5409012019363855720\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87ABF09F87B7.png')\"><b>🇫🇷</b></i></tg-emoji><b>عثمان دمبله :<br><br></b><blockquote>من این شانس رو داشتم که با بازی برای بارسلونا و کنار بازیکنایی مثل \"<b>لیونل مسی</b>\" و \"<b>آندرس اینیستا</b>\"، به یکی از رویاهای بچگیم برسم.<br></blockquote><blockquote>بابت این فرصت تا آخر عمرم ممنون و قدردان خواهم بود.</blockquote><br><br><a href=\"https://t.me/FUTBALLI18\" target=\"_blank\">@FUTBALLI18</a>",
       "plain_text": "🇫🇷عثمان دمبله : من این شانس رو داشتم که با بازی برای بارسلونا و کنار بازیکنایی مثل \"لیونل مسی\" و \"آندرس اینیستا\"، به یکی از رویاهای بچگیم برسم. بابت این فرصت تا آخر عمرم ممنون و قدردان خواهم بود. @FUTBALLI18",
       "media": [
@@ -183,26 +546,26 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "1.11K"
+          "count": "1.66K"
         },
         {
           "emoji": "🖕",
-          "count": "186"
+          "count": "269"
         },
         {
           "emoji": "🤣",
-          "count": "104"
+          "count": "130"
         },
         {
           "emoji": "👍",
-          "count": "23"
+          "count": "30"
         },
         {
           "emoji": "🤷‍♂",
-          "count": "4"
+          "count": "6"
         }
       ],
-      "views_label": "35.7K",
+      "views_label": "53.2K",
       "posted_at": "2026-09-14T22:11:23+00:00",
       "edited": false,
       "permalink": "https://t.me/FUTBALLI18/93293"
@@ -210,8 +573,8 @@
     {
       "id": "FUTBALLI18/93291",
       "author_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fYmGmSSdMEqgP9IlO6yzahHc7QiB4qdGODnWAHd-hS5zRC2YkNh2xv5EbCwhgwpPryKRj-1DYI5sERGWBo3TlASflHKkEV0WOP1-28N1mK5ZflPk7ATFyM_veMWpDF3Wo9cDp0uKY4yRVlxlTxHWydRU4Pg7r4hXJiip0lSzaei09ukm86YDbWnSWwk_3Y7VH0b8QkXztSljmHfyqJ0FVP_EMTAcVq1y2JFSpvGYLmVIgZZ0DO55L1MyR0YHprXCMrxyR6eV8y8l-FRHzTwUUC7Xz5ju8TzdbmtkmoahKqbsmuvY5zL3ZHwapww_nD5925XvvEzIyvt1EwvWBP3d0Q.jpg",
-      "author_photo_path": "channels/futballi18/media/dceb6795fd7cc70b45e2cfba.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NTFRzpnVXKPZZN3R706K50Z4JbgjDYsNyCmI_8371K29cTNPAT1psN6feRwVYuORfK-U0y0rs9dwzbU6eKLG6z8v2cQ040FHFKcPNg1AMJSawN8SCFntN78uQegAZu_yWwFWJ0ytwBTu9Z-O0ZhyaCsAuxJGjs87cHGXNmUpaEviqbSc1UuL5gmECnrczFoxQ8LrzHizPV2FmxdiR1hKH0ji42RKSokUgCp8i2Ro7xeTlXQHZU_1THxYgXq4N5nczvZJzbhiUtO4o1RYcdYnvhQLn7IOyQqa0_hGa6tKKgRP_R5gJcJo409W_Msf4znrHnxt7y5zfzvWgBPoeA6zWg.jpg",
+      "author_photo_path": "channels/futballi18/media/3452d0689b4439f09c000354.jpg",
       "body_html": "<tg-emoji emoji-id=\"5438272652298979717\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87BA.png')\"><b>🇪🇺</b></i></tg-emoji><tg-emoji emoji-id=\"5438463168458296496\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87B8.png')\"><b>🇪🇸</b></i></tg-emoji>اسپاتیفای نیوکمپ شانس خیلی زیادی داره که میزبان فینال لیگ قهرمانان اروپا تو سال 2029 بشه!<br><br><a href=\"https://t.me/FUTBALLI18\" target=\"_blank\">@FUTBALLI18</a> | FCBRAC1",
       "plain_text": "🇪🇺🇪🇸اسپاتیفای نیوکمپ شانس خیلی زیادی داره که میزبان فینال لیگ قهرمانان اروپا تو سال 2029 بشه! @FUTBALLI18 | FCBRAC1",
       "media": [
@@ -237,34 +600,38 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "1.22K"
+          "count": "1.66K"
         },
         {
           "emoji": "🤣",
-          "count": "318"
+          "count": "392"
         },
         {
           "emoji": "🔥",
-          "count": "56"
+          "count": "61"
         },
         {
           "emoji": "👎",
-          "count": "13"
+          "count": "14"
         },
         {
           "emoji": "👍",
-          "count": "7"
+          "count": "11"
         },
         {
           "emoji": "😁",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "🖕",
-          "count": "6"
+          "count": "7"
+        },
+        {
+          "emoji": "🕊",
+          "count": "2"
         }
       ],
-      "views_label": "39.6K",
+      "views_label": "55K",
       "posted_at": "2026-09-14T21:50:15+00:00",
       "edited": false,
       "permalink": "https://t.me/FUTBALLI18/93291"
@@ -272,8 +639,8 @@
     {
       "id": "FUTBALLI18/93290",
       "author_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fYmGmSSdMEqgP9IlO6yzahHc7QiB4qdGODnWAHd-hS5zRC2YkNh2xv5EbCwhgwpPryKRj-1DYI5sERGWBo3TlASflHKkEV0WOP1-28N1mK5ZflPk7ATFyM_veMWpDF3Wo9cDp0uKY4yRVlxlTxHWydRU4Pg7r4hXJiip0lSzaei09ukm86YDbWnSWwk_3Y7VH0b8QkXztSljmHfyqJ0FVP_EMTAcVq1y2JFSpvGYLmVIgZZ0DO55L1MyR0YHprXCMrxyR6eV8y8l-FRHzTwUUC7Xz5ju8TzdbmtkmoahKqbsmuvY5zL3ZHwapww_nD5925XvvEzIyvt1EwvWBP3d0Q.jpg",
-      "author_photo_path": "channels/futballi18/media/dceb6795fd7cc70b45e2cfba.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NTFRzpnVXKPZZN3R706K50Z4JbgjDYsNyCmI_8371K29cTNPAT1psN6feRwVYuORfK-U0y0rs9dwzbU6eKLG6z8v2cQ040FHFKcPNg1AMJSawN8SCFntN78uQegAZu_yWwFWJ0ytwBTu9Z-O0ZhyaCsAuxJGjs87cHGXNmUpaEviqbSc1UuL5gmECnrczFoxQ8LrzHizPV2FmxdiR1hKH0ji42RKSokUgCp8i2Ro7xeTlXQHZU_1THxYgXq4N5nczvZJzbhiUtO4o1RYcdYnvhQLn7IOyQqa0_hGa6tKKgRP_R5gJcJo409W_Msf4znrHnxt7y5zfzvWgBPoeA6zWg.jpg",
+      "author_photo_path": "channels/futballi18/media/3452d0689b4439f09c000354.jpg",
       "body_html": "<tg-emoji emoji-id=\"5375066517706670362\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C8F.png')\"><b>🌏</b></i></tg-emoji>غُرش شیرِ آبی، نماینده قطر رو نابود کرد؛ شاگردان سهراب بختیاری‌زاده تو یه بازی کاملا برتر، موفق شدن السدِ پرستاره رو شکست بدن!  <tg-emoji emoji-id=\"5435950681309613554\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AEF09F87B7.png')\"><b>🇮🇷</b></i></tg-emoji>استقلال 3-0 السد<tg-emoji emoji-id=\"6024012569776233434\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87B6F09F87A6.png')\"><b>🇶🇦</b></i></tg-emoji>  @FUTBALLI18",
       "plain_text": "🌏غُرش شیرِ آبی، نماینده قطر رو نابود کرد؛ شاگردان سهراب بختیاری‌زاده تو یه بازی کاملا برتر، موفق شدن السدِ پرستاره رو شکست بدن! 🇮🇷استقلال 3-0 السد🇶🇦 @FUTBALLI18",
       "media": [
@@ -290,34 +657,34 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "1.69K"
+          "count": "2.15K"
         },
         {
           "emoji": "🔥",
-          "count": "544"
+          "count": "636"
         },
         {
           "emoji": "🖕",
-          "count": "59"
+          "count": "77"
         },
         {
           "emoji": "❤",
-          "count": "51"
+          "count": "55"
         },
         {
           "emoji": "🗿",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "👍",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "👎",
           "count": "2"
         }
       ],
-      "views_label": "43.5K",
+      "views_label": "57.6K",
       "posted_at": "2026-09-14T21:31:51+00:00",
       "edited": false,
       "permalink": "https://t.me/FUTBALLI18/93290"
@@ -325,8 +692,8 @@
     {
       "id": "FUTBALLI18/93289",
       "author_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fYmGmSSdMEqgP9IlO6yzahHc7QiB4qdGODnWAHd-hS5zRC2YkNh2xv5EbCwhgwpPryKRj-1DYI5sERGWBo3TlASflHKkEV0WOP1-28N1mK5ZflPk7ATFyM_veMWpDF3Wo9cDp0uKY4yRVlxlTxHWydRU4Pg7r4hXJiip0lSzaei09ukm86YDbWnSWwk_3Y7VH0b8QkXztSljmHfyqJ0FVP_EMTAcVq1y2JFSpvGYLmVIgZZ0DO55L1MyR0YHprXCMrxyR6eV8y8l-FRHzTwUUC7Xz5ju8TzdbmtkmoahKqbsmuvY5zL3ZHwapww_nD5925XvvEzIyvt1EwvWBP3d0Q.jpg",
-      "author_photo_path": "channels/futballi18/media/dceb6795fd7cc70b45e2cfba.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NTFRzpnVXKPZZN3R706K50Z4JbgjDYsNyCmI_8371K29cTNPAT1psN6feRwVYuORfK-U0y0rs9dwzbU6eKLG6z8v2cQ040FHFKcPNg1AMJSawN8SCFntN78uQegAZu_yWwFWJ0ytwBTu9Z-O0ZhyaCsAuxJGjs87cHGXNmUpaEviqbSc1UuL5gmECnrczFoxQ8LrzHizPV2FmxdiR1hKH0ji42RKSokUgCp8i2Ro7xeTlXQHZU_1THxYgXq4N5nczvZJzbhiUtO4o1RYcdYnvhQLn7IOyQqa0_hGa6tKKgRP_R5gJcJo409W_Msf4znrHnxt7y5zfzvWgBPoeA6zWg.jpg",
+      "author_photo_path": "channels/futballi18/media/3452d0689b4439f09c000354.jpg",
       "body_html": "<tg-emoji emoji-id=\"5411623604292955876\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji>رتبه‌بندی جدید مدعیان توپ طلا از نگاه score90 :  <tg-emoji emoji-id=\"5438434886098652465\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87B8.png')\"><b>🇪🇸</b></i></tg-emoji>   1. کیلیان امباپه <tg-emoji emoji-id=\"5438463168458296496\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87B8.png')\"><b>🇪🇸</b></i></tg-emoji>   2. لامین یامال <tg-emoji emoji-id=\"5438369125854379554\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A9F09F87AA.png')\"><b>🇩🇪</b></i></tg-emoji>   3. هری کین  <tg-emoji emoji-id=\"5438463168458296496\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87B8.png')\"><b>🇪🇸</b></i></tg-emoji>   4. رودری <tg-emoji emoji-id=\"5438197868328423028\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8FB4F3A081A7F3A081A2F3A081A5F3A081AEF3A081A7F3A081BF.png')\"><b>🏴󠁧󠁢󠁥󠁮󠁧󠁿</b></i></tg-emoji>   5. ارلینگ هالند <tg-emoji emoji-id=\"5438211766842593349\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87ABF09F87B7.png')\"><b>🇫🇷</b></i></tg-emoji>   6. کواراتسخلیا <tg-emoji emoji-id=\"5438211766842593349\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87ABF09F87B7.png')\"><b>🇫🇷</b></i></tg-emoji>   7. عثمان دمبله  <tg-emoji emoji-id=\"5438369125854379554\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A9F09F87AA.png')\"><b>🇩🇪</b></i></tg-emoji>   8. مایکل اولیسه  <tg-emoji emoji-id=\"5438434886098652465\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87B8.png')\"><b>🇪🇸</b></i></tg-emoji>   9. جود بلینگهام  <tg-emoji emoji-id=\"5438434886098652465\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87B8.png')\"><b>🇪🇸</b></i></tg-emoji>   10. وینیسیوس   @FUTBALLI18",
       "plain_text": "✅رتبه‌بندی جدید مدعیان توپ طلا از نگاه score90 : 🇪🇸 1. کیلیان امباپه 🇪🇸 2. لامین یامال 🇩🇪 3. هری کین 🇪🇸 4. رودری 🏴󠁧󠁢󠁥󠁮󠁧󠁿 5. ارلینگ هالند 🇫🇷 6. کواراتسخلیا 🇫🇷 7. عثمان دمبله 🇩🇪 8. مایکل اولیسه 🇪🇸 9. جود بلینگهام 🇪🇸 10. وینیسیوس @FUTBALLI18",
       "media": [
@@ -343,31 +710,31 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "2.52K"
+          "count": "3.11K"
         },
         {
           "emoji": "👎",
-          "count": "157"
+          "count": "200"
         },
         {
           "emoji": "❤",
-          "count": "61"
+          "count": "70"
         },
         {
           "emoji": "👍",
-          "count": "38"
+          "count": "47"
         },
         {
           "emoji": "🔥",
-          "count": "9"
+          "count": "11"
         },
         {
           "emoji": "🤯",
-          "count": "7"
+          "count": "10"
         },
         {
           "emoji": "🖕",
-          "count": "4"
+          "count": "8"
         },
         {
           "emoji": "🗿",
@@ -375,10 +742,10 @@
         },
         {
           "emoji": "👌",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "45.3K",
+      "views_label": "57.3K",
       "posted_at": "2026-09-14T21:19:09+00:00",
       "edited": false,
       "permalink": "https://t.me/FUTBALLI18/93289"
@@ -386,8 +753,8 @@
     {
       "id": "FUTBALLI18/93288",
       "author_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fYmGmSSdMEqgP9IlO6yzahHc7QiB4qdGODnWAHd-hS5zRC2YkNh2xv5EbCwhgwpPryKRj-1DYI5sERGWBo3TlASflHKkEV0WOP1-28N1mK5ZflPk7ATFyM_veMWpDF3Wo9cDp0uKY4yRVlxlTxHWydRU4Pg7r4hXJiip0lSzaei09ukm86YDbWnSWwk_3Y7VH0b8QkXztSljmHfyqJ0FVP_EMTAcVq1y2JFSpvGYLmVIgZZ0DO55L1MyR0YHprXCMrxyR6eV8y8l-FRHzTwUUC7Xz5ju8TzdbmtkmoahKqbsmuvY5zL3ZHwapww_nD5925XvvEzIyvt1EwvWBP3d0Q.jpg",
-      "author_photo_path": "channels/futballi18/media/dceb6795fd7cc70b45e2cfba.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NTFRzpnVXKPZZN3R706K50Z4JbgjDYsNyCmI_8371K29cTNPAT1psN6feRwVYuORfK-U0y0rs9dwzbU6eKLG6z8v2cQ040FHFKcPNg1AMJSawN8SCFntN78uQegAZu_yWwFWJ0ytwBTu9Z-O0ZhyaCsAuxJGjs87cHGXNmUpaEviqbSc1UuL5gmECnrczFoxQ8LrzHizPV2FmxdiR1hKH0ji42RKSokUgCp8i2Ro7xeTlXQHZU_1THxYgXq4N5nczvZJzbhiUtO4o1RYcdYnvhQLn7IOyQqa0_hGa6tKKgRP_R5gJcJo409W_Msf4znrHnxt7y5zfzvWgBPoeA6zWg.jpg",
+      "author_photo_path": "channels/futballi18/media/3452d0689b4439f09c000354.jpg",
       "body_html": "<tg-emoji emoji-id=\"5382013970905309819\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E99.png')\"><b>🎙</b></i></tg-emoji>گواهینامه نداری؟ <br><br><tg-emoji emoji-id=\"5438434886098652465\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87B8.png')\"><b>🇪🇸</b></i></tg-emoji>جود بلینگهام‌ : نه ، متاسفانه گواهینامه ندارم؛ دیگه به کسی نگو<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><br><br><tg-emoji emoji-id=\"5382013970905309819\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E99.png')\"><b>🎙</b></i></tg-emoji>فکر میکنم به یه راننده شخصی نیاز پیدا می‌کنی ، نه؟<br><br><tg-emoji emoji-id=\"5438434886098652465\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87B8.png')\"><b>🇪🇸</b></i></tg-emoji>جود بلینگهام: آره، باید ببینم لوئیس همیلتون بعد از مسابقه چی بهم میگه<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><br><br><a href=\"https://t.me/FUTBALLI18\" target=\"_blank\">@FUTBALLI18</a>",
       "plain_text": "🎙گواهینامه نداری؟ 🇪🇸جود بلینگهام‌ : نه ، متاسفانه گواهینامه ندارم؛ دیگه به کسی نگو😂 🎙فکر میکنم به یه راننده شخصی نیاز پیدا می‌کنی ، نه؟ 🇪🇸جود بلینگهام: آره، باید ببینم لوئیس همیلتون بعد از مسابقه چی بهم میگه😂 @FUTBALLI18",
       "media": [
@@ -404,19 +771,19 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "2.6K"
+          "count": "3.2K"
         },
         {
           "emoji": "❤",
-          "count": "29"
+          "count": "38"
         },
         {
           "emoji": "🖕",
-          "count": "28"
+          "count": "30"
         },
         {
           "emoji": "😁",
-          "count": "10"
+          "count": "11"
         },
         {
           "emoji": "🍌",
@@ -443,7 +810,7 @@
           "count": "1"
         }
       ],
-      "views_label": "47.9K",
+      "views_label": "58.3K",
       "posted_at": "2026-09-14T21:02:11+00:00",
       "edited": false,
       "permalink": "https://t.me/FUTBALLI18/93288"
@@ -451,8 +818,8 @@
     {
       "id": "FUTBALLI18/93287",
       "author_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fYmGmSSdMEqgP9IlO6yzahHc7QiB4qdGODnWAHd-hS5zRC2YkNh2xv5EbCwhgwpPryKRj-1DYI5sERGWBo3TlASflHKkEV0WOP1-28N1mK5ZflPk7ATFyM_veMWpDF3Wo9cDp0uKY4yRVlxlTxHWydRU4Pg7r4hXJiip0lSzaei09ukm86YDbWnSWwk_3Y7VH0b8QkXztSljmHfyqJ0FVP_EMTAcVq1y2JFSpvGYLmVIgZZ0DO55L1MyR0YHprXCMrxyR6eV8y8l-FRHzTwUUC7Xz5ju8TzdbmtkmoahKqbsmuvY5zL3ZHwapww_nD5925XvvEzIyvt1EwvWBP3d0Q.jpg",
-      "author_photo_path": "channels/futballi18/media/dceb6795fd7cc70b45e2cfba.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NTFRzpnVXKPZZN3R706K50Z4JbgjDYsNyCmI_8371K29cTNPAT1psN6feRwVYuORfK-U0y0rs9dwzbU6eKLG6z8v2cQ040FHFKcPNg1AMJSawN8SCFntN78uQegAZu_yWwFWJ0ytwBTu9Z-O0ZhyaCsAuxJGjs87cHGXNmUpaEviqbSc1UuL5gmECnrczFoxQ8LrzHizPV2FmxdiR1hKH0ji42RKSokUgCp8i2Ro7xeTlXQHZU_1THxYgXq4N5nczvZJzbhiUtO4o1RYcdYnvhQLn7IOyQqa0_hGa6tKKgRP_R5gJcJo409W_Msf4znrHnxt7y5zfzvWgBPoeA6zWg.jpg",
+      "author_photo_path": "channels/futballi18/media/3452d0689b4439f09c000354.jpg",
       "body_html": "<tg-emoji emoji-id=\"5375066517706670362\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C8F.png')\"><b>🌏</b></i></tg-emoji>غُرش شیرِ آبی، نماینده قطر رو نابود کرد؛ شاگردان سهراب بختیاری‌زاده تو یه بازی کاملا برتر، موفق شدن السدِ پرستاره رو شکست بدن!  <tg-emoji emoji-id=\"5435950681309613554\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AEF09F87B7.png')\"><b>🇮🇷</b></i></tg-emoji>استقلال 3-0 السد<tg-emoji emoji-id=\"6024012569776233434\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87B6F09F87A6.png')\"><b>🇶🇦</b></i></tg-emoji>  @FUTBALLI18",
       "plain_text": "🌏غُرش شیرِ آبی، نماینده قطر رو نابود کرد؛ شاگردان سهراب بختیاری‌زاده تو یه بازی کاملا برتر، موفق شدن السدِ پرستاره رو شکست بدن! 🇮🇷استقلال 3-0 السد🇶🇦 @FUTBALLI18",
       "media": [
@@ -473,23 +840,23 @@
         },
         {
           "emoji": "🤣",
-          "count": "4.34K"
+          "count": "4.9K"
         },
         {
           "emoji": "🔥",
-          "count": "1.48K"
+          "count": "1.61K"
         },
         {
           "emoji": "🖕",
-          "count": "809"
+          "count": "925"
         },
         {
           "emoji": "🍌",
-          "count": "52"
+          "count": "53"
         },
         {
           "emoji": "❤",
-          "count": "23"
+          "count": "26"
         },
         {
           "emoji": "👍",
@@ -497,26 +864,26 @@
         },
         {
           "emoji": "👎",
-          "count": "7"
+          "count": "9"
         },
         {
           "emoji": "😁",
-          "count": "5"
+          "count": "4"
         },
         {
           "emoji": "😍",
-          "count": "3"
+          "count": "4"
+        },
+        {
+          "emoji": "🤬",
+          "count": "2"
         },
         {
           "emoji": "🗿",
           "count": "2"
-        },
-        {
-          "emoji": "🤬",
-          "count": "1"
         }
       ],
-      "views_label": "52.5K",
+      "views_label": "60.5K",
       "posted_at": "2026-09-14T20:42:39+00:00",
       "edited": false,
       "permalink": "https://t.me/FUTBALLI18/93287"
@@ -5062,274 +5429,6 @@
       "posted_at": "2026-09-13T15:44:23+00:00",
       "edited": false,
       "permalink": "https://t.me/FUTBALLI18/93145"
-    },
-    {
-      "id": "FUTBALLI18/93144",
-      "author_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
-      "author_photo_url": "https://cdn4.telesco.pe/file/hwd3_4V6nbNrsAJJzK-WvHljpSjentZAbmv8oXyChRyFFK71uX46suX6VWTgBYIvS18WPcZyfnp2ba277E2tcZobKuo4GUBsMxSs95MtmyVRaBnLVTb_gXAQr-nildRghPCc7RYPQYAdI2xjxs933CItWlX6QsYnjA0oJxeCb97te09hK59tsz8SYbjOVGmM6NKQzk5sm-eHbBmgiZkMO66F0JJC_NTOFdpYdC2joIwX6YNbK_7KpujV6zStzsvtpk10H-EgsgAn7e259KLrbN3cFZW0PChru1PADwo4wBj9BcEcY_65d3nsUL_e_MHM-SAcG5dYP49IlIn0fkcfQQ.jpg",
-      "author_photo_path": "channels/futballi18/media/b3ce1047f7f6bfb3f88f0a9e.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5438463168458296496\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87B8.png')\"><b>🇪🇸</b></i></tg-emoji>گل سوم بارسا به لوانته رو دبل یامال از روی نقطه پنالتی<br>3-0<br><br><a href=\"https://t.me/FUTBALLIGOALS\" target=\"_blank\">@FUTBALLIGOALS</a>",
-      "plain_text": "🇪🇸گل سوم بارسا به لوانته رو دبل یامال از روی نقطه پنالتی 3-0 @FUTBALLIGOALS",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/FUTBALLI18/93144",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/dQM8yr25EkQ9Zz1NHGfllhAcw79mOhDLj7dNATBPuYROE5RGfkzvJQCQ7b_jc9y7gIWKqWaMTIEW_fbpN1LVqZCWQSdL4-GflmYoB7nea2c_Lhk1WOspoqeCPSpuTELqEMSsG72eRP5uGCgCCi9m2JDWaV9fMz1MOSfEQD1Yo0XCTqA4nBxKYISSKJk3u4tFSUGcsFJgmSwSczBePNy8TZv-nw8IoOic1BBspquymQH88RZrY2ix3NVDD2CMxvr2jLPN5hqX2htMjh5W4YlfQGBjUjy-uXbRVZpuWaM5BqxVYMcFouG8PrfWujPWrbxjgAfG8AkGu1J98Z9M3gL18A",
-          "thumbnail_path": "channels/futballi18/media/4ff172c7b9d5ddd0e117153b.jpg",
-          "duration_label": "0:04",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "252"
-        },
-        {
-          "emoji": "❤",
-          "count": "24"
-        },
-        {
-          "emoji": "🍌",
-          "count": "17"
-        },
-        {
-          "emoji": "🤣",
-          "count": "13"
-        },
-        {
-          "emoji": "😁",
-          "count": "3"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        }
-      ],
-      "views_label": "21.4K",
-      "posted_at": "2026-09-13T15:32:02+00:00",
-      "edited": false,
-      "permalink": "https://t.me/FUTBALLI18/93144"
-    },
-    {
-      "id": "FUTBALLI18/93143",
-      "author_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
-      "author_photo_url": "https://cdn4.telesco.pe/file/hwd3_4V6nbNrsAJJzK-WvHljpSjentZAbmv8oXyChRyFFK71uX46suX6VWTgBYIvS18WPcZyfnp2ba277E2tcZobKuo4GUBsMxSs95MtmyVRaBnLVTb_gXAQr-nildRghPCc7RYPQYAdI2xjxs933CItWlX6QsYnjA0oJxeCb97te09hK59tsz8SYbjOVGmM6NKQzk5sm-eHbBmgiZkMO66F0JJC_NTOFdpYdC2joIwX6YNbK_7KpujV6zStzsvtpk10H-EgsgAn7e259KLrbN3cFZW0PChru1PADwo4wBj9BcEcY_65d3nsUL_e_MHM-SAcG5dYP49IlIn0fkcfQQ.jpg",
-      "author_photo_path": "channels/futballi18/media/b3ce1047f7f6bfb3f88f0a9e.jpg",
-      "body_html": "گل سوم بارسلونا و دومِ یامال<tg-emoji emoji-id=\"5420315771991497307\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></tg-emoji>",
-      "plain_text": "گل سوم بارسلونا و دومِ یامال🔥",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "163"
-        },
-        {
-          "emoji": "🤣",
-          "count": "21"
-        },
-        {
-          "emoji": "🖕",
-          "count": "6"
-        },
-        {
-          "emoji": "🔥",
-          "count": "2"
-        }
-      ],
-      "views_label": "21.3K",
-      "posted_at": "2026-09-13T15:31:46+00:00",
-      "edited": false,
-      "permalink": "https://t.me/FUTBALLI18/93143"
-    },
-    {
-      "id": "FUTBALLI18/93142",
-      "author_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
-      "author_photo_url": "https://cdn4.telesco.pe/file/hwd3_4V6nbNrsAJJzK-WvHljpSjentZAbmv8oXyChRyFFK71uX46suX6VWTgBYIvS18WPcZyfnp2ba277E2tcZobKuo4GUBsMxSs95MtmyVRaBnLVTb_gXAQr-nildRghPCc7RYPQYAdI2xjxs933CItWlX6QsYnjA0oJxeCb97te09hK59tsz8SYbjOVGmM6NKQzk5sm-eHbBmgiZkMO66F0JJC_NTOFdpYdC2joIwX6YNbK_7KpujV6zStzsvtpk10H-EgsgAn7e259KLrbN3cFZW0PChru1PADwo4wBj9BcEcY_65d3nsUL_e_MHM-SAcG5dYP49IlIn0fkcfQQ.jpg",
-      "author_photo_path": "channels/futballi18/media/b3ce1047f7f6bfb3f88f0a9e.jpg",
-      "body_html": "عجب کص مغری بود مدافع لوانته<br><br>دوبار پنالتی داد تو یه صحنه",
-      "plain_text": "عجب کص مغری بود مدافع لوانته دوبار پنالتی داد تو یه صحنه",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "291"
-        },
-        {
-          "emoji": "❤",
-          "count": "5"
-        },
-        {
-          "emoji": "🔥",
-          "count": "2"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        },
-        {
-          "emoji": "😁",
-          "count": "1"
-        }
-      ],
-      "views_label": "21.3K",
-      "posted_at": "2026-09-13T15:31:29+00:00",
-      "edited": false,
-      "permalink": "https://t.me/FUTBALLI18/93142"
-    },
-    {
-      "id": "FUTBALLI18/93141",
-      "author_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
-      "author_photo_url": "https://cdn4.telesco.pe/file/hwd3_4V6nbNrsAJJzK-WvHljpSjentZAbmv8oXyChRyFFK71uX46suX6VWTgBYIvS18WPcZyfnp2ba277E2tcZobKuo4GUBsMxSs95MtmyVRaBnLVTb_gXAQr-nildRghPCc7RYPQYAdI2xjxs933CItWlX6QsYnjA0oJxeCb97te09hK59tsz8SYbjOVGmM6NKQzk5sm-eHbBmgiZkMO66F0JJC_NTOFdpYdC2joIwX6YNbK_7KpujV6zStzsvtpk10H-EgsgAn7e259KLrbN3cFZW0PChru1PADwo4wBj9BcEcY_65d3nsUL_e_MHM-SAcG5dYP49IlIn0fkcfQQ.jpg",
-      "author_photo_path": "channels/futballi18/media/b3ce1047f7f6bfb3f88f0a9e.jpg",
-      "body_html": "یامال پنالتییییی هم گرفت",
-      "plain_text": "یامال پنالتییییی هم گرفت",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "130"
-        },
-        {
-          "emoji": "🤣",
-          "count": "23"
-        },
-        {
-          "emoji": "🔥",
-          "count": "6"
-        },
-        {
-          "emoji": "👍",
-          "count": "3"
-        },
-        {
-          "emoji": "🍌",
-          "count": "2"
-        },
-        {
-          "emoji": "🖕",
-          "count": "2"
-        }
-      ],
-      "views_label": "21.3K",
-      "posted_at": "2026-09-13T15:30:31+00:00",
-      "edited": false,
-      "permalink": "https://t.me/FUTBALLI18/93141"
-    },
-    {
-      "id": "FUTBALLI18/93140",
-      "author_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
-      "author_photo_url": "https://cdn4.telesco.pe/file/hwd3_4V6nbNrsAJJzK-WvHljpSjentZAbmv8oXyChRyFFK71uX46suX6VWTgBYIvS18WPcZyfnp2ba277E2tcZobKuo4GUBsMxSs95MtmyVRaBnLVTb_gXAQr-nildRghPCc7RYPQYAdI2xjxs933CItWlX6QsYnjA0oJxeCb97te09hK59tsz8SYbjOVGmM6NKQzk5sm-eHbBmgiZkMO66F0JJC_NTOFdpYdC2joIwX6YNbK_7KpujV6zStzsvtpk10H-EgsgAn7e259KLrbN3cFZW0PChru1PADwo4wBj9BcEcY_65d3nsUL_e_MHM-SAcG5dYP49IlIn0fkcfQQ.jpg",
-      "author_photo_path": "channels/futballi18/media/b3ce1047f7f6bfb3f88f0a9e.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5438442896212653746\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8FB4F3A081A7F3A081A2F3A081A5F3A081AEF3A081A7F3A081BF.png')\"><b>🏴󠁧󠁢󠁥󠁮󠁧󠁿</b></i></tg-emoji>سر الکس فرگوسنِ کبیر با وجود این شرایط، عشقش به یونایتد رو زمین نذاشت و خودش رو به <a href=\"https://t.me/FUTBALLI18/93128\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">اولدترافورد</a> رسوند<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4E2808DF09F94A5.png')\"><b>❤️‍🔥</b></i><br><br><a href=\"https://t.me/FUTBALLI18\" target=\"_blank\">@FUTBALLI18</a>",
-      "plain_text": "🏴󠁧󠁢󠁥󠁮󠁧󠁿سر الکس فرگوسنِ کبیر با وجود این شرایط، عشقش به یونایتد رو زمین نذاشت و خودش رو به اولدترافورد رسوند❤️‍🔥 @FUTBALLI18",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/FUTBALLI18/93140",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn5.telesco.pe/file/g1owvPNdJ7UfvCmy0j2HFZYPoS6KH8cEhbNCgLaw2wrYjGqMEJZQA8-IFgdeku7dGfQv1o0HZHEZ8t_7G-2lUIRAMioh-FUHX5kk25xtRrSeJkkIDhe3UVk1I4NAr6AXgDcBeOGL8HHNb_RBWodGqs4xv05k-Zw7hR6uLMhv2Vab-yPcE3XT_lDgsh2jaijHKSV585uGw1jFfmHscn-UemXD0FlElsRHfXM_QptH71cxVOM05iRZBUM0ejvj2GTRtIjVA-X8Qet05O6gVoBlA1sET0bMtwDXr_PCClne54cHmBGtl56eHbl3grcW_9Hts9tPTu8yQgIwzpLPpLdRfw",
-          "thumbnail_path": "channels/futballi18/media/bdd8aa360c94915c4bb5a483.jpg",
-          "duration_label": "0:16",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "972"
-        },
-        {
-          "emoji": "🔥",
-          "count": "68"
-        },
-        {
-          "emoji": "😍",
-          "count": "12"
-        },
-        {
-          "emoji": "🤣",
-          "count": "12"
-        },
-        {
-          "emoji": "👍",
-          "count": "7"
-        },
-        {
-          "emoji": "💔",
-          "count": "7"
-        },
-        {
-          "emoji": "🖕",
-          "count": "2"
-        },
-        {
-          "emoji": "👎",
-          "count": "1"
-        },
-        {
-          "emoji": "💋",
-          "count": "1"
-        },
-        {
-          "emoji": "🫡",
-          "count": "1"
-        }
-      ],
-      "views_label": "25.4K",
-      "posted_at": "2026-09-13T15:17:48+00:00",
-      "edited": false,
-      "permalink": "https://t.me/FUTBALLI18/93140"
-    },
-    {
-      "id": "FUTBALLI18/93139",
-      "author_name": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
-      "author_photo_url": "https://cdn4.telesco.pe/file/hwd3_4V6nbNrsAJJzK-WvHljpSjentZAbmv8oXyChRyFFK71uX46suX6VWTgBYIvS18WPcZyfnp2ba277E2tcZobKuo4GUBsMxSs95MtmyVRaBnLVTb_gXAQr-nildRghPCc7RYPQYAdI2xjxs933CItWlX6QsYnjA0oJxeCb97te09hK59tsz8SYbjOVGmM6NKQzk5sm-eHbBmgiZkMO66F0JJC_NTOFdpYdC2joIwX6YNbK_7KpujV6zStzsvtpk10H-EgsgAn7e259KLrbN3cFZW0PChru1PADwo4wBj9BcEcY_65d3nsUL_e_MHM-SAcG5dYP49IlIn0fkcfQQ.jpg",
-      "author_photo_path": "channels/futballi18/media/b3ce1047f7f6bfb3f88f0a9e.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5438646318748700392\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87B8.png')\"><b>🇪🇸</b></i></tg-emoji>نیمه اول بازی؛<br><tg-emoji emoji-id=\"5228948874143512533\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87B8.png')\"><b>🇪🇸</b></i></tg-emoji>لوانته 0-2 بارسلونا<tg-emoji emoji-id=\"5438463168458296496\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87B8.png')\"><b>🇪🇸</b></i></tg-emoji><br><br><a href=\"https://t.me/FUTBALLIGOALS\" target=\"_blank\">@FUTBALLIGOALS</a>",
-      "plain_text": "🇪🇸نیمه اول بازی؛ 🇪🇸لوانته 0-2 بارسلونا🇪🇸 @FUTBALLIGOALS",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/FUTBALLI18/93139",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn5.telesco.pe/file/ZGi_sFL4ef0CUb_sa1d0ISLF9ORLd5_J9J-QaGKf_10QpgPjLsz6ER2mpHQZTvugSAQ4verkYJl2uKYFVBmRNqzZWu9yUq9OHAB0iKTJcAQRuowyt_k4J8szWzr5qKSmDAeqPwiZcUuw-atk4F4jOxynqyW9TFRNA3WPSWYB04merw5QWrAHX5pexjtQWiTVwn3aresiwgMenwV2FFHgG6dWSI_WGCcOjOHSkX0XTMa_Z7vqqoDrC6hX_dhacDjb_vFnHYBAr7qnO2W5NaNnpHUp8jUAW4vlJEbXR_p0UEyFnUwAGRFbicSKhNCDGpUsuHTnBhO6DEnJQFsAjoWfBQ.jpg",
-          "thumbnail_path": "channels/futballi18/media/fd36dc8dd7e3d97c75421ca9.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "310"
-        },
-        {
-          "emoji": "🤣",
-          "count": "36"
-        },
-        {
-          "emoji": "🔥",
-          "count": "15"
-        },
-        {
-          "emoji": "🖕",
-          "count": "8"
-        },
-        {
-          "emoji": "👍",
-          "count": "6"
-        },
-        {
-          "emoji": "🕊",
-          "count": "3"
-        }
-      ],
-      "views_label": "25.4K",
-      "posted_at": "2026-09-13T15:11:45+00:00",
-      "edited": false,
-      "permalink": "https://t.me/FUTBALLI18/93139"
     }
   ]
 }
