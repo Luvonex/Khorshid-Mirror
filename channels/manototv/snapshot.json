@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-19T06:30:55.569Z",
+  "fetched_at": "2026-09-19T09:08:38.795Z",
   "channel": {
     "username": "manototv",
     "title": "تلویزیون منوتو",
@@ -10,6 +10,39 @@
     "subscriber_count": "382K"
   },
   "posts": [
+    {
+      "id": "ManotoTV/107702",
+      "author_name": "تلویزیون منوتو",
+      "author_photo_url": "https://cdn4.telesco.pe/file/pQwiZ9FridHFkRT9_9lh21JWCP_Y80ONE78-Cx3lfMgqB8CijcMV3S61HhvDMn2I6JxMfe35hTJb3khTZ4uBExx87ov-riEOzQLB7SLus_z7muGgANeSy6ERRA9MfDWt9JiKZkB0zexnxTIJH3X-Hat61eGM4QNJIsnWk2iyjMB92lSQpGRf6BkaOGxiJuXC6kPqAiEY7svkF8hsnjgVA214bKVqfWSYpanhcpazDIs5vVJZRPyZUTCkmC2w2ZgLxGwIw7eZt7zcBLiA8bzvY4bIONGL0mBGJc6-i6DI6nvaxLC_ovimKvuh_E0z-lsZDWjcH1AUSbrhklDHzYD-9Q.jpg",
+      "author_photo_path": "channels/manototv/media/bcf9720882059b0e88b58d37.jpg",
+      "body_html": "مناقشه اسرائیل و فلسطین سال‌هاست از مرزهای خاورمیانه فراتر رفته و به یکی از خطوط اصلی شکاف سیاسی و فرهنگی در غرب تبدیل شده است؛ شکافی که بر نوع مواجهه با جنگ، قربانیان و حتی اعتراضات ایران نیز اثر می‌گذارد. اما وقتی یک منازعه به عینک دیدن همه جهان تبدیل شود، خطر استانداردهای دوگانه و همدلی گزینشی، چه در چپ و چه در راست، جدی‌تر می‌شود. مسئله ایران اما باید پیش از هر چیز از ایران و منافع ایرانیان آغاز شود.",
+      "plain_text": "مناقشه اسرائیل و فلسطین سال‌هاست از مرزهای خاورمیانه فراتر رفته و به یکی از خطوط اصلی شکاف سیاسی و فرهنگی در غرب تبدیل شده است؛ شکافی که بر نوع مواجهه با جنگ، قربانیان و حتی اعتراضات ایران نیز اثر می‌گذارد. اما وقتی یک منازعه به عینک دیدن همه جهان تبدیل شود، خطر استانداردهای دوگانه و همدلی گزینشی، چه در چپ و چه در راست، جدی‌تر می‌شود. مسئله ایران اما باید پیش از هر چیز از ایران و منافع ایرانیان آغاز شود.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/ManotoTV/107702",
+          "asset_path": null,
+          "thumbnail_url": null,
+          "thumbnail_path": null,
+          "duration_label": "0:00",
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "50"
+        },
+        {
+          "emoji": "❤",
+          "count": "8"
+        }
+      ],
+      "views_label": "3.76K",
+      "posted_at": "2026-09-19T07:42:28+00:00",
+      "edited": false,
+      "permalink": "https://t.me/ManotoTV/107702"
+    },
     {
       "id": "ManotoTV/107701",
       "author_name": "تلویزیون منوتو",
@@ -31,14 +64,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "156"
+          "count": "183"
         },
         {
           "emoji": "❤",
-          "count": "33"
+          "count": "36"
         }
       ],
-      "views_label": "8.56K",
+      "views_label": "11.1K",
       "posted_at": "2026-09-18T20:20:30+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107701"
@@ -64,14 +97,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "90"
+          "count": "107"
         },
         {
           "emoji": "💔",
-          "count": "73"
+          "count": "89"
         }
       ],
-      "views_label": "7.44K",
+      "views_label": "9.27K",
       "posted_at": "2026-09-18T20:20:10+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107700"
@@ -97,14 +130,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "138"
+          "count": "163"
         },
         {
           "emoji": "❤",
-          "count": "20"
+          "count": "22"
         }
       ],
-      "views_label": "6.93K",
+      "views_label": "8.68K",
       "posted_at": "2026-09-18T20:20:03+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107699"
@@ -130,14 +163,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "147"
+          "count": "171"
         },
         {
           "emoji": "👍",
-          "count": "17"
+          "count": "21"
         }
       ],
-      "views_label": "7.09K",
+      "views_label": "8.65K",
       "posted_at": "2026-09-18T20:19:57+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107698"
@@ -163,14 +196,14 @@
       "reactions": [
         {
           "emoji": "🤔",
-          "count": "88"
+          "count": "90"
         },
         {
           "emoji": "🤮",
           "count": "4"
         }
       ],
-      "views_label": "11.8K",
+      "views_label": "12.7K",
       "posted_at": "2026-09-18T15:23:28+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107697"
@@ -187,8 +220,8 @@
           "kind": "video",
           "asset_url": "https://t.me/ManotoTV/107696",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/OPaY3GrLfzynNl3-LoiWupUO7lr0VdEYEOuDPe4DA4qIpXwKPVccc7lw6nh24Xp-E96fRicTDeRl4iTYd-2are1qyFG5RsV5QDkwYKsQklw-djlCtS0cq0Gt_yMsTOsHgqNkZjOgzg5mUIln_nTmiMs9zSNfjlWf-qM8emsfJXatOSzlYPQH4dujNIeMHL5CmlsuHKvycntxHI10gyiekqGjfJU3VUW4uTuTZlovSIck92JheauD3JjeIAM4PWcZpVLLf3iT8zZle2kMf430wxy6ILl4kgo_Kv9ttn7haDuPxZjMGjnACfHfd071d8j6uOwcGflrQAdOs5FsYi__ig",
-          "thumbnail_path": "channels/manototv/media/7e36907401188c606887ae13.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/FEqjVY2bUUfKVkuI5wME0VQe8EwegtWOfq4ZwMpIVdlXeCijS641jZsfrZbPOF07ZB-cVpb7yrtPYbs5xUYyv-gxY5JTJLSREU98ZkJUylPTdBPTOazDO9VV1LjelC4mE7KnAmLhoEE_OGjy0B_x7YMyFcnKmzOg-vFZGnHNCDgD5zw8ZwUx9F3PK7iwgj3QFa7Wlny1Cac3AdfYRHQswJvriELK6nZIJrqiklR6vaxkPnVMtWPsBb-u-P0rFjd_KCEBxeOdg4G_eCjy--7DdvG4kKZJx1SKdoDLkvCrhj9ewCYmtl_50Mwcw6juVlqDrwJSrpUgeLFgOU0MYnLFaQ",
+          "thumbnail_path": "channels/manototv/media/0b895f16ffe81cb1da8c97ed.jpg",
           "duration_label": "0:49",
           "aspect_ratio": 0.7500000000000188
         }
@@ -196,14 +229,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "163"
+          "count": "166"
         },
         {
           "emoji": "💔",
-          "count": "52"
+          "count": "55"
         }
       ],
-      "views_label": "14.9K",
+      "views_label": "15.6K",
       "posted_at": "2026-09-18T07:57:35+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107696"
@@ -220,8 +253,8 @@
           "kind": "video",
           "asset_url": "https://t.me/ManotoTV/107694?single",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/tMqviNcfJjin3TRsGiqBnSkS0U0WiiIzU3EJdhDA-i91do62VezF5gyMY6N4n4Fq2u-Gqq0FGQPYgsI1rwkgqKVQYrWtCYXB1Yu69LLyO8i1rdukycH7TXUduN1U-6c814sWswqLoxyZM46ZMfmyrTDxWVRECyM5YG9YbIEYSxcbmKOuvvW17jMJeLTrfSAkNRk6ShuILSIlgXLgWsNQABN4ds_zFwan475cnQgHQDccr6XoYLqcDDwwtmTeeQ29dwpZx_C-gfMls791oVeEXdPdX0FhmOkozGSsP8q50t7nAZ_iXtVerB73X9YKSAC0STaseupo-umi3s0gXCXneg",
-          "thumbnail_path": "channels/manototv/media/a6d0e2c7f0db0303e77d1da8.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/M04x3MHk3lPFMlfZoswVBdh1y-c84YTEGej3Pay6bgexDPtUDVjGNUjJpZSgso-vAgBSgPvczOcAVAh1ZVhn-wVZHHNqDQFsj_TrQFjS6E0UGTvTWqAVo3QvoWjIRj8irw1KO-0MccosIllQKq6DPgHFHjH6w45hB5W2UQT3-ZNBRCRoEXMYUoUtwI0KqJGClyXq-S3ZfDYcAFCmyEBbKEkhtsSG_SGRGaZPwf4LhmTfLzkIlacrADFyBcKV4RUAmnthkqWJ0qWHlcjyk9zV3EzyUaTqe_D9q6j92SAk9ZHEKG6xbYR5zBMa_8AZgocEwufyWQQY5qUqYSZkvt7fpA",
+          "thumbnail_path": "channels/manototv/media/188145403c4104b9c6127bba.jpg",
           "duration_label": "2:29",
           "aspect_ratio": null
         },
@@ -229,8 +262,8 @@
           "kind": "video",
           "asset_url": "https://t.me/ManotoTV/107695?single",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/XxzbyARbVC-LQCVdg5J5-Kk0jR4zxloXwvga1iZJ9bm8aWgD-vmFWsqpGMTCXqrzb9ePhGT6HHtxI46jYYnlhOI_9On28W-iT285Sa8yK6mIn-mTyjE4xo9iQE20nu-_KeJGzR21H9FdAvKgzBjU-yA7qXJMCc5AsFhdLGyuh9mw6odLNdR6PNwvlI_JF_f7CROU71mqR19kqxpCWoYJBmqROPuDFWQiRswdnPu0IGC6ItnoxoiucS2KNbtCxJnYK0WpawtUM_FMGGgL7HenT1Goor8IJ4ovG7GpgivEoIRHhxITDEG2RtvdHJyGZUmABb1iP4a_FypHyJiypnZ4vQ",
-          "thumbnail_path": "channels/manototv/media/a3d414d31687935eec997d25.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/d49NsgGAzRvtRLfTRYuLyBFnWLJYToVUezrVtelXw5OnTXNDrXhuNZcR36vqGoQ9K3wkQysBztucSoE6QwSS5qnRSSn37lvyFvwM7cBHNVmAObABbZf0dhcoDR9aAGWeDeC0NotwYVOXdvyRxUfcPuxnbq5O0xLfWFpPEnChQ6DUZqOvEfeU0FRuooBbR5SHpOJVXxBmWlKjyLAcbtGq9okK39Wj1-RdxRdmHCNWfEYSVkVjCOhnJwsfREQkJI6WG_xWGMa-ggEBgyt4r_gTRNAcWFVdEEZJ83UvewVvJuL1Z7GBEUXSR_m1ZTa6X2TzK2rt_1n7vporGgCbBf8y_A",
+          "thumbnail_path": "channels/manototv/media/3a98302c66157a54f1837e74.jpg",
           "duration_label": "2:29",
           "aspect_ratio": null
         }
@@ -238,14 +271,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "170"
+          "count": "176"
         },
         {
           "emoji": "❤",
           "count": "18"
         }
       ],
-      "views_label": "12.4K",
+      "views_label": "13.1K",
       "posted_at": "2026-09-18T07:57:13+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107694"
@@ -325,14 +358,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "611"
+          "count": "615"
         },
         {
           "emoji": "👎",
           "count": "115"
         }
       ],
-      "views_label": "19K",
+      "views_label": "19.3K",
       "posted_at": "2026-09-17T18:56:58+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107687"
@@ -439,14 +472,14 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "365"
+          "count": "371"
         },
         {
           "emoji": "🤔",
-          "count": "19"
+          "count": "20"
         }
       ],
-      "views_label": "18.3K",
+      "views_label": "18.6K",
       "posted_at": "2026-09-17T14:47:07+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107677"
@@ -4752,39 +4785,6 @@
       "posted_at": "2026-09-09T14:46:40+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107432"
-    },
-    {
-      "id": "ManotoTV/107431",
-      "author_name": "تلویزیون منوتو",
-      "author_photo_url": "https://cdn4.telesco.pe/file/c0cEIR-PPIod6Er1i8CSJYHMbilcdgBt_6OijnHlYgRmbvFAj2AP5c1JznWt8tH_oX4BqnoStB4M_yHz9F_p-lI4AOgqUPGY7h61aRRgWna5gBV5F-4mZbEMigjTC40fmAfBL5b7PMpGYoojq1FnV6srRkQbLUj8yxqc_QPnKcv-mAZGzXJ-mNY5RR7p6Zilhym6LoWjlZ16A109AzKQbyC0TYpYgK4pP-vqxfrtFZZaNM8IuJe6vAPA_k6ryNmhDzYzE9TD06i2zaMK9KhhJQwPP5dJpZpC_qqNTza0i8xNfcyABxcVr6f1r9SXSMeJQfuxbw4R5yJTc7ooOZSbdA.jpg",
-      "author_photo_path": "channels/manototv/media/d2690c6d70970c7f7fb9bffb.jpg",
-      "body_html": "هم‌زمان با افزایش قیمت بنزین، برخی جایگاه‌های سوخت تعطیل شده‌اند و بعضی دیگر با ساعات کاری محدود یا محدودیت در میزان سوخت‌گیری فعالیت می‌کنند.<br>اگر شما هم در شهر یا محل زندگی خود با مشکلاتی در جایگاه‌های سوخت روبه‌رو شده‌اید، مشاهدات و تصاویرتان را برای ما ارسال کنید.",
-      "plain_text": "هم‌زمان با افزایش قیمت بنزین، برخی جایگاه‌های سوخت تعطیل شده‌اند و بعضی دیگر با ساعات کاری محدود یا محدودیت در میزان سوخت‌گیری فعالیت می‌کنند. اگر شما هم در شهر یا محل زندگی خود با مشکلاتی در جایگاه‌های سوخت روبه‌رو شده‌اید، مشاهدات و تصاویرتان را برای ما ارسال کنید.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/ManotoTV/107431",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/LjngxJsIx_MgRZzQsAd7xX-12gUHHGNFLBKUYLZcWJlBiOCAcV4F58uhaiir_HIawTg1rztr2uoiKBVLYGY9YowioSGb0rRrd6zVU5kx4J9EAKuf75d8xMJjYMX04dDQkBTKaxKDWv4lKrjA-J-DkosBUO44ypFzfxnQbT4-8NZahS2UWSUPu4Z9ywwnxSNxaYt9dQvL5_hSvI0x2J_vSdW02SY95e134q6GWsAQVMzIJ2G8NlfPHBND781rTtyB3HoISqr-uDFfZpsM_tTGnzp5XXkC_LOhGEv83ihNGM7F3XjD2PgyjQO2dnyZMtZGU_PXDttcZmuQHFPMqHbq4w",
-          "thumbnail_path": "channels/manototv/media/1544d7602eb5ac46bcace0dd.jpg",
-          "duration_label": "1:19",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤬",
-          "count": "145"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "10"
-        }
-      ],
-      "views_label": "10.9K",
-      "posted_at": "2026-09-09T12:01:20+00:00",
-      "edited": false,
-      "permalink": "https://t.me/ManotoTV/107431"
     }
   ]
 }
