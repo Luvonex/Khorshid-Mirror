@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-19T01:28:35.795Z",
+  "fetched_at": "2026-09-19T05:00:58.981Z",
   "channel": {
     "username": "iranianminds",
     "title": "Iranian Minds",
@@ -10,6 +10,51 @@
     "subscriber_count": "240K"
   },
   "posts": [
+    {
+      "id": "IranianMinds/29301",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/hmoHxwn_8dEFlIE0XBPP-siJ9ELTqV-3DUWdbXmtuY8qamAegmtcwCvadTiQ9kXs7yjEn2b1lCfpjEsDzePTMz6bArPY0h8X54N4TxXBpz_fllxlMfNibKpZFM_qdBPRMXGTSH9IsjyF-tRPTYkYR27BAu1mouPSINRxZvAi_vLTuNGngZN24fImhQXeNohVEJLsMTZX_yt6I7fVzfMk6BdVquQa2hCeSCSSA84Ig4cKbD84KDxPqriE7Oj-Er4zmCg6XqTsR_H9S03Obt2--f6bw6QT9by5EJ7vMS3CzdmTX5fhtZ6PT3GNt-Ye9fOirQPstdVMj5ciXfsIjoHawA.jpg",
+      "author_photo_path": "channels/iranianminds/media/1e7c1a69872a8b7c3a07afa6.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> <b>ویدئوی لحظه انفجار در شهر ریاض</b>!<br><blockquote>سازمان دفاع مدنی عربستان، در دو شهر ریاض و الخرج هشدار امنیتی صادر کرد.</blockquote><br><blockquote>منابع عربی از شلیک موشک از یمن به سمت این شهرها خبر داده‌اند.</blockquote><br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "🔴 ویدئوی لحظه انفجار در شهر ریاض! سازمان دفاع مدنی عربستان، در دو شهر ریاض و الخرج هشدار امنیتی صادر کرد. منابع عربی از شلیک موشک از یمن به سمت این شهرها خبر داده‌اند. @IranianMinds",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranianMinds/29301",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Ja-fVwVtpWCuRjimbuhEvyq42H2hzVgEmEtkWJoAuQ49zPhg23Jp_nj4voIYNjVBRHD27VmavKLcOKTPtSVbsEVZF7D9EcklX7ZBai2o6OsdefkydyGKcOoKLNybwPfPR-LNlUO-r4WvlTGfLbJpeIg6Ph8GDCMq0M6dPD4k7lcwNWhTZq8Lnr7w8xvnHGjUe_S7Y8clCVDal5W0FWySW2LKrSNFetdxmEpmAu0z0U3WQ5K7y4vKOb3QZLGcdshmtYKgkr5cdSZ1WZObN-oMl3Yv1i-R1YLLf28sorFzf4T89-uPucBQDOU3twQbp3dZdgH-TebUX-GibE24afaWxg",
+          "thumbnail_path": "channels/iranianminds/media/41c98c21ae32845c67877d99.jpg",
+          "duration_label": "0:08",
+          "aspect_ratio": 1.1764705882352942
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "753"
+        },
+        {
+          "emoji": "❤",
+          "count": "334"
+        },
+        {
+          "emoji": "🤣",
+          "count": "56"
+        },
+        {
+          "emoji": "💔",
+          "count": "5"
+        },
+        {
+          "emoji": "🖕",
+          "count": "3"
+        }
+      ],
+      "views_label": "17.9K",
+      "posted_at": "2026-09-19T01:57:57+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/29301"
+    },
     {
       "id": "IranianMinds/29300",
       "author_name": "Iranian Minds",
@@ -31,22 +76,26 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "1.84K"
+          "count": "1.91K"
         },
         {
           "emoji": "❤",
-          "count": "34"
+          "count": "179"
         },
         {
           "emoji": "👏",
-          "count": "14"
+          "count": "91"
         },
         {
           "emoji": "🤣",
-          "count": "14"
+          "count": "41"
+        },
+        {
+          "emoji": "👍",
+          "count": "2"
         }
       ],
-      "views_label": "3.01K",
+      "views_label": "19.9K",
       "posted_at": "2026-09-19T00:58:49+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/29300"
@@ -72,22 +121,22 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "610"
+          "count": "624"
         },
         {
           "emoji": "❤",
-          "count": "312"
+          "count": "315"
         },
         {
           "emoji": "🖕",
-          "count": "6"
+          "count": "17"
         },
         {
           "emoji": "🤣",
-          "count": "2"
+          "count": "6"
         }
       ],
-      "views_label": "3.37K",
+      "views_label": "19.7K",
       "posted_at": "2026-09-19T00:58:12+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/29298"
@@ -103,22 +152,22 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "612"
+          "count": "614"
         },
         {
           "emoji": "❤",
-          "count": "318"
+          "count": "321"
         },
         {
           "emoji": "🖕",
-          "count": "7"
+          "count": "17"
         },
         {
           "emoji": "🤣",
-          "count": "1"
+          "count": "3"
         }
       ],
-      "views_label": "3.37K",
+      "views_label": "19.6K",
       "posted_at": "2026-09-19T00:58:12+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/29299"
@@ -134,23 +183,23 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "1.22K"
+          "count": "1.28K"
         },
         {
           "emoji": "🖕",
-          "count": "974"
+          "count": "1.14K"
         },
         {
           "emoji": "🤣",
-          "count": "145"
+          "count": "152"
         },
         {
           "emoji": "👍",
-          "count": "12"
+          "count": "13"
         },
         {
           "emoji": "❤",
-          "count": "11"
+          "count": "12"
         },
         {
           "emoji": "👏",
@@ -158,10 +207,10 @@
         },
         {
           "emoji": "🔥",
-          "count": "3"
+          "count": "4"
         }
       ],
-      "views_label": "27.1K",
+      "views_label": "37.5K",
       "posted_at": "2026-09-18T20:25:26+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/29297"
@@ -177,30 +226,30 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "1.57K"
+          "count": "1.69K"
         },
         {
           "emoji": "❤",
-          "count": "371"
+          "count": "379"
         },
         {
           "emoji": "🤣",
-          "count": "114"
+          "count": "125"
         },
         {
           "emoji": "👏",
-          "count": "41"
+          "count": "42"
         },
         {
           "emoji": "🖕",
-          "count": "11"
+          "count": "12"
         },
         {
           "emoji": "🔥",
-          "count": "8"
+          "count": "10"
         }
       ],
-      "views_label": "34.6K",
+      "views_label": "42.2K",
       "posted_at": "2026-09-18T19:37:37+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/29296"
@@ -226,19 +275,19 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "609"
+          "count": "679"
         },
         {
           "emoji": "🤣",
-          "count": "184"
+          "count": "204"
         },
         {
           "emoji": "💔",
-          "count": "52"
+          "count": "63"
         },
         {
           "emoji": "🖕",
-          "count": "21"
+          "count": "23"
         },
         {
           "emoji": "👍",
@@ -246,14 +295,14 @@
         },
         {
           "emoji": "❤",
-          "count": "11"
+          "count": "12"
         },
         {
           "emoji": "❤‍🔥",
           "count": "10"
         }
       ],
-      "views_label": "34.4K",
+      "views_label": "41.8K",
       "posted_at": "2026-09-18T19:36:16+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/29295"
@@ -269,7 +318,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "1.87K"
+          "count": "2.01K"
         },
         {
           "emoji": "💔",
@@ -288,7 +337,7 @@
           "count": "1"
         }
       ],
-      "views_label": "40.7K",
+      "views_label": "46.2K",
       "posted_at": "2026-09-18T18:55:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/29294"
@@ -314,15 +363,15 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "1.12K"
+          "count": "1.17K"
         },
         {
           "emoji": "❤‍🔥",
-          "count": "765"
+          "count": "813"
         },
         {
           "emoji": "❤",
-          "count": "30"
+          "count": "34"
         },
         {
           "emoji": "🖕",
@@ -330,7 +379,7 @@
         },
         {
           "emoji": "👍",
-          "count": "14"
+          "count": "15"
         },
         {
           "emoji": "🔥",
@@ -341,7 +390,7 @@
           "count": "7"
         }
       ],
-      "views_label": "40.9K",
+      "views_label": "46.1K",
       "posted_at": "2026-09-18T18:50:27+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/29293"
@@ -357,27 +406,27 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "1.08K"
+          "count": "1.11K"
         },
         {
           "emoji": "👍",
-          "count": "655"
+          "count": "681"
         },
         {
           "emoji": "🤣",
-          "count": "205"
+          "count": "216"
         },
         {
           "emoji": "❤‍🔥",
-          "count": "73"
+          "count": "76"
         },
         {
           "emoji": "🔥",
-          "count": "35"
+          "count": "37"
         },
         {
           "emoji": "🖕",
-          "count": "11"
+          "count": "12"
         },
         {
           "emoji": "❤",
@@ -388,7 +437,7 @@
           "count": "5"
         }
       ],
-      "views_label": "43.4K",
+      "views_label": "47.8K",
       "posted_at": "2026-09-18T18:31:34+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/29292"
@@ -414,19 +463,19 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "1.68K"
+          "count": "1.79K"
         },
         {
           "emoji": "💔",
-          "count": "924"
+          "count": "925"
         },
         {
           "emoji": "🖕",
-          "count": "307"
+          "count": "322"
         },
         {
           "emoji": "❤",
-          "count": "32"
+          "count": "33"
         },
         {
           "emoji": "🔥",
@@ -441,7 +490,7 @@
           "count": "3"
         }
       ],
-      "views_label": "47.3K",
+      "views_label": "51.1K",
       "posted_at": "2026-09-18T18:07:54+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/29291"
@@ -461,27 +510,27 @@
         },
         {
           "emoji": "💔",
-          "count": "959"
+          "count": "964"
         },
         {
           "emoji": "❤",
-          "count": "558"
+          "count": "575"
         },
         {
           "emoji": "👍",
-          "count": "129"
+          "count": "134"
         },
         {
           "emoji": "🤣",
-          "count": "30"
+          "count": "31"
         },
         {
           "emoji": "🔥",
-          "count": "18"
+          "count": "19"
         },
         {
           "emoji": "❤‍🔥",
-          "count": "9"
+          "count": "10"
         },
         {
           "emoji": "🖕",
@@ -489,10 +538,10 @@
         },
         {
           "emoji": "👏",
-          "count": "2"
+          "count": "3"
         }
       ],
-      "views_label": "43.3K",
+      "views_label": "46.4K",
       "posted_at": "2026-09-18T17:54:05+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/29290"
@@ -508,19 +557,19 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "962"
+          "count": "971"
         },
         {
           "emoji": "❤",
-          "count": "413"
+          "count": "426"
         },
         {
           "emoji": "❤‍🔥",
-          "count": "54"
+          "count": "55"
         },
         {
           "emoji": "👍",
-          "count": "45"
+          "count": "48"
         },
         {
           "emoji": "🔥",
@@ -528,14 +577,14 @@
         },
         {
           "emoji": "🤣",
-          "count": "8"
+          "count": "10"
         },
         {
           "emoji": "🖕",
           "count": "6"
         }
       ],
-      "views_label": "42.4K",
+      "views_label": "45.6K",
       "posted_at": "2026-09-18T17:49:15+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/29289"
@@ -561,34 +610,34 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "1.33K"
+          "count": "1.37K"
         },
         {
           "emoji": "❤",
-          "count": "671"
+          "count": "686"
         },
         {
           "emoji": "❤‍🔥",
-          "count": "110"
+          "count": "113"
         },
         {
           "emoji": "💔",
-          "count": "24"
+          "count": "26"
         },
         {
           "emoji": "🖕",
-          "count": "23"
+          "count": "25"
         },
         {
           "emoji": "🤣",
-          "count": "19"
+          "count": "22"
         },
         {
           "emoji": "🔥",
           "count": "5"
         }
       ],
-      "views_label": "43.6K",
+      "views_label": "46.8K",
       "posted_at": "2026-09-18T17:46:23+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/29288"
@@ -604,11 +653,11 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "1.01K"
+          "count": "1.06K"
         },
         {
           "emoji": "💔",
-          "count": "980"
+          "count": "981"
         },
         {
           "emoji": "🖕",
@@ -616,14 +665,14 @@
         },
         {
           "emoji": "❤",
-          "count": "7"
+          "count": "8"
         },
         {
           "emoji": "👍",
-          "count": "3"
+          "count": "4"
         }
       ],
-      "views_label": "39.6K",
+      "views_label": "42.3K",
       "posted_at": "2026-09-18T17:41:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/29287"
@@ -639,27 +688,27 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "1.7K"
+          "count": "1.72K"
         },
         {
           "emoji": "💔",
-          "count": "956"
+          "count": "962"
         },
         {
           "emoji": "❤‍🔥",
-          "count": "705"
+          "count": "718"
         },
         {
           "emoji": "🔥",
-          "count": "96"
+          "count": "97"
         },
         {
           "emoji": "👏",
-          "count": "23"
+          "count": "26"
         },
         {
           "emoji": "👍",
-          "count": "20"
+          "count": "21"
         },
         {
           "emoji": "❤",
@@ -667,10 +716,10 @@
         },
         {
           "emoji": "🖕",
-          "count": "12"
+          "count": "13"
         }
       ],
-      "views_label": "41.8K",
+      "views_label": "44.9K",
       "posted_at": "2026-09-18T17:38:48+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/29286"
@@ -686,19 +735,19 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "986"
+          "count": "994"
         },
         {
           "emoji": "🔥",
-          "count": "576"
+          "count": "590"
         },
         {
           "emoji": "🤣",
-          "count": "77"
+          "count": "81"
         },
         {
           "emoji": "🖕",
-          "count": "36"
+          "count": "38"
         },
         {
           "emoji": "❤",
@@ -713,7 +762,7 @@
           "count": "5"
         }
       ],
-      "views_label": "41K",
+      "views_label": "44.1K",
       "posted_at": "2026-09-18T17:37:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/29285"
@@ -739,22 +788,22 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "712"
+          "count": "718"
         },
         {
           "emoji": "🤣",
-          "count": "566"
+          "count": "582"
         },
         {
           "emoji": "❤",
-          "count": "309"
+          "count": "310"
         },
         {
           "emoji": "🖕",
-          "count": "135"
+          "count": "146"
         }
       ],
-      "views_label": "41.8K",
+      "views_label": "44.7K",
       "posted_at": "2026-09-18T17:33:39+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/29284"
@@ -769,16 +818,16 @@
       "media": [],
       "reactions": [
         {
-          "emoji": "👍",
-          "count": "697"
+          "emoji": "🖕",
+          "count": "710"
         },
         {
-          "emoji": "🖕",
-          "count": "689"
+          "emoji": "👍",
+          "count": "700"
         },
         {
           "emoji": "❤",
-          "count": "326"
+          "count": "327"
         },
         {
           "emoji": "🤣",
@@ -789,7 +838,7 @@
           "count": "5"
         }
       ],
-      "views_label": "42K",
+      "views_label": "44.2K",
       "posted_at": "2026-09-18T16:39:03+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/29283"
@@ -819,7 +868,7 @@
         },
         {
           "emoji": "❤",
-          "count": "1.66K"
+          "count": "1.71K"
         },
         {
           "emoji": "💔",
@@ -827,19 +876,19 @@
         },
         {
           "emoji": "🤣",
-          "count": "410"
+          "count": "419"
         },
         {
           "emoji": "🔥",
-          "count": "45"
+          "count": "46"
         },
         {
           "emoji": "👏",
-          "count": "26"
+          "count": "27"
         },
         {
           "emoji": "🖕",
-          "count": "18"
+          "count": "20"
         },
         {
           "emoji": "❤‍🔥",
@@ -850,7 +899,7 @@
           "count": "8"
         }
       ],
-      "views_label": "44.2K",
+      "views_label": "46.2K",
       "posted_at": "2026-09-18T16:16:26+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/29282"
@@ -4510,49 +4559,6 @@
       "posted_at": "2026-09-17T07:20:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/29197"
-    },
-    {
-      "id": "IranianMinds/29196",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/GPGMAg-O7Hg9SeaIAyuzQoj7boxFbNBKcL0DgLV6KBJu6F08pXFmJNvYeR8cq8f5jqI0kf1O1uo7n0yquCB7wYYwRmmxWXgxy4kGFnf_1cEcBOs32Ghd8Az4OfrgZVTVJnS4Vp4FNlOOUAUp4NdbKDOaF3ZcHTXcCbHWtKipjAKP0N9nS2p8CANS7k35uX5vUeeUE2I1mXXyrgG_RqxUveUD4Sb6yrfjfc9-Pgz9pJpmNZlxuz6f-79XxwDx5DhyZnEzlR2T0X5lzOW_SSDWbAc7xABCXWhxNf7JDKlRuV_qH3klTU6CxPYkt2NyYq4oArYCkcYG2LuVL-FoQTWjhQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/d683174fb1c475a35be74ee6.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> اکسیوس به نقل از سه منبع آگاه گزارش داده که:<br><br>دونالد ترامپ قراره سه‌شنبه آینده<br>۲۲ سپتامبر در حاشیه مجمع عمومی سازمان ملل در نیویورک با رهبران یا وزیران خارجه شش کشور عضو شورای همکاری خلیج فارس دیدار کند و <b>درباره گام‌های بعدی جنگ با ایران گفت‌وگو</b> داشته باشه.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "🔴 اکسیوس به نقل از سه منبع آگاه گزارش داده که: دونالد ترامپ قراره سه‌شنبه آینده ۲۲ سپتامبر در حاشیه مجمع عمومی سازمان ملل در نیویورک با رهبران یا وزیران خارجه شش کشور عضو شورای همکاری خلیج فارس دیدار کند و درباره گام‌های بعدی جنگ با ایران گفت‌وگو داشته باشه. @IranianMinds",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "💔",
-          "count": "929"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "225"
-        },
-        {
-          "emoji": "👏",
-          "count": "39"
-        },
-        {
-          "emoji": "🖕",
-          "count": "20"
-        },
-        {
-          "emoji": "❤",
-          "count": "8"
-        },
-        {
-          "emoji": "🔥",
-          "count": "6"
-        },
-        {
-          "emoji": "👍",
-          "count": "5"
-        }
-      ],
-      "views_label": "26.4K",
-      "posted_at": "2026-09-17T07:10:06+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/29196"
     }
   ]
 }
