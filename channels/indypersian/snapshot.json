@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-19T00:37:04.992Z",
+  "fetched_at": "2026-09-19T01:28:35.175Z",
   "channel": {
     "username": "indypersian",
     "title": "IndyPersian",
@@ -10,6 +10,35 @@
     "subscriber_count": "73.9K"
   },
   "posts": [
+    {
+      "id": "Indypersian/178121",
+      "author_name": "IndyPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/QulicEMeX78a9KBqrO-gX87R7CDJlqPxN8s7hukYtlv41XVotMVL5mshRlXhUeeOjWZf_Qd_REryMv4mo9BY_zphdqzTcbSKzXPMK2io8rtH4niHhvKWD9CoFQRdhvyt9uBxcW1XgELp2x78_1Ym--eJD5Yt4RHOoXR1reCoydphg0BnbnWHUPQ04p_b2QE-y5jWCOJKsZDrIYd1-XVejwtan4ggd8Co2VTx55p0ExnMbNEmM1Rme20cjVQ5oejb26_1RvJdngxM6uDIDwKDDjEl8YMg3OY3BoKdlIx0MRNZgcqfDlreOi960-bdg5Et4nGQPVhZg-jKfYgl2jP1Ow.jpg",
+      "author_photo_path": "channels/indypersian/media/85b39eb28180be1ff792a4f6.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i>تصاویر منتشرشده روز جمعه ۲۷ شهریورماه، فوران آتشفشان شیلان در منطقه نوبله در مرکز شیلی و برخاستن توده بزرگی از خاکستر از دهانه آن را نشان می‌دهد.<br><br>سازمان ملی زمین‌شناسی شیلی اعلام کرد توده خاکستر ناشی از این فوران تا ارتفاع ۳۸۰ متری بالای دهانه آتشفشان رسیده است. تاکنون گزارشی از آسیب‌دیدگی افراد منتشر نشده است.<br><br><a href=\"https://t.me/indypersian\" target=\"_blank\">@indypersian</a>",
+      "plain_text": "♦️تصاویر منتشرشده روز جمعه ۲۷ شهریورماه، فوران آتشفشان شیلان در منطقه نوبله در مرکز شیلی و برخاستن توده بزرگی از خاکستر از دهانه آن را نشان می‌دهد. سازمان ملی زمین‌شناسی شیلی اعلام کرد توده خاکستر ناشی از این فوران تا ارتفاع ۳۸۰ متری بالای دهانه آتشفشان رسیده است. تاکنون گزارشی از آسیب‌دیدگی افراد منتشر نشده است. @indypersian",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Indypersian/178121",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/MJPX_8GwLCJb0oN1onBWWJHPY0i6eV6ou5ptv3FjXc7bOMOynPdtAX7-zW6Ug6qI0I-ii4a8zlHMO7Emhx8-0-19SJbuxKrxo71quwJMvgG3Jw9lrtRSMiJ_syeBB77ElduB9bHd0GKLCd-eten37igQDqOmSjJhpmxkq8aRYkCSuYl_0m9k4ZEIipfy69G4Jdul44UJz6RxkMsyUSkwhxacgurbgfyg44k1s2EHpbNNZZFvStLNFR16dY5Ojnzl9wOFB4hTyOvaoqG2dWLkeqazQWlgVxngBqsbx20MBxKXb3YOqCu5qvvcOxCrrDcyKkX4sJngrhCW8ET96kav0w",
+          "thumbnail_path": "channels/indypersian/media/0d3261c6459a6958ef6f06ef.jpg",
+          "duration_label": "0:28",
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤯",
+          "count": "1"
+        }
+      ],
+      "views_label": "154",
+      "posted_at": "2026-09-19T01:19:09+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Indypersian/178121"
+    },
     {
       "id": "Indypersian/178119",
       "author_name": "IndyPersian",
@@ -28,8 +57,21 @@
           "aspect_ratio": 0.8
         }
       ],
-      "reactions": [],
-      "views_label": "2",
+      "reactions": [
+        {
+          "emoji": "🫡",
+          "count": "11"
+        },
+        {
+          "emoji": "👍",
+          "count": "4"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        }
+      ],
+      "views_label": "655",
       "posted_at": "2026-09-19T00:36:24+00:00",
       "edited": true,
       "permalink": "https://t.me/Indypersian/178119"
@@ -52,8 +94,17 @@
           "aspect_ratio": 0.8
         }
       ],
-      "reactions": [],
-      "views_label": "219",
+      "reactions": [
+        {
+          "emoji": "🤬",
+          "count": "3"
+        },
+        {
+          "emoji": "😢",
+          "count": "2"
+        }
+      ],
+      "views_label": "719",
       "posted_at": "2026-09-19T00:20:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/178118"
@@ -79,7 +130,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "13"
+          "count": "17"
         },
         {
           "emoji": "🥴",
@@ -90,7 +141,7 @@
           "count": "1"
         }
       ],
-      "views_label": "774",
+      "views_label": "1.09K",
       "posted_at": "2026-09-18T23:38:40+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/178117"
@@ -116,14 +167,18 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "27"
+          "count": "35"
         },
         {
           "emoji": "🏆",
           "count": "5"
+        },
+        {
+          "emoji": "🕊",
+          "count": "1"
         }
       ],
-      "views_label": "1.27K",
+      "views_label": "1.52K",
       "posted_at": "2026-09-18T22:54:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/178116"
@@ -149,7 +204,7 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "13"
+          "count": "15"
         },
         {
           "emoji": "🤬",
@@ -158,9 +213,13 @@
         {
           "emoji": "👍",
           "count": "2"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
         }
       ],
-      "views_label": "1.18K",
+      "views_label": "1.39K",
       "posted_at": "2026-09-18T22:52:49+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/178115"
@@ -186,18 +245,18 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "13"
+          "count": "14"
         },
         {
           "emoji": "👏",
-          "count": "8"
+          "count": "9"
         },
         {
           "emoji": "👍",
           "count": "1"
         }
       ],
-      "views_label": "1.62K",
+      "views_label": "1.81K",
       "posted_at": "2026-09-18T22:11:00+00:00",
       "edited": true,
       "permalink": "https://t.me/Indypersian/178114"
@@ -223,14 +282,18 @@
       "reactions": [
         {
           "emoji": "😢",
-          "count": "7"
+          "count": "9"
         },
         {
           "emoji": "😍",
           "count": "2"
+        },
+        {
+          "emoji": "🤬",
+          "count": "1"
         }
       ],
-      "views_label": "1.69K",
+      "views_label": "1.83K",
       "posted_at": "2026-09-18T21:54:26+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/178112"
@@ -256,14 +319,14 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "5"
+          "count": "7"
         },
         {
           "emoji": "❤",
           "count": "1"
         }
       ],
-      "views_label": "1.82K",
+      "views_label": "1.99K",
       "posted_at": "2026-09-18T21:38:08+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/178111"
@@ -289,11 +352,11 @@
       "reactions": [
         {
           "emoji": "🥴",
-          "count": "14"
+          "count": "16"
         },
         {
           "emoji": "🌚",
-          "count": "7"
+          "count": "8"
         },
         {
           "emoji": "🍾",
@@ -302,9 +365,13 @@
         {
           "emoji": "❤",
           "count": "1"
+        },
+        {
+          "emoji": "🤬",
+          "count": "1"
         }
       ],
-      "views_label": "1.9K",
+      "views_label": "2.04K",
       "posted_at": "2026-09-18T21:32:53+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/178110"
@@ -334,7 +401,7 @@
         },
         {
           "emoji": "👍",
-          "count": "7"
+          "count": "9"
         },
         {
           "emoji": "👏",
@@ -353,7 +420,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.23K",
+      "views_label": "2.35K",
       "posted_at": "2026-09-18T21:13:18+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/178109"
@@ -383,10 +450,10 @@
         },
         {
           "emoji": "👍",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "2.11K",
+      "views_label": "2.22K",
       "posted_at": "2026-09-18T21:11:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/178108"
@@ -433,7 +500,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.79K",
+      "views_label": "2.91K",
       "posted_at": "2026-09-18T20:29:58+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/178106"
@@ -460,7 +527,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.21K",
+      "views_label": "3.31K",
       "posted_at": "2026-09-18T19:55:18+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/178105"
@@ -505,7 +572,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.08K",
+      "views_label": "3.15K",
       "posted_at": "2026-09-18T19:46:31+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/178104"
@@ -531,7 +598,7 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "35"
+          "count": "36"
         },
         {
           "emoji": "🥴",
@@ -550,7 +617,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.89K",
+      "views_label": "2.98K",
       "posted_at": "2026-09-18T19:45:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/178103"
@@ -579,7 +646,7 @@
           "count": "28"
         }
       ],
-      "views_label": "3.21K",
+      "views_label": "3.3K",
       "posted_at": "2026-09-18T19:26:55+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/178102"
@@ -606,7 +673,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.64K",
+      "views_label": "3.72K",
       "posted_at": "2026-09-18T18:58:31+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/178101"
@@ -647,7 +714,7 @@
           "count": "3"
         }
       ],
-      "views_label": "3.64K",
+      "views_label": "3.68K",
       "posted_at": "2026-09-18T18:39:22+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/178100"
@@ -3963,55 +4030,6 @@
       "posted_at": "2026-09-17T18:52:44+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/178011"
-    },
-    {
-      "id": "Indypersian/178010",
-      "author_name": "IndyPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/o1Qo0HM8PlJZM1R8M-JRCDY6DQqUZl0RD1XbOJzu55RJPNS7Eu3K5VoJ2_hKgaEffiOVIiLZGxQyJeUulrPvMwuz-TvDWWXU2EuiHFOzuMCZhyPX435dz_vKH2U2kbn5k8tkcTWIRrEEu6J_prLjqv91PqSDiZvhdRIIwWhJngx0zU3-MBc3j0hr-turh-Y7-oa8peqIRd2DMb2Vaub8w2k_EbFTzTsZVv0CEzS_pLRIwvf-yHnLkEEYKKihgL3M7O1CZvT2PUrae8FF8SPSA_Zz0FewLoWlzy3CSkziLRiibmLRfpqrDPqBxAZ86UIAE-f4dRC04zmu-kZx_e9-MQ.jpg",
-      "author_photo_path": "channels/indypersian/media/ef467585ea636fd1e63ee16e.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i>دفتر کنترل دارایی‌های خارجی وزارت خزانه‌داری آمریکا روز پنجشنبه ۲۶ شهریورماه صرافی رمزارزی «بیت‌بانک»، شرکت توسعه‌دهنده آن و سه نفر از همکاران بابک زنجانی را در چارچوب عملیات «طرد اقتصادی» تحریم کرد. وزارت خزانه‌داری آمریکا بیت‌بانک را یک صرافی رمزارزی ایرانی تحت کنترل بابک زنجانی معرفی کرده است.<br><br>شرکت «پیشتاز سیمرغ تجارت الکترونیک»، توسعه‌دهنده نرم‌افزار بیت‌بانک، همراه با حسین‌علی ذاکر حسین، محمدمهدی ذاکر حسین و عادل حیدری نیز مشمول تحریم شدند. وزارت خزانه‌داری این افراد و شرکت‌ها را از اجزای اصلی شبکه استفاده از دارایی‌های دیجیتال برای دور زدن تحریم‌ها و انتقال منابع مالی به جمهوری اسلامی معرفی کرد.<br><br>وزارت خزانه‌داری اعلام کرد «نهاد مدیریت آبراه خلیج فارس» از ماه خرداد از بیت‌بانک برای انتقال پرداخت‌های دریافتی به جمهوری اسلامی استفاده کرده است. این وزارتخانه همچنین اعلام کرد بابک زنجانی در فاصله خرداد تا مردادماه از بیت‌بانک برای انتقال صدها میلیون دلار بیت‌کوین به سپاه پاسداران استفاده کرده است. زنجانی نیز دست‌کم از سال ۱۴۰۳ خدمات بیت‌بانک را در حساب‌های شبکه‌های اجتماعی خود تبلیغ می‌کرد.<br><br>اسکات بسنت، وزیر خزانه‌داری آمریکا، گفت تحریم زیرساخت رمزارزی ایران نشان می‌دهد تلاش برای تامین مالی جمهوری اسلامی از طریق رمزارزها خارج از دسترس اوفک نیست. او افزود وزارت خزانه‌داری کسانی را که از جمهوری اسلامی حمایت کنند تحریم خواهد کرد.<br><br>این تحریم‌ها بر اساس فرمان اجرایی ۱۳۹۰۲ اعمال شده‌اند. در نتیجه این اقدام، دارایی‌ها و منافع مالی افراد و شرکت‌های تحریم‌شده در آمریکا یا در اختیار اشخاص آمریکایی مسدود می‌شود و معاملات مشمول مقررات آمریکا با آن‌ها، جز در موارد دارای مجوز یا معافیت، ممنوع خواهد بود.<br> <br><a href=\"https://t.me/indypersian\" target=\"_blank\">@indypersian</a>",
-      "plain_text": "♦️دفتر کنترل دارایی‌های خارجی وزارت خزانه‌داری آمریکا روز پنجشنبه ۲۶ شهریورماه صرافی رمزارزی «بیت‌بانک»، شرکت توسعه‌دهنده آن و سه نفر از همکاران بابک زنجانی را در چارچوب عملیات «طرد اقتصادی» تحریم کرد. وزارت خزانه‌داری آمریکا بیت‌بانک را یک صرافی رمزارزی ایرانی تحت کنترل بابک زنجانی معرفی کرده است. شرکت «پیشتاز سیمرغ تجارت الکترونیک»، توسعه‌دهنده نرم‌افزار بیت‌بانک، همراه با حسین‌علی ذاکر حسین، محمدمهدی ذاکر حسین و عادل حیدری نیز مشمول تحریم شدند. وزارت خزانه‌داری این افراد و شرکت‌ها را از اجزای اصلی شبکه استفاده از دارایی‌های دیجیتال برای دور زدن تحریم‌ها و انتقال منابع مالی به جمهوری اسلامی معرفی کرد. وزارت خزانه‌داری اعلام کرد «نهاد مدیریت آبراه خلیج فارس» از ماه خرداد از بیت‌بانک برای انتقال پرداخت‌های دریافتی به جمهوری اسلامی استفاده کرده است. این وزارتخانه همچنین اعلام کرد بابک زنجانی در فاصله خرداد تا مردادماه از بیت‌بانک برای انتقال صدها میلیون دلار بیت‌کوین به سپاه پاسداران استفاده کرده است. زنجانی نیز دست‌کم از سال ۱۴۰۳ خدمات بیت‌بانک را در حساب‌های شبکه‌های اجتماعی خود تبلیغ می‌کرد. اسکات بسنت، وزیر خزانه‌داری آمریکا، گفت تحریم زیرساخت رمزارزی ایران نشان می‌دهد تلاش برای تامین مالی جمهوری اسلامی از طریق رمزارزها خارج از دسترس اوفک نیست. او افزود وزارت خزانه‌داری کسانی را که از جمهوری اسلامی حمایت کنند تحریم خواهد کرد. این تحریم‌ها بر اساس فرمان اجرایی ۱۳۹۰۲ اعمال شده‌اند. در نتیجه این اقدام، دارایی‌ها و منافع مالی افراد و شرکت‌های تحریم‌شده در آمریکا یا در اختیار اشخاص آمریکایی مسدود می‌شود و معاملات مشمول مقررات آمریکا با آن‌ها، جز در موارد دارای مجوز یا معافیت، ممنوع خواهد بود. @indypersian",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Indypersian/178010",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/JACukN9fTyiniCR9ETqu8VV8fgJvy3M2d-wvc2nfhl6KGw5ZxO9IAP6zB4o3BMIOR0Mf1xcG2bjQkJjgqfoa2nv5koDawHK33ovIgbG8AXMQUCPMNjxEL_HO3zmmAt9ngzWy9oDBQ8H223IwAybGZUM2ca52Y0PKfSSWcPKXcKx4oJzEs3vHgI6al9QERlXSlBj1lvRcEdTif8LG1dHGDzw6XFKDsVHQuDPRPkMY5IAhrRX6Hs61KeUOzd3cyb13eoWK0BHB1HeXeZ51-EBNkXQ1a0fC0dv88FyxvY7n6-WpVZh83GMKSFa7yr6d9TxOYoX58XIC86I1lvRo75g7gQ.jpg",
-          "thumbnail_path": "channels/indypersian/media/20e6573852b73901ca3f9745.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "1"
-        },
-        {
-          "emoji": "👏",
-          "count": "36"
-        },
-        {
-          "emoji": "❤",
-          "count": "5"
-        },
-        {
-          "emoji": "👍",
-          "count": "4"
-        },
-        {
-          "emoji": "🥱",
-          "count": "1"
-        },
-        {
-          "emoji": "💯",
-          "count": "1"
-        }
-      ],
-      "views_label": "3.57K",
-      "posted_at": "2026-09-17T18:32:26+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Indypersian/178010"
     }
   ]
 }
