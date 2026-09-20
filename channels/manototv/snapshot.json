@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-20T21:35:48.446Z",
+  "fetched_at": "2026-09-20T23:29:07.764Z",
   "channel": {
     "username": "manototv",
     "title": "تلویزیون منوتو",
@@ -10,6 +10,39 @@
     "subscriber_count": "381K"
   },
   "posts": [
+    {
+      "id": "ManotoTV/107753",
+      "author_name": "تلویزیون منوتو",
+      "author_photo_url": "https://cdn4.telesco.pe/file/XRwzBGCfIVMDVJA0wmMqpbCma6fqz5MEGPnRfSyjYzmwJ608NHRIjc3hhuXLnUs0aVX38hJMu0VXqvQNJVPBFhT6EzMHOzBsBWawS7PG_g4LPWexKiKNc68N60P01yXM2ZabfvpPKtSamIolyLr2eSuyuDLdLR0q1kiuvaDtb4MQU0tDhJhHjxY0fbgJLgDyztlHEjOUJ_0zPuimSX0UwEJPPMBORFPSQVctcMT2ctMeIAdONgZenh5TiGW_kdMvBsiMyL7OHTJWP2ZId-fztjRY0smUIiB3QnYM27nwQx299K1AHykJzOzzNBAG2Ad3K-0NmZdOuOHVhUzlJxbCCQ.jpg",
+      "author_photo_path": "channels/manototv/media/4fb0d7c843429431a4f61d91.jpg",
+      "body_html": "The most important records of Iran’s January protests came from ordinary people filming what was unfolding in front of them.<br><br>This Is Our Story brings together these images and voices, creating a record of events as they were witnessed.<br><br>A four-part documentary series, with English subtitles.<br><br>مهم‌ترین تصاویر اعتراضات دی‌ماه را مردمی ثبت کردند که در همان لحظه شاهد وقایع بودند.<br><br>مستند چهارقسمتی «This Is Our Story» این تصاویر و صداها را کنار هم قرار می‌دهد؛ روایتی از آنچه مردم در آن روزها دیدند و ثبت کردند.<br><br>این مجموعه ۲۶ سپتامبر (۴ مهر)، با زیرنویس انگلیسی از کانال یوتیوب منوتو منتشر می‌شود.",
+      "plain_text": "The most important records of Iran’s January protests came from ordinary people filming what was unfolding in front of them. This Is Our Story brings together these images and voices, creating a record of events as they were witnessed. A four-part documentary series, with English subtitles. مهم‌ترین تصاویر اعتراضات دی‌ماه را مردمی ثبت کردند که در همان لحظه شاهد وقایع بودند. مستند چهارقسمتی «This Is Our Story» این تصاویر و صداها را کنار هم قرار می‌دهد؛ روایتی از آنچه مردم در آن روزها دیدند و ثبت کردند. این مجموعه ۲۶ سپتامبر (۴ مهر)، با زیرنویس انگلیسی از کانال یوتیوب منوتو منتشر می‌شود.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/ManotoTV/107753",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/oXp9HL2MX4h64xIODjNSKmc1JU9HVnEUOt2fQmZ72S6hfS6uMJNftnUkUdOagUphxifNZJzn0H0HXuspYZMFSp0FcUNZNDgxsXlHRqWms-qcxMgFzka5V4HDxrx4mnHLS4yzSUFi1_MnHd5gahKQllyzX-ot1DwX1bg_3n09lCqgmz2nRoiDfDDgi4zprzkBYeLcI6grdFa2261v-riyko4BkJUNClOyvdConIAHVwSxa1H3Zn73Yb0sLq-otIrrCPgW4fD44-63aJ4k3UDjgKy2yXwzUT4cqvWb1mXZqx-Cp-tLmM-tdFQaU8FUwt3GFAuOjesGJpUD1wHokvfubg",
+          "thumbnail_path": "channels/manototv/media/381d475deb10cd546829dfb6.jpg",
+          "duration_label": "0:58",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "38"
+        },
+        {
+          "emoji": "😭",
+          "count": "18"
+        }
+      ],
+      "views_label": "2.82K",
+      "posted_at": "2026-09-20T21:46:27+00:00",
+      "edited": false,
+      "permalink": "https://t.me/ManotoTV/107753"
+    },
     {
       "id": "ManotoTV/107752",
       "author_name": "تلویزیون منوتو",
@@ -31,14 +64,14 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "51"
+          "count": "65"
         },
         {
           "emoji": "❤",
-          "count": "47"
+          "count": "48"
         }
       ],
-      "views_label": "7.91K",
+      "views_label": "9.64K",
       "posted_at": "2026-09-20T18:32:47+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107752"
@@ -64,14 +97,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "66"
+          "count": "79"
         },
         {
           "emoji": "❤",
           "count": "5"
         }
       ],
-      "views_label": "7.27K",
+      "views_label": "8.78K",
       "posted_at": "2026-09-20T18:32:39+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107751"
@@ -178,14 +211,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "51"
+          "count": "59"
         },
         {
           "emoji": "⚡",
-          "count": "5"
+          "count": "7"
         }
       ],
-      "views_label": "8.17K",
+      "views_label": "9.23K",
       "posted_at": "2026-09-20T17:54:12+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107741"
@@ -211,14 +244,14 @@
       "reactions": [
         {
           "emoji": "🤮",
-          "count": "537"
+          "count": "543"
         },
         {
           "emoji": "❤",
-          "count": "98"
+          "count": "109"
         }
       ],
-      "views_label": "7.19K",
+      "views_label": "7.95K",
       "posted_at": "2026-09-20T17:53:36+00:00",
       "edited": true,
       "permalink": "https://t.me/ManotoTV/107740"
@@ -244,14 +277,14 @@
       "reactions": [
         {
           "emoji": "😭",
-          "count": "70"
+          "count": "77"
         },
         {
           "emoji": "😱",
           "count": "19"
         }
       ],
-      "views_label": "9.09K",
+      "views_label": "9.79K",
       "posted_at": "2026-09-20T16:29:44+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107739"
@@ -277,14 +310,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "125"
+          "count": "141"
         },
         {
           "emoji": "🕊",
           "count": "15"
         }
       ],
-      "views_label": "8.4K",
+      "views_label": "9.07K",
       "posted_at": "2026-09-20T16:29:20+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107738"
@@ -310,14 +343,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "130"
+          "count": "136"
         },
         {
           "emoji": "👍",
-          "count": "23"
+          "count": "24"
         }
       ],
-      "views_label": "11.5K",
+      "views_label": "12K",
       "posted_at": "2026-09-20T12:00:15+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107737"
@@ -424,14 +457,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "79"
+          "count": "85"
         },
         {
           "emoji": "👎",
           "count": "4"
         }
       ],
-      "views_label": "10.3K",
+      "views_label": "10.6K",
       "posted_at": "2026-09-20T12:00:07+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107727"
@@ -4635,39 +4668,6 @@
       "posted_at": "2026-09-10T20:56:55+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107487"
-    },
-    {
-      "id": "ManotoTV/107486",
-      "author_name": "تلویزیون منوتو",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eDWAoJ1PUBF66HLyQlZimrOFumgZzNt_Pe8Z5EETtD9M_aT4npFya2QWzwNjByPiWPABmAqJwu8llx5q7EjIuL4V3BdG2yC9xmmvKyCLPq19g1jUcxfNjNdvKse5tbxRdHp8jYEVvUqd06ns7PAzTSHwo8IGIOQrTMvjM2SORx7brRK0EyuNld5uv3vLXw8EVkpSiyU7eI38Fx4E_3Nf9m-JokPeh-LwkNXdzwshEGkgO-k9ZvRnAid4MrITd5T_9rZVWZnEoLBJvLheJtPBxh9RwkQIQeFLecY36SZVpDz040bDczqIbIEA0ScCijry_zsvNLbB45FG4yEzQtgekA.jpg",
-      "author_photo_path": "channels/manototv/media/31cb1dc4f8e2b3892a0833fb.jpg",
-      "body_html": "بریتانیا واردات کالا از شهرک‌های اسرائیلی در کرانه باختری را ممنوع می‌کند؛ تصمیمی که بخشی از بسته گسترده‌تر لندن برای محدود کردن فعالیت‌های اقتصادی مرتبط با شهرک‌سازی است. اقدامی با اثر اقتصادی محدود، اما پیام سیاسی مهم؛ تفکیک میان تجارت با اسرائیل و تجارت با شهرک‌های اسرائیلی در سرزمین‌های اشغالی.",
-      "plain_text": "بریتانیا واردات کالا از شهرک‌های اسرائیلی در کرانه باختری را ممنوع می‌کند؛ تصمیمی که بخشی از بسته گسترده‌تر لندن برای محدود کردن فعالیت‌های اقتصادی مرتبط با شهرک‌سازی است. اقدامی با اثر اقتصادی محدود، اما پیام سیاسی مهم؛ تفکیک میان تجارت با اسرائیل و تجارت با شهرک‌های اسرائیلی در سرزمین‌های اشغالی.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/ManotoTV/107486",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/igl-253QbyP0YroTZkjW9UJDKMHpTArzeCX0o08h4UEC3WTAV1c0UR6VIHF2pi7E3vJCl_cuMGozM4iMj99ZJuZnITyXHz4Q6F7KGqWwe2kO1kJafl4gct6reZwUneUe9bvt5mU9RlfCoTdtIV4fVyhj2N7vQzA5v078wggnYuUPTJi1reRAjrSk2qGNmCg2OmdOp0x3A-GEGtq6fBIwmi6MJCtbu-QSicMrIDDCYzgpa8v9Cvu0mKTW3PN_Xs4_BP1TXgaFHzd1BAqripmZlH9VwwmuswyXO7rpOCtaUAe9ZnBr8hiHgZjaJjMDYIvNU-8cwWZzkpXr4dAiRkucxA",
-          "thumbnail_path": "channels/manototv/media/9513f8df7ab7feda4bb5d3c4.jpg",
-          "duration_label": "4:20",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👎",
-          "count": "211"
-        },
-        {
-          "emoji": "👍",
-          "count": "27"
-        }
-      ],
-      "views_label": "13.2K",
-      "posted_at": "2026-09-10T17:58:08+00:00",
-      "edited": false,
-      "permalink": "https://t.me/ManotoTV/107486"
     }
   ]
 }
