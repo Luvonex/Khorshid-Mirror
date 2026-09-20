@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-20T19:16:51.756Z",
+  "fetched_at": "2026-09-20T21:28:14.475Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -11,6 +11,58 @@
   },
   "posts": [
     {
+      "id": "sahamnewsorg/147775",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/Ciy287FJSz_-Kg5dcrSzKzy0uSEFwoxNqi19raHuBNHiUJXf-RfOqQBZlPUx-u1-S9fYcEVF_pPRZwTwFCXvyCmn1WPLkiFlpavdrE5m9IaU3NgnwM-BmzHCan7jJc8PVdOMzXzsDggvMXQ7RFagoiz3WRR1a4gDRRjEZnKUr8iLWyYyzOXW90jEgCu4d-KaMu5DDWt1hj7Gv83y6g41v4yiCgAWfKVAFjah6b6YWYWGTJb6QEphoeoas2Ndrmp-ArJZ5s1wdL7vqSwRwRrkDLqHtg5lW-oEIyBJ0nJOuGOk1HslifCHXxh9NSNYrhmDhdOAV5TzcfL-sIOjzLFYXQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/38d2a4662fdb77ded921926d.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>آیت‌الله العظمی شبیری زنجانی درگذشت<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>دفتر آیت‌الله‌العظمی شبیری زنجانی با صدور اطلاعیه‌ای، درگذشت این مرجع تقلید را اعلام کرد.<br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅آیت‌الله العظمی شبیری زنجانی درگذشت 🔹دفتر آیت‌الله‌العظمی شبیری زنجانی با صدور اطلاعیه‌ای، درگذشت این مرجع تقلید را اعلام کرد. @Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/147775",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/XxaKnNDPooqjRjLTCEvb_tVtaaqpEfhZH5nS_fTynATHc0A1NXTmf1V_B1u_oLnPvdBhU-adKHILoPia2XRljgXWyhtmPTnAJ86iKEEJrlhEoPmBuiiHT-XKbVMLxDIRH3uuiZuhZcxN-UO6ZFTo-N7JpsPFcgRgcYBaDMUl8XuWUuvck8UEepHsZEhOAUIdmjLoBxbr59SnpPnyyvE0T7Pd5eEsBCFpOMm2HoIDh7OSZosL8wzQc5oMe_zJJcAkdJVTRfYfdRA3DmuKgxLU2MHWJr0F_ZQTn0IFCAhPw5c84kqDVqmioE_C73MHRAzae-09lc1YeU09a4lnZZUz0A.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/d5bbc2ade755dc2158b42ae7.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "5.29K",
+      "posted_at": "2026-09-20T21:17:18+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/147775"
+    },
+    {
+      "id": "sahamnewsorg/147774",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/Ciy287FJSz_-Kg5dcrSzKzy0uSEFwoxNqi19raHuBNHiUJXf-RfOqQBZlPUx-u1-S9fYcEVF_pPRZwTwFCXvyCmn1WPLkiFlpavdrE5m9IaU3NgnwM-BmzHCan7jJc8PVdOMzXzsDggvMXQ7RFagoiz3WRR1a4gDRRjEZnKUr8iLWyYyzOXW90jEgCu4d-KaMu5DDWt1hj7Gv83y6g41v4yiCgAWfKVAFjah6b6YWYWGTJb6QEphoeoas2Ndrmp-ArJZ5s1wdL7vqSwRwRrkDLqHtg5lW-oEIyBJ0nJOuGOk1HslifCHXxh9NSNYrhmDhdOAV5TzcfL-sIOjzLFYXQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/38d2a4662fdb77ded921926d.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>گزارش شده است که تجهیزات نظامی و تدارکات لجستیکی ترکیه و پاکستان وارد پایگاه‌های سعودی شده است<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅گزارش شده است که تجهیزات نظامی و تدارکات لجستیکی ترکیه و پاکستان وارد پایگاه‌های سعودی شده است @Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "17.7K",
+      "posted_at": "2026-09-20T20:39:28+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/147774"
+    },
+    {
+      "id": "sahamnewsorg/147773",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/Ciy287FJSz_-Kg5dcrSzKzy0uSEFwoxNqi19raHuBNHiUJXf-RfOqQBZlPUx-u1-S9fYcEVF_pPRZwTwFCXvyCmn1WPLkiFlpavdrE5m9IaU3NgnwM-BmzHCan7jJc8PVdOMzXzsDggvMXQ7RFagoiz3WRR1a4gDRRjEZnKUr8iLWyYyzOXW90jEgCu4d-KaMu5DDWt1hj7Gv83y6g41v4yiCgAWfKVAFjah6b6YWYWGTJb6QEphoeoas2Ndrmp-ArJZ5s1wdL7vqSwRwRrkDLqHtg5lW-oEIyBJ0nJOuGOk1HslifCHXxh9NSNYrhmDhdOAV5TzcfL-sIOjzLFYXQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/38d2a4662fdb77ded921926d.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>تصویرهایی را که می‌‌بینید یک ایرانی ساکن مسکو از حمله پهپادی بزرگ بامداد امروز اوکراین به یک پالایشگاه مهم مسکو برداشته است  روسیه می‌گوید در این حمله دو نفر کشته و چندنفر زخمی شده‌اند. رسانه‌ها نوشته‌اند برای ساعت‌ها پروازها در مسکو مختل شده بود.  @Sahamnewsorg",
+      "plain_text": "✅تصویرهایی را که می‌‌بینید یک ایرانی ساکن مسکو از حمله پهپادی بزرگ بامداد امروز اوکراین به یک پالایشگاه مهم مسکو برداشته است روسیه می‌گوید در این حمله دو نفر کشته و چندنفر زخمی شده‌اند. رسانه‌ها نوشته‌اند برای ساعت‌ها پروازها در مسکو مختل شده بود. @Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "27.9K",
+      "posted_at": "2026-09-20T19:59:08+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/147773"
+    },
+    {
       "id": "sahamnewsorg/147772",
       "author_name": "سهام نیوز",
       "author_photo_url": "https://cdn1.telesco.pe/file/Ciy287FJSz_-Kg5dcrSzKzy0uSEFwoxNqi19raHuBNHiUJXf-RfOqQBZlPUx-u1-S9fYcEVF_pPRZwTwFCXvyCmn1WPLkiFlpavdrE5m9IaU3NgnwM-BmzHCan7jJc8PVdOMzXzsDggvMXQ7RFagoiz3WRR1a4gDRRjEZnKUr8iLWyYyzOXW90jEgCu4d-KaMu5DDWt1hj7Gv83y6g41v4yiCgAWfKVAFjah6b6YWYWGTJb6QEphoeoas2Ndrmp-ArJZ5s1wdL7vqSwRwRrkDLqHtg5lW-oEIyBJ0nJOuGOk1HslifCHXxh9NSNYrhmDhdOAV5TzcfL-sIOjzLFYXQ.jpg",
@@ -19,7 +71,7 @@
       "plain_text": "✅کانال خبری صابرین‌نیوز، نزدیک به سپاه پاسداران، به‌نقل از منابعی که از ان‌ها نام نبرده مدعی شده دولت عراق تصمیم گرفت تمام پروازهای هوایی از جمهوری اسلامی ایران و از همه فرودگاه‌های عراق را از روز سه‌شنبه آینده لغو و متوقف کند و رفت‌وآمد تنها از طریق گذرگاه‌های مرزی زمینی بین دو کشور انجام می‌شود. @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "21.2K",
+      "views_label": "46.9K",
       "posted_at": "2026-09-20T18:30:43+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147772"
@@ -43,7 +95,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.4K",
+      "views_label": "51.6K",
       "posted_at": "2026-09-20T18:01:31+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147771"
@@ -67,7 +119,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.6K",
+      "views_label": "50K",
       "posted_at": "2026-09-20T17:51:12+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147770"
@@ -91,7 +143,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33K",
+      "views_label": "50.6K",
       "posted_at": "2026-09-20T17:36:39+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147769"
@@ -115,7 +167,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.3K",
+      "views_label": "49.1K",
       "posted_at": "2026-09-20T17:22:47+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147768"
@@ -139,7 +191,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35K",
+      "views_label": "49.3K",
       "posted_at": "2026-09-20T17:17:35+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147767"
@@ -153,7 +205,7 @@
       "plain_text": "✅به کره‌شمالی خاورمیانه خوش آمدید! ‏مجلس و دولت بی سر و صدا در حال تصویب و اجرایی کردن طرح ضد مردمی «نفوذ» هستند ‏طرحی که بر مبنای آن گرفتن بورسیه از دانشگاه‌‌های خارجی، نوشتن مقاله، اقامت فرهنگی و هنری، شرکت در کارگاه‌ آموزشی و همایش علمی و جشنواره فیلم و ... در خارج کشور جرم است!/محمد پارسی @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "37.1K",
+      "views_label": "51K",
       "posted_at": "2026-09-20T17:08:47+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147766"
@@ -177,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.9K",
+      "views_label": "48.6K",
       "posted_at": "2026-09-20T17:04:22+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147765"
@@ -191,7 +243,7 @@
       "plain_text": "✅راشا تودی: عباس عراقچی، وزیر امور خارجه ایران، وارد دوحه، پایتخت قطر شد. @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "36.4K",
+      "views_label": "48.5K",
       "posted_at": "2026-09-20T16:59:09+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147764"
@@ -215,7 +267,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.1K",
+      "views_label": "51.1K",
       "posted_at": "2026-09-20T16:45:45+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147763"
@@ -229,7 +281,7 @@
       "plain_text": "✅خبرنگار سی‌ان‌ان‌: جلسه ترامپ در کمپ‌ دیوید، جهت بررسی و رایزنی درباره گزینه‌های حمله به یمن بود @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "40.2K",
+      "views_label": "50.7K",
       "posted_at": "2026-09-20T16:21:39+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147762"
@@ -253,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "40.7K",
+      "views_label": "51.8K",
       "posted_at": "2026-09-20T16:18:00+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147761"
@@ -267,7 +319,7 @@
       "plain_text": "✅ترامپ: ممکن است به‌زودی اتفاق بزرگی در مورد ایران رخ دهد. 🔸 گزینه‌های روی میز فعلی، محو ایران، فروپاشی اقتصادی آن یا دستیابی به توافق است. @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "47.1K",
+      "views_label": "55.4K",
       "posted_at": "2026-09-20T15:03:20+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147760"
@@ -291,7 +343,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "48.2K",
+      "views_label": "56.5K",
       "posted_at": "2026-09-20T14:54:58+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147759"
@@ -305,7 +357,7 @@
       "plain_text": "✅ترامپ: از دیدار با رئیس‌جمهور ایران در نیویورک استقبال می‌کنم دونالد ترامپ، رئیس‌جمهور آمریکا، در گفت‌وگو با شبکه فاکس‌نیوز گفت از ایده دیدار با مسعود پزشکیان، رئیس‌جمهور ایران، در حاشیه مجمع عمومی سازمان ملل متحد در این هفته استقبال می‌کند. به گزارش الجزیره، ترامپ همچنین گفت برخی مقام‌های ایرانی پنهان شده‌اند و یافتن افرادی که قادر به انجام توافق باشند، دشوار است. @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "49K",
+      "views_label": "56.5K",
       "posted_at": "2026-09-20T14:18:59+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147758"
@@ -329,7 +381,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "49.9K",
+      "views_label": "57K",
       "posted_at": "2026-09-20T14:07:50+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147757"
@@ -343,7 +395,7 @@
       "plain_text": "✅کویت مدارس ایرانی فعال در این کشور را تعطیل کرد رئیس مرکز امور بین‌الملل و مدارس خارج از کشور وزارت آموزش و پرورش اعلام کرد دولت کویت فعالیت مدارس ایرانی در این کشور را متوقف کرده است. به گفته این مقام، دولت کویت با تعطیلی این مدارس، مانع ادامه فعالیت‌های آموزشی آن‌ها شده است. @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "47.9K",
+      "views_label": "54.1K",
       "posted_at": "2026-09-20T13:44:54+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147756"
@@ -1954,68 +2006,6 @@
       "posted_at": "2026-09-18T17:37:30+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147673"
-    },
-    {
-      "id": "sahamnewsorg/147672",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/KH4YmQipB4iZJxfMLhRKq9_WpdM50CPnOXLbGyDuuRp7EfDkYtldDwoGYGhX0BzFJ3Yu3Aa4_mBK0182YqrQdh-ftnFhNMT0fzoxReoppyrEET2WNXbWjxe0x2tQhpPimyiPWyiHjqoqdSMHbc_3LV3YKvAlfUiXFJEWRBD4GtvY2DmTU9mV9ArK95mk-deTUg0QXpPhrYjDqIFK2743uEg1UBfSkFyYo_WxkiJeSWxmheMmuhQ2QEQAdPLIrWC1o47WNaDY9KmRD7QW9cmjOKvrajjASpLYiCju7HBGfFz-HNVOAoeLd8qguL6wepArjdkLx_h9lrpy6iXw1Ncmpg.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/3e46aab58adae4fb902e1623.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>نامه آقااسفندیار به دکتر رائد فریدزاده رئیس سازمان سینمایی درباره اهدای نشان درجه یک هنر به علیرضا داوودنژاد</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C8D.png')\"><b>✍</b></i> محسن امیریوسفی<br>«آقا اسفندیار»، مرده‌شور معروف فیلم «خواب تلخ» ساخته محسن امیریوسفی نامه‌ای در اختیار ما گذاشته است: <br><br>اهدای نشان به آقای داوودنژاد را به شما تبریک میگویم! چرا از میان ۳۳ صنف خانه سینما فقط علاقمند به دعوت از چند نورچشمی در مراسم‌ها هستید؟!<br><br>جناب آقای دکتر رائد فریدزاده <br>ریاست محترم سازمان سینمایی<br><br>بدینوسیله اینجانب آقااسفندیار مُرده‌شور متوفای فیلم خواب تلخ در جهان باقی مطلع شدم که جنابعالی طی مراسمی در وزارت ارشاد نشان درجه یک هنری را به جناب آقای علیرضا داوودنژاد کارگردان پیشکسوت سینما اهداء کردید.<br><br>لذا لازم میدانم بدینوسیله اهدای نشان عالی هنر به جناب آقای علیرضا داوودنژاد را از صمیم قلب به جنابعالی تبریک بگویم. شاید تعجب کنید چرا به شما که اهداءکننده بودید تبریک میگویم ولی از من پیرمرد مرده شور قبول کنید، همین که توانستید در این شرایط سخت معیشتی اهالی سینما و در اوج دوران بیکاری آنها، رضایت استاد داوودنژاد عزیز را برای دریافت این نشان بگیرید جای تبریک فراوان دارد‌. <br><br>آقای دکتر من که دستم از دنیا کوتاهه ولی در شرایطی که صدها سینماگر بخاطر یک اعتراض یا اظهارنظر یا هشتگ یا حتی \"لایک کردن\" درگیر پرونده قضایی هستند جای تبریک دارد که استاد داوودنژاد افتخار دریافت این نشان را به شما و مجموعه تحت امرتان دادند.<br><br>در شرایطی که شورای پروانه ساخت برخلاف قول و وعده جنابعالی و مجموعه شما حذف نشد و نمایندگان خانه سینما هم دیگر در این شورا شرکت نمی‌کنند و در شرایطی که شنیده شده خانه سینما امسال در کمیته اسکار هم حضور ندارد، واقعا جای تبریک دارد که توانستید اجازه مطبوعاتی کردن مراسم اهدای این نشان را از استاد داوودنژاد مهربان بگیرید‌ و خبرش را مثل یک دستاورد بزرگ در همه عالم و آدم سایتهای مجازی و غیرمجازی پخش کنید.  <br><br>ولی خود بهتر می‌دانید که آقای داوودنژاد کارگردان برجسته سینما هستند که شان و منزلت ایشان بالاتر از هر نشان هنری است ولی سئوالی که ذهن من مرده‌شور را مشغول کرد اینست که چرا یک نفر از طرف کانون کارگردانان سینمای ایران را به این مراسم دعوت نکردید؟! البته میدانم که کانون در آخرین نامه‌ اعتراضی که پارسال خطاب به شما نوشت گفت: آقای فریدزاده برای شما متاسفیم. شاید هم این کانون، اصلا نماینده‌ای به مراسم دولتی شما نمی‌فرستاد ولی حداقل از یکی دیگر از صنوف خانه سینما دعوت می‌کردید چون حتما میدانید خانه سینما سی و سه صنف دارد و آقای داوودنژاد هم خود یک فعال صنفی کهنه‌کارند.<br><br>ولی تنها کسانی که در مراسم بودند چند سینماگر محترم و نورچشم شما و منِ مرده‌شور بودند و تعجب من اینست که جنابعالی چرا از میان ۳۳ صنف خانه سینما، فقط علاقمند همیشگی به چند تهیه‌کننده محترم سینما هستید؟!<br><br>البته چند کارگردان و سینماگر متوفی و کارکشته صنفی که اینجا در بهشت هستند دلایل این علاقه و سلیقه قلبی شما و روسای ادوار قبلی ارشاد را به من گفتند که حقیقتا از شنیدن گوشه‌ای از رازهای تاریخ مخفی سینمای ایران و فوت و فن کنترل سینما توسط ارشاد کف کردم!<br><br>حتی یکی از سینماگرانی که در دنیا از دست ارشاد دق کرده بود و الان یک پنت‌هاوس در بهشت دارد گفت: کسانی که چند دهه پیش پشت سیف‌الله داد فقید را خالی کردند و او را به استعفاء کشاندند الان سالهاست در هر جلسه‌ای برای او اشک تمساح می‌ریزند!  <br><br>مطمئن باشید اگر از استاد داوودنژاد هم بپرسید با هوشمندی همیشگی خود اطلاعات دقیق‌‌تری را در این‌باره به شما خواهند گفت که سیف‌الله داد چقدر علاقمند به حذف پروانه ساخت بود و همان سینماگرانِ اشک تمساح‌ریز نگذاشتند.  <br><br>آقای دکتر فریدزاده ببخشید من باید زودتر بروم کنسرت مشترک هایده و فرانک سیناترا. حرف آخر اینکه عمر مدیریت‌ها کوتاهه و ایکاش در فرصت باقیمانده به حرفهای نمایندگان رسمی خانه سینما توجه کنید و به وضعیت تلخ شغلی همه سینماگران نجیب ایران بیشتر از قبل توجه کنید. <br><br>خداوند همه ما را رحمت کند.<br>آقااسفندیار، مرده‌شور فیلم خواب تلخ<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅نامه آقااسفندیار به دکتر رائد فریدزاده رئیس سازمان سینمایی درباره اهدای نشان درجه یک هنر به علیرضا داوودنژاد ✍ محسن امیریوسفی «آقا اسفندیار»، مرده‌شور معروف فیلم «خواب تلخ» ساخته محسن امیریوسفی نامه‌ای در اختیار ما گذاشته است: اهدای نشان به آقای داوودنژاد را به شما تبریک میگویم! چرا از میان ۳۳ صنف خانه سینما فقط علاقمند به دعوت از چند نورچشمی در مراسم‌ها هستید؟! جناب آقای دکتر رائد فریدزاده ریاست محترم سازمان سینمایی بدینوسیله اینجانب آقااسفندیار مُرده‌شور متوفای فیلم خواب تلخ در جهان باقی مطلع شدم که جنابعالی طی مراسمی در وزارت ارشاد نشان درجه یک هنری را به جناب آقای علیرضا داوودنژاد کارگردان پیشکسوت سینما اهداء کردید. لذا لازم میدانم بدینوسیله اهدای نشان عالی هنر به جناب آقای علیرضا داوودنژاد را از صمیم قلب به جنابعالی تبریک بگویم. شاید تعجب کنید چرا به شما که اهداءکننده بودید تبریک میگویم ولی از من پیرمرد مرده شور قبول کنید، همین که توانستید در این شرایط سخت معیشتی اهالی سینما و در اوج دوران بیکاری آنها، رضایت استاد داوودنژاد عزیز را برای دریافت این نشان بگیرید جای تبریک فراوان دارد‌. آقای دکتر من که دستم از دنیا کوتاهه ولی در شرایطی که صدها سینماگر بخاطر یک اعتراض یا اظهارنظر یا هشتگ یا حتی \"لایک کردن\" درگیر پرونده قضایی هستند جای تبریک دارد که استاد داوودنژاد افتخار دریافت این نشان را به شما و مجموعه تحت امرتان دادند. در شرایطی که شورای پروانه ساخت برخلاف قول و وعده جنابعالی و مجموعه شما حذف نشد و نمایندگان خانه سینما هم دیگر در این شورا شرکت نمی‌کنند و در شرایطی که شنیده شده خانه سینما امسال در کمیته اسکار هم حضور ندارد، واقعا جای تبریک دارد که توانستید اجازه مطبوعاتی کردن مراسم اهدای این نشان را از استاد داوودنژاد مهربان بگیرید‌ و خبرش را مثل یک دستاورد بزرگ در همه عالم و آدم سایتهای مجازی و غیرمجازی پخش کنید. ولی خود بهتر می‌دانید که آقای داوودنژاد کارگردان برجسته سینما هستند که شان و منزلت ایشان بالاتر از هر نشان هنری است ولی سئوالی که ذهن من مرده‌شور را مشغول کرد اینست که چرا یک نفر از طرف کانون کارگردانان سینمای ایران را به این مراسم دعوت نکردید؟! البته میدانم که کانون در آخرین نامه‌ اعتراضی که پارسال خطاب به شما نوشت گفت: آقای فریدزاده برای شما متاسفیم. شاید هم این کانون، اصلا نماینده‌ای به مراسم دولتی شما نمی‌فرستاد ولی حداقل از یکی دیگر از صنوف خانه سینما دعوت می‌کردید چون حتما میدانید خانه سینما سی و سه صنف دارد و آقای داوودنژاد هم خود یک فعال صنفی کهنه‌کارند. ولی تنها کسانی که در مراسم بودند چند سینماگر محترم و نورچشم شما و منِ مرده‌شور بودند و تعجب من اینست که جنابعالی چرا از میان ۳۳ صنف خانه سینما، فقط علاقمند همیشگی به چند تهیه‌کننده محترم سینما هستید؟! البته چند کارگردان و سینماگر متوفی و کارکشته صنفی که اینجا در بهشت هستند دلایل این علاقه و سلیقه قلبی شما و روسای ادوار قبلی ارشاد را به من گفتند که حقیقتا از شنیدن گوشه‌ای از رازهای تاریخ مخفی سینمای ایران و فوت و فن کنترل سینما توسط ارشاد کف کردم! حتی یکی از سینماگرانی که در دنیا از دست ارشاد دق کرده بود و الان یک پنت‌هاوس در بهشت دارد گفت: کسانی که چند دهه پیش پشت سیف‌الله داد فقید را خالی کردند و او را به استعفاء کشاندند الان سالهاست در هر جلسه‌ای برای او اشک تمساح می‌ریزند! مطمئن باشید اگر از استاد داوودنژاد هم بپرسید با هوشمندی همیشگی خود اطلاعات دقیق‌‌تری را در این‌باره به شما خواهند گفت که سیف‌الله داد چقدر علاقمند به حذف پروانه ساخت بود و همان سینماگرانِ اشک تمساح‌ریز نگذاشتند. آقای دکتر فریدزاده ببخشید من باید زودتر بروم کنسرت مشترک هایده و فرانک سیناترا. حرف آخر اینکه عمر مدیریت‌ها کوتاهه و ایکاش در فرصت باقیمانده به حرفهای نمایندگان رسمی خانه سینما توجه کنید و به وضعیت تلخ شغلی همه سینماگران نجیب ایران بیشتر از قبل توجه کنید. خداوند همه ما را رحمت کند. آقااسفندیار، مرده‌شور فیلم خواب تلخ @Sahamnewsorg",
-      "media": [],
-      "reactions": [],
-      "views_label": "55.9K",
-      "posted_at": "2026-09-18T17:23:12+00:00",
-      "edited": false,
-      "permalink": "https://t.me/sahamnewsorg/147672"
-    },
-    {
-      "id": "sahamnewsorg/147670",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/KH4YmQipB4iZJxfMLhRKq9_WpdM50CPnOXLbGyDuuRp7EfDkYtldDwoGYGhX0BzFJ3Yu3Aa4_mBK0182YqrQdh-ftnFhNMT0fzoxReoppyrEET2WNXbWjxe0x2tQhpPimyiPWyiHjqoqdSMHbc_3LV3YKvAlfUiXFJEWRBD4GtvY2DmTU9mV9ArK95mk-deTUg0QXpPhrYjDqIFK2743uEg1UBfSkFyYo_WxkiJeSWxmheMmuhQ2QEQAdPLIrWC1o47WNaDY9KmRD7QW9cmjOKvrajjASpLYiCju7HBGfFz-HNVOAoeLd8qguL6wepArjdkLx_h9lrpy6iXw1Ncmpg.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/3e46aab58adae4fb902e1623.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>سلب امکان زیستن <br><br>دیروز جلسه‌ی وزارت علوم درباره‌ی اخراجم برگزار شد؛ امروز تنها سیم‌کارتم را دوطرفه مسدود کردند؛ شماره‌ای که ۱۲ سال امور زندگی و تمامی دسترسی‌هایم به آن گره خورده است. بی‌هیچ اطلاع قبلی یا توضیحی درباره‌ی مستند قانونی. این دیگر محدودیت نیست؛ سلبِ امکانِ زیستن و حقِ ارتباط است./علیرضا جعفرزاده، دانشجوی اخراجی از دانشگاه شهید بهشتی<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅سلب امکان زیستن دیروز جلسه‌ی وزارت علوم درباره‌ی اخراجم برگزار شد؛ امروز تنها سیم‌کارتم را دوطرفه مسدود کردند؛ شماره‌ای که ۱۲ سال امور زندگی و تمامی دسترسی‌هایم به آن گره خورده است. بی‌هیچ اطلاع قبلی یا توضیحی درباره‌ی مستند قانونی. این دیگر محدودیت نیست؛ سلبِ امکانِ زیستن و حقِ ارتباط است./علیرضا جعفرزاده، دانشجوی اخراجی از دانشگاه شهید بهشتی @Sahamnewsorg",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/sahamnewsorg/147670",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/VWWctg_vqaImS94wx1OyHXMxKbD_2Lnh04Yc_TjUWBgGsakvSMqu6otz2drJlpAkYGbnttMXz_Y60CCqwzgHTCcP_pTyoMzNh3GPU8LoQS--A4Suld_wQb8BnkrJd1yT5W9i41yhwCadguTUEi2ojLYLykishOGny9PSY1ZRWc4wgagcaJOjPMd_ciEIar5wT4JP1d8nP25izpipYadR3_SO6LROqorPL4hbcFFCfaCIqoUGM78aUga_EQq41RD-CClEht3UtE65qa2-B1kmUtiznqSjJnvtxhiSNgslO6Qvki-iqwWKFcDx79gUmODM7bEw7ByYlz8TeUi1akM2-g.jpg",
-          "thumbnail_path": "channels/sahamnewsorg/media/84fcc1d3bdf480415d04adcb.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.6771488469601676
-        }
-      ],
-      "reactions": [],
-      "views_label": "55.2K",
-      "posted_at": "2026-09-18T16:46:37+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/147670"
-    },
-    {
-      "id": "sahamnewsorg/147669",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/KH4YmQipB4iZJxfMLhRKq9_WpdM50CPnOXLbGyDuuRp7EfDkYtldDwoGYGhX0BzFJ3Yu3Aa4_mBK0182YqrQdh-ftnFhNMT0fzoxReoppyrEET2WNXbWjxe0x2tQhpPimyiPWyiHjqoqdSMHbc_3LV3YKvAlfUiXFJEWRBD4GtvY2DmTU9mV9ArK95mk-deTUg0QXpPhrYjDqIFK2743uEg1UBfSkFyYo_WxkiJeSWxmheMmuhQ2QEQAdPLIrWC1o47WNaDY9KmRD7QW9cmjOKvrajjASpLYiCju7HBGfFz-HNVOAoeLd8qguL6wepArjdkLx_h9lrpy6iXw1Ncmpg.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/3e46aab58adae4fb902e1623.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>بر اساس نظرسنجی جدید فاکس‌نیوز ۶۳ درصد رأی‌دهندگان در انتخابات معتقدند دولت ترامپ وضعیت اقتصاد آمریکا را بدتر کرده.<br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅بر اساس نظرسنجی جدید فاکس‌نیوز ۶۳ درصد رأی‌دهندگان در انتخابات معتقدند دولت ترامپ وضعیت اقتصاد آمریکا را بدتر کرده. @Sahamnewsorg",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/sahamnewsorg/147669",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/WunM8OP1KY78PFAs8rSI0LrTVLoRnag79MyIa3QHxF1Bk5uLG8mv-6IVtNkcbJhzUqYAKIf9bnKAKdZitldaeeV8jmkS83mvOvYvxk94G_b1fPWajJwJCV-fOqo1LvMgzwmNQ_YjiLzaSmUqUTpzABnCgwj-CgUL_nr4mxorCRtVO5nJA4s8OH8MfQJ3PKh1ZE39o0B0ZVFy0jQ0HGH9F5JBp9c1XscfnWHEDyoBK3hlsokscVo_zI-G-ulnbIRDH0pqNqm1j7yNzUZz1X718iY7txn6p0XIojPikEpOBPU9Eh8mdO_IHbf-a0Ziu8MxFrGAdMb7Iemr3FBjTJ2TzQ.jpg",
-          "thumbnail_path": "channels/sahamnewsorg/media/63ddc14dd89e0fd312ea0833.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.9599999999999693
-        }
-      ],
-      "reactions": [],
-      "views_label": "53.7K",
-      "posted_at": "2026-09-18T16:40:24+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/147669"
     }
   ]
 }
