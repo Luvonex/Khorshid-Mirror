@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-22T19:20:37.895Z",
+  "fetched_at": "2026-09-22T21:26:00.182Z",
   "channel": {
     "username": "manototv",
     "title": "تلویزیون منوتو",
@@ -10,6 +10,39 @@
     "subscriber_count": "381K"
   },
   "posts": [
+    {
+      "id": "ManotoTV/107816",
+      "author_name": "تلویزیون منوتو",
+      "author_photo_url": "https://cdn4.telesco.pe/file/X6wCqNymQPJQJVOOaEYZzsXRRenT8MILM7ekHVOuo8EHHPx-FyVMOy__Qh62RgKL7sGrUDPGRGhjdA6CAzDtbkN6Pc0dILtAJPkld7YmSMIZPn5f2P0lLWnkYWHspcM3JSYF_OD7Hx7B4oivss5DCfgyzzMsmrpdH_hW5dWvvpVKTAX9w6F6_SvQHtpnNOp2STe12h7B8xvV6pBeoY6J7Y8c3fENTYAW6HLID4HIYP2KWExmR1xhyeNYi17oBu3Nq_WLFQRbw_pxn0Gd55WyHdbX08yWyRyP7CtyGox5783QYUliZ3LQ6sFDRRWiblla0KMfYE1YBeSGcAS_n6T_kw.jpg",
+      "author_photo_path": "channels/manototv/media/b95e792d2926111228ef7719.jpg",
+      "body_html": "چهار سال از کشته‌شدن سارینا اسماعیل‌زاده در اعتراضات شهریور ۱۴۰۱ گذشت؛ نوجوان ۱۶ ساله‌ای که در کرج بر اثر ضربات باتوم نیروهای امنیتی جان باخت. ویدیوهای به‌جامانده از او، روایت دغدغه‌ها و آرزوهای نوجوانی است که فرصت تجربه‌ کردنش را پیدا نکرد.",
+      "plain_text": "چهار سال از کشته‌شدن سارینا اسماعیل‌زاده در اعتراضات شهریور ۱۴۰۱ گذشت؛ نوجوان ۱۶ ساله‌ای که در کرج بر اثر ضربات باتوم نیروهای امنیتی جان باخت. ویدیوهای به‌جامانده از او، روایت دغدغه‌ها و آرزوهای نوجوانی است که فرصت تجربه‌ کردنش را پیدا نکرد.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/ManotoTV/107816",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/I1NPdn-J9BGh8bKSXIYECo5YEtFc9b7ML6B56LNqYOx2mk87ZFYSVkc4jvc_gKo_AR_xb6MwZ0uQBRKkb8xl2o2fndlTHWWdT3_Egz8FNOTFbSRBX-U0xs97h1b3FHvLTSHAsFLoJ5yZfwixs8H1-apa6Yv0umKrh4ER757j__0a36a8pmXui_i-1oFhZEqIkG_1Hpks0Bf48bgdjomGzy89cPqVovqj8lKdQyycgQsccfZNnUtZ_mZnPOoU6IVHoa0C7lGDMNpoVZrrR5oNQdAaFx6CUxeNFlliG-uZ9JjMNi2xpt0i2mA9ZDvlPYkvkR4os_EruNNH-tj0ItGXQA",
+          "thumbnail_path": "channels/manototv/media/6c4a271ef135108de649877d.jpg",
+          "duration_label": "2:20",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤮",
+          "count": "536"
+        },
+        {
+          "emoji": "❤",
+          "count": "220"
+        }
+      ],
+      "views_label": "5.22K",
+      "posted_at": "2026-09-22T19:42:38+00:00",
+      "edited": false,
+      "permalink": "https://t.me/ManotoTV/107816"
+    },
     {
       "id": "ManotoTV/107806",
       "author_name": "تلویزیون منوتو",
@@ -112,14 +145,14 @@
       "reactions": [
         {
           "emoji": "😭",
-          "count": "57"
+          "count": "87"
         },
         {
           "emoji": "😨",
-          "count": "2"
+          "count": "5"
         }
       ],
-      "views_label": "4.81K",
+      "views_label": "8.51K",
       "posted_at": "2026-09-22T17:31:36+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107806"
@@ -226,14 +259,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "58"
+          "count": "67"
         },
         {
           "emoji": "👏",
-          "count": "11"
+          "count": "17"
         }
       ],
-      "views_label": "7.23K",
+      "views_label": "9.06K",
       "posted_at": "2026-09-22T15:01:34+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107796"
@@ -4860,39 +4893,6 @@
       "posted_at": "2026-09-11T14:40:34+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107515"
-    },
-    {
-      "id": "ManotoTV/107514",
-      "author_name": "تلویزیون منوتو",
-      "author_photo_url": "https://cdn4.telesco.pe/file/vFImqNbgQEG3OIXD4LF5W1oLNqdWVknROZlYrzbcCGZZ25ikj_1QTsJJngJQRkWIlqtRUhelpSoC5rP8tGQGZjFw8IUwC33k_E8GPTnLzROCRrmNb4NJzTh4wWHCilqrtYtVSQYxHkSlmCJ2thEVqmw1esnzfXcFSOuwqujgdt2h_YLVaj9H8ohFZGpMLcYLl3exOOi80MIf2FWD3N2iCsyxwe2ZqLJ7fFDY7HT4qmKj-rrXdD5bSQOuLAFs14eUkRzcUZ8VZYh43ISp8Swfc5RazmYNsSpAwmD85uG1EbxA0-_JQtpxkD7gPpwQvY8WyfT_Eoi-zCpG8jhMsvMDJw.jpg",
-      "author_photo_path": "channels/manototv/media/bafeeaad1363fc27b1f7630f.jpg",
-      "body_html": "سرعت لاک‌پشتی اینترنت در ایران ـ گزارشگر",
-      "plain_text": "سرعت لاک‌پشتی اینترنت در ایران ـ گزارشگر",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/ManotoTV/107514",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/gKJXbugKVrQsb4uIyXjEa4POzHBmEQ2BJsV27jmLNDu0VAqDbzGlBuRiRfuWBAvLOiqjl1CI5sAO7gXus7p8ksEJ35yR5jemUgiYKaRxhTeEZMZf4MA1iFoW-M_9CYY2xm7Pj31tCAXGfb8HFoFVxBqyRRk7FCbGj0SDV24gcEFgCCOfjBejOfs4dvAAmrJ1dEhRl7LSNuKenQKrzHGoljrWGKmea-w2ty16Z9G4-HSdW3xDGk7nDhWFZ3cSdRCF2kPTiGOzkq4lw4p8EBFV7m77CbHqX2DyHcp8EqdOgTZvM81kLiUXNOFDvxXxJ0Xr_qQ5PkuBV5xcQ2ydi7kr_g",
-          "thumbnail_path": "channels/manototv/media/7ddacf337f5236df818609c5.jpg",
-          "duration_label": "1:01",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "💔",
-          "count": "120"
-        },
-        {
-          "emoji": "👏",
-          "count": "10"
-        }
-      ],
-      "views_label": "9.31K",
-      "posted_at": "2026-09-11T14:40:06+00:00",
-      "edited": false,
-      "permalink": "https://t.me/ManotoTV/107514"
     }
   ]
 }
