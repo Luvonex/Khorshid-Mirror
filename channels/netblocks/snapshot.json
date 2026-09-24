@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-24T22:11:08.371Z",
+  "fetched_at": "2026-09-24T22:43:27.230Z",
   "channel": {
     "username": "netblocks",
     "title": "NetBlocks",
@@ -10,6 +10,39 @@
     "subscriber_count": "48.5K"
   },
   "posts": [
+    {
+      "id": "netblocks/1552",
+      "author_name": "NetBlocks",
+      "author_photo_url": "https://cdn4.telesco.pe/file/AwYk_s3i1F7zU0KY-drS9gBLkUZoyK7uu-Slbota8T2E05e1X-17PnUen2AclJ-O0HYlmfvYb7zLqcqBentVLbhel8gxm7ZNAFHfMAdUDqVvZActHWB1hTtOog2r_S17OR1_lpcgSzAT77jI3goMA1Wa4mdWyDlVZDC9B0WCD4AwkkSmOuYvh44NoUogWBJVq-qBgyAJ2HBLWlrgO8pp9MzVZHmhLBb-3EqF3Hb7jOPw7-rfj2abGNABQOQsrGHxg41O6or-KsybMRByBuxipjrT6ottxREfnLmQ12p76AqUqwl4pPBt4QCGn2a8HhJ17EV1AROMJjeS5ZW1oa8YNw.jpg",
+      "author_photo_path": "channels/netblocks/media/425b90ce76f0441245235d15.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Network data indicate a subnational internet disruption in northern <a href=\"?q=%23Ethiopia\">#Ethiopia</a> corresponding to reports of a telecoms blackout in <a href=\"?q=%23Tigray\">#Tigray</a>. The incident comes amid escalating conflict between Tigrayan forces and the national army <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9389.png')\"><b>📉</b></i>",
+      "plain_text": "⚠️ Confirmed: Network data indicate a subnational internet disruption in northern #Ethiopia corresponding to reports of a telecoms blackout in #Tigray. The incident comes amid escalating conflict between Tigrayan forces and the national army 📉",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/netblocks/1552",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/OVgTIxSjKYYIEsHlbtQOsrWDne6Kq8XfXxTQMPVn3PGRSYB-A4NxcBF7Xr9hO76m9IflMKDP5SgkrS0Fq9-2_8jWzSAjpmTezTAuDyCi_y5Yd2LDPGqnxsupNpPle6dolW8UuWiRRfN6Pf7Ls-J49ZtXzIvm0UlCWq7C8g61Rnk5kIrnvwQiiCIalz4CfVGblNgz6VOITFoTGn9Kmcc2w9GsIZ8MA1jEk4zKuFeuY7TI86ikCGIjvDBxZCIj0HhMWzL6LlqcE2nA_LojqDS11IL5ZywpEB4kUNXlo19sAl1IodVPTYIsFfPt4qN0YKoIpfZAjM0FeT9fXyQEl9x6qA.jpg",
+          "thumbnail_path": "channels/netblocks/media/6d191ae125dbca697c5a9606.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "😢",
+          "count": "12"
+        },
+        {
+          "emoji": "😁",
+          "count": "4"
+        }
+      ],
+      "views_label": "943",
+      "posted_at": "2026-09-24T22:36:34+00:00",
+      "edited": false,
+      "permalink": "https://t.me/netblocks/1552"
+    },
     {
       "id": "netblocks/1551",
       "author_name": "NetBlocks",
@@ -31,7 +64,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "54"
+          "count": "56"
         },
         {
           "emoji": "👍",
@@ -39,7 +72,7 @@
         },
         {
           "emoji": "😢",
-          "count": "11"
+          "count": "12"
         },
         {
           "emoji": "❤",
@@ -62,7 +95,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.98K",
+      "views_label": "5.61K",
       "posted_at": "2026-09-24T03:01:53+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1551"
@@ -123,7 +156,7 @@
           "count": "1"
         }
       ],
-      "views_label": "11.8K",
+      "views_label": "12.3K",
       "posted_at": "2026-09-19T02:54:11+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1550"
@@ -180,7 +213,7 @@
           "count": "1"
         }
       ],
-      "views_label": "13.1K",
+      "views_label": "13.5K",
       "posted_at": "2026-09-18T21:22:35+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1549"
@@ -233,7 +266,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15K",
+      "views_label": "15.4K",
       "posted_at": "2026-09-18T20:55:13+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1548"
@@ -282,7 +315,7 @@
           "count": "1"
         }
       ],
-      "views_label": "17.2K",
+      "views_label": "17.4K",
       "posted_at": "2026-09-14T03:44:03+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1547"
@@ -351,7 +384,7 @@
           "count": "1"
         }
       ],
-      "views_label": "23.5K",
+      "views_label": "23.7K",
       "posted_at": "2026-09-04T02:21:29+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1546"
@@ -408,7 +441,7 @@
           "count": "1"
         }
       ],
-      "views_label": "29.5K",
+      "views_label": "29.7K",
       "posted_at": "2026-08-27T23:45:52+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1545"
@@ -461,7 +494,7 @@
           "count": "5"
         }
       ],
-      "views_label": "35.5K",
+      "views_label": "35.6K",
       "posted_at": "2026-08-20T02:45:31+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1544"
@@ -514,7 +547,7 @@
           "count": "2"
         }
       ],
-      "views_label": "32.3K",
+      "views_label": "32.4K",
       "posted_at": "2026-08-16T20:09:11+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1543"
@@ -531,8 +564,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/netblocks/1542",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/YueiTc7uin5vIw6pJ4C3FFtZqkBtPUUizoyLokj6koCZxjeOnbSpQt8Ef0Qbzg8v8LJbCfsE4kG1jX6W891vubARAh6N764ZMk-Wtdbbl9hrxFdkSlejcEAalnzAe_JUGj4uBYXVMsZTLgW5aH2cgM7-oDrxtRk0y0eZmKuxWo23Gpw1LsgYHw8kaMoGYrkhshvF4a2YNjQh-7s54tTwyssLZWuYA3UsRC28LngziIZXMiw4PyDcHOnfC8XsJJWyk8DmOxB_0qn_kfugDE9QvpWExmWUYlzWWJqLxftEeft1gD8J9q2WpLz8llbCzdwiciyZKcYcs0a3JHG_oT7NfQ.jpg",
-          "thumbnail_path": "channels/netblocks/media/a7f1becca39f024f8cea3ef9.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/dOfbYEvNrN1D7eRcTEvlR1pm-v3uQk9oP7RGWQFuyG_u9JgNR_Qk182_yHx6FIkrs0TxkRka2d9KjadSuqC3Ongm2JoZyGWauWSm19YfJZxHPQ-5fd2HF651tJrJ8yiB3EqFN6H83sD31S877Qp3PHN5Dowfc60njChVGhklJKfAhM1YIMSU2QY5cRdVPpvagIHN7hv9gL7__cfzeMvFaoIbqw-Y7ZAqhB_xLxJWFrcc3CwvNxQPkIw6apOdP_IP5Hi4S16vguIUKqpkfZ7oAy5JjnRApc9_IfznIBM1xLcVWesOoQbXjFzCOyOV0xcAaSaqD5NgnXbRqGPGyj-d2g.jpg",
+          "thumbnail_path": "channels/netblocks/media/3100974b3dad7314d6a0f75b.jpg",
           "duration_label": null,
           "aspect_ratio": 1.7777777777777777
         }
@@ -567,7 +600,7 @@
           "count": "1"
         }
       ],
-      "views_label": "26.6K",
+      "views_label": "26.7K",
       "posted_at": "2026-08-16T08:06:02+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1542"
@@ -685,7 +718,7 @@
           "count": "2"
         }
       ],
-      "views_label": "21.9K",
+      "views_label": "22.2K",
       "posted_at": "2026-08-13T14:32:14+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1540"
@@ -754,7 +787,7 @@
           "count": "1"
         }
       ],
-      "views_label": "24K",
+      "views_label": "24.2K",
       "posted_at": "2026-08-13T02:36:45+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1539"
@@ -811,7 +844,7 @@
           "count": "1"
         }
       ],
-      "views_label": "25.7K",
+      "views_label": "25.8K",
       "posted_at": "2026-08-11T19:57:41+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1538"
@@ -880,7 +913,7 @@
           "count": "1"
         }
       ],
-      "views_label": "42K",
+      "views_label": "42.1K",
       "posted_at": "2026-08-10T14:26:20+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1537"
@@ -945,7 +978,7 @@
           "count": "1"
         }
       ],
-      "views_label": "29.5K",
+      "views_label": "29.6K",
       "posted_at": "2026-08-09T12:40:04+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1536"
@@ -1006,7 +1039,7 @@
           "count": "1"
         }
       ],
-      "views_label": "31.3K",
+      "views_label": "31.4K",
       "posted_at": "2026-08-05T20:28:11+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1535"
@@ -1124,7 +1157,7 @@
           "count": "2"
         }
       ],
-      "views_label": "36.7K",
+      "views_label": "36.8K",
       "posted_at": "2026-08-02T01:34:43+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1533"
