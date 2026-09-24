@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-24T05:28:36.953Z",
+  "fetched_at": "2026-09-24T05:33:41.367Z",
   "channel": {
     "username": "pm_afshaa",
     "title": "PMTV NEWS 🦁☀️",
@@ -10,6 +10,35 @@
     "subscriber_count": "235K"
   },
   "posts": [
+    {
+      "id": "pm_afshaa/101298",
+      "author_name": "PMTV NEWS 🦁☀️",
+      "author_photo_url": "https://cdn4.telesco.pe/file/hHs8WH4RXGbO9j0cSDKjx6BPMYW1pC2JPi-7u-nhpFzwSfA_W7ao31tKDJi3LIcyG--syDoc3uUfftyHKEOYyU6gPGGcqdh0Oxgv3bjC8as5wrPccDgaCXNqW-EcdTd2zqza9STCVhPaVNUA1EGXQfyeBzOBwzgbF9wT0XWiiR56-RlERV4bZepi51w6ni-UITlw6a2Pv5h8ZpZZi-E9PoKY9MyTr2UqEAuoufVMKHfyG0tlfagS5MAKVZ-QYV6EKJG3m64CcXt4pflnGD9uXUN7QuV4apU_FYoLxOBZ2dPPs_zoO2ARpYmILgnbnPEnS07t7sGy2XgR_h8WWThJng.jpg",
+      "author_photo_path": "channels/pm_afshaa/media/04aec310ca4f5b327e2120d7.jpg",
+      "body_html": "عراقچی با همتای پاکستانی خود دیدار و گفت‌وگو کرد<br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+      "plain_text": "عراقچی با همتای پاکستانی خود دیدار و گفت‌وگو کرد 😁 @Pm_Afshaa",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/pm_afshaa/101298",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/jEfqES8dqfkOSEGJJrFI3X6V_w1E4FgktAv-BjDytVLY9alHvqC0FE6mZ1etn_ThGqX1pRy8AVRc9y_h-A9AOd_cNWRh1ArSSZjkVhm5ORYDr4MrhIb6dtouES0_ugVD5kaGCPl_2Axq7rYdxDQhG0-Gw0KlDXQHZKox7eFICvD2BKt4J3VzkKMRaIcIFyVKkcHtWrhvnHfsXLYp7KdgYvrnw70Vaivkodn95cPmOMIDdjkMA95K-WuYZ_Lg5QWFnBUrYpIqxSWdIJ6u89jvgp6tXBE96ll99DHSLac214aQ4SGd0nTKO73DG2X_5NHXubIE3t93iatmxbMKBdUC2A",
+          "thumbnail_path": "channels/pm_afshaa/media/d817d3e04b3a30f527dc8624.jpg",
+          "duration_label": "0:14",
+          "aspect_ratio": 1.8166666666666675
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🖕",
+          "count": "19"
+        }
+      ],
+      "views_label": "919",
+      "posted_at": "2026-09-24T05:30:46+00:00",
+      "edited": false,
+      "permalink": "https://t.me/pm_afshaa/101298"
+    },
     {
       "id": "pm_afshaa/101297",
       "author_name": "PMTV NEWS 🦁☀️",
@@ -31,22 +60,22 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "166"
+          "count": "195"
         },
         {
           "emoji": "🤣",
-          "count": "7"
+          "count": "11"
         },
         {
           "emoji": "🖕",
-          "count": "6"
+          "count": "8"
         },
         {
           "emoji": "👍",
-          "count": "4"
+          "count": "5"
         }
       ],
-      "views_label": "3.55K",
+      "views_label": "4.5K",
       "posted_at": "2026-09-24T05:14:48+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/101297"
@@ -62,18 +91,18 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "375"
+          "count": "384"
         },
         {
           "emoji": "❤",
-          "count": "9"
+          "count": "10"
         },
         {
           "emoji": "🖕",
-          "count": "5"
+          "count": "6"
         }
       ],
-      "views_label": "11K",
+      "views_label": "11.7K",
       "posted_at": "2026-09-24T04:05:11+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/101296"
@@ -99,7 +128,7 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "354"
+          "count": "357"
         },
         {
           "emoji": "🤬",
@@ -126,7 +155,7 @@
           "count": "3"
         }
       ],
-      "views_label": "27.1K",
+      "views_label": "27.6K",
       "posted_at": "2026-09-23T21:56:57+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/101295"
@@ -146,7 +175,7 @@
         },
         {
           "emoji": "🤣",
-          "count": "320"
+          "count": "325"
         },
         {
           "emoji": "🖕",
@@ -165,7 +194,7 @@
           "count": "4"
         }
       ],
-      "views_label": "27.3K",
+      "views_label": "27.7K",
       "posted_at": "2026-09-23T21:54:00+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/101294"
@@ -185,7 +214,7 @@
         },
         {
           "emoji": "🤣",
-          "count": "111"
+          "count": "113"
         },
         {
           "emoji": "💔",
@@ -204,7 +233,7 @@
           "count": "2"
         }
       ],
-      "views_label": "32.9K",
+      "views_label": "33.3K",
       "posted_at": "2026-09-23T20:54:13+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/101293"
@@ -220,7 +249,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "247"
+          "count": "248"
         },
         {
           "emoji": "❤",
@@ -239,7 +268,7 @@
           "count": "5"
         }
       ],
-      "views_label": "34K",
+      "views_label": "34.3K",
       "posted_at": "2026-09-23T20:40:54+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/101292"
@@ -274,7 +303,7 @@
           "count": "6"
         }
       ],
-      "views_label": "36.9K",
+      "views_label": "37.1K",
       "posted_at": "2026-09-23T20:01:59+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/101291"
@@ -290,7 +319,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "960"
+          "count": "961"
         },
         {
           "emoji": "🖕",
@@ -313,7 +342,7 @@
           "count": "2"
         }
       ],
-      "views_label": "38.7K",
+      "views_label": "38.9K",
       "posted_at": "2026-09-23T19:30:05+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/101290"
@@ -333,7 +362,7 @@
         },
         {
           "emoji": "👍",
-          "count": "260"
+          "count": "262"
         },
         {
           "emoji": "🤣",
@@ -348,7 +377,7 @@
           "count": "10"
         }
       ],
-      "views_label": "40K",
+      "views_label": "40.1K",
       "posted_at": "2026-09-23T19:00:47+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/101289"
@@ -383,7 +412,7 @@
           "count": "1"
         }
       ],
-      "views_label": "39.6K",
+      "views_label": "39.7K",
       "posted_at": "2026-09-23T18:42:32+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/101288"
@@ -426,7 +455,7 @@
           "count": "1"
         }
       ],
-      "views_label": "39.3K",
+      "views_label": "39.4K",
       "posted_at": "2026-09-23T18:33:24+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/101287"
@@ -457,7 +486,7 @@
           "count": "5"
         }
       ],
-      "views_label": "38.2K",
+      "views_label": "38.4K",
       "posted_at": "2026-09-23T18:31:44+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/101286"
@@ -492,7 +521,7 @@
           "count": "7"
         }
       ],
-      "views_label": "37.9K",
+      "views_label": "38.1K",
       "posted_at": "2026-09-23T18:15:09+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/101285"
@@ -518,11 +547,11 @@
       "reactions": [
         {
           "emoji": "🤯",
-          "count": "465"
+          "count": "466"
         },
         {
           "emoji": "🤣",
-          "count": "111"
+          "count": "113"
         },
         {
           "emoji": "❤",
@@ -541,7 +570,7 @@
           "count": "2"
         }
       ],
-      "views_label": "38.7K",
+      "views_label": "38.9K",
       "posted_at": "2026-09-23T17:52:41+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/101284"
@@ -567,7 +596,7 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "1.11K"
+          "count": "1.12K"
         },
         {
           "emoji": "🤬",
@@ -586,7 +615,7 @@
           "count": "17"
         }
       ],
-      "views_label": "36.1K",
+      "views_label": "36.2K",
       "posted_at": "2026-09-23T17:41:19+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/101283"
@@ -612,7 +641,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "786"
+          "count": "788"
         },
         {
           "emoji": "🖕",
@@ -620,7 +649,7 @@
         },
         {
           "emoji": "❤",
-          "count": "41"
+          "count": "42"
         },
         {
           "emoji": "🤬",
@@ -635,7 +664,7 @@
           "count": "1"
         }
       ],
-      "views_label": "35.8K",
+      "views_label": "35.9K",
       "posted_at": "2026-09-23T17:26:23+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/101282"
@@ -659,7 +688,7 @@
         },
         {
           "emoji": "🖕",
-          "count": "16"
+          "count": "17"
         },
         {
           "emoji": "❤",
@@ -674,7 +703,7 @@
           "count": "2"
         }
       ],
-      "views_label": "35.4K",
+      "views_label": "35.5K",
       "posted_at": "2026-09-23T17:07:41+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/101281"
@@ -705,7 +734,7 @@
           "count": "7"
         }
       ],
-      "views_label": "36.2K",
+      "views_label": "36.3K",
       "posted_at": "2026-09-23T16:49:24+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/101280"
@@ -736,7 +765,7 @@
           "count": "3"
         }
       ],
-      "views_label": "37.2K",
+      "views_label": "37.3K",
       "posted_at": "2026-09-23T16:32:37+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/101279"
@@ -3880,41 +3909,6 @@
       "posted_at": "2026-09-22T13:49:15+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/101195"
-    },
-    {
-      "id": "pm_afshaa/101194",
-      "author_name": "PMTV NEWS 🦁☀️",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Ol6I6WHMIQfQQx7E8yQLkxQT9JWv0fUZNU_9BDsFCyXTPMcvc7cNCYIqfrnEjsDEIbQbv8W-DPh5p-Lt7XcY8xnO77tqTIaw5F8IT3-YPORGR7WwqtangKEPGQLpj368m1n3iZJcTDJ_uECOcaxtL3KZ21msIkErnLpGq6aJ0C81UQh0tblWnax2r_kRh5waoM46mvbmCg6RrS45Oqz9cWRjpLpmZ98GrkluFNasvRyfnct9lhsh9MXhf1Hyp8Dn0c7wx1zWHr3VXO2mWkfmBNayV9jDs3gcOdhwIQSqtLrmoSpS1r2T7fDseGzYOm3f1Ml5MIjlv-G6Q02e9pVTSw.jpg",
-      "author_photo_path": "channels/pm_afshaa/media/a308d17d7991ba274e994bed.jpg",
-      "body_html": "سخنگو سپاه: به فناوری موشک خیلی دوربرد رسیدیم، منتظر دستوریم<br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-      "plain_text": "سخنگو سپاه: به فناوری موشک خیلی دوربرد رسیدیم، منتظر دستوریم 😁 @Pm_Afshaa",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "468"
-        },
-        {
-          "emoji": "🖕",
-          "count": "73"
-        },
-        {
-          "emoji": "❤",
-          "count": "19"
-        },
-        {
-          "emoji": "🤯",
-          "count": "5"
-        },
-        {
-          "emoji": "🔥",
-          "count": "2"
-        }
-      ],
-      "views_label": "30.4K",
-      "posted_at": "2026-09-22T13:30:21+00:00",
-      "edited": false,
-      "permalink": "https://t.me/pm_afshaa/101194"
     }
   ]
 }
