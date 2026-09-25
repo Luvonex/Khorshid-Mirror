@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-25T15:59:44.153Z",
+  "fetched_at": "2026-09-25T19:18:03.085Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,122 @@
     "subscriber_count": "13.9K"
   },
   "posts": [
+    {
+      "id": "DEJradio/8122",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/hUkYtkoBB2BkeR2CU2RJGAvKfeOcBM7dkrXttGyR8cjPaWQ_TiW5UrqGxHYEq7aiK62woVTflhnztXUeL22LMql7EV3GUbEyjip43QLlOFQKifxChnH-SQFsdzPvKqkn7tkKAm-IzePZ1FmnoYGkb4q5LMz_702giEJ6UPZXd8Pip6t2WFsxUC4jo-GQB50serbGJVGcUdeyK-DcpsNlmmJ600PVWbhoVRrVCIR61qKlmcFyw79pmF1z1upPfpUPpEHF80qX9YKcrp460zr977d_4YUo5ZkK0b2SGxXvPK6k7RFj_gx7t8AJZ9rkIWPyH2EKUl__iSoxrchHKbKG3w.jpg",
+      "author_photo_path": "channels/dejradio/media/760367e6b3b8f21535f1da27.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5949286409478082944\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9598.png')\"><b>🕘</b></i> خبر ۲۱<br>آدینه ۳ مهر ۱۴۰۵<br><br><a href=\"?q=%23%D8%AE%D8%A8%D8%B1%DB%B2%DB%B1\">#خبر۲۱</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "⭕️🕘 خبر ۲۱ آدینه ۳ مهر ۱۴۰۵ #خبر۲۱ @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/8122",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/JgHRllVUx98ehlB-joRjvzQixGzc8CZ1DWI-BELwPFYRo6Z5uhYXdhT-DVtMI4YnVG2eIWvNe85HzJwXZvBjUp_FmmoX15zOPZYmcC9Q8BWA2A7hypHtVmvWP43mZ-tp8mjuk5har8azvsGeaPn-xYiVC1bBWgwcAyBX_JWILjln8T9_4ZPodI3kn06xoZTxaLTnBqJnGb68vuwxHyfJ8yE-qKmdv_zuNZ1_kfKIhTLVZlntQNG-wDvxlffLrEGpcnQYywsMuGUdGl0b-bNhn-RDNLDJIaNBMDVi141CNY82GOBgWeDac5ji-z1uM4PkbDWeDYi86yzRgZ0o5CivpQ",
+          "thumbnail_path": "channels/dejradio/media/b5e5d89ceaa04a90c0bf5266.jpg",
+          "duration_label": "3:19",
+          "aspect_ratio": 1.7824267782426628
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "1"
+        }
+      ],
+      "views_label": "202",
+      "posted_at": "2026-09-25T19:03:09+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/8122"
+    },
+    {
+      "id": "DEJradio/8121",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/hUkYtkoBB2BkeR2CU2RJGAvKfeOcBM7dkrXttGyR8cjPaWQ_TiW5UrqGxHYEq7aiK62woVTflhnztXUeL22LMql7EV3GUbEyjip43QLlOFQKifxChnH-SQFsdzPvKqkn7tkKAm-IzePZ1FmnoYGkb4q5LMz_702giEJ6UPZXd8Pip6t2WFsxUC4jo-GQB50serbGJVGcUdeyK-DcpsNlmmJ600PVWbhoVRrVCIR61qKlmcFyw79pmF1z1upPfpUPpEHF80qX9YKcrp460zr977d_4YUo5ZkK0b2SGxXvPK6k7RFj_gx7t8AJZ9rkIWPyH2EKUl__iSoxrchHKbKG3w.jpg",
+      "author_photo_path": "channels/dejradio/media/760367e6b3b8f21535f1da27.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><tg-emoji emoji-id=\"5951842387465605469\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji> آسمان ناامن ایران و خاورمیانه.<br><br><a href=\"?q=%23%D8%AA%D8%AD%D8%B1%DB%8C%D9%85\">#تحریم</a> <br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "🔺⭕️ آسمان ناامن ایران و خاورمیانه. #تحریم @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/8121",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/si8kTRlduvp6aXhlpNBYHgb9O4vegtzzp9Y4vvwm_nqYEzwXc15_9HbY6c8dG-_9BA6Y5AtW_Ls4jkU_JhGI-uLZpaTN0xgQuVjOa_FwXIiPurQsPxbCBvnyJHCvCWmgE6NGi9Qsc5WMT5faJw15oKGQASYWeTQ7WoFIv7TryoEgBEHmUuDGL0aEUVP236MXcdThWVyA2OOwVFjysVXWFpsbLlwJwQlpjOg9FYMbAwvxdjL6dqLYKnvMZ_-YDhrZv4Tvbl6MjfGiGSYCnuEU8Wj3EdyvsBFyp2ZAPyNEHJpxopMChdzzngNy5SvMH5Xfjdu1lszqYnt_93LJFvY5OA",
+          "thumbnail_path": "channels/dejradio/media/69d1ec83661d3de6f377d21c.jpg",
+          "duration_label": "1:16",
+          "aspect_ratio": 1.7824267782426628
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "17"
+        }
+      ],
+      "views_label": "1.04K",
+      "posted_at": "2026-09-25T17:13:32+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/8121"
+    },
+    {
+      "id": "DEJradio/8119",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/hUkYtkoBB2BkeR2CU2RJGAvKfeOcBM7dkrXttGyR8cjPaWQ_TiW5UrqGxHYEq7aiK62woVTflhnztXUeL22LMql7EV3GUbEyjip43QLlOFQKifxChnH-SQFsdzPvKqkn7tkKAm-IzePZ1FmnoYGkb4q5LMz_702giEJ6UPZXd8Pip6t2WFsxUC4jo-GQB50serbGJVGcUdeyK-DcpsNlmmJ600PVWbhoVRrVCIR61qKlmcFyw79pmF1z1upPfpUPpEHF80qX9YKcrp460zr977d_4YUo5ZkK0b2SGxXvPK6k7RFj_gx7t8AJZ9rkIWPyH2EKUl__iSoxrchHKbKG3w.jpg",
+      "author_photo_path": "channels/dejradio/media/760367e6b3b8f21535f1da27.jpg",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">Dear President De La Espriella, <br><br>The Iranian people thank you and the people of Colombia for your principled decision to sever diplomatic relations with the Islamic Republic.<br><br>Colombia has taken a clear stand against the Islamic Republic’s terrorism, transnational crime and systematic violations of human rights.The Iranian people will remember those who stood with them in their struggle for freedom. <br><br>I look forward to the day when a free Iran and Colombia can build a strong and enduring friendship based on our shared values of freedom, security and democracy.</div>",
+      "plain_text": "Dear President De La Espriella, The Iranian people thank you and the people of Colombia for your principled decision to sever diplomatic relations with the Islamic Republic. Colombia has taken a clear stand against the Islamic Republic’s terrorism, transnational crime and systematic violations of human rights.The Iranian people will remember those who stood with them in their struggle for freedom. I look forward to the day when a free Iran and Colombia can build a strong and enduring friendship based on our shared values of freedom, security and democracy.",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/DEJradio/8119?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/FBTXFdZFbioI4-c3drqP0mkYTEXn2N7p0NasqzGZmzwQubyJxyfjbYDu3o-l0vpO1QNWipqz6sjhivt1H1u4xcZKjOSSW45JKGL0wxc_cuVT7rTZtnNKHkJS7r-JQoEnmFNycp05jfLZx8hkLMp_l7fMqCRPb0wND61Q0iwdAaM-HqXPlUdb-ow-rkJk2_YLxYo0qkHNPY5LldaIPAQg4xASmM6CXC5E4Ydni3AKUWqfVKpJ6R7fEe2IDKSbd4oudoyT3FjNWffRvGc1x8WbeKNoc92Vrv9t_clgbW7oUHNhQGLgfV6pH9F4EoZdHuDSYi9fmv7-8UvGcOVP0Q1-tQ.jpg",
+          "thumbnail_path": "channels/dejradio/media/b71fade12b01b120a16bff34.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/DEJradio/8120?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ZifYaWXBU3XK1BR-e85-y20nTnQbzdXukLtQjf1SO7LyaRy8R0cky6Oh2LasMd7yTmx7zPkglEEf_KY-rrNuE7E1Rp3M5KV5WGT_uHJ_UA_2VLPjdublLhrgE-31WvyvYwACgNnM9IvxrUGFlfMOR5v44tu2ue1xmkcsQGjr43ii3MiJGclnQJev2WUfhG_nN_iXLEnlPtfN3okQQDwsMbPX8YK2gu3C7BdgfGerWuQSmjuQmI1ejh7TMg15-peOLEEW6SjDvP6YykhWtmI8SzZ-A7bX86gnt9zcJY1OBHzIZBRrT9LWWoSAhCSiBO_SVQ783iI1l_OLoOwtF_M8kg.jpg",
+          "thumbnail_path": "channels/dejradio/media/baec809931fcfd8424c51fee.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "50"
+        },
+        {
+          "emoji": "🫡",
+          "count": "6"
+        },
+        {
+          "emoji": "👍",
+          "count": "2"
+        },
+        {
+          "emoji": "🤨",
+          "count": "2"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        },
+        {
+          "emoji": "🤮",
+          "count": "1"
+        }
+      ],
+      "views_label": "838",
+      "posted_at": "2026-09-25T16:34:47+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/8119"
+    },
     {
       "id": "DEJradio/8118",
       "author_name": "DEJ",
@@ -31,18 +147,18 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "19"
+          "count": "30"
         },
         {
           "emoji": "🤮",
-          "count": "6"
+          "count": "9"
         },
         {
           "emoji": "🖕",
-          "count": "2"
+          "count": "5"
         }
       ],
-      "views_label": "754",
+      "views_label": "1.47K",
       "posted_at": "2026-09-25T14:26:04+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8118"
@@ -68,10 +184,10 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "23"
+          "count": "30"
         }
       ],
-      "views_label": "997",
+      "views_label": "1.58K",
       "posted_at": "2026-09-25T14:00:38+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/8117"
@@ -97,18 +213,18 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "15"
+          "count": "18"
         },
         {
           "emoji": "👏",
-          "count": "2"
+          "count": "3"
         },
         {
           "emoji": "❤",
           "count": "1"
         }
       ],
-      "views_label": "902",
+      "views_label": "1.33K",
       "posted_at": "2026-09-25T13:44:55+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8116"
@@ -152,7 +268,7 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "31"
+          "count": "36"
         },
         {
           "emoji": "❤",
@@ -171,7 +287,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.2K",
+      "views_label": "1.49K",
       "posted_at": "2026-09-25T11:48:47+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8113"
@@ -197,7 +313,7 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "32"
+          "count": "36"
         },
         {
           "emoji": "😁",
@@ -212,7 +328,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.29K",
+      "views_label": "1.49K",
       "posted_at": "2026-09-25T10:05:21+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/8112"
@@ -238,7 +354,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "18"
+          "count": "21"
         },
         {
           "emoji": "🤬",
@@ -249,7 +365,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.25K",
+      "views_label": "1.39K",
       "posted_at": "2026-09-25T09:27:50+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/8111"
@@ -275,10 +391,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "39"
+          "count": "43"
         },
         {
           "emoji": "❤",
+          "count": "4"
+        },
+        {
+          "emoji": "🔥",
           "count": "3"
         },
         {
@@ -286,15 +406,11 @@
           "count": "3"
         },
         {
-          "emoji": "🔥",
-          "count": "2"
-        },
-        {
           "emoji": "👏",
           "count": "2"
         }
       ],
-      "views_label": "1.26K",
+      "views_label": "1.41K",
       "posted_at": "2026-09-25T08:53:36+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8110"
@@ -320,18 +436,18 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "36"
+          "count": "40"
         },
         {
           "emoji": "🤬",
-          "count": "14"
+          "count": "15"
         },
         {
           "emoji": "😡",
           "count": "6"
         }
       ],
-      "views_label": "1.49K",
+      "views_label": "1.65K",
       "posted_at": "2026-09-25T08:11:11+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8109"
@@ -366,7 +482,7 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "15"
+          "count": "16"
         },
         {
           "emoji": "👍",
@@ -385,7 +501,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.24K",
+      "views_label": "1.38K",
       "posted_at": "2026-09-25T07:56:07+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8107"
@@ -411,11 +527,11 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "24"
+          "count": "28"
         },
         {
           "emoji": "🤨",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "❤",
@@ -426,7 +542,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.18K",
+      "views_label": "1.33K",
       "posted_at": "2026-09-25T07:50:19+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8106"
@@ -467,7 +583,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.22K",
+      "views_label": "1.37K",
       "posted_at": "2026-09-25T07:44:21+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8105"
@@ -502,7 +618,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "25"
+          "count": "27"
         },
         {
           "emoji": "👍",
@@ -517,7 +633,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.39K",
+      "views_label": "1.55K",
       "posted_at": "2026-09-25T07:13:46+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8103"
@@ -4061,121 +4177,6 @@
       "posted_at": "2026-09-20T19:24:34+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8008"
-    },
-    {
-      "id": "DEJradio/8007",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IAiVmYgHpJ5sBS84RrJ3ZWy6LDk2M4Jy8xpAqvrdsTOg7LAqBlvhGwgurgzdkIRqQA0pQ5la-qQ0GjEBixsJyBro-8aTxX46Jy8kaRXQFZQE4Hq6ZsQIrOKYC7yTew6iI-M9u675z2uF_mIc4QgV6YJxryaCp0Yi-exbbSHl8VH-ur5SMORldjfCLKBuKc4DtOtKEoV1z3ukY9DbspCbLWhO6EEMfW6Eh7tumvkPj-bAn5ngj7rqHEp9o_Z2TlGXcxT58242f4XGu0UuCBCZeZPFyxvceHY4zaBm8oZmzaRu15FVtH2-o6QkPYm9lX_P9j4RoycQdajLsV16FLm82w.jpg",
-      "author_photo_path": "channels/dejradio/media/f163d0dae33f95b56a7c795c.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5951677112829088371\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji><tg-emoji emoji-id=\"5951842387465605469\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji> <b>کانال‌های امنیتی جمهوری اسلامی: پروازهای ایران و عراق از سه‌شنبه متوقف می‌شود</b><br><br>کانال‌های امنیتی جمهوری اسلامی در فضای مجازی مدعی شده‌اند دولت عراق تصمیم گرفته است از سه‌شنبۀ آینده، تمامی پروازهای رفت‌وبرگشت با ایران را در همۀ فرودگاه‌های این کشور لغو کند.<br>بر اساس همین ادعا، رفت‌وآمد میان دو کشور تنها از طریق گذرگاه‌های مرزی زمینی انجام خواهد شد. این خبر به نقل از کانال‌های یادشده منتشر شده و فعلاً ادعایی غیررسمی و تأییدنشده است.<br><br><a href=\"?q=%23%D8%A7%DB%8C%D8%B1%D8%A7%D9%86\">#ایران</a> <a href=\"?q=%23%D8%B9%D8%B1%D8%A7%D9%82\">#عراق</a> <a href=\"?q=%23%D8%B7%D8%B1%D8%AF_%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C\">#طرد_اقتصادی</a> <br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "⭕️⭕️ کانال‌های امنیتی جمهوری اسلامی: پروازهای ایران و عراق از سه‌شنبه متوقف می‌شود کانال‌های امنیتی جمهوری اسلامی در فضای مجازی مدعی شده‌اند دولت عراق تصمیم گرفته است از سه‌شنبۀ آینده، تمامی پروازهای رفت‌وبرگشت با ایران را در همۀ فرودگاه‌های این کشور لغو کند. بر اساس همین ادعا، رفت‌وآمد میان دو کشور تنها از طریق گذرگاه‌های مرزی زمینی انجام خواهد شد. این خبر به نقل از کانال‌های یادشده منتشر شده و فعلاً ادعایی غیررسمی و تأییدنشده است. #ایران #عراق #طرد_اقتصادی @DEJradio",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/8007",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/sgGA2U2T10s9vKLymTzO8qUQNFAWKWwPwbL73sloY1OwDrx8o6qakCVnz1MGDwB1eUulmGQmpIdvzlaQ0kay1vwbJr8fy2IrcnQnEQrroGn7oks3ZJybnji0G15mkwWw1B7_oU2YrzsM8HBo7nOvxWaIPACxH8wSltuy4jixJZk07JVUSjSAUDZ9LHv4YXMo2V1TNS1WN_BOr3NfgOsvwPoaS2DvwP0vlCPSFoKkR83VsxajdX1Q66mCRcKtDqQ3IgLmPkK9VHsLVjtC-qaiZJ16Uu5W_fs5uLnDgUgYdC-aCmm8HIuC7GP3bItdBJCCuX1NqdmFIZwpDHCibRCstA.jpg",
-          "thumbnail_path": "channels/dejradio/media/3bb2e9df2a3390306427ae17.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.501210653753037
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "20"
-        },
-        {
-          "emoji": "👍",
-          "count": "12"
-        },
-        {
-          "emoji": "👏",
-          "count": "8"
-        }
-      ],
-      "views_label": "2.01K",
-      "posted_at": "2026-09-20T19:21:18+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/8007"
-    },
-    {
-      "id": "DEJradio/8006",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IAiVmYgHpJ5sBS84RrJ3ZWy6LDk2M4Jy8xpAqvrdsTOg7LAqBlvhGwgurgzdkIRqQA0pQ5la-qQ0GjEBixsJyBro-8aTxX46Jy8kaRXQFZQE4Hq6ZsQIrOKYC7yTew6iI-M9u675z2uF_mIc4QgV6YJxryaCp0Yi-exbbSHl8VH-ur5SMORldjfCLKBuKc4DtOtKEoV1z3ukY9DbspCbLWhO6EEMfW6Eh7tumvkPj-bAn5ngj7rqHEp9o_Z2TlGXcxT58242f4XGu0UuCBCZeZPFyxvceHY4zaBm8oZmzaRu15FVtH2-o6QkPYm9lX_P9j4RoycQdajLsV16FLm82w.jpg",
-      "author_photo_path": "channels/dejradio/media/f163d0dae33f95b56a7c795c.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5900186420659622041\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji><tg-emoji emoji-id=\"5807857736330778237\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA4.png')\"><b>🎤</b></i></tg-emoji>پروفسور افشین الیان، عضو کمیته تدوین مقررات عدالت انتقالی ایران، در مصاحبه با دژ تشریح می‌کند که سپاه پاسداران و به طور کل دستگاه امنیتی و قضایی جمهوری اسلامی به شکل یک مافیای جنایتکار عمل می‌کند، بنابراین تمام کسانیکه که به هر طریقی با جنایت همراه بوده باشند یا به هر نحوی دخالت کرده باشند، از جمله همسران جنایکاران، محاکمه خواهند شد.<br><br><a href=\"?q=%23%D8%B9%D8%AF%D8%A7%D9%84%D8%AA_%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84%DB%8C\">#عدالت_انتقالی</a> <a href=\"?q=%23%D8%A8%D8%B1%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C\">#براندازی</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "✅🎤پروفسور افشین الیان، عضو کمیته تدوین مقررات عدالت انتقالی ایران، در مصاحبه با دژ تشریح می‌کند که سپاه پاسداران و به طور کل دستگاه امنیتی و قضایی جمهوری اسلامی به شکل یک مافیای جنایتکار عمل می‌کند، بنابراین تمام کسانیکه که به هر طریقی با جنایت همراه بوده باشند یا به هر نحوی دخالت کرده باشند، از جمله همسران جنایکاران، محاکمه خواهند شد. #عدالت_انتقالی #براندازی @DEJradio",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/DEJradio/8006",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/UgEELPY5BVYI-Q1bp-u9TMTQpfufHWQDG3L30lBn6-6WU0LiQxfsvR163nOJLThkFMUZ9TuIm9VlJLhvb4QNBzh0ta2g3fdLSWbAEiyICXiBI2umKeEJ5TIpflGzbRNZmyUbNnAv5rsg29119eEXeydioTTnmQxaMn30UMYcWC8sq4jUxLvGfg53gJSoKpUxHjOBAzGTbN1JGq72jNHRnftzIqB_rN4TG7HlBab-4zCp0p2PIX5dKv1c4dYGpjVO9wBaR5Bz7DJMjaODZ9REmERCHMiqK4Z5lH2GQl7ZU89kjy8HkhVq6Hv0NJB-zgnkRotFdOSKmm8U3-CuAK6D0Q",
-          "thumbnail_path": "channels/dejradio/media/315b349be17db04578e0ee43.jpg",
-          "duration_label": "14:28",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "39"
-        },
-        {
-          "emoji": "👏",
-          "count": "11"
-        },
-        {
-          "emoji": "🤔",
-          "count": "2"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        }
-      ],
-      "views_label": "2K",
-      "posted_at": "2026-09-20T19:06:10+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/8006"
-    },
-    {
-      "id": "DEJradio/8005",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IAiVmYgHpJ5sBS84RrJ3ZWy6LDk2M4Jy8xpAqvrdsTOg7LAqBlvhGwgurgzdkIRqQA0pQ5la-qQ0GjEBixsJyBro-8aTxX46Jy8kaRXQFZQE4Hq6ZsQIrOKYC7yTew6iI-M9u675z2uF_mIc4QgV6YJxryaCp0Yi-exbbSHl8VH-ur5SMORldjfCLKBuKc4DtOtKEoV1z3ukY9DbspCbLWhO6EEMfW6Eh7tumvkPj-bAn5ngj7rqHEp9o_Z2TlGXcxT58242f4XGu0UuCBCZeZPFyxvceHY4zaBm8oZmzaRu15FVtH2-o6QkPYm9lX_P9j4RoycQdajLsV16FLm82w.jpg",
-      "author_photo_path": "channels/dejradio/media/f163d0dae33f95b56a7c795c.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5951677112829088371\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji><tg-emoji emoji-id=\"5951842387465605469\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji> وبسایت «حال‌وش» گزارش داد که اطلاعاتی از منابع محلی درباره ایجاد مزاحمت از سوی شبه‌نظامیان فاطمیون برای شهروندان بلوچ، از جمله زنان و کودکان، در منطقه سمسور از توابع بخش کورین شهرستان زاهدان دریافت کرده است.<br>بر اساس این گزارش، روز یکشنبه ۲۹ شهریور یک شهروند بلوچ که همراه همسرش با موتورسیکلت در منطقه سمسور در حال تردد بود، توسط افرادی که حال‌وش آنها را از اعضای فاطمیون معرفی کرده، مورد تعقیب قرار گرفته است. به گفته منابع این رسانه، این زوج موفق شده‌اند از محل دور شوند.<br>حال‌وش همچنین به نقل از منابع محلی گزارش داده است که شماری از نیروهای فاطمیون از ساکنان اهل سنت و بلوچ منطقه درباره «ازدواج موقت» یا «صیغه» با زنان بومی پرس‌وجو کرده و در مواردی نیز درخواست‌هایی با ماهیت جنسی از کودکان مطرح کرده‌اند.<br><br><a href=\"?q=%23%D9%85%D8%B2%D8%AF%D9%88%D8%B1\">#مزدور</a> <a href=\"?q=%23%D9%86%DB%8C%D8%A7%D8%A8%D8%AA%DB%8C\">#نیابتی</a> <a href=\"?q=%23%D8%B3%DB%8C%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%84%D9%88%DA%86%D8%B3%D8%AA%D8%A7%D9%86\">#سیستان_بلوچستان</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "⭕️⭕️ وبسایت «حال‌وش» گزارش داد که اطلاعاتی از منابع محلی درباره ایجاد مزاحمت از سوی شبه‌نظامیان فاطمیون برای شهروندان بلوچ، از جمله زنان و کودکان، در منطقه سمسور از توابع بخش کورین شهرستان زاهدان دریافت کرده است. بر اساس این گزارش، روز یکشنبه ۲۹ شهریور یک شهروند بلوچ که همراه همسرش با موتورسیکلت در منطقه سمسور در حال تردد بود، توسط افرادی که حال‌وش آنها را از اعضای فاطمیون معرفی کرده، مورد تعقیب قرار گرفته است. به گفته منابع این رسانه، این زوج موفق شده‌اند از محل دور شوند. حال‌وش همچنین به نقل از منابع محلی گزارش داده است که شماری از نیروهای فاطمیون از ساکنان اهل سنت و بلوچ منطقه درباره «ازدواج موقت» یا «صیغه» با زنان بومی پرس‌وجو کرده و در مواردی نیز درخواست‌هایی با ماهیت جنسی از کودکان مطرح کرده‌اند. #مزدور #نیابتی #سیستان_بلوچستان @DEJradio",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/8005",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/OU4lB6np-G3Q-Xli2HK3Zu8BYIa_8TecsXG4VelROaZko6aZKbU36BG1YKFVVRGQLCjzMNa369gHvstnXf9VzePJXEx2S39qAXmzXmyJK-5YOsXDk7cHo7NzPaYPXz6Kt8-ZI0SoQky1QD1y2dOVUH3_CJ0vchRTKIDvtMg14t2zB4eVU1mJqPDuWVeeTYGT47q5YvvDEo8R3kg4Jv5ADwWEIJiduegqItLCmesJzYl3uvWcHVyN2WDuSZeG7r0SYYjLvAUgQF8UkgRrQs_fby5GvhSA7aaC1egr0-H9mloMRfy2EfhmPMCfTwXhd4yGCaYtcUGdyrTAJncsTyYYPA.jpg",
-          "thumbnail_path": "channels/dejradio/media/a6427e199ae26766d42a1574.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤬",
-          "count": "55"
-        },
-        {
-          "emoji": "😡",
-          "count": "8"
-        },
-        {
-          "emoji": "😁",
-          "count": "1"
-        }
-      ],
-      "views_label": "2K",
-      "posted_at": "2026-09-20T15:23:40+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/8005"
     }
   ]
 }
