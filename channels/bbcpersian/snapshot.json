@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-26T20:11:55.295Z",
+  "fetched_at": "2026-09-26T21:40:05.836Z",
   "channel": {
     "username": "bbcpersian",
     "title": "BBCPersian",
@@ -11,17 +11,65 @@
   },
   "posts": [
     {
+      "id": "bbcpersian/292248",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/eDFPbaBrE_aX1PGrVDUuHHYOmqWdlaOGUVH-0IUpr7YrqFTjuyseWy18Puwc-hs4FEiMgk_MwCZ5i9WQFWEW1_ZubI5ZSwNIn_p7bj-yrGfgMbsNDgfZZM3BR2v5EI1hKT4YL6BFHecy0peaBGX3c6IoOI8aGsyd_ScdA-o3dFoz8QwRDAm6ogCJHMA--WE9Gm6Aq1QShRMK9jvKziNsIYjWV97j1NaErzQjrIO7giX8rfqlhl0zH161CK2K0MlSftjf20piy6Hh12rJFes2S9ZArMXS95XhdCoCty0Pn2chxZkqc8wZJmXI8htc5W1mud0OR6ZGb7QRFg77VcCQew.jpg",
+      "author_photo_path": "channels/bbcpersian/media/08823951bf5488739ad78c52.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>آکسیوس به نقل از منابع آگاه گزارش داده است که مذاکره‌کنندگان آمریکایی در گفت‌وگوهای غیرمستقیم این هفته با ایران در نیویورک به طرف ایرانی گفته‌اند که تهران کنترل تنگه هرمز را در دست ندارد و بنابراین نمی‌تواند درباره این آبراه شرط تعیین کند.<br><br>بر اساس این گزارش، استیو ویتکاف و جرد کوشنر، فرستادگان آمریکا، با عباس عراقچی، وزیر خارجه ایران، در حاشیه مجمع عمومی سازمان ملل مذاکرات غیرمستقیم داشته‌اند و مقام‌های قطری پیام‌ها را میان دو طرف منتقل می‌کردند.<br><br>اکسیوس می‌گوید که عراقچی شرایط ایران برای بازگشایی تنگه هرمز و ازسرگیری مذاکرات هسته‌ای را به طرف آمریکایی منتقل کرده است. پیشنهاد ایران شامل لغو محاصره دریایی، رفع تحریم‌های فروش نفت و برقراری آتش‌بس در سراسر منطقه است.<br><br>در مقابل، دولت ترامپ خواهان امتیازهای هسته‌ای از ایران است و همین اختلاف، یکی از شکاف‌های اصلی میان دو طرف در مذاکرات باقی مانده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B8.png')\"><b>📸</b></i>Anadolu via Getty Images<br><a href=\"https://bbc.in/4dCvPKS\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4dCvPKS</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "🔻آکسیوس به نقل از منابع آگاه گزارش داده است که مذاکره‌کنندگان آمریکایی در گفت‌وگوهای غیرمستقیم این هفته با ایران در نیویورک به طرف ایرانی گفته‌اند که تهران کنترل تنگه هرمز را در دست ندارد و بنابراین نمی‌تواند درباره این آبراه شرط تعیین کند. بر اساس این گزارش، استیو ویتکاف و جرد کوشنر، فرستادگان آمریکا، با عباس عراقچی، وزیر خارجه ایران، در حاشیه مجمع عمومی سازمان ملل مذاکرات غیرمستقیم داشته‌اند و مقام‌های قطری پیام‌ها را میان دو طرف منتقل می‌کردند. اکسیوس می‌گوید که عراقچی شرایط ایران برای بازگشایی تنگه هرمز و ازسرگیری مذاکرات هسته‌ای را به طرف آمریکایی منتقل کرده است. پیشنهاد ایران شامل لغو محاصره دریایی، رفع تحریم‌های فروش نفت و برقراری آتش‌بس در سراسر منطقه است. در مقابل، دولت ترامپ خواهان امتیازهای هسته‌ای از ایران است و همین اختلاف، یکی از شکاف‌های اصلی میان دو طرف در مذاکرات باقی مانده است. 📸Anadolu via Getty Images https://bbc.in/4dCvPKS @BBCPersian",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/292248",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Gc4GaJ8ZQHanx0Q-9vskrFCpTibERUOn_2gzCAbdY5-QUJYTQ7xtz3eNOsCw1wYPLPrbH05pGibDvVNrK3tf-qqfAa4ddlcL8Crm3PCcGUSjL4tGx4Ek1nwT7Sms85bRq7fPVT05mrH2Xm8wMBjjCUiwagRo8ks3m_t_0OPOGmjO_z9skuG0_ckwlk1MeXoHby1kBfAHpAsyv7Y2M9RFG_DHUL-tdzwqhCzufMJy4vakJi8kf8WtHPF9CJrkniBN6w6YfsOxlOs5xBe6_GC9NqU25Ryt_8OxnXn4sQhFa2BHd5P_bGrFX3IwPjLRxoiBMrdtVufFgH3trLJ9vHhyxw.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/e917c10331bf63d8e2c6f94f.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "6.85K",
+      "posted_at": "2026-09-26T21:17:15+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/292248"
+    },
+    {
+      "id": "bbcpersian/292247",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/eDFPbaBrE_aX1PGrVDUuHHYOmqWdlaOGUVH-0IUpr7YrqFTjuyseWy18Puwc-hs4FEiMgk_MwCZ5i9WQFWEW1_ZubI5ZSwNIn_p7bj-yrGfgMbsNDgfZZM3BR2v5EI1hKT4YL6BFHecy0peaBGX3c6IoOI8aGsyd_ScdA-o3dFoz8QwRDAm6ogCJHMA--WE9Gm6Aq1QShRMK9jvKziNsIYjWV97j1NaErzQjrIO7giX8rfqlhl0zH161CK2K0MlSftjf20piy6Hh12rJFes2S9ZArMXS95XhdCoCty0Pn2chxZkqc8wZJmXI8htc5W1mud0OR6ZGb7QRFg77VcCQew.jpg",
+      "author_photo_path": "channels/bbcpersian/media/08823951bf5488739ad78c52.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>آخرین خبرهای مهم روز شنبه ۴ مهر ۱۴۰۵<br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "🔻آخرین خبرهای مهم روز شنبه ۴ مهر ۱۴۰۵ @BBCPersian",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/bbcpersian/292247",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/m7DBFZ62C1Gk9mYJtH0IGVYBr4b-ubbTohoD0SHMWAEEzR-a1qRUQV8Q2IkvhwX6bzqcXElHfaY6zlEQuI3acs7eJWP45lGbFxiZiMO8-FCfLfsFwNySgmmDqFgRcg6LunHOsQgYDlThTocDb3ZN4FWnZ7_yoBmNsCusutOxs6XqkUZz0oG7tEPZiExZQU5tbovROjlFTYE9gXgkjvUmrN9Nlrqa6gK5-slbmy44TpVg_ysR68LMIf-V8nfIMT1r85a9ySBZms_0AcogOEEbUyFMCU3C9MOXch_vKDt-Zkbnh-AtkOQ4GXOUQVE4kjgiHfwsT054WCHObp9HARE7Ew",
+          "thumbnail_path": "channels/bbcpersian/media/22c932b67a4d74367905d89e.jpg",
+          "duration_label": "1:11",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "16.3K",
+      "posted_at": "2026-09-26T20:18:37+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/292247"
+    },
+    {
       "id": "bbcpersian/292246",
       "author_name": "BBCPersian",
       "author_photo_url": "https://cdn4.telesco.pe/file/eDFPbaBrE_aX1PGrVDUuHHYOmqWdlaOGUVH-0IUpr7YrqFTjuyseWy18Puwc-hs4FEiMgk_MwCZ5i9WQFWEW1_ZubI5ZSwNIn_p7bj-yrGfgMbsNDgfZZM3BR2v5EI1hKT4YL6BFHecy0peaBGX3c6IoOI8aGsyd_ScdA-o3dFoz8QwRDAm6ogCJHMA--WE9Gm6Aq1QShRMK9jvKziNsIYjWV97j1NaErzQjrIO7giX8rfqlhl0zH161CK2K0MlSftjf20piy6Hh12rJFes2S9ZArMXS95XhdCoCty0Pn2chxZkqc8wZJmXI8htc5W1mud0OR6ZGb7QRFg77VcCQew.jpg",
       "author_photo_path": "channels/bbcpersian/media/08823951bf5488739ad78c52.jpg",
-      "body_html": "پادکست برنامه شصت دقیقه، شنبه ۴ شهریور ۱۴۰۵<br><br>این نسخه رادیویی برنامه شصت دقیقه تلویزیون فارسی بی‌بی‌سی است که هرشب بعد از پخش، با حجم کم از اپلیکیشن‌های پادگیر و صفحه تلگرام بی‌بی‌سی فارسی در دسترس است. با هشتگ BBCPersianRadio# با ما در ارتباط باشید.<br><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">@BBCPersian</a>",
-      "plain_text": "پادکست برنامه شصت دقیقه، شنبه ۴ شهریور ۱۴۰۵ این نسخه رادیویی برنامه شصت دقیقه تلویزیون فارسی بی‌بی‌سی است که هرشب بعد از پخش، با حجم کم از اپلیکیشن‌های پادگیر و صفحه تلگرام بی‌بی‌سی فارسی در دسترس است. با هشتگ BBCPersianRadio# با ما در ارتباط باشید. @BBCPersian",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93BB.png')\"><b>📻</b></i>پادکست برنامه شصت دقیقه، شنبه ۴ شهریور ۱۴۰۵<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>این نسخه رادیویی برنامه شصت دقیقه تلویزیون فارسی بی‌بی‌سی است که هرشب بعد از پخش، با حجم کم از اپلیکیشن‌های پادگیر و صفحه تلگرام بی‌بی‌سی فارسی در دسترس است. با هشتگ BBCPersianRadio# با ما در ارتباط باشید.<br><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">@BBCPersian</a>",
+      "plain_text": "📻پادکست برنامه شصت دقیقه، شنبه ۴ شهریور ۱۴۰۵ 🔻این نسخه رادیویی برنامه شصت دقیقه تلویزیون فارسی بی‌بی‌سی است که هرشب بعد از پخش، با حجم کم از اپلیکیشن‌های پادگیر و صفحه تلگرام بی‌بی‌سی فارسی در دسترس است. با هشتگ BBCPersianRadio# با ما در ارتباط باشید. @BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "4.2K",
+      "views_label": "20.1K",
       "posted_at": "2026-09-26T19:58:10+00:00",
-      "edited": false,
+      "edited": true,
       "permalink": "https://t.me/bbcpersian/292246"
     },
     {
@@ -43,7 +91,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "8.99K",
+      "views_label": "23K",
       "posted_at": "2026-09-26T19:47:58+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/292245"
@@ -57,7 +105,7 @@
       "plain_text": "🔻ایران محدودیت واردات لوازم خانگی کره‌ای را لغو کرد 🔻به گزارش رسانه‌های خبری ایران ، وزارت صنعت، معدن و تجارت ایران، ممنوعیت واردات لوازم خانگی کره جنوبی به کشور را لغو کرده است. مدیرکل دفتر مقررات صادرات و واردات سازمان توسعه تجارت ایران در نامه‌ای به گمرک گفته است که واردات لوازم خانگی کره جنوبی توسط تعاونی‌های مرزنشینان دیگر با محدودیت مواجه نیست. شرکت‌های کره‌ای ال‌جی و سامسونگ به مدت چند دهه سهم اصلی بازار ایران را در اختیار داشتند. با خروج آمریکا از برجام در سال ۱۳۹۷ و بازگشت تحریم‌های ثانویه، این شرکت‌ها برای پرهیز از جریمه‌های سنگین، همکاری تجاری با شرکای ایرانی خود را قطع کردند و به حضور مستقیم خود در ایران پایان دادند. در سال ۱۴۰۰ دولت ابراهیم رئیسی خواستار جلوگیری از واردات محصولات لوازم خانگی کره‌ای شد. در آن زمان بعضی از خبرگزاری‌های ایران نوشتند که «این اقدام به درخواست رهبر ایران انجام شده که گفته بود واردات این محصولات باعث شکستن کمر تولیدکنندگان می‌شود و باید جلوی آن گرفته شود.» حالا مدیرکل دفتر مقررات صادرات و واردات سازمان توسعه تجارت در نامه خود گفته است که واردات لوازم خانگی کره جنوبی از طریق رویه مرزنشینی بلامانع است و در این باره، هیچ‌گونه محدودیتی در حوزه نشان تجاری و مبدأ کالا هم در نظر گرفته نشده است. https://bbc.in/4yaZIdw @BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "15.1K",
+      "views_label": "25.5K",
       "posted_at": "2026-09-26T19:26:39+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/292244"
@@ -81,7 +129,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.6K",
+      "views_label": "34.5K",
       "posted_at": "2026-09-26T18:30:10+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/292243"
@@ -105,7 +153,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.5K",
+      "views_label": "38.7K",
       "posted_at": "2026-09-26T17:43:45+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/292242"
@@ -119,7 +167,7 @@
       "plain_text": "پادکست برنامه جام جهان‌نما، شنبه ۴ مهر ۱۴۰۵ این برنامه رادیویی را می‌توانید هر شب ساعت ۲۰ به وقت ایران، روی موج متوسط ۷۰۲ کیلوهرتز و موج کوتاه ۹۴۶۵ کیلوهرتز بشنوید. تکرار برنامه را هم می‌توانید ساعت ۲۱:۳۰ روی موج متوسط ۷۰۲ کیلوهرتز و موج کوتاه ۵۳۹۵ کیلوهرتز گوش کنید. @BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "31.3K",
+      "views_label": "36.8K",
       "posted_at": "2026-09-26T17:29:51+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/292241"
@@ -179,7 +227,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.2K",
+      "views_label": "36.4K",
       "posted_at": "2026-09-26T17:25:59+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/292236"
@@ -203,7 +251,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.2K",
+      "views_label": "35.1K",
       "posted_at": "2026-09-26T17:18:34+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/292235"
@@ -217,7 +265,7 @@
       "plain_text": "🔻مسابقه فوتبال جمهوری‌ ایرلند و اسرائیل در سایه جنگ غزه 🔻تیم ملی فوتبال جمهوری ایرلند در حالی قرار است در چارچوب لیگ ملت‌های اروپا با اسرائیل بازی کند که مخالفت‌ها با برگزاری این مسابقه همچنان ادامه دارد. بعضی از فعالان مدنی خواسته‌اند این بازی به‌ دلیل جنگ غزه تحریم شود. عده‌ای هم می‌گویند که جمهوری ایرلند باید از این مسابقات کنار بکشد. گروه «ورزش ایرلند برای فلسطین» هم کارزاری به نام «بازی را متوقف کنید» راه انداخته است. قرار است ایرلند به سرمربیگری هیمیر هالگریمسون، ساعت ۱۹:۴۵ به وقت بریتانیا در شهر دبرتسن مجارستان با اسرائیل بازی کند. مسابقه برگشت هم قرار است یکشنبه آینده، در باچکا توپولا، صربستان، برگزار شود. برایان کر، سرمربی پیشین تیم جمهوری ایرلند، و جیمز مک‌کلین، بازیکن پیشین تیم ملی این کشور، از تحریم بازی حمایت کرده‌‌اند. تیم ایرلند، در ابتدا از حضور در نشست خبری پیش از بازی با اسرائیل خودداری کرده بود، اما سرانجام در این کنفرانس خبری حاضر شد. اکنون تایید شده است که این مسابقه جنجالی قطعاً برگزار خواهد شد. پیش‌تر، فدراسیون فوتبال اسرائیل، سرمربی تیم جمهوری ایرلند را به «جهل، ریاکاری و حماقت» متهم کرده بود؛ این اتهام پس از آن مطرح شد که آقای هالگریمسون اظهار داشت تیمش «در برابر نسل‌کشی» بازی خواهد کرد. ادامه مطلب در لینک: https://bbc.in/4rGO73C @BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "29.8K",
+      "views_label": "34.4K",
       "posted_at": "2026-09-26T17:14:02+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/292234"
@@ -241,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.9K",
+      "views_label": "35.5K",
       "posted_at": "2026-09-26T17:10:10+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/292233"
@@ -265,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.9K",
+      "views_label": "36.5K",
       "posted_at": "2026-09-26T17:04:46+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/292232"
@@ -289,7 +337,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.7K",
+      "views_label": "43.3K",
       "posted_at": "2026-09-26T16:09:14+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/292231"
@@ -313,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "40.6K",
+      "views_label": "43.9K",
       "posted_at": "2026-09-26T15:39:12+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/292230"
@@ -337,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "41.3K",
+      "views_label": "44K",
       "posted_at": "2026-09-26T14:57:26+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/292229"
@@ -2132,54 +2180,6 @@
       "posted_at": "2026-09-25T01:59:56+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/292117"
-    },
-    {
-      "id": "bbcpersian/292116",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/S7wI_XZ98_xkXVZbYVE9uuATzkincXzdgteeVxR_im1i66K_35jheQX6tmvS6vDHNloT_dPd8RIQSXVghXjnpdxzoFu56_w1TAtRgd86EFbzjivRBTuim6liOMw20SajTZN93t1XhTzjdVdgZbSWf0AIFiG6lEmX5_XbBxAuBVR8sCEs-9XSivj6CRr9RNOakxnAOmnejN_sjXhHMikP0MIVNx5zzD3ExbZe24MfjCEpNT9NEinPWeSebtpqz-bfhOWcoVWNnqZsGEU1glqtpN42hUDcUcyxkN8MbIo-331muS-51sp-qQstK_MSOamLugLPRq4_qVC3iAj5dCrV8A.jpg",
-      "author_photo_path": "channels/bbcpersian/media/ce2015523e13546926317f22.jpg",
-      "body_html": "شی جین‌پینگ، رئیس‌جمهور چین در حاشیه مجمع عمومی سازمان ملل با دونالد ترامپ، همتای آمریکایی خود در کاخ سفید دیدار کرد و در این دیدار ابراز امیدواری کرده است که ایران و آمریکا به تفاهمنامه اسلام آباد بازگردند.<br><br>به گزارش خبرگزاری دولتی چین، آقای شی گفت که کشورش همواره بر این باور بوده است که حاکمیت و امنیت همه کشورها باید مورد احترام قرار گیرد و این کشور همواره نقشی سازنده در کاهش تنش‌ها و جلوگیری از تشدید اوضاع ایفا کرده است.<br><br>او گفت که چین ایران و آمریکا را «تشویق کرده است که همچنان به راه‌حل‌های مسالمت‌آمیز پایبند بمانند و روند گفت‌وگوها را حفظ کنند.»<br><br>آقای شی همچنین گفت که چین از بازگشت ایالات متحده و ایران به تفاهم‌نامه اسلام‌آباد حمایت می‌کند.<br><br>او همچنین ابراز امیدواری کرد که دو کشور در نهایت به یک توافق جامع دست یابند که موضوع هسته‌ای و سایر مسائل را دربرگیرد و در آینده‌ای نزدیک به صلح دست پیدا کنند.<br><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B7.png')\"><b>📷</b></i>Reuters<br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
-      "plain_text": "شی جین‌پینگ، رئیس‌جمهور چین در حاشیه مجمع عمومی سازمان ملل با دونالد ترامپ، همتای آمریکایی خود در کاخ سفید دیدار کرد و در این دیدار ابراز امیدواری کرده است که ایران و آمریکا به تفاهمنامه اسلام آباد بازگردند. به گزارش خبرگزاری دولتی چین، آقای شی گفت که کشورش همواره بر این باور بوده است که حاکمیت و امنیت همه کشورها باید مورد احترام قرار گیرد و این کشور همواره نقشی سازنده در کاهش تنش‌ها و جلوگیری از تشدید اوضاع ایفا کرده است. او گفت که چین ایران و آمریکا را «تشویق کرده است که همچنان به راه‌حل‌های مسالمت‌آمیز پایبند بمانند و روند گفت‌وگوها را حفظ کنند.» آقای شی همچنین گفت که چین از بازگشت ایالات متحده و ایران به تفاهم‌نامه اسلام‌آباد حمایت می‌کند. او همچنین ابراز امیدواری کرد که دو کشور در نهایت به یک توافق جامع دست یابند که موضوع هسته‌ای و سایر مسائل را دربرگیرد و در آینده‌ای نزدیک به صلح دست پیدا کنند. 📷Reuters @BBCPersian",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/bbcpersian/292116",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/tZpGh64pBNjG_c8Td7YW3O732RThIPO1JXNMUugIzwnSHmmIkSfshGtT9aSWTiB81qySGNJvnkorV3kn6ltL-9bvIkh3RjkUXRLXJ67c7njmRMO-__GZvF1UyjZtu863Mknn9VusPOs566tEMNK6M4sb5UE8MqkzCayc12L8tajwhrjjdaKzozCk0dwx_ehKGYo1JumiIli4v6K4b4-iwX6Fq0q3gv_Q2HGl2mA7tuSD8RItce6IDZh2DIHFa9Q0pFGttoQo3f73boflnBEdOenswjTA5la7mulAppCXb6XAzyhwg0u9UK5O6FfurP5zCqaJL4JC3to6Kz2biy85Hg.jpg",
-          "thumbnail_path": "channels/bbcpersian/media/c47459c6948998c65a2d13fc.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "41.2K",
-      "posted_at": "2026-09-25T01:35:55+00:00",
-      "edited": false,
-      "permalink": "https://t.me/bbcpersian/292116"
-    },
-    {
-      "id": "bbcpersian/292115",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/S7wI_XZ98_xkXVZbYVE9uuATzkincXzdgteeVxR_im1i66K_35jheQX6tmvS6vDHNloT_dPd8RIQSXVghXjnpdxzoFu56_w1TAtRgd86EFbzjivRBTuim6liOMw20SajTZN93t1XhTzjdVdgZbSWf0AIFiG6lEmX5_XbBxAuBVR8sCEs-9XSivj6CRr9RNOakxnAOmnejN_sjXhHMikP0MIVNx5zzD3ExbZe24MfjCEpNT9NEinPWeSebtpqz-bfhOWcoVWNnqZsGEU1glqtpN42hUDcUcyxkN8MbIo-331muS-51sp-qQstK_MSOamLugLPRq4_qVC3iAj5dCrV8A.jpg",
-      "author_photo_path": "channels/bbcpersian/media/ce2015523e13546926317f22.jpg",
-      "body_html": "‎‌<br>عباس عراقچی، وزیر امور خارجه ایران، در حاشیه مجمع عمومی سازمان ملل متحد گفت که تهران از طریق میانجی‌ها «طرحی را برای بازگشایی تنگه هرمز ارائه کرده است».<br><br>آقای عراقچی روز پنجشنبه در دیدار با گروهی از خبرنگاران و اعضای اندیشکده‌های آمریکا گفت که در صورت برآورده‌شدن برخی شروط از سوی آمریکا، تنگه هرمز «پس از هفت روز بازگشایی خواهد شد».<br><br>او افزود: «این شروط جدید نیستند و همان مواردی هستند که پیش‌تر در تفاهم‌نامه اسلام‌آباد مطرح شده بودند.»<br><br>عباس عراقچی همچنین گفت که ایران معتقد است «بهتر است این توافق پیش از انتخابات میان‌دوره‌ای آمریکا اجرا شود»، در حالی که دونالد ترامپ، رئیس جمهور آمریکا، گفته است ممکن است توافق پس از انتخابات نوامبر حاصل شود.<br><br>وزیر امور خارجه ایران در پاسخ گفت که زمان‌بندی این توافق «به آمریکا بستگی دارد» و بار دیگر تاکید کرد که شروط مطرح‌شده با مفاد توافق قبلی تفاوتی ندارند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B7.png')\"><b>📷</b></i>EPA/Shutterstock<br><a href=\"https://bbc.in/46Ktkm1\" target=\"_blank\" rel=\"noopener\">https://bbc.in/46Ktkm1</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
-      "plain_text": "‎‌ عباس عراقچی، وزیر امور خارجه ایران، در حاشیه مجمع عمومی سازمان ملل متحد گفت که تهران از طریق میانجی‌ها «طرحی را برای بازگشایی تنگه هرمز ارائه کرده است». آقای عراقچی روز پنجشنبه در دیدار با گروهی از خبرنگاران و اعضای اندیشکده‌های آمریکا گفت که در صورت برآورده‌شدن برخی شروط از سوی آمریکا، تنگه هرمز «پس از هفت روز بازگشایی خواهد شد». او افزود: «این شروط جدید نیستند و همان مواردی هستند که پیش‌تر در تفاهم‌نامه اسلام‌آباد مطرح شده بودند.» عباس عراقچی همچنین گفت که ایران معتقد است «بهتر است این توافق پیش از انتخابات میان‌دوره‌ای آمریکا اجرا شود»، در حالی که دونالد ترامپ، رئیس جمهور آمریکا، گفته است ممکن است توافق پس از انتخابات نوامبر حاصل شود. وزیر امور خارجه ایران در پاسخ گفت که زمان‌بندی این توافق «به آمریکا بستگی دارد» و بار دیگر تاکید کرد که شروط مطرح‌شده با مفاد توافق قبلی تفاوتی ندارند. 📷EPA/Shutterstock https://bbc.in/46Ktkm1 @BBCPersian",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/bbcpersian/292115",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/YxQ6rhT7ICuMI61R9dYoPggtqiCk0QJ5CUwP89HBd5bx6TU1JdxewXwajkDSkdAuSvT84FFIlceAjW_E7YVilXGxEaZBWj2tRiHXbusdv-t9DP8NVbZ4n1ndzepS5PoJVt7o19CkDKJoS03CvsU1ujDvLZcgeMQ1PADkYOcFvAMcPuhtOGIGAlgmsx8HbLvukUuAYkLsS-G3EUvjMbk1-dhEqSVlYdxsNkp-755feu9AZiQGjhBPhGkG3aABm86I9oWDKrUI1u2gN4jRRgjkzEfY9td0PW7tzuDjuOQyFYSD1Ma5voVp2SyjmoE-q_Cvb59foaQ0XjYaqa8klNnnfQ.jpg",
-          "thumbnail_path": "channels/bbcpersian/media/7a01f93240b65505073e819f.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "29.1K",
-      "posted_at": "2026-09-25T00:51:28+00:00",
-      "edited": true,
-      "permalink": "https://t.me/bbcpersian/292115"
     }
   ]
 }
