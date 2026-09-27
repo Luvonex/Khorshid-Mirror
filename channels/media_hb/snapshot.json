@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-27T19:02:55.448Z",
+  "fetched_at": "2026-09-27T19:07:01.074Z",
   "channel": {
     "username": "media_hb",
     "title": "مدیا هاب | Media Hub",
@@ -10,6 +10,29 @@
     "subscriber_count": "141K"
   },
   "posts": [
+    {
+      "id": "Media_HB/107945",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/drmkScig60VCAOWGxEng9vVdjrEZ3ALqI8hHhLVa3Xntc_-wYccn6Tyj0UEllgKcSH_9uCAG_rD0ZON81DTm_ZKjtjBkyi52l_Jw288lsMyq6shbKz1C2QavbZ1-UCOkSeXKQ1PAO90yhEx1S546afcEh_FaFF10sTSKT4p4xVrKZLncC-dIk_2i14LNEq2Sjjg6cmiXs7yCxOLlHdcIORwYxDvX0OtjZaDCgtgiQNqlyc7AJn5Y79vXvjf4HJuNk-pYRkq2AN2qv-ENH-uQb65EQLV1SiIxe9lpB4y1W9OvpWKBwFnbUFKmdEOtE67C4pAyQQ5QHp4JBleslrJXPw.jpg",
+      "author_photo_path": "channels/media_hb/media/cf2f4ffbf7bf9a9a82e18dc6.jpg",
+      "body_html": "ژائو فلیکس برای تیم رونالدو گل اولو زد <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i>",
+      "plain_text": "ژائو فلیکس برای تیم رونالدو گل اولو زد 🔥🔥",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "18"
+        },
+        {
+          "emoji": "🤣",
+          "count": "14"
+        }
+      ],
+      "views_label": "616",
+      "posted_at": "2026-09-27T19:03:20+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/107945"
+    },
     {
       "id": "Media_HB/107944",
       "author_name": "مدیا هاب | Media Hub",
@@ -21,18 +44,22 @@
       "reactions": [
         {
           "emoji": "👎",
-          "count": "10"
+          "count": "18"
         },
         {
           "emoji": "😐",
-          "count": "2"
+          "count": "4"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
         },
         {
           "emoji": "😁",
           "count": "1"
         }
       ],
-      "views_label": "6",
+      "views_label": "925",
       "posted_at": "2026-09-27T19:01:15+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107944"
@@ -55,8 +82,17 @@
           "aspect_ratio": 0.7987500000000295
         }
       ],
-      "reactions": [],
-      "views_label": "616",
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "2"
+        },
+        {
+          "emoji": "😭",
+          "count": "1"
+        }
+      ],
+      "views_label": "928",
       "posted_at": "2026-09-27T19:00:31+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107942"
@@ -69,8 +105,13 @@
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B2.png')\"><b>📲</b></i> اپلیکیشن اندروید سایت ریتزوبت <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i> وقتی شرط ‌هاتون رو توی ریتزوبت ثبت کنین ، علاوه بر ضرایب بالا ، هفتگی با کد های هدیه کسب درآمد میکنید <b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA491.png')\"><b>🤑</b></i></b><br><br><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i> </b><a href=\"https://t.me/Ritzobet_ir/2587\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">آموزش شارژ حساب با کریپتو</a><br><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i> </b><a href=\"https://t.me/Ritzobet_ir/2588\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">آموزش شارژ حساب  ریالی در ریتزوبت</a>",
       "plain_text": "📲 اپلیکیشن اندروید سایت ریتزوبت 🔥 🚀 وقتی شرط ‌هاتون رو توی ریتزوبت ثبت کنین ، علاوه بر ضرایب بالا ، هفتگی با کد های هدیه کسب درآمد میکنید 🤑 ♦️ آموزش شارژ حساب با کریپتو ♦️ آموزش شارژ حساب ریالی در ریتزوبت",
       "media": [],
-      "reactions": [],
-      "views_label": "310",
+      "reactions": [
+        {
+          "emoji": "😭",
+          "count": "1"
+        }
+      ],
+      "views_label": "927",
       "posted_at": "2026-09-27T19:00:31+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107943"
@@ -86,11 +127,11 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "35"
+          "count": "43"
         },
         {
           "emoji": "🤡",
-          "count": "8"
+          "count": "9"
         },
         {
           "emoji": "🤣",
@@ -101,7 +142,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.11K",
+      "views_label": "1.41K",
       "posted_at": "2026-09-27T18:57:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107941"
@@ -117,7 +158,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "35"
+          "count": "39"
         },
         {
           "emoji": "🔥",
@@ -128,7 +169,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.71K",
+      "views_label": "2.02K",
       "posted_at": "2026-09-27T18:50:51+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/107940"
@@ -154,7 +195,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "36"
+          "count": "40"
         },
         {
           "emoji": "🔥",
@@ -165,7 +206,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.93K",
+      "views_label": "3.24K",
       "posted_at": "2026-09-27T18:36:20+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107939"
@@ -181,7 +222,7 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "48"
+          "count": "50"
         },
         {
           "emoji": "👍",
@@ -192,7 +233,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.31K",
+      "views_label": "3.32K",
       "posted_at": "2026-09-27T18:30:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107938"
@@ -218,15 +259,15 @@
       "reactions": [
         {
           "emoji": "🤡",
-          "count": "912"
+          "count": "913"
         },
         {
           "emoji": "🤣",
-          "count": "84"
+          "count": "86"
         },
         {
           "emoji": "💔",
-          "count": "18"
+          "count": "19"
         },
         {
           "emoji": "❤",
@@ -241,7 +282,7 @@
           "count": "1"
         }
       ],
-      "views_label": "5.49K",
+      "views_label": "5.79K",
       "posted_at": "2026-09-27T17:35:06+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/107937"
@@ -268,7 +309,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.96K",
+      "views_label": "5.26K",
       "posted_at": "2026-09-27T17:33:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107936"
@@ -294,7 +335,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "73"
+          "count": "74"
         },
         {
           "emoji": "❤",
@@ -305,7 +346,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.91K",
+      "views_label": "5.22K",
       "posted_at": "2026-09-27T17:32:57+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107935"
@@ -369,7 +410,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.63K",
+      "views_label": "6.64K",
       "posted_at": "2026-09-27T16:31:52+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107933"
@@ -439,7 +480,7 @@
           "count": "1"
         }
       ],
-      "views_label": "7.77K",
+      "views_label": "7.78K",
       "posted_at": "2026-09-27T15:04:53+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107931"
@@ -3687,77 +3728,6 @@
       "posted_at": "2026-09-25T12:40:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107839"
-    },
-    {
-      "id": "Media_HB/107835",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/rhjszzM5U9JHR-PuRf5CC1Y8EJJrKmpFYyWaf5YnzMe5JwjHAtcBTxDxGPi6ElcKnUCmtj0xHJeZ-Xoq8JPpjA4D2wyT3l_oBZ7RDP2Bbi91d1fa8BB0bwzuTwWh2rl2l9OZyDzgEVfiK6FAZGS_9PhezfjsTri3Td72kT0mt8cef0fmzOq6bgCbu8IOZ45ecefGOU64j2MF8HiBoo7mOWhpuSfLqsnSJ_HFFxef5aA-GdyhlbCznY-RA5B0Ur4t0U16QAoJw_HJSCLl3NdoUT9nvQ_80rjMf8jGPQuXC3TNQhuuSQYDuCUG957pI8V_2Sw_REx517Hwq2rtTRrUEg.jpg",
-      "author_photo_path": "channels/media_hb/media/ba7a0e4b8803b1cd6aa52e47.jpg",
-      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">اتم بزن ترامپ حروم زاده<br><br><a href=\"?q=%23behdad\">#behdad</a></div>",
-      "plain_text": "اتم بزن ترامپ حروم زاده #behdad",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Media_HB/107835?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/vNCz8kZpVUc6eDoUoAamAzEkjzfC02kpr30jGBHrwLuJUDDkjajoR2N6ID8TMg8Q_8Me8Zc3UCtzhBtOdbd-t4IiIumw7UnBLYSPhyTbmDMTeoJ5HNhUBwWJDpRcX8yYmao7BKp9_LX2cgjtbZ8imYpsd6VhQBD2J9cLvGTd6ro6wgkMdbfF5hqU6wNy0Cjmx2zqPdk8kOXFpOgnA5mzYi_Xc4SPIGW7Pkj5ah4NFSqTMC4UkAbz-86yn8SUr_6hx17v2jtpqLhh8kPSM1kelpwIFnW7mKPwI1eVRPalhOFvIqHIKYMbA8tw1UtKtfUvp4OHal_9C9--3MFxfVlceA",
-          "thumbnail_path": "channels/media_hb/media/2f436441912bb9fabd8f9478.jpg",
-          "duration_label": "0:17",
-          "aspect_ratio": null
-        },
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Media_HB/107836?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/m8yGS1yMXjFwo8-uoDbvIn5PfuWsR6DYvz5eAeXCj44JI-yrqBO4Rml_eYA1av9t9l9eF-7XMkr_yY26Fwpcq6yzzG_7PLJb8yLkbI-dG3ZZwXaW1hqhm29bUJhEkSD2bCMz54n1F2afxaJcO6KSofpzaH_2DsSwlpu6Oxg5BLvguv34je023mL4BX4OToH30cwVAUrCh7daIJqz1LQMzF7uTgx7SJTuDSbXtu0Wtcbgv9yAA41pDjNKHJYOep4ayPmhxUWf5xkaSHEmYz0ibwpl-5VC2wUfMCweTxbLz3u4YibExFfmQbwLTAGHTTENURFattuLCHAmCrtUPHYAng",
-          "thumbnail_path": "channels/media_hb/media/709f45a0eeb3902e95ec9a29.jpg",
-          "duration_label": "0:43",
-          "aspect_ratio": null
-        },
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Media_HB/107837?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/LlkIAbbw43LH-3j5e1Kq3Ijg6u2ta5SLmMwgIteRcglDnuNvmQUfBrdZSpuRHSpysRGxNRpZqK_uvZzRPspd5kFwwYkW5z9aEG7vPT33cU6tkf29J5wNr1n3Rlv-P1xFpH9p-Wf-_Jb4222bo-XWmASbRidwFv7xzprDDi966qSOwnwK-FmctcrWJh9ffwA3CrDw-gRnV6AXV8VGle3-ensWxGkfkB2oQE7IFXt3kwgee2L6pzdw83JjbjVUweiQKWDitQnh5nhG1d4B4-XTnJNcypetRkALiPwoEkZBTmuHuzUOgweclNI9LHOn5kFyj5QAkbBsH8YIIbb7JWNQEA",
-          "thumbnail_path": "channels/media_hb/media/5b66043af83bded787a34b6d.jpg",
-          "duration_label": "0:50",
-          "aspect_ratio": null
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "226"
-        },
-        {
-          "emoji": "🤡",
-          "count": "18"
-        },
-        {
-          "emoji": "😐",
-          "count": "9"
-        },
-        {
-          "emoji": "❤",
-          "count": "6"
-        },
-        {
-          "emoji": "👍",
-          "count": "3"
-        },
-        {
-          "emoji": "💔",
-          "count": "1"
-        },
-        {
-          "emoji": "😭",
-          "count": "1"
-        }
-      ],
-      "views_label": "8.55K",
-      "posted_at": "2026-09-25T10:56:23+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/107835"
     }
   ]
 }
