@@ -1,15 +1,647 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-27T05:56:22.752Z",
+  "fetched_at": "2026-09-27T10:15:52.392Z",
   "channel": {
     "username": "withyashar",
     "title": "WarRoom with YASHAR",
     "description_html": "چنل رسمی«اتاق جنگ با یاشار»<br>اخبار لحظه ای و فوری از‌ جنگ با تحلیل<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B8.png')\"><b>📸</b></i> <a href=\"http://instagram.com/yashar\" target=\"_blank\" rel=\"noopener\">instagram.com/yashar</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F90A6.png')\"><b>🐦</b></i> <a href=\"http://x.com/yasharrapfa\" target=\"_blank\" rel=\"noopener\">x.com/yasharrapfa</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93BA.png')\"><b>📺</b></i> <a href=\"http://youtube.com/yasharrapfa\" target=\"_blank\" rel=\"noopener\">youtube.com/yasharrapfa</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29B91.png')\"><b>⛑️</b></i> <a href=\"http://paypal.com/paypalme/yasharrapfa\" target=\"_blank\" rel=\"noopener\">paypal.com/paypalme/yasharrapfa</a>",
-    "photo_url": "https://cdn4.telesco.pe/file/JxUApXNeeRg8RmR05A0xdd413RzMzWIvjQUqjwUk6RHHxqMQ5vop5KmTCR4bKbJwkKeJfMoqE0k9w5J42OtVV9UiNe5FaHN0J3_Wlmkm3YhMffyyD0p-6mRyjnWBygf9S_Rfhx26QsbSQbhI7q8AjxA2JG_xTJOhvygzd08k5nMbxJ9gm3Vf8wTEXGlo8wtnl68_f07G0Ona7ND5x5DX8j2RWxCcj4ubY-FVRv7SIge40kEPd5I0sza8d1b9k6mb1Ze_wmmV5jm8sJG1KXWckGUsGzyiye91cY7z6mCtWgooZ-HR9DtzkDE5X-85aJQlqFwGDfkNc6-xl5uuMd8I4w.jpg",
-    "photo_path": "channels/withyashar/media/92e3082ef50008455888eebc.jpg",
-    "subscriber_count": "466K"
+    "photo_url": "https://cdn4.telesco.pe/file/Wzhl-aKSZpAi4BFsU16T3sS3utwzg_OMZ6DIeStStyFK4sTG-DDpqVzE_t8Ztx5Zl40Ui3iHbRBWwX4W5I5yQ81TvcMW-Jmxny4XwB6lWCuDa3IrYt-V0t3cZX_4B3G2AK8eEi1XeR2xF4QD7_kBk2eAr-moeP5KDStIKiqRb933ZqZSIPNrLUX4JnG0D3BLCPCpj78FKOUsRWgK-GjJ3c8uJ6xmLDXKEl-Uk4mZPmih-kY8d5wcKZbkdw0ugP-H-_1k1gbKX55cjpa3zeP-u8Wu7lhRkqiMWjMwylf6T0pA3atrfnWQvLB_7NX5aG-n10UEZR2TPwiY7xMjRn3oqA.jpg",
+    "photo_path": "channels/withyashar/media/3594a78ab40c82b09e69292c.jpg",
+    "subscriber_count": "467K"
   },
   "posts": [
+    {
+      "id": "withyashar/24327",
+      "author_name": "WarRoom with YASHAR",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Wzhl-aKSZpAi4BFsU16T3sS3utwzg_OMZ6DIeStStyFK4sTG-DDpqVzE_t8Ztx5Zl40Ui3iHbRBWwX4W5I5yQ81TvcMW-Jmxny4XwB6lWCuDa3IrYt-V0t3cZX_4B3G2AK8eEi1XeR2xF4QD7_kBk2eAr-moeP5KDStIKiqRb933ZqZSIPNrLUX4JnG0D3BLCPCpj78FKOUsRWgK-GjJ3c8uJ6xmLDXKEl-Uk4mZPmih-kY8d5wcKZbkdw0ugP-H-_1k1gbKX55cjpa3zeP-u8Wu7lhRkqiMWjMwylf6T0pA3atrfnWQvLB_7NX5aG-n10UEZR2TPwiY7xMjRn3oqA.jpg",
+      "author_photo_path": "channels/withyashar/media/3594a78ab40c82b09e69292c.jpg",
+      "body_html": "اتاق جنگ با یاشار : ناو آبراهام لینکلن به هاوایی رسید ، چقدر با RUDY11 خاطره داریم یادتونه ؟ <br><a href=\"https://t.me/WarRoom\" target=\"_blank\">@WarRoom</a>",
+      "plain_text": "اتاق جنگ با یاشار : ناو آبراهام لینکلن به هاوایی رسید ، چقدر با RUDY11 خاطره داریم یادتونه ؟ @WarRoom",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/withyashar/24327",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/sGRsw9fpbkG4A6-3qs_ClUw7SAh-e7vW-uiDpprtboznagGh6cQ44hfovcIML4gBiIw3wEDkXrXagh5EZaMRUO5L1kVdlBJHYSHiUYlzMc6FxiRXT1giFwezGEerEg_vhyWaHMrl-9Rw1w_5Tfp9QFKKmviwFH5Vymfbw0H04mochfpkyr60OVhLXXZcQGhwsU0z83vC93SWrleCBlV5dhnrmkDJSlhrUO7qlEoG5kiF__txpBi-cy41Jdok5bzzlN7MlY9fG-2xQD6_JKPpGgMNj6bZ5ftfjs2qeiVfI2xyzJ5uZUDwXYT2rKsCeS1pmPD2jpa6k4-H7CevXLQFpg.jpg",
+          "thumbnail_path": "channels/withyashar/media/118eb74c64141e4c03710092.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7737499999999972
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "583"
+        },
+        {
+          "emoji": "💎",
+          "count": "91"
+        },
+        {
+          "emoji": "👍",
+          "count": "34"
+        },
+        {
+          "emoji": "🤣",
+          "count": "30"
+        },
+        {
+          "emoji": "🤓",
+          "count": "5"
+        },
+        {
+          "emoji": "🔥",
+          "count": "2"
+        },
+        {
+          "emoji": "💋",
+          "count": "2"
+        }
+      ],
+      "views_label": "23.6K",
+      "posted_at": "2026-09-27T09:53:20+00:00",
+      "edited": false,
+      "permalink": "https://t.me/withyashar/24327"
+    },
+    {
+      "id": "withyashar/24326",
+      "author_name": "WarRoom with YASHAR",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Wzhl-aKSZpAi4BFsU16T3sS3utwzg_OMZ6DIeStStyFK4sTG-DDpqVzE_t8Ztx5Zl40Ui3iHbRBWwX4W5I5yQ81TvcMW-Jmxny4XwB6lWCuDa3IrYt-V0t3cZX_4B3G2AK8eEi1XeR2xF4QD7_kBk2eAr-moeP5KDStIKiqRb933ZqZSIPNrLUX4JnG0D3BLCPCpj78FKOUsRWgK-GjJ3c8uJ6xmLDXKEl-Uk4mZPmih-kY8d5wcKZbkdw0ugP-H-_1k1gbKX55cjpa3zeP-u8Wu7lhRkqiMWjMwylf6T0pA3atrfnWQvLB_7NX5aG-n10UEZR2TPwiY7xMjRn3oqA.jpg",
+      "author_photo_path": "channels/withyashar/media/3594a78ab40c82b09e69292c.jpg",
+      "body_html": "مدیرعامل شرکت ملی نفت ایران:<br><b>بر اساس اطلاعات به‌دست‌آمده، اسرائیل و آمریکا برای ضربه زدن به تاسیسات نفتی برنامه‌ریزی کرده‌اند.</b><br><a href=\"https://t.me/WarRoom\" target=\"_blank\"><b>@WarRoom</b></a>",
+      "plain_text": "مدیرعامل شرکت ملی نفت ایران: بر اساس اطلاعات به‌دست‌آمده، اسرائیل و آمریکا برای ضربه زدن به تاسیسات نفتی برنامه‌ریزی کرده‌اند. @WarRoom",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "1.09K"
+        },
+        {
+          "emoji": "🤣",
+          "count": "259"
+        },
+        {
+          "emoji": "💎",
+          "count": "152"
+        },
+        {
+          "emoji": "👍",
+          "count": "51"
+        },
+        {
+          "emoji": "🫡",
+          "count": "27"
+        },
+        {
+          "emoji": "💔",
+          "count": "25"
+        },
+        {
+          "emoji": "🔥",
+          "count": "16"
+        }
+      ],
+      "views_label": "43.9K",
+      "posted_at": "2026-09-27T09:20:00+00:00",
+      "edited": false,
+      "permalink": "https://t.me/withyashar/24326"
+    },
+    {
+      "id": "withyashar/24316",
+      "author_name": "WarRoom with YASHAR",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Wzhl-aKSZpAi4BFsU16T3sS3utwzg_OMZ6DIeStStyFK4sTG-DDpqVzE_t8Ztx5Zl40Ui3iHbRBWwX4W5I5yQ81TvcMW-Jmxny4XwB6lWCuDa3IrYt-V0t3cZX_4B3G2AK8eEi1XeR2xF4QD7_kBk2eAr-moeP5KDStIKiqRb933ZqZSIPNrLUX4JnG0D3BLCPCpj78FKOUsRWgK-GjJ3c8uJ6xmLDXKEl-Uk4mZPmih-kY8d5wcKZbkdw0ugP-H-_1k1gbKX55cjpa3zeP-u8Wu7lhRkqiMWjMwylf6T0pA3atrfnWQvLB_7NX5aG-n10UEZR2TPwiY7xMjRn3oqA.jpg",
+      "author_photo_path": "channels/withyashar/media/3594a78ab40c82b09e69292c.jpg",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><b>آوییشن‌ایست:</b> ۱۰ فروند جنگنده <b>اف-۱۵ئی استرایک ایگل</b> نیروی هوایی آمریکا پس از بازگشت از خاورمیانه و مشارکت در <b>عملیات خشم هماسی علیه ایران</b>، در پایگاه هوایی <b>راف میلدنهال</b> در بریتانیا فرود آمدند. روی دماغه جنگنده‌ها نام و تصاویر شخصیت‌های بازی <b>مورتال کامبت</b> مانند اسکورپیون، ساب‌زیرو، لیو کانگ و شائو کان دیده می‌شود. همچنین روی این جنگنده‌ها مجموعاً <b>۴۵ نشان انهدام پهپادهای شاهد ایرانی</b> و نمادهایی از مهمات استفاده‌شده، از جمله <b>موشک‌های جی‌ای‌اس‌اس‌ام، بمب‌های GBU-39 و راکت‌های لیزری APKWS II</b> دیده می‌شود. این ۱۰ فروند، نخستین گروه از مجموع <b>۲۴ فروند اف-۱۵ئی</b> پایگاه سیمور جانسون هستند که از استقرار سال ۲۰۲۶ در خاورمیانه بازمی‌گردند.<br><a href=\"https://t.me/WarRoom\" target=\"_blank\">@WarRoom</a></div>",
+      "plain_text": "آوییشن‌ایست: ۱۰ فروند جنگنده اف-۱۵ئی استرایک ایگل نیروی هوایی آمریکا پس از بازگشت از خاورمیانه و مشارکت در عملیات خشم هماسی علیه ایران، در پایگاه هوایی راف میلدنهال در بریتانیا فرود آمدند. روی دماغه جنگنده‌ها نام و تصاویر شخصیت‌های بازی مورتال کامبت مانند اسکورپیون، ساب‌زیرو، لیو کانگ و شائو کان دیده می‌شود. همچنین روی این جنگنده‌ها مجموعاً ۴۵ نشان انهدام پهپادهای شاهد ایرانی و نمادهایی از مهمات استفاده‌شده، از جمله موشک‌های جی‌ای‌اس‌اس‌ام، بمب‌های GBU-39 و راکت‌های لیزری APKWS II دیده می‌شود. این ۱۰ فروند، نخستین گروه از مجموع ۲۴ فروند اف-۱۵ئی پایگاه سیمور جانسون هستند که از استقرار سال ۲۰۲۶ در خاورمیانه بازمی‌گردند. @WarRoom",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/withyashar/24316?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/hNbg6bzwLTlmBF9veEK0nvTO9V4XsX3T34x7Yldcuo-b8pPGokRCd2C2lDhtM7YtXTZr5n5gh7ezaqiN9jEsRAHAw5562VACSxRmlZTBSxv0g9qqyKEIV5OAzEiL1dHiQAfZe5JlitM8zdK-MzJt4IZJQbkTVvT6MX-5e9rcyzeDxxq1cXzgev1Toyzag9yT4P7mk7029pHi-0x7X7KVLLmiguYRJid3hbSpton2UHluDXrtqrCXlNGn-uisdTn6rzIdQLO_234va_SDcDaeDSD1_EzF6F8y-s4jYoMsjnNwjUX2MwRY_raovZqm5ywilRPDkuil7mFD69g5mxbZfA.jpg",
+          "thumbnail_path": "channels/withyashar/media/fcdde323c0db673286835e75.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.498127340824
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/withyashar/24317?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/jpBHTca8zzzJ2vmdR3l-ejIO5qLGhDDymvqxKyFKts6IYtZTHE_EL77BMXf9u7GSk9pEstzVrW_TUf7oNVbu0SBAIer4uZuHyF9k-uaGrZgeELNu6CQDfrBsm2GgMvzyG4WRZx-s30GKin83MOL7PRpAr1t-dX9i-xRKjvWk5VeUPH7CWtnhc2gNSGTjjGCYaDsdZY-wX-X38K3tsT7NquGunGW3eq-XYTrL52xLTtM-Uh7uQ2QUPes_gwdP1vZRyASaiMQeQ8Ms2XzzKmV9dpCuoHVn9bXo7hkEHIPu4L1eR5IWCqVoppxJ5tF1syBV6QRpWlh8Vp7ykxGpD9GpaQ.jpg",
+          "thumbnail_path": "channels/withyashar/media/f0209b707c493cbab400d86c.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.4989384288747
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/withyashar/24318?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Wvwlon2k7_tmDNEXTivBbF4BEMYugqv3Stcz_mqU0MGbPWfV7W9SiGj9xK6--l1Xxmh0Xq9RK5FxIFXS8IOyl9k6qXY40XKlKwqo9C56YQcsbURgZZ1Mpx4Jn4ShD03oICKosAMeco8rVB_y88vb0O4r451ak2mDH7-VwKbDqTVSa1Eg9DC-ic1KgFMbxKNm1zN15O2vfTTB5mrq1w36fgQOtmdnXm0cTHAiXuW1CWxc5dB57TjeGawnyWUd3hpJxmbH0xhQV_knlLbOh_hRVlTj5F-1vEF9gxkRcD19jnR456mX3Nj8ITIllg5RkCxC8xjMe5p8ObPbPTC8BJkaZA.jpg",
+          "thumbnail_path": "channels/withyashar/media/abcbf49dd277519451f30331.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.5021276595745
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/withyashar/24319?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/pPIzshVPx4TTidR4PFxyJiHV1D7aCrpvaYbwMn3Ms2Vyslu1zxJPAaYq9YecItJL2EkO0i-k-948zKzJkMIodpCy-hqQePHxipG2uA_JzXns8_JoNu_DTWvb--NjmuDYT9kTzwAsVB9rGYc-kVn1jYGchQUbaj3lvLwQupnh73I0xNZVLYrY0a3FAo6lLS5DL1P7PYMIbWK83wXYlY98_i2soByX7hDB7uczY-Yzwk8cZosh9CNQnCSGMwch1qqQeoWhpMF2N-Jk1jVgbnrppMJh-dhZghxoTv-8Eznvt966Erfd2xSCRI2qIVC8_DHkv9jQbNhQdCUfGNu9CaIVaA.jpg",
+          "thumbnail_path": "channels/withyashar/media/904beb31935812dd23be732d.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.4989384288747
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/withyashar/24320?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/XP2Cta1tgOnkRPwP_DKWrkZtlUMEAe5kCPC1IeJ0f34b3ebHo6VXd9DrOxGgWjSMK-Y_85nmPYQ0AaUBoYRnzLkQgXAfKVG0g4QNnD9CSmAVIT7yGTbwYHebwDWFwdyORTgivRd6c_-DXk-oLbz5CZTrcRIVb4MDBMC8eFSxynICYCOEnnivk8HNLavJ4mt3dU8v8bKab7IizmnxRCVXYZ4RlPiQz7Fis8MpkmznHe8aC-vHje2YM2r2GzP004bNR2LRbSKanjTxZWPTeRMEsSm0nAC7cKKjLiMiHGMV4ygsWYGBwqN66qCjFDevYnaOh9MSZ1qZS7WiDYpm6DlnRQ.jpg",
+          "thumbnail_path": "channels/withyashar/media/b8429ed0ad8e66cc5764a9e1.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.4989384288747
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/withyashar/24321?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qBLCMLAbKA2jarW8HLzFKbROdQX3qzV6hUPnkEyX2Q2pDy1xyRNbigV6ebINfp8ChVbKW0MUrPuSl1yeUPx3GLFv3vU136t869qR77nr_YnfVKGA-fHHZEFf1a47SAtjaIAUSYUvOiLQFYDwGT8UyKORrKFOeAWP_lLZeE4vmnmsa2mmo8bU_h-JFWLi4v8JED66m6ochdlnRCsIo4mN5tFZ6e6bwNd_6ywHUsBAbirxozwkDvbZHwb89cxe8HFj__gjhG_Keb1e5CNZJ1NNJM6os7TYLAsurMGOliiAo4U1GGw4LRH39mp__EFneLn01p0WlFm4mCMUYOcOu-4ukQ.jpg",
+          "thumbnail_path": "channels/withyashar/media/0b8d4aca1b162bbd88bf4ab5.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.5021276595745
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/withyashar/24322?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/AQG2AxRShTIx6qXxbutnPSUYh-0fxq56oCUWfBMcwk_eKMonAZvhySiAf9yW69-b6K5tZffReqgecvQcMJOAvtIHb6nWaUbZcf0h11nTjLZdVAu3fp9PhppLQ9Nf4373o0MbsdBMNalXuUaKK778cHCbqytka7evRZQfnqHBXSnjH3N0YatOgoromdFzKM58x8JTl1l1faYE9vGIQ3l34J5nMsvJr6BaiFJmHc4PHH_EHgBUzvW6bBDIRyfZVD1xD4M6-axDqY71ynj5IxI_e_AYxFAhbz7Nl_OXlQw6LoldZHG9Ii9-tR68mBpbI3HlAoCEdxy9pZOZHDz_kCGsPw.jpg",
+          "thumbnail_path": "channels/withyashar/media/2ac76bbef60c8fca13a7fcdd.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.4989384288747
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/withyashar/24323?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/tIyVMi5eQ0Zs4RdWHzvQiey3qudJWMwXeJxkiuoTjJtwDOJ1gi4c4ExDYHCase7mggKHVUd6Hz3g3ddMjgE5dg2AVO3Rsv5sH1iQQk1MbtL5Ngz3-OQ12QIKga4C7yFB4FbuicWchBRVIENBOIAnX8HoLo7kUWF7PMtdaVclNGcohpd-SPG-D9gFBJKxa-V3_aztG9KwKQz_07csars8-A7UbTD-VUd-u3V8-KB7C6Ab-9rnnBONwANh1rf6uDg9Yx3TvGiz9u6VDTQbiw4PC9jJnUKXU5lLtDNwJtJ-_Psi2t3uJmxZRw7ntvbNNLWx4xNyHgt2Rb7kQUQ6yKRkpQ.jpg",
+          "thumbnail_path": "channels/withyashar/media/732525ad510843ab50ea891b.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.5021276595745
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/withyashar/24324?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/lvGR6-yPyEWEoBtimFQBYKFxOcNcDuHn0asrZXEmdCDGSXIFASoxI6OviTjoVzG_vHf01tcrQZ10Xvre7DEPZvAXolXaeIbm1tv5CJntFWv2yv1EX1UH6UYuVU-WRX3CyFYvfoZMP2H6eorcImJADhEWU1xW-B3Bn-OZcgbuPA54wsEeN6huO3XY2M94OvNrjPG4JOY_4CeuRyf7LR11j3iiiJ38hAeTY4CDZpTNntuY_EcavAEjFCmcdvPd_LGq-Au9z9-WaFlEJdCIWWRjEZY2YNZB_9A1MZ5HKAJqbxEj9USE6pKsgMXejGpPovflMidqPw9XDbDiGYjB3bCgMA.jpg",
+          "thumbnail_path": "channels/withyashar/media/ebde219fd77c23aef22d4af3.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.4989384288747
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/withyashar/24325?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/D9a-FkPzbQUkCwngaFGINELu-_MDzDif-GVHws8IdVwNJZWLZafflZGVm5ll1eOoNDCANx7lp12O4X6HZjsGFtNS1xmpTynBPQu2Lbvvq_IqCfOnZjT5kDfyPvzRGINTJ1UFbfp_K4_RnQqRhp60fp9apc9R2wX9pp7NfOYUic3_vIaibUO9TMlweupmgYUx4Zla1K66gIxZ_HQzEIW2IW6Yj3p1danYo7QJXD17DpGn1eXRMH_SPDk4lH1dkrMwRn8UxZduTNfmII6LZslReWNbC8Uk5IaBhziJxNkCaBCBXx2ZkJ3qcmlqJENeXzOWDobQqJPBSbzzgoiaSSu4nA.jpg",
+          "thumbnail_path": "channels/withyashar/media/c04fbb66e7e668ced1fe4610.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.4989384288747
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "914"
+        },
+        {
+          "emoji": "💎",
+          "count": "171"
+        },
+        {
+          "emoji": "🫡",
+          "count": "61"
+        },
+        {
+          "emoji": "🤣",
+          "count": "38"
+        },
+        {
+          "emoji": "👍",
+          "count": "13"
+        },
+        {
+          "emoji": "💋",
+          "count": "10"
+        },
+        {
+          "emoji": "👏",
+          "count": "8"
+        }
+      ],
+      "views_label": "51.1K",
+      "posted_at": "2026-09-27T09:05:33+00:00",
+      "edited": false,
+      "permalink": "https://t.me/withyashar/24316"
+    },
+    {
+      "id": "withyashar/24315",
+      "author_name": "WarRoom with YASHAR",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Wzhl-aKSZpAi4BFsU16T3sS3utwzg_OMZ6DIeStStyFK4sTG-DDpqVzE_t8Ztx5Zl40Ui3iHbRBWwX4W5I5yQ81TvcMW-Jmxny4XwB6lWCuDa3IrYt-V0t3cZX_4B3G2AK8eEi1XeR2xF4QD7_kBk2eAr-moeP5KDStIKiqRb933ZqZSIPNrLUX4JnG0D3BLCPCpj78FKOUsRWgK-GjJ3c8uJ6xmLDXKEl-Uk4mZPmih-kY8d5wcKZbkdw0ugP-H-_1k1gbKX55cjpa3zeP-u8Wu7lhRkqiMWjMwylf6T0pA3atrfnWQvLB_7NX5aG-n10UEZR2TPwiY7xMjRn3oqA.jpg",
+      "author_photo_path": "channels/withyashar/media/3594a78ab40c82b09e69292c.jpg",
+      "body_html": "‏در دومین سالگرد نفله شدن حسن نصرالله، مستندی از لحظات جستجو تا رسیدن به جسدش رو ببینید، ارتش اسرائیل اعلام کرده بود بر اثر خفگی مُرده و درست بوده، اسرائیل اشتباه نمیکنه ( با زیرنویس فارسی )<br><a href=\"https://t.me/WarRoom\" target=\"_blank\">@WarRoom</a>",
+      "plain_text": "‏در دومین سالگرد نفله شدن حسن نصرالله، مستندی از لحظات جستجو تا رسیدن به جسدش رو ببینید، ارتش اسرائیل اعلام کرده بود بر اثر خفگی مُرده و درست بوده، اسرائیل اشتباه نمیکنه ( با زیرنویس فارسی ) @WarRoom",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/withyashar/24315",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/PGXF_ekgn8LES_7uiebk8LsnQvCmrVqxWFrlgLleDcbNZbs_YATkz6IkpZQjCmuc-sDuOwklKUFBM39kZW7XTQRK_iNMHlQaWuJ_TpTiICN__f7Da6w5jmweXHKRVERQBVH0O-o3z_97nd-F-w4jkgqRmjJR-tbiTk-za9tlt19OTxnHg5UsCdd6LAtIhnotiWt3EdOHfYLZDGtcvr9WoYaM9TeFJufKuIzthX7mR0aKAM9x6TrI7w-_or6qiMEEOIitB93T-aREpP1rpXHyPUADsvoCcB4bVO_qE0fH_7fR7K9YWL92gcIhkc3Q84ux-Ml1S-OCbMbZv-ro6WjzEQ",
+          "thumbnail_path": "channels/withyashar/media/b9915b14c0bbb1d36647f2fe.jpg",
+          "duration_label": "5:00",
+          "aspect_ratio": 1.9629629629629668
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "1.13K"
+        },
+        {
+          "emoji": "🤣",
+          "count": "550"
+        },
+        {
+          "emoji": "💎",
+          "count": "120"
+        },
+        {
+          "emoji": "🍾",
+          "count": "63"
+        },
+        {
+          "emoji": "👏",
+          "count": "32"
+        },
+        {
+          "emoji": "👍",
+          "count": "20"
+        },
+        {
+          "emoji": "🔥",
+          "count": "16"
+        }
+      ],
+      "views_label": "52.2K",
+      "posted_at": "2026-09-27T08:56:23+00:00",
+      "edited": true,
+      "permalink": "https://t.me/withyashar/24315"
+    },
+    {
+      "id": "withyashar/24314",
+      "author_name": "WarRoom with YASHAR",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Wzhl-aKSZpAi4BFsU16T3sS3utwzg_OMZ6DIeStStyFK4sTG-DDpqVzE_t8Ztx5Zl40Ui3iHbRBWwX4W5I5yQ81TvcMW-Jmxny4XwB6lWCuDa3IrYt-V0t3cZX_4B3G2AK8eEi1XeR2xF4QD7_kBk2eAr-moeP5KDStIKiqRb933ZqZSIPNrLUX4JnG0D3BLCPCpj78FKOUsRWgK-GjJ3c8uJ6xmLDXKEl-Uk4mZPmih-kY8d5wcKZbkdw0ugP-H-_1k1gbKX55cjpa3zeP-u8Wu7lhRkqiMWjMwylf6T0pA3atrfnWQvLB_7NX5aG-n10UEZR2TPwiY7xMjRn3oqA.jpg",
+      "author_photo_path": "channels/withyashar/media/3594a78ab40c82b09e69292c.jpg",
+      "body_html": "یانشا, نخست‌وزیر اسلوونی: تغییر حکومت در ایران و انتقال مسالمت‌آمیز قدرت به مردم، برای توقف صدور تروریسم و ایجاد صلح و ثبات در منطقه ضروری است<br><a href=\"https://t.me/WarRoom\" target=\"_blank\">@WarRoom</a>",
+      "plain_text": "یانشا, نخست‌وزیر اسلوونی: تغییر حکومت در ایران و انتقال مسالمت‌آمیز قدرت به مردم، برای توقف صدور تروریسم و ایجاد صلح و ثبات در منطقه ضروری است @WarRoom",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "⭐",
+          "count": "1"
+        },
+        {
+          "emoji": "❤",
+          "count": "2.33K"
+        },
+        {
+          "emoji": "👏",
+          "count": "318"
+        },
+        {
+          "emoji": "💎",
+          "count": "192"
+        },
+        {
+          "emoji": "🔥",
+          "count": "31"
+        },
+        {
+          "emoji": "👍",
+          "count": "28"
+        },
+        {
+          "emoji": "🤣",
+          "count": "18"
+        },
+        {
+          "emoji": "🤝",
+          "count": "8"
+        }
+      ],
+      "views_label": "58.3K",
+      "posted_at": "2026-09-27T08:36:44+00:00",
+      "edited": false,
+      "permalink": "https://t.me/withyashar/24314"
+    },
+    {
+      "id": "withyashar/24313",
+      "author_name": "WarRoom with YASHAR",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Wzhl-aKSZpAi4BFsU16T3sS3utwzg_OMZ6DIeStStyFK4sTG-DDpqVzE_t8Ztx5Zl40Ui3iHbRBWwX4W5I5yQ81TvcMW-Jmxny4XwB6lWCuDa3IrYt-V0t3cZX_4B3G2AK8eEi1XeR2xF4QD7_kBk2eAr-moeP5KDStIKiqRb933ZqZSIPNrLUX4JnG0D3BLCPCpj78FKOUsRWgK-GjJ3c8uJ6xmLDXKEl-Uk4mZPmih-kY8d5wcKZbkdw0ugP-H-_1k1gbKX55cjpa3zeP-u8Wu7lhRkqiMWjMwylf6T0pA3atrfnWQvLB_7NX5aG-n10UEZR2TPwiY7xMjRn3oqA.jpg",
+      "author_photo_path": "channels/withyashar/media/3594a78ab40c82b09e69292c.jpg",
+      "body_html": "<b>رویترز:</b> در پی بازداشت چند نفر به ظن جرایم مرتبط با <b>مواد منفجره</b> در نزدیکی پایگاه <b>RAF Fairford</b> در بریتانیا، تدابیر امنیتی اطراف این پایگاه افزایش یافته است. چند ملک در منطقه ولفورد تخلیه و خودروها توسط تیم خنثی‌سازی بمب ارتش بررسی شده‌اند. گزارش‌هایی نیز از قرار گرفتن پایگاه در بالاترین سطح حفاظت آمریکا، <b>FPCON Delta</b>، منتشر شده است؛ نیروی هوایی آمریکا از <b>افزایش هوشیاری نیروها</b> خبر داده است. پلیس می‌گوید حادثه مهار شده و تحقیقات ادامه دارد.<br><a href=\"https://t.me/WarRoom\" target=\"_blank\">@WarRoom</a>",
+      "plain_text": "رویترز: در پی بازداشت چند نفر به ظن جرایم مرتبط با مواد منفجره در نزدیکی پایگاه RAF Fairford در بریتانیا، تدابیر امنیتی اطراف این پایگاه افزایش یافته است. چند ملک در منطقه ولفورد تخلیه و خودروها توسط تیم خنثی‌سازی بمب ارتش بررسی شده‌اند. گزارش‌هایی نیز از قرار گرفتن پایگاه در بالاترین سطح حفاظت آمریکا، FPCON Delta، منتشر شده است؛ نیروی هوایی آمریکا از افزایش هوشیاری نیروها خبر داده است. پلیس می‌گوید حادثه مهار شده و تحقیقات ادامه دارد. @WarRoom",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "792"
+        },
+        {
+          "emoji": "💎",
+          "count": "177"
+        },
+        {
+          "emoji": "🔥",
+          "count": "39"
+        },
+        {
+          "emoji": "👍",
+          "count": "32"
+        },
+        {
+          "emoji": "🕊",
+          "count": "3"
+        },
+        {
+          "emoji": "🤣",
+          "count": "3"
+        },
+        {
+          "emoji": "💔",
+          "count": "1"
+        }
+      ],
+      "views_label": "58.3K",
+      "posted_at": "2026-09-27T08:34:00+00:00",
+      "edited": false,
+      "permalink": "https://t.me/withyashar/24313"
+    },
+    {
+      "id": "withyashar/24312",
+      "author_name": "WarRoom with YASHAR",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Wzhl-aKSZpAi4BFsU16T3sS3utwzg_OMZ6DIeStStyFK4sTG-DDpqVzE_t8Ztx5Zl40Ui3iHbRBWwX4W5I5yQ81TvcMW-Jmxny4XwB6lWCuDa3IrYt-V0t3cZX_4B3G2AK8eEi1XeR2xF4QD7_kBk2eAr-moeP5KDStIKiqRb933ZqZSIPNrLUX4JnG0D3BLCPCpj78FKOUsRWgK-GjJ3c8uJ6xmLDXKEl-Uk4mZPmih-kY8d5wcKZbkdw0ugP-H-_1k1gbKX55cjpa3zeP-u8Wu7lhRkqiMWjMwylf6T0pA3atrfnWQvLB_7NX5aG-n10UEZR2TPwiY7xMjRn3oqA.jpg",
+      "author_photo_path": "channels/withyashar/media/3594a78ab40c82b09e69292c.jpg",
+      "body_html": "مسخره کردن پزشکیان در فاکس نیوز : آقای پژاکیان ، یه سوأل ساده هم نمیتونست جواب بده<br><a href=\"https://t.me/WarRoom\" target=\"_blank\">@WarRoom</a>",
+      "plain_text": "مسخره کردن پزشکیان در فاکس نیوز : آقای پژاکیان ، یه سوأل ساده هم نمیتونست جواب بده @WarRoom",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/withyashar/24312",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/tPXRnoRUM8xO7qm45qWncYtl_k9hWG-o1-L2zOUMfzgwdG_f6PewUKcgZ1afdpfN2A1g20k2GHCE_m6JBJWMahjbFNila-4erXZW9w7Me5Y_WCJiHSZj3S8PdyVzCYpfrMO1Ttrvut5O3PipkeqQx0zzREDftwqWd09s_qTD4TnKJ2iE9DYBK_YBuMqUcWnOwOj-Buoe04mpyHPMxg0hOcm0DxojIrSXSsaGkSxwHImwb4olwEDDsp28UN4OzW_NqsTekUEllVQCdn0GFTgCRrGt188x2GLQsSFA6JOC4VO_0stkvnSbeW407gckg1oMUNNMs1_yZN6bNK5NyPxFyw",
+          "thumbnail_path": "channels/withyashar/media/b63e0d21246ad0525328c99a.jpg",
+          "duration_label": "1:14",
+          "aspect_ratio": 1.8275862068965676
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "1.86K"
+        },
+        {
+          "emoji": "💎",
+          "count": "156"
+        },
+        {
+          "emoji": "❤",
+          "count": "29"
+        },
+        {
+          "emoji": "👍",
+          "count": "20"
+        },
+        {
+          "emoji": "🤯",
+          "count": "5"
+        },
+        {
+          "emoji": "💋",
+          "count": "3"
+        },
+        {
+          "emoji": "🤓",
+          "count": "1"
+        }
+      ],
+      "views_label": "60.4K",
+      "posted_at": "2026-09-27T08:29:29+00:00",
+      "edited": false,
+      "permalink": "https://t.me/withyashar/24312"
+    },
+    {
+      "id": "withyashar/24311",
+      "author_name": "WarRoom with YASHAR",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Wzhl-aKSZpAi4BFsU16T3sS3utwzg_OMZ6DIeStStyFK4sTG-DDpqVzE_t8Ztx5Zl40Ui3iHbRBWwX4W5I5yQ81TvcMW-Jmxny4XwB6lWCuDa3IrYt-V0t3cZX_4B3G2AK8eEi1XeR2xF4QD7_kBk2eAr-moeP5KDStIKiqRb933ZqZSIPNrLUX4JnG0D3BLCPCpj78FKOUsRWgK-GjJ3c8uJ6xmLDXKEl-Uk4mZPmih-kY8d5wcKZbkdw0ugP-H-_1k1gbKX55cjpa3zeP-u8Wu7lhRkqiMWjMwylf6T0pA3atrfnWQvLB_7NX5aG-n10UEZR2TPwiY7xMjRn3oqA.jpg",
+      "author_photo_path": "channels/withyashar/media/3594a78ab40c82b09e69292c.jpg",
+      "body_html": "سردار نجات ترکه موتور یه پرستو نشسته قشنگ ارشادش کنه ، چیکار که نمیکنه این رژیم<br>سردار سرتیپ پاسدار <b>محمدحسین زیبایی‌نژاد</b> مشهور به <b>حسین نجات</b> (زاده ۱۳۳۴ در شیراز)، از فرماندهان ارشد و شناخته‌شده سپاه پاسداران انقلاب اسلامی است که هم‌اکنون به‌عنوان <b>جانشین فرمانده قرارگاه ثارالله</b><br><a href=\"https://t.me/WarRoom\" target=\"_blank\">@WarRoom</a>",
+      "plain_text": "سردار نجات ترکه موتور یه پرستو نشسته قشنگ ارشادش کنه ، چیکار که نمیکنه این رژیم سردار سرتیپ پاسدار محمدحسین زیبایی‌نژاد مشهور به حسین نجات (زاده ۱۳۳۴ در شیراز)، از فرماندهان ارشد و شناخته‌شده سپاه پاسداران انقلاب اسلامی است که هم‌اکنون به‌عنوان جانشین فرمانده قرارگاه ثارالله @WarRoom",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/withyashar/24311",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/VE-PnIxKwVj-Nk6glSuMk5AbEFO5_NIqodfoiDY9VxWk3D6Kfhti8fA8VPnxN81WCMdLOk14ezwi7Etz5OrEZY3arBqFx5eDDiuDar8QDJjbYc5PwyttQtNI-BX37if5zpf5j1oDHUDpyXeepBrppzHgCTTiASj7rjvN9gT2SIAjtFtNt0ZbtwY2_eS9hC73fBc_dY_zOLmXIHHKcjczl8khz-jGyK8QJSNPT5sJLmuvdk1w0Nenn0YIUBCw-f4tLDT8D6pMqh9VQC9ERE_1K5VH26aL1JphezHKnmwme66yiZSn94Xhr8kRJZ4f8vXp_89u67qKV7VcsIAZ-0sE3A.jpg",
+          "thumbnail_path": "channels/withyashar/media/ea45cdb03d159e6d044c9712.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.4988290398126465
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "1.68K"
+        },
+        {
+          "emoji": "💎",
+          "count": "132"
+        },
+        {
+          "emoji": "🤯",
+          "count": "81"
+        },
+        {
+          "emoji": "❤",
+          "count": "46"
+        },
+        {
+          "emoji": "🔥",
+          "count": "9"
+        },
+        {
+          "emoji": "👍",
+          "count": "8"
+        },
+        {
+          "emoji": "🤓",
+          "count": "6"
+        }
+      ],
+      "views_label": "61.4K",
+      "posted_at": "2026-09-27T08:26:12+00:00",
+      "edited": false,
+      "permalink": "https://t.me/withyashar/24311"
+    },
+    {
+      "id": "withyashar/24310",
+      "author_name": "WarRoom with YASHAR",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Wzhl-aKSZpAi4BFsU16T3sS3utwzg_OMZ6DIeStStyFK4sTG-DDpqVzE_t8Ztx5Zl40Ui3iHbRBWwX4W5I5yQ81TvcMW-Jmxny4XwB6lWCuDa3IrYt-V0t3cZX_4B3G2AK8eEi1XeR2xF4QD7_kBk2eAr-moeP5KDStIKiqRb933ZqZSIPNrLUX4JnG0D3BLCPCpj78FKOUsRWgK-GjJ3c8uJ6xmLDXKEl-Uk4mZPmih-kY8d5wcKZbkdw0ugP-H-_1k1gbKX55cjpa3zeP-u8Wu7lhRkqiMWjMwylf6T0pA3atrfnWQvLB_7NX5aG-n10UEZR2TPwiY7xMjRn3oqA.jpg",
+      "author_photo_path": "channels/withyashar/media/3594a78ab40c82b09e69292c.jpg",
+      "body_html": "اسکات بسنت، وزیر خزانه‌داری آمریکا: تمام بانک‌های تجاری بزرگ در امارات متحده عربی و ترکیه انجام تراکنش‌های مالی با ایران را متوقف کرده‌اند. بسنت گفت فشارهای اقتصادی واشنگتن برای منزوی کردن ایران در حال نتیجه دادن است و آمریکا برای اجرای این سیاست با بیش از…",
+      "plain_text": "اسکات بسنت، وزیر خزانه‌داری آمریکا: تمام بانک‌های تجاری بزرگ در امارات متحده عربی و ترکیه انجام تراکنش‌های مالی با ایران را متوقف کرده‌اند. بسنت گفت فشارهای اقتصادی واشنگتن برای منزوی کردن ایران در حال نتیجه دادن است و آمریکا برای اجرای این سیاست با بیش از…",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "1.31K"
+        },
+        {
+          "emoji": "💎",
+          "count": "231"
+        },
+        {
+          "emoji": "🔥",
+          "count": "72"
+        },
+        {
+          "emoji": "👍",
+          "count": "52"
+        },
+        {
+          "emoji": "👏",
+          "count": "32"
+        },
+        {
+          "emoji": "💋",
+          "count": "9"
+        },
+        {
+          "emoji": "🥰",
+          "count": "4"
+        }
+      ],
+      "views_label": "64.5K",
+      "posted_at": "2026-09-27T08:02:45+00:00",
+      "edited": false,
+      "permalink": "https://t.me/withyashar/24310"
+    },
+    {
+      "id": "withyashar/24309",
+      "author_name": "WarRoom with YASHAR",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Wzhl-aKSZpAi4BFsU16T3sS3utwzg_OMZ6DIeStStyFK4sTG-DDpqVzE_t8Ztx5Zl40Ui3iHbRBWwX4W5I5yQ81TvcMW-Jmxny4XwB6lWCuDa3IrYt-V0t3cZX_4B3G2AK8eEi1XeR2xF4QD7_kBk2eAr-moeP5KDStIKiqRb933ZqZSIPNrLUX4JnG0D3BLCPCpj78FKOUsRWgK-GjJ3c8uJ6xmLDXKEl-Uk4mZPmih-kY8d5wcKZbkdw0ugP-H-_1k1gbKX55cjpa3zeP-u8Wu7lhRkqiMWjMwylf6T0pA3atrfnWQvLB_7NX5aG-n10UEZR2TPwiY7xMjRn3oqA.jpg",
+      "author_photo_path": "channels/withyashar/media/3594a78ab40c82b09e69292c.jpg",
+      "body_html": "عراقچی : من جام خوبه نمیام ، مرسی اه<br><a href=\"https://t.me/WarRoom\" target=\"_blank\">@WarRoom</a>",
+      "plain_text": "عراقچی : من جام خوبه نمیام ، مرسی اه @WarRoom",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/withyashar/24309",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/JoCoIlbXWggPXG7iqguCo6dR638d0Vcx2IUyHsu_jYaS2C1X2b1NBkocak4kkNvuLLNH31_kJRBVULiZHU1VkBxv87R4_03GdboyGOIuYZDO86-wzf5NLkTkPeI3uG24uwdTAVPXR-7TWh7CMDeXCSFTVDs1CuD2O5QJSFEuqiqQfzgy2AwLm-UUjpXguQ5F8kDgxTTIzHCxh2k1eDTYPSzCZ_W1iVkvkTBNchnZZMenXSRMZD6djyIlCBbeRLGn1BGgYQDVqWlaILnDeu0hE4df4J_keclTUM5g54FZ7fdYvWfzLzVGwvpF7pVq6SdwsjQP8HCae4qwlsunqYKtvw.jpg",
+          "thumbnail_path": "channels/withyashar/media/88e9a27b50022447ff85dbd2.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "2.33K"
+        },
+        {
+          "emoji": "💎",
+          "count": "121"
+        },
+        {
+          "emoji": "❤",
+          "count": "37"
+        },
+        {
+          "emoji": "🕊",
+          "count": "11"
+        },
+        {
+          "emoji": "👍",
+          "count": "7"
+        },
+        {
+          "emoji": "🤓",
+          "count": "6"
+        },
+        {
+          "emoji": "👏",
+          "count": "3"
+        }
+      ],
+      "views_label": "67.5K",
+      "posted_at": "2026-09-27T07:55:15+00:00",
+      "edited": false,
+      "permalink": "https://t.me/withyashar/24309"
+    },
+    {
+      "id": "withyashar/24308",
+      "author_name": "WarRoom with YASHAR",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Wzhl-aKSZpAi4BFsU16T3sS3utwzg_OMZ6DIeStStyFK4sTG-DDpqVzE_t8Ztx5Zl40Ui3iHbRBWwX4W5I5yQ81TvcMW-Jmxny4XwB6lWCuDa3IrYt-V0t3cZX_4B3G2AK8eEi1XeR2xF4QD7_kBk2eAr-moeP5KDStIKiqRb933ZqZSIPNrLUX4JnG0D3BLCPCpj78FKOUsRWgK-GjJ3c8uJ6xmLDXKEl-Uk4mZPmih-kY8d5wcKZbkdw0ugP-H-_1k1gbKX55cjpa3zeP-u8Wu7lhRkqiMWjMwylf6T0pA3atrfnWQvLB_7NX5aG-n10UEZR2TPwiY7xMjRn3oqA.jpg",
+      "author_photo_path": "channels/withyashar/media/3594a78ab40c82b09e69292c.jpg",
+      "body_html": "رسانه های رژیم : سرهنگ دوم <b>مجید بهرامی</b>، رئیس پلیس آگاهی شهرستان ایجرود در استان زنجان، روز پنجشنبه ۲ مهر هنگام انجام مأموریت برای مقابله با <b>قاچاق کالا و ارز</b> جان خود را از دست داد. بر اساس گزارش پلیس، در جریان عملیات، خودروی قاچاقچیان با خودروی مأموران برخورد کرد و سرهنگ بهرامی بر اثر این حادثه کشته شد، این یک ترور سیاسی نبوده و <b>عاملان این حادثه کمتر از ۲۴ ساعت بعد توسط نیروهای امنیتی و انتظامی شناسایی و دستگیر شدند.</b><br><a href=\"https://t.me/WarRoom\" target=\"_blank\">@WarRoom</a>",
+      "plain_text": "رسانه های رژیم : سرهنگ دوم مجید بهرامی، رئیس پلیس آگاهی شهرستان ایجرود در استان زنجان، روز پنجشنبه ۲ مهر هنگام انجام مأموریت برای مقابله با قاچاق کالا و ارز جان خود را از دست داد. بر اساس گزارش پلیس، در جریان عملیات، خودروی قاچاقچیان با خودروی مأموران برخورد کرد و سرهنگ بهرامی بر اثر این حادثه کشته شد، این یک ترور سیاسی نبوده و عاملان این حادثه کمتر از ۲۴ ساعت بعد توسط نیروهای امنیتی و انتظامی شناسایی و دستگیر شدند. @WarRoom",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/withyashar/24308",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/bcKi86nMcED3shsn-EPbc1eEIjfA3r3KEC4Sh0tIoWJedIFMG6twyic1pz5hAeeoUMczKQckwyE2WmMH9aZd9rONg7C4Kt5OUK2CwgRabq9IIo4XubO7zx2PKNgE6PkXKAk2YFFYGl8-fbhlUA4AENVPyq7y-M9lE39RFO5zBtUon2AzVz5_WoiOhPXtp3T_aeFG-vOnxKgw4yHRwRm4C4rRrySFpMf3yLqoLYLI9g1FO68Xwy4DqMYmkkU5Mn1pIMphup36-NYj_z2z0SnE5AwFWWlBd0G3lQgWcbA3RQOlaZbq7fzZOCQ5r0TNZOxyA9NLE5kD8bWM8WdMqRLj4g.jpg",
+          "thumbnail_path": "channels/withyashar/media/6d5253a0ddc76ee7ceeb22b3.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.0100840336134436
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "⭐",
+          "count": "2"
+        },
+        {
+          "emoji": "🤣",
+          "count": "1.62K"
+        },
+        {
+          "emoji": "💎",
+          "count": "242"
+        },
+        {
+          "emoji": "❤",
+          "count": "234"
+        },
+        {
+          "emoji": "💔",
+          "count": "147"
+        },
+        {
+          "emoji": "🍾",
+          "count": "35"
+        },
+        {
+          "emoji": "🕊",
+          "count": "26"
+        },
+        {
+          "emoji": "👏",
+          "count": "18"
+        }
+      ],
+      "views_label": "71.7K",
+      "posted_at": "2026-09-27T07:32:25+00:00",
+      "edited": false,
+      "permalink": "https://t.me/withyashar/24308"
+    },
     {
       "id": "withyashar/24301",
       "author_name": "WarRoom with YASHAR",
@@ -4187,529 +4819,6 @@
       "posted_at": "2026-09-26T07:25:35+00:00",
       "edited": false,
       "permalink": "https://t.me/withyashar/24212"
-    },
-    {
-      "id": "withyashar/24211",
-      "author_name": "WarRoom with YASHAR",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fthqcpi9im6uJnsfx2w_IFLZI81MX7W9Zh8ziO3YNfyFPLhz50AWCOSx_hOuWn5Z-BD_1oNIYg954EgctOWUtWC0XRv56QVowvCcuzcOtzA2hGzNuR5ma6jzc-7cYa1RvjySOdqnsJ4Z6zLHJOps6DGUz_l-mt_jU3jisV52qZMg6MPLeuqzJDinzeHJJSYklaF0YN3N-eOsfwuOjvgLWJD6JXI_wqVEBJz_SBkxFE_CClDppJpjuMLWCZoeOAHJtDLLeZaoFvdwaa-OXU57IvQ_ZaAqEKO2-bYEZm3mYosELa3vYwBoARqsR1XX5hpGSLZTaER7KXNJjG0A3OOzcw.jpg",
-      "author_photo_path": "channels/withyashar/media/60b27b26f0995db95661d3ea.jpg",
-      "body_html": "پست جدید امیدبخش ترامپ در تروث شامل صحنه‌ای از منهدم کردن لانچر رژیم جمهوری اسلامی<br><a href=\"https://t.me/WarRoom\" target=\"_blank\">@WarRoom</a>",
-      "plain_text": "پست جدید امیدبخش ترامپ در تروث شامل صحنه‌ای از منهدم کردن لانچر رژیم جمهوری اسلامی @WarRoom",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/withyashar/24211",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/TGCZG6-juuVQOXFWlI4OJvqAnAHHRu_DoOpdFOTpSj0cdd5EXZCof3oY_b-MvCP0wxWk0gLKET0Z66CHFzoJQ9x0n5gPdUkn7TYOtIVeJkZNenY6EsGxhwlwpui9wxM7QMRZddcnx6VL-aHXzgCYHyYpwlUKGAtXgcMnPkNJQOolUSZXGP1qxRtWHtM9Bw8Poadj9wmntxV_xp8rqRmTBj-DLaM0ku1DlDKhOPdX36upynC3tc67qLmb3IWhEx035TJW7IV63BHkeZfGfdrsPHwbjeprC0rvJ4zViTcw6BucDXTGcGPM_celDIDDAyjRlsN-omKkW5Ow6g8fCCbFKQ",
-          "thumbnail_path": "channels/withyashar/media/227618a1a14e26b6820157d5.jpg",
-          "duration_label": "0:28",
-          "aspect_ratio": 1.9013452914798028
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "1"
-        },
-        {
-          "emoji": "❤",
-          "count": "1.85K"
-        },
-        {
-          "emoji": "💎",
-          "count": "285"
-        },
-        {
-          "emoji": "🫡",
-          "count": "84"
-        },
-        {
-          "emoji": "👏",
-          "count": "55"
-        },
-        {
-          "emoji": "🍾",
-          "count": "23"
-        },
-        {
-          "emoji": "👍",
-          "count": "15"
-        },
-        {
-          "emoji": "🕊",
-          "count": "4"
-        }
-      ],
-      "views_label": "74.5K",
-      "posted_at": "2026-09-26T01:57:10+00:00",
-      "edited": false,
-      "permalink": "https://t.me/withyashar/24211"
-    },
-    {
-      "id": "withyashar/24208",
-      "author_name": "WarRoom with YASHAR",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fthqcpi9im6uJnsfx2w_IFLZI81MX7W9Zh8ziO3YNfyFPLhz50AWCOSx_hOuWn5Z-BD_1oNIYg954EgctOWUtWC0XRv56QVowvCcuzcOtzA2hGzNuR5ma6jzc-7cYa1RvjySOdqnsJ4Z6zLHJOps6DGUz_l-mt_jU3jisV52qZMg6MPLeuqzJDinzeHJJSYklaF0YN3N-eOsfwuOjvgLWJD6JXI_wqVEBJz_SBkxFE_CClDppJpjuMLWCZoeOAHJtDLLeZaoFvdwaa-OXU57IvQ_ZaAqEKO2-bYEZm3mYosELa3vYwBoARqsR1XX5hpGSLZTaER7KXNJjG0A3OOzcw.jpg",
-      "author_photo_path": "channels/withyashar/media/60b27b26f0995db95661d3ea.jpg",
-      "body_html": "خبرگزاری ABC : در شروع عملیات، اسرائیل اعلام کرد حدود ۲۰۰ جنگنده در بزرگ‌ترین مأموریت پروازی تاریخ نیروی هوایی اسرائیل شرکت کردند و حدود ۵۰۰ هدف را زدند.  آمریکا در نخستین ۲۴ ساعت بیش از ۱۰۰۰ هدف را در عملیات چندمحوره مورد حمله قرار داد. طبق آمار بعدی، تا…",
-      "plain_text": "خبرگزاری ABC : در شروع عملیات، اسرائیل اعلام کرد حدود ۲۰۰ جنگنده در بزرگ‌ترین مأموریت پروازی تاریخ نیروی هوایی اسرائیل شرکت کردند و حدود ۵۰۰ هدف را زدند. آمریکا در نخستین ۲۴ ساعت بیش از ۱۰۰۰ هدف را در عملیات چندمحوره مورد حمله قرار داد. طبق آمار بعدی، تا…",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "3"
-        },
-        {
-          "emoji": "❤",
-          "count": "711"
-        },
-        {
-          "emoji": "💎",
-          "count": "188"
-        },
-        {
-          "emoji": "💋",
-          "count": "14"
-        },
-        {
-          "emoji": "🫡",
-          "count": "12"
-        },
-        {
-          "emoji": "🔥",
-          "count": "7"
-        },
-        {
-          "emoji": "👍",
-          "count": "6"
-        },
-        {
-          "emoji": "🙏",
-          "count": "6"
-        }
-      ],
-      "views_label": "74.5K",
-      "posted_at": "2026-09-26T01:34:41+00:00",
-      "edited": false,
-      "permalink": "https://t.me/withyashar/24208"
-    },
-    {
-      "id": "withyashar/24207",
-      "author_name": "WarRoom with YASHAR",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fthqcpi9im6uJnsfx2w_IFLZI81MX7W9Zh8ziO3YNfyFPLhz50AWCOSx_hOuWn5Z-BD_1oNIYg954EgctOWUtWC0XRv56QVowvCcuzcOtzA2hGzNuR5ma6jzc-7cYa1RvjySOdqnsJ4Z6zLHJOps6DGUz_l-mt_jU3jisV52qZMg6MPLeuqzJDinzeHJJSYklaF0YN3N-eOsfwuOjvgLWJD6JXI_wqVEBJz_SBkxFE_CClDppJpjuMLWCZoeOAHJtDLLeZaoFvdwaa-OXU57IvQ_ZaAqEKO2-bYEZm3mYosELa3vYwBoARqsR1XX5hpGSLZTaER7KXNJjG0A3OOzcw.jpg",
-      "author_photo_path": "channels/withyashar/media/60b27b26f0995db95661d3ea.jpg",
-      "body_html": "خبرگزاری ABC : در شروع عملیات، اسرائیل اعلام کرد حدود <b>۲۰۰ جنگنده</b> در بزرگ‌ترین مأموریت پروازی تاریخ نیروی هوایی اسرائیل شرکت کردند و حدود <b>۵۰۰ هدف</b> را زدند.  آمریکا در نخستین ۲۴ ساعت بیش از <b>۱۰۰۰ هدف</b> را در عملیات چندمحوره مورد حمله قرار داد. طبق آمار بعدی، تا ۲۳ مارس بیش از <b>۱۰ هزار پرواز رزمی</b> و بیش از <b>۱۰ هزار هدف</b> در عملیات ثبت شده بود. گزارش سپتامبر Air &amp; Space Forces Magazine می‌گوید Epic Fury در مجموع به <b>بیش از ۱۳ هزار هدف</b> حمله کرد و حدود <b>۱۰ هزار سورتی رزمی</b> در ۳۸ روز اوج عملیات انجام شد. همان منبع آن را <b>بزرگ‌ترین کارزار هوایی آمریکا در یک نسل</b> توصیف می‌کند. خود CENTCOM در ابتدای عملیات آن را <b>بزرگ‌ترین تمرکز منطقه‌ای قدرت آتش آمریکا در یک نسل</b> نامید.<br><a href=\"https://t.me/WarRoom\" target=\"_blank\">@WarRoom</a>",
-      "plain_text": "خبرگزاری ABC : در شروع عملیات، اسرائیل اعلام کرد حدود ۲۰۰ جنگنده در بزرگ‌ترین مأموریت پروازی تاریخ نیروی هوایی اسرائیل شرکت کردند و حدود ۵۰۰ هدف را زدند. آمریکا در نخستین ۲۴ ساعت بیش از ۱۰۰۰ هدف را در عملیات چندمحوره مورد حمله قرار داد. طبق آمار بعدی، تا ۲۳ مارس بیش از ۱۰ هزار پرواز رزمی و بیش از ۱۰ هزار هدف در عملیات ثبت شده بود. گزارش سپتامبر Air & Space Forces Magazine می‌گوید Epic Fury در مجموع به بیش از ۱۳ هزار هدف حمله کرد و حدود ۱۰ هزار سورتی رزمی در ۳۸ روز اوج عملیات انجام شد. همان منبع آن را بزرگ‌ترین کارزار هوایی آمریکا در یک نسل توصیف می‌کند. خود CENTCOM در ابتدای عملیات آن را بزرگ‌ترین تمرکز منطقه‌ای قدرت آتش آمریکا در یک نسل نامید. @WarRoom",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "1.03K"
-        },
-        {
-          "emoji": "💎",
-          "count": "222"
-        },
-        {
-          "emoji": "🔥",
-          "count": "48"
-        },
-        {
-          "emoji": "👍",
-          "count": "38"
-        },
-        {
-          "emoji": "🤯",
-          "count": "9"
-        },
-        {
-          "emoji": "🫡",
-          "count": "9"
-        },
-        {
-          "emoji": "💋",
-          "count": "7"
-        }
-      ],
-      "views_label": "75.4K",
-      "posted_at": "2026-09-26T01:27:31+00:00",
-      "edited": false,
-      "permalink": "https://t.me/withyashar/24207"
-    },
-    {
-      "id": "withyashar/24206",
-      "author_name": "WarRoom with YASHAR",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fthqcpi9im6uJnsfx2w_IFLZI81MX7W9Zh8ziO3YNfyFPLhz50AWCOSx_hOuWn5Z-BD_1oNIYg954EgctOWUtWC0XRv56QVowvCcuzcOtzA2hGzNuR5ma6jzc-7cYa1RvjySOdqnsJ4Z6zLHJOps6DGUz_l-mt_jU3jisV52qZMg6MPLeuqzJDinzeHJJSYklaF0YN3N-eOsfwuOjvgLWJD6JXI_wqVEBJz_SBkxFE_CClDppJpjuMLWCZoeOAHJtDLLeZaoFvdwaa-OXU57IvQ_ZaAqEKO2-bYEZm3mYosELa3vYwBoARqsR1XX5hpGSLZTaER7KXNJjG0A3OOzcw.jpg",
-      "author_photo_path": "channels/withyashar/media/60b27b26f0995db95661d3ea.jpg",
-      "body_html": "۱۵ روز قبل از شروع جنگ ۴۰ روزه ۰۲/۱۳/۲۰۲۶",
-      "plain_text": "۱۵ روز قبل از شروع جنگ ۴۰ روزه ۰۲/۱۳/۲۰۲۶",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "1.03K"
-        },
-        {
-          "emoji": "💎",
-          "count": "204"
-        },
-        {
-          "emoji": "👍",
-          "count": "37"
-        },
-        {
-          "emoji": "🍾",
-          "count": "29"
-        },
-        {
-          "emoji": "🔥",
-          "count": "9"
-        },
-        {
-          "emoji": "🫡",
-          "count": "7"
-        },
-        {
-          "emoji": "💋",
-          "count": "5"
-        }
-      ],
-      "views_label": "73K",
-      "posted_at": "2026-09-26T01:22:45+00:00",
-      "edited": false,
-      "permalink": "https://t.me/withyashar/24206"
-    },
-    {
-      "id": "withyashar/24205",
-      "author_name": "WarRoom with YASHAR",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fthqcpi9im6uJnsfx2w_IFLZI81MX7W9Zh8ziO3YNfyFPLhz50AWCOSx_hOuWn5Z-BD_1oNIYg954EgctOWUtWC0XRv56QVowvCcuzcOtzA2hGzNuR5ma6jzc-7cYa1RvjySOdqnsJ4Z6zLHJOps6DGUz_l-mt_jU3jisV52qZMg6MPLeuqzJDinzeHJJSYklaF0YN3N-eOsfwuOjvgLWJD6JXI_wqVEBJz_SBkxFE_CClDppJpjuMLWCZoeOAHJtDLLeZaoFvdwaa-OXU57IvQ_ZaAqEKO2-bYEZm3mYosELa3vYwBoARqsR1XX5hpGSLZTaER7KXNJjG0A3OOzcw.jpg",
-      "author_photo_path": "channels/withyashar/media/60b27b26f0995db95661d3ea.jpg",
-      "body_html": "",
-      "plain_text": "",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/withyashar/24205",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ms_shAXoBUz8rW05X15vQzon05KG5U3vvo8tl2ABvIwKaQT9PnuVEyeDqsZ2FSCkTEM9XjGq-6uLMdrrv7SkW98KPtWusvZf48i_WjkRbp-UTLqWCW7LOJAHwMNlUae_SQsxEHNm7ZNdhC1v3qsUXK5FihjUAtAVCBubC3A2uujLSOZsAYslOZAuxATsp-btpfkQhyIbYMcrSaAplYOKMX4JjeVJc1JIS3-B6O0gnHhJMZIZ4mwi5h9HaVSn4b7cTMdJ50BMlzZy2gdAeOxZTqjJBTpjWTkK3um4clpO1478R0VEMkeU25AaqE0mL4iDRRRex9XRjd7yvYwZYFIwCg",
-          "thumbnail_path": "channels/withyashar/media/91f8b2b2c2dcd57f957a7f62.jpg",
-          "duration_label": "0:59",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "1"
-        },
-        {
-          "emoji": "❤",
-          "count": "1.04K"
-        },
-        {
-          "emoji": "💎",
-          "count": "192"
-        },
-        {
-          "emoji": "🔥",
-          "count": "51"
-        },
-        {
-          "emoji": "👏",
-          "count": "18"
-        },
-        {
-          "emoji": "💋",
-          "count": "10"
-        },
-        {
-          "emoji": "🫡",
-          "count": "9"
-        },
-        {
-          "emoji": "🤣",
-          "count": "8"
-        }
-      ],
-      "views_label": "73K",
-      "posted_at": "2026-09-26T01:22:29+00:00",
-      "edited": false,
-      "permalink": "https://t.me/withyashar/24205"
-    },
-    {
-      "id": "withyashar/24203",
-      "author_name": "WarRoom with YASHAR",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fthqcpi9im6uJnsfx2w_IFLZI81MX7W9Zh8ziO3YNfyFPLhz50AWCOSx_hOuWn5Z-BD_1oNIYg954EgctOWUtWC0XRv56QVowvCcuzcOtzA2hGzNuR5ma6jzc-7cYa1RvjySOdqnsJ4Z6zLHJOps6DGUz_l-mt_jU3jisV52qZMg6MPLeuqzJDinzeHJJSYklaF0YN3N-eOsfwuOjvgLWJD6JXI_wqVEBJz_SBkxFE_CClDppJpjuMLWCZoeOAHJtDLLeZaoFvdwaa-OXU57IvQ_ZaAqEKO2-bYEZm3mYosELa3vYwBoARqsR1XX5hpGSLZTaER7KXNJjG0A3OOzcw.jpg",
-      "author_photo_path": "channels/withyashar/media/60b27b26f0995db95661d3ea.jpg",
-      "body_html": "وال‌استریت ژورنال: ترامپ پیشنهاد آتش‌بس ایران را رد کرده و از احتمال تشدید بمباران‌ها پس از انتخابات میان‌دوره‌ای آمریکا خبر داد @WarRoom <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i>",
-      "plain_text": "وال‌استریت ژورنال: ترامپ پیشنهاد آتش‌بس ایران را رد کرده و از احتمال تشدید بمباران‌ها پس از انتخابات میان‌دوره‌ای آمریکا خبر داد @WarRoom 🚨🚨🚨🚨🚨",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "1.78K"
-        },
-        {
-          "emoji": "💎",
-          "count": "301"
-        },
-        {
-          "emoji": "🔥",
-          "count": "124"
-        },
-        {
-          "emoji": "🍾",
-          "count": "48"
-        },
-        {
-          "emoji": "🫡",
-          "count": "28"
-        },
-        {
-          "emoji": "🤣",
-          "count": "22"
-        },
-        {
-          "emoji": "🥰",
-          "count": "8"
-        }
-      ],
-      "views_label": "72.6K",
-      "posted_at": "2026-09-26T01:16:37+00:00",
-      "edited": false,
-      "permalink": "https://t.me/withyashar/24203"
-    },
-    {
-      "id": "withyashar/24202",
-      "author_name": "WarRoom with YASHAR",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fthqcpi9im6uJnsfx2w_IFLZI81MX7W9Zh8ziO3YNfyFPLhz50AWCOSx_hOuWn5Z-BD_1oNIYg954EgctOWUtWC0XRv56QVowvCcuzcOtzA2hGzNuR5ma6jzc-7cYa1RvjySOdqnsJ4Z6zLHJOps6DGUz_l-mt_jU3jisV52qZMg6MPLeuqzJDinzeHJJSYklaF0YN3N-eOsfwuOjvgLWJD6JXI_wqVEBJz_SBkxFE_CClDppJpjuMLWCZoeOAHJtDLLeZaoFvdwaa-OXU57IvQ_ZaAqEKO2-bYEZm3mYosELa3vYwBoARqsR1XX5hpGSLZTaER7KXNJjG0A3OOzcw.jpg",
-      "author_photo_path": "channels/withyashar/media/60b27b26f0995db95661d3ea.jpg",
-      "body_html": "",
-      "plain_text": "",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "1"
-        },
-        {
-          "emoji": "💎",
-          "count": "779"
-        },
-        {
-          "emoji": "❤",
-          "count": "138"
-        },
-        {
-          "emoji": "👏",
-          "count": "35"
-        },
-        {
-          "emoji": "🫡",
-          "count": "13"
-        },
-        {
-          "emoji": "💋",
-          "count": "12"
-        },
-        {
-          "emoji": "🤣",
-          "count": "10"
-        },
-        {
-          "emoji": "🔥",
-          "count": "5"
-        }
-      ],
-      "views_label": "69.9K",
-      "posted_at": "2026-09-26T01:09:53+00:00",
-      "edited": false,
-      "permalink": "https://t.me/withyashar/24202"
-    },
-    {
-      "id": "withyashar/24201",
-      "author_name": "WarRoom with YASHAR",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fthqcpi9im6uJnsfx2w_IFLZI81MX7W9Zh8ziO3YNfyFPLhz50AWCOSx_hOuWn5Z-BD_1oNIYg954EgctOWUtWC0XRv56QVowvCcuzcOtzA2hGzNuR5ma6jzc-7cYa1RvjySOdqnsJ4Z6zLHJOps6DGUz_l-mt_jU3jisV52qZMg6MPLeuqzJDinzeHJJSYklaF0YN3N-eOsfwuOjvgLWJD6JXI_wqVEBJz_SBkxFE_CClDppJpjuMLWCZoeOAHJtDLLeZaoFvdwaa-OXU57IvQ_ZaAqEKO2-bYEZm3mYosELa3vYwBoARqsR1XX5hpGSLZTaER7KXNJjG0A3OOzcw.jpg",
-      "author_photo_path": "channels/withyashar/media/60b27b26f0995db95661d3ea.jpg",
-      "body_html": "‏هم اکنون مایک والتز ⁦سفیر آمریکا در سازمان ملل : رژیم تروریست جمهوری اسلامی باید از بین برود<br><a href=\"https://t.me/WarRoom\" target=\"_blank\">@WarRoom</a>",
-      "plain_text": "‏هم اکنون مایک والتز ⁦سفیر آمریکا در سازمان ملل : رژیم تروریست جمهوری اسلامی باید از بین برود @WarRoom",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/withyashar/24201",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/i6iPPiKKWvQ1lmAZS542UeLRBy-UORCAh5fCWIiO6tYlQo_lkvd5o0ag6fEJORoVtMjgAyMbczrkJ7Sb2J5Dj04Fh47qkhBIaBm3ky5qSOOVrkC17cgBFx_ps3JpluLQutO83eZY65X8Dx-HtaIMQmgM4Jydqr13LCQ0c2rsCqghTv_fwlq5x_BWE4xiQIvJtA-ipZjgXMl6RoyGIRElgEK_YZjQNvAZsC8vrvrty1rxuvnEjbPPNGyYzRD0ovzNO829bszgmTgG6R7mtFLOxIVLS9HA4uadV6dThXojsK1JrwdvQ8orrqNZsA8q2OQvnIi_13sj4cKmFU5hC8WunA",
-          "thumbnail_path": "channels/withyashar/media/105f9f7bfea53fd3c78ea71f.jpg",
-          "duration_label": "0:14",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "2.11K"
-        },
-        {
-          "emoji": "💎",
-          "count": "269"
-        },
-        {
-          "emoji": "🔥",
-          "count": "141"
-        },
-        {
-          "emoji": "👍",
-          "count": "56"
-        },
-        {
-          "emoji": "🫡",
-          "count": "23"
-        },
-        {
-          "emoji": "🤝",
-          "count": "18"
-        },
-        {
-          "emoji": "😭",
-          "count": "4"
-        }
-      ],
-      "views_label": "69.6K",
-      "posted_at": "2026-09-26T01:04:03+00:00",
-      "edited": false,
-      "permalink": "https://t.me/withyashar/24201"
-    },
-    {
-      "id": "withyashar/24200",
-      "author_name": "WarRoom with YASHAR",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fthqcpi9im6uJnsfx2w_IFLZI81MX7W9Zh8ziO3YNfyFPLhz50AWCOSx_hOuWn5Z-BD_1oNIYg954EgctOWUtWC0XRv56QVowvCcuzcOtzA2hGzNuR5ma6jzc-7cYa1RvjySOdqnsJ4Z6zLHJOps6DGUz_l-mt_jU3jisV52qZMg6MPLeuqzJDinzeHJJSYklaF0YN3N-eOsfwuOjvgLWJD6JXI_wqVEBJz_SBkxFE_CClDppJpjuMLWCZoeOAHJtDLLeZaoFvdwaa-OXU57IvQ_ZaAqEKO2-bYEZm3mYosELa3vYwBoARqsR1XX5hpGSLZTaER7KXNJjG0A3OOzcw.jpg",
-      "author_photo_path": "channels/withyashar/media/60b27b26f0995db95661d3ea.jpg",
-      "body_html": "",
-      "plain_text": "",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "1"
-        },
-        {
-          "emoji": "💎",
-          "count": "741"
-        },
-        {
-          "emoji": "❤",
-          "count": "110"
-        },
-        {
-          "emoji": "👏",
-          "count": "20"
-        },
-        {
-          "emoji": "💋",
-          "count": "8"
-        },
-        {
-          "emoji": "🤣",
-          "count": "7"
-        },
-        {
-          "emoji": "🔥",
-          "count": "6"
-        },
-        {
-          "emoji": "🤝",
-          "count": "6"
-        }
-      ],
-      "views_label": "66.1K",
-      "posted_at": "2026-09-26T00:56:48+00:00",
-      "edited": false,
-      "permalink": "https://t.me/withyashar/24200"
-    },
-    {
-      "id": "withyashar/24199",
-      "author_name": "WarRoom with YASHAR",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fthqcpi9im6uJnsfx2w_IFLZI81MX7W9Zh8ziO3YNfyFPLhz50AWCOSx_hOuWn5Z-BD_1oNIYg954EgctOWUtWC0XRv56QVowvCcuzcOtzA2hGzNuR5ma6jzc-7cYa1RvjySOdqnsJ4Z6zLHJOps6DGUz_l-mt_jU3jisV52qZMg6MPLeuqzJDinzeHJJSYklaF0YN3N-eOsfwuOjvgLWJD6JXI_wqVEBJz_SBkxFE_CClDppJpjuMLWCZoeOAHJtDLLeZaoFvdwaa-OXU57IvQ_ZaAqEKO2-bYEZm3mYosELa3vYwBoARqsR1XX5hpGSLZTaER7KXNJjG0A3OOzcw.jpg",
-      "author_photo_path": "channels/withyashar/media/60b27b26f0995db95661d3ea.jpg",
-      "body_html": "<b>واشنگتن‌پست: پنتاگون ۳۷ نظامی مجروح دیگر را به آمار جنگ ایران اضافه کرد؛ مجموع به ۸۶۱ نفر رسید.</b> پنتاگون این هفته بدون توضیح عمومی، ۲۹ ملوان نیروی دریایی و ۸ تفنگدار دریایی را به آمار مجروحان اضافه کرده است. زمان و نحوه مجروح‌شدن این افراد اعلام نشده و یک مقام نیروی دریایی گفته ملوانان به خدمت بازگشته‌اند. مقام‌های دفاعی پیش‌تر گفته بودند ثبت آمار تلفات ممکن است با تأخیر انجام شود، از جمله در موارد ضربه مغزی و آسیب‌های مغزی که علائم آن‌ها دیرتر بروز می‌کند.<br><a href=\"https://t.me/WarRoom\" target=\"_blank\">@WarRoom</a>",
-      "plain_text": "واشنگتن‌پست: پنتاگون ۳۷ نظامی مجروح دیگر را به آمار جنگ ایران اضافه کرد؛ مجموع به ۸۶۱ نفر رسید. پنتاگون این هفته بدون توضیح عمومی، ۲۹ ملوان نیروی دریایی و ۸ تفنگدار دریایی را به آمار مجروحان اضافه کرده است. زمان و نحوه مجروح‌شدن این افراد اعلام نشده و یک مقام نیروی دریایی گفته ملوانان به خدمت بازگشته‌اند. مقام‌های دفاعی پیش‌تر گفته بودند ثبت آمار تلفات ممکن است با تأخیر انجام شود، از جمله در موارد ضربه مغزی و آسیب‌های مغزی که علائم آن‌ها دیرتر بروز می‌کند. @WarRoom",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "867"
-        },
-        {
-          "emoji": "💎",
-          "count": "249"
-        },
-        {
-          "emoji": "🤣",
-          "count": "36"
-        },
-        {
-          "emoji": "😭",
-          "count": "28"
-        },
-        {
-          "emoji": "🕊",
-          "count": "27"
-        },
-        {
-          "emoji": "🫡",
-          "count": "21"
-        },
-        {
-          "emoji": "🤓",
-          "count": "5"
-        }
-      ],
-      "views_label": "64.9K",
-      "posted_at": "2026-09-26T00:55:48+00:00",
-      "edited": false,
-      "permalink": "https://t.me/withyashar/24199"
-    },
-    {
-      "id": "withyashar/24198",
-      "author_name": "WarRoom with YASHAR",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fthqcpi9im6uJnsfx2w_IFLZI81MX7W9Zh8ziO3YNfyFPLhz50AWCOSx_hOuWn5Z-BD_1oNIYg954EgctOWUtWC0XRv56QVowvCcuzcOtzA2hGzNuR5ma6jzc-7cYa1RvjySOdqnsJ4Z6zLHJOps6DGUz_l-mt_jU3jisV52qZMg6MPLeuqzJDinzeHJJSYklaF0YN3N-eOsfwuOjvgLWJD6JXI_wqVEBJz_SBkxFE_CClDppJpjuMLWCZoeOAHJtDLLeZaoFvdwaa-OXU57IvQ_ZaAqEKO2-bYEZm3mYosELa3vYwBoARqsR1XX5hpGSLZTaER7KXNJjG0A3OOzcw.jpg",
-      "author_photo_path": "channels/withyashar/media/60b27b26f0995db95661d3ea.jpg",
-      "body_html": "",
-      "plain_text": "",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "861"
-        },
-        {
-          "emoji": "💎",
-          "count": "201"
-        },
-        {
-          "emoji": "💋",
-          "count": "30"
-        },
-        {
-          "emoji": "🤣",
-          "count": "17"
-        },
-        {
-          "emoji": "🕊",
-          "count": "9"
-        },
-        {
-          "emoji": "👏",
-          "count": "6"
-        },
-        {
-          "emoji": "🫡",
-          "count": "5"
-        }
-      ],
-      "views_label": "64.4K",
-      "posted_at": "2026-09-26T00:48:40+00:00",
-      "edited": false,
-      "permalink": "https://t.me/withyashar/24198"
     }
   ]
 }
