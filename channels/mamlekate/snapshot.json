@@ -1,20 +1,82 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-30T02:23:34.439Z",
+  "fetched_at": "2026-09-30T07:22:48.683Z",
   "channel": {
     "username": "mamlekate",
     "title": "مملکته",
     "description_html": "رسانه فضای مجازی فارسی<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F998F.png')\"><b>🙏</b></i>لطفا حتما زمان و مکان رو کامل بنویسید <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F998F.png')\"><b>🙏</b></i><br>مثال: تهران شنبه ۹ اسفند ۱۴۰۴ ساعت ۰۹:۴۰ <br><a href=\"https://t.me/mamlekate_pm\" target=\"_blank\">@mamlekate_pm</a><br><br>چو بر گورم بخواهی بوسه:<br><a href=\"http://buymeacoffee.com/mamlekate/membership\" target=\"_blank\" rel=\"noopener\">buymeacoffee.com/mamlekate/membership</a>",
-    "photo_url": "https://cdn4.telesco.pe/file/Htc6VhoLaqrQ4JOYNYXX1ru6-mfC0uAnfFwYskxqxvU2IcXn0zWNR3H5tcC2TFEC-XVMDVF52wuqcZYSusNpV2AQkRyb44aUlhEmbT_unLNc1GwmyFoseBX8JYpQ2Wcrq3QFDCG5rwa9JCEyrYMxHduoommTzwiD2tIvVPHjS4Yw3xc8jVlzEIdBBVQ-qu4dijnvuLkBaVtyAGmf0umC2soAxfAe7FUk_pG9JwfbDFKdLbOaNPi-XTCDhvYQFlsxz1QxvFtVOj43PIwEr16y124aaGCJOmqPkKOtDdvQzNxVrO3uaE1mb0Vs25EOI_DWLwiAxHhYc4vLKM3TQWvJaQ.jpg",
-    "photo_path": "channels/mamlekate/media/097535d27a5f7222e6cc66eb.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/VW43vHY-Usgz1UzGHcEXKKNyWRjREa70iCrdyosDoKIkl6XI-472A-MI85KxbDIqn1ERYOngVL4QW39bkrW33zHZlm2x3cmG23nRCh4K2BrbgXgL7EdEvDpJm_hKd31E8DdrrZYjoyseYJjxs7Wm3iun44ptlXdju_fnem5whpwG5Pwb6DoRy1DWahad7jXHuHVReh6J-L5YHZtFCZUwTwHUFMBnTVkwzErFiHJu6tPc-PoRasTP1b-EN7chkCMjwuYqPaezbUhJZ3hZQuZLFzlgwMEDgVTTC7uBFTBExa_mmgCb119hmBBPPP5rBzxu3obojFeP_bEHCyNp8e_ZJg.jpg",
+    "photo_path": "channels/mamlekate/media/3bdff07e0b423d609c46f425.jpg",
     "subscriber_count": "565K"
   },
   "posts": [
     {
+      "id": "mamlekate/104709",
+      "author_name": "مملکته",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VW43vHY-Usgz1UzGHcEXKKNyWRjREa70iCrdyosDoKIkl6XI-472A-MI85KxbDIqn1ERYOngVL4QW39bkrW33zHZlm2x3cmG23nRCh4K2BrbgXgL7EdEvDpJm_hKd31E8DdrrZYjoyseYJjxs7Wm3iun44ptlXdju_fnem5whpwG5Pwb6DoRy1DWahad7jXHuHVReh6J-L5YHZtFCZUwTwHUFMBnTVkwzErFiHJu6tPc-PoRasTP1b-EN7chkCMjwuYqPaezbUhJZ3hZQuZLFzlgwMEDgVTTC7uBFTBExa_mmgCb119hmBBPPP5rBzxu3obojFeP_bEHCyNp8e_ZJg.jpg",
+      "author_photo_path": "channels/mamlekate/media/3bdff07e0b423d609c46f425.jpg",
+      "body_html": "بچه‌ها خیلی مراقب این روش کلاهبرداری باشید وحشتناک زیاد شده<br><a href=\"https://x.com/MR_Farhadd/status/2104899044078161933\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Farhad</a><br><br>دیجی‌کالا چند سال است که می‌داند شخص یا اشخاصی در حال استخراج لحظه‌ایِ داده‌های کاربران هستند؛ داده‌هایی مثل جستجوهای اخیر، محتویات سبد خرید و حتی وضعیت سفارش‌ها.<br>در این شرایط، امنیت فردی، وضعیت مرسوله‌ها و حریم خصوصی کاربر کاملاً زیر سؤال رفته بود. با وجود این‌که دیجی‌کالا تیمی مجهز به نام «راک» برای حراست از منابع خود دارد، سرنخ‌های کشف علت و راهکارهای امنیتی ارائه‌شده نادیده گرفته می‌شدند و تا آخرین روزهای حضور من در شرکت، اقدام مؤثری برای کشف دلیل این «نشت لحظه‌ای داده» (Live Data Leak) انجام نشد.<br>اما چطور این درز اطلاعات با وجود محدود بودن دسترسی DMPها به رنج آی‌پی‌های تأییدشده اتفاق می‌افتد؟ ما با پیگیری سرنخ‌ها، به اولین گزارش‌ها در زمان مهاجرت تیم مارکتینگ از WebEngage به «اینترک» (برای مدیریت ECRM کل گروه) رسیدیم.<br>اینترک یکی از بازوهای اسمارتک (محصول حوزه‌ی Ad-Tech و اتوماسیون گروه دیجی‌کالا) است که یکی از خدمات آن، ارسال تبلیغات به سگمنت‌های کاربران دیجی‌کالاست. در واقع شما می‌توانید به راحتی با پرداخت کمترین مبلغ، داده‌های کاربران را خریداری کنید؛ مثلاً اگر فروشنده‌ی کفش باشید، این امکان را دارید به تمام کاربرانی که همین حالا در سبد خریدشان کفش دارند، با متن اختصاصی و حتی سرشماره‌ی خودتان تبلیغات ارسال کنید، بدون این‌‌که روح کاربر خبر داشته باشد.<br>این یکپارچه‌سازی‌های درون‌گروهی («از این جیب به آن جیب»)، اگر تحت نظارت شخص ثالث و افراد دغدغه‌مند انجام نشود، حتی با وجود لایه‌های امنیتی فراوان، هزاران رخنه و درِ پشتی (Backdoor) خواهد داشت؛ موضوعی که امروز گریبان‌گیر دیجی‌کالاست.<br>در دنیا و به‌ویژه طبق قوانین GDPR، به‌اشتراک‌گذاری داده‌های کاربر بدون آگاهی او جرم سنگین محسوب شده و پلتفرم‌ها برای آن جریمه‌های هنگفت پرداخت می‌کنند. با این حال، بزرگ‌ترین کسب‌وکار حوزه‌ی تجارت الکترونیک ایران هنوز بعد از ۲۰ سال، رانت‌ها و وام‌های ۱ درصدی در سود نیست و ظاهراً برای کسب درآمد، به پول‌سازی به هر قیمتی روی آورده است.<br><br><a href=\"https://x.com/mohamadarabgary/status/2105077864437571712\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">mohamad</a><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
+      "plain_text": "بچه‌ها خیلی مراقب این روش کلاهبرداری باشید وحشتناک زیاد شده Farhad دیجی‌کالا چند سال است که می‌داند شخص یا اشخاصی در حال استخراج لحظه‌ایِ داده‌های کاربران هستند؛ داده‌هایی مثل جستجوهای اخیر، محتویات سبد خرید و حتی وضعیت سفارش‌ها. در این شرایط، امنیت فردی، وضعیت مرسوله‌ها و حریم خصوصی کاربر کاملاً زیر سؤال رفته بود. با وجود این‌که دیجی‌کالا تیمی مجهز به نام «راک» برای حراست از منابع خود دارد، سرنخ‌های کشف علت و راهکارهای امنیتی ارائه‌شده نادیده گرفته می‌شدند و تا آخرین روزهای حضور من در شرکت، اقدام مؤثری برای کشف دلیل این «نشت لحظه‌ای داده» (Live Data Leak) انجام نشد. اما چطور این درز اطلاعات با وجود محدود بودن دسترسی DMPها به رنج آی‌پی‌های تأییدشده اتفاق می‌افتد؟ ما با پیگیری سرنخ‌ها، به اولین گزارش‌ها در زمان مهاجرت تیم مارکتینگ از WebEngage به «اینترک» (برای مدیریت ECRM کل گروه) رسیدیم. اینترک یکی از بازوهای اسمارتک (محصول حوزه‌ی Ad-Tech و اتوماسیون گروه دیجی‌کالا) است که یکی از خدمات آن، ارسال تبلیغات به سگمنت‌های کاربران دیجی‌کالاست. در واقع شما می‌توانید به راحتی با پرداخت کمترین مبلغ، داده‌های کاربران را خریداری کنید؛ مثلاً اگر فروشنده‌ی کفش باشید، این امکان را دارید به تمام کاربرانی که همین حالا در سبد خریدشان کفش دارند، با متن اختصاصی و حتی سرشماره‌ی خودتان تبلیغات ارسال کنید، بدون این‌‌که روح کاربر خبر داشته باشد. این یکپارچه‌سازی‌های درون‌گروهی («از این جیب به آن جیب»)، اگر تحت نظارت شخص ثالث و افراد دغدغه‌مند انجام نشود، حتی با وجود لایه‌های امنیتی فراوان، هزاران رخنه و درِ پشتی (Backdoor) خواهد داشت؛ موضوعی که امروز گریبان‌گیر دیجی‌کالاست. در دنیا و به‌ویژه طبق قوانین GDPR، به‌اشتراک‌گذاری داده‌های کاربر بدون آگاهی او جرم سنگین محسوب شده و پلتفرم‌ها برای آن جریمه‌های هنگفت پرداخت می‌کنند. با این حال، بزرگ‌ترین کسب‌وکار حوزه‌ی تجارت الکترونیک ایران هنوز بعد از ۲۰ سال، رانت‌ها و وام‌های ۱ درصدی در سود نیست و ظاهراً برای کسب درآمد، به پول‌سازی به هر قیمتی روی آورده است. mohamad @mamlekate",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/104709",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/BEQWxvg078a5nJHAcXHf-BuYu16SIdTARfIVDkBF46T0QOqOg45BBjKl7OaI6Wh6LRSfXX7YhkR5GyJ8NZy56mobz-YpYTyNTv6pegw8i2xvsl4sh5gbUa24RV4JgEhhp44X0TktSlzZAEmUcFZWVCXsCtaVbu-Dw8TmGv6x_-O9idOaxumMn2dvMWLTi-vAzUGiyY--WpHj847PhTMA2SdMzkl66ITPWS3ueic1dKPSCcSiIyiiFETPUTZsXlOQTQZ_LNpTae7EEUXgG20woKCQVaTDnDPZsf6GeUPAuS9bL-m3xTybxSExEZk-LaD3tGmf9S_Qw-0V29Afyr4XaA",
+          "thumbnail_path": "channels/mamlekate/media/d44fd5733d2b3d7be1ea352f.jpg",
+          "duration_label": "1:36",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "13.2K",
+      "posted_at": "2026-09-30T07:10:13+00:00",
+      "edited": true,
+      "permalink": "https://t.me/mamlekate/104709"
+    },
+    {
+      "id": "mamlekate/104708",
+      "author_name": "مملکته",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VW43vHY-Usgz1UzGHcEXKKNyWRjREa70iCrdyosDoKIkl6XI-472A-MI85KxbDIqn1ERYOngVL4QW39bkrW33zHZlm2x3cmG23nRCh4K2BrbgXgL7EdEvDpJm_hKd31E8DdrrZYjoyseYJjxs7Wm3iun44ptlXdju_fnem5whpwG5Pwb6DoRy1DWahad7jXHuHVReh6J-L5YHZtFCZUwTwHUFMBnTVkwzErFiHJu6tPc-PoRasTP1b-EN7chkCMjwuYqPaezbUhJZ3hZQuZLFzlgwMEDgVTTC7uBFTBExa_mmgCb119hmBBPPP5rBzxu3obojFeP_bEHCyNp8e_ZJg.jpg",
+      "author_photo_path": "channels/mamlekate/media/3bdff07e0b423d609c46f425.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5958605586567272542\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji> علی آقامحمدی عضو مجمع تشخیص مصلحت نظام :‌ گروه‌های مسلح آموزش‌دیده در امارات و اسرائیل وارد کشور شده‌اند، مردم در محلات مراقب باشند و گزارش دهند<br><br><br><tg-emoji emoji-id=\"5996618452318561096\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i></tg-emoji> درس‌هایی که نظام میگه گرفتیم یکیش مثلا این‌هاست: اومدن جلسه گرفتن ایده زدن که «خب چرا وقتی کشتیم میایم میگیم اینا نیروهای مسلح خارجی بودن؟» بجاش بیایم از قبل بگیم «قراره نیروهای مسلح خارجی بیان بین مردم». و ما وقتی به شما شلیک می‌کنیم داریم اونا رو می‌کشیم<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F85.png')\"><b>🏅</b></i>. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA7A0.png')\"><b>🧠</b></i> سوالی که هیچ‌وقت پاسخ نمیدن اینه که این نیروهای مسلح آموزش‌دیده چطور یه دونه تیر هم به سمت تجمعای ده‌میلیونی خیابونی شلیک نکردند؟ حتی اونی هم که با ماشین زد به ننه پرچمیا، از خودشون بود ولی مست بود. کلا حروم‌زادگی قرآن بدستایی مثل پزشکیان توی همین حرف‌ها مشخصه. کشتین بگین زورمون رسید زدیم کشتیم. «ولو بلغ ما بلغ». پول تیر گرفتیم تا جنازه بدیم. حنای این دروغ‌های عیان و عریان تو عصر ابرهوش مصنوعی رنگی نداره.<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
+      "plain_text": "❗️ علی آقامحمدی عضو مجمع تشخیص مصلحت نظام :‌ گروه‌های مسلح آموزش‌دیده در امارات و اسرائیل وارد کشور شده‌اند، مردم در محلات مراقب باشند و گزارش دهند 📝 درس‌هایی که نظام میگه گرفتیم یکیش مثلا این‌هاست: اومدن جلسه گرفتن ایده زدن که «خب چرا وقتی کشتیم میایم میگیم اینا نیروهای مسلح خارجی بودن؟» بجاش بیایم از قبل بگیم «قراره نیروهای مسلح خارجی بیان بین مردم». و ما وقتی به شما شلیک می‌کنیم داریم اونا رو می‌کشیم🏅. 🧠 سوالی که هیچ‌وقت پاسخ نمیدن اینه که این نیروهای مسلح آموزش‌دیده چطور یه دونه تیر هم به سمت تجمعای ده‌میلیونی خیابونی شلیک نکردند؟ حتی اونی هم که با ماشین زد به ننه پرچمیا، از خودشون بود ولی مست بود. کلا حروم‌زادگی قرآن بدستایی مثل پزشکیان توی همین حرف‌ها مشخصه. کشتین بگین زورمون رسید زدیم کشتیم. «ولو بلغ ما بلغ». پول تیر گرفتیم تا جنازه بدیم. حنای این دروغ‌های عیان و عریان تو عصر ابرهوش مصنوعی رنگی نداره. @mamlekate",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/104708",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/cnmqJfYg01zQb9fRENe5fest71dy7Be6gEX21qUgNoNC80ZXXjENm06h8VRVhzcaCS2iV0z5MJ522kOqyx7R-HiaZcHC6Ek56tJYLo9mbc7tTzQsfmNCctqqebpLEuqYEVJeXXsmE5vphu2whMC7b291otXosfi0Y_EQML12rQePy1EAyf8naUy6ENTpcYP4fYXKsGKzYxlSwGgwCDeaXd1_jjWbXqjTQM9RRYmPEUZLFTBNT3nghiLeF3UedaMX-sPiIVsZ-nJWSXavYrCL7dej1rxdNPFidv-An9ZngnPbJ9ZwpyyaPq7-lv2WdZF3X0R7tEMo1agxLjaQD6i39g",
+          "thumbnail_path": "channels/mamlekate/media/3eac7bbce3bd6722630607ac.jpg",
+          "duration_label": "0:36",
+          "aspect_ratio": 2
+        }
+      ],
+      "reactions": [],
+      "views_label": "17.9K",
+      "posted_at": "2026-09-30T07:02:14+00:00",
+      "edited": true,
+      "permalink": "https://t.me/mamlekate/104708"
+    },
+    {
+      "id": "mamlekate/104707",
+      "author_name": "مملکته",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VW43vHY-Usgz1UzGHcEXKKNyWRjREa70iCrdyosDoKIkl6XI-472A-MI85KxbDIqn1ERYOngVL4QW39bkrW33zHZlm2x3cmG23nRCh4K2BrbgXgL7EdEvDpJm_hKd31E8DdrrZYjoyseYJjxs7Wm3iun44ptlXdju_fnem5whpwG5Pwb6DoRy1DWahad7jXHuHVReh6J-L5YHZtFCZUwTwHUFMBnTVkwzErFiHJu6tPc-PoRasTP1b-EN7chkCMjwuYqPaezbUhJZ3hZQuZLFzlgwMEDgVTTC7uBFTBExa_mmgCb119hmBBPPP5rBzxu3obojFeP_bEHCyNp8e_ZJg.jpg",
+      "author_photo_path": "channels/mamlekate/media/3bdff07e0b423d609c46f425.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%D8%B9%D9%84%DB%8C-%D9%87%D9%85%D8%AA%DB%8C-%D9%88-%D9%85%D8%AC%DB%8C%D8%AF-%D9%86%DB%8C%DA%A9%D8%A7%D9%86%D8%AF%DB%8C%D8%B4-%D8%A7%D8%B2-%D9%85%D8%B9%D8%AA%D8%B1%D8%B6%D8%A7%D9%86-%D8%AF%DB%8C%D9%85%D8%A7%D9%87-%D8%AF%D8%B1-%D9%85%D8%B4%D9%87%D8%AF-%D8%A7%D8%B9%D8%AF%D8%A7%D9%85-%D8%B4%D8%AF%D9%86%D8%AF-09-30\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>علی همتی و مجید نیک‌اندیش، از معترضان دی‌ماه در مشهد، اعدام شدند</b></a><br><br>قوه قضاییه جمهوری اسلامی دو نفر دیگر از معترضان دی‌ماه ۱۴۰۴ را بامداد چهارشنبه هشتم مهر اعدام کرد. <br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
+      "plain_text": "📝 علی همتی و مجید نیک‌اندیش، از معترضان دی‌ماه در مشهد، اعدام شدند قوه قضاییه جمهوری اسلامی دو نفر دیگر از معترضان دی‌ماه ۱۴۰۴ را بامداد چهارشنبه هشتم مهر اعدام کرد. @mamlekate",
+      "media": [],
+      "reactions": [],
+      "views_label": "39.5K",
+      "posted_at": "2026-09-30T05:44:29+00:00",
+      "edited": false,
+      "permalink": "https://t.me/mamlekate/104707"
+    },
+    {
       "id": "mamlekate/104706",
       "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Htc6VhoLaqrQ4JOYNYXX1ru6-mfC0uAnfFwYskxqxvU2IcXn0zWNR3H5tcC2TFEC-XVMDVF52wuqcZYSusNpV2AQkRyb44aUlhEmbT_unLNc1GwmyFoseBX8JYpQ2Wcrq3QFDCG5rwa9JCEyrYMxHduoommTzwiD2tIvVPHjS4Yw3xc8jVlzEIdBBVQ-qu4dijnvuLkBaVtyAGmf0umC2soAxfAe7FUk_pG9JwfbDFKdLbOaNPi-XTCDhvYQFlsxz1QxvFtVOj43PIwEr16y124aaGCJOmqPkKOtDdvQzNxVrO3uaE1mb0Vs25EOI_DWLwiAxHhYc4vLKM3TQWvJaQ.jpg",
-      "author_photo_path": "channels/mamlekate/media/097535d27a5f7222e6cc66eb.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VW43vHY-Usgz1UzGHcEXKKNyWRjREa70iCrdyosDoKIkl6XI-472A-MI85KxbDIqn1ERYOngVL4QW39bkrW33zHZlm2x3cmG23nRCh4K2BrbgXgL7EdEvDpJm_hKd31E8DdrrZYjoyseYJjxs7Wm3iun44ptlXdju_fnem5whpwG5Pwb6DoRy1DWahad7jXHuHVReh6J-L5YHZtFCZUwTwHUFMBnTVkwzErFiHJu6tPc-PoRasTP1b-EN7chkCMjwuYqPaezbUhJZ3hZQuZLFzlgwMEDgVTTC7uBFTBExa_mmgCb119hmBBPPP5rBzxu3obojFeP_bEHCyNp8e_ZJg.jpg",
+      "author_photo_path": "channels/mamlekate/media/3bdff07e0b423d609c46f425.jpg",
       "body_html": "خبرنگار: به نظرتون ایران تو آستانه تسلیم شدنه؟<br>ترامپ: در نهایت تسلیم می‌شن. وضعشون خیلی خرابه.<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
       "plain_text": "خبرنگار: به نظرتون ایران تو آستانه تسلیم شدنه؟ ترامپ: در نهایت تسلیم می‌شن. وضعشون خیلی خرابه. @mamlekate",
       "media": [
@@ -34,7 +96,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15.4K",
+      "views_label": "77.9K",
       "posted_at": "2026-09-30T00:25:32+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104706"
@@ -42,8 +104,8 @@
     {
       "id": "mamlekate/104703",
       "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Htc6VhoLaqrQ4JOYNYXX1ru6-mfC0uAnfFwYskxqxvU2IcXn0zWNR3H5tcC2TFEC-XVMDVF52wuqcZYSusNpV2AQkRyb44aUlhEmbT_unLNc1GwmyFoseBX8JYpQ2Wcrq3QFDCG5rwa9JCEyrYMxHduoommTzwiD2tIvVPHjS4Yw3xc8jVlzEIdBBVQ-qu4dijnvuLkBaVtyAGmf0umC2soAxfAe7FUk_pG9JwfbDFKdLbOaNPi-XTCDhvYQFlsxz1QxvFtVOj43PIwEr16y124aaGCJOmqPkKOtDdvQzNxVrO3uaE1mb0Vs25EOI_DWLwiAxHhYc4vLKM3TQWvJaQ.jpg",
-      "author_photo_path": "channels/mamlekate/media/097535d27a5f7222e6cc66eb.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VW43vHY-Usgz1UzGHcEXKKNyWRjREa70iCrdyosDoKIkl6XI-472A-MI85KxbDIqn1ERYOngVL4QW39bkrW33zHZlm2x3cmG23nRCh4K2BrbgXgL7EdEvDpJm_hKd31E8DdrrZYjoyseYJjxs7Wm3iun44ptlXdju_fnem5whpwG5Pwb6DoRy1DWahad7jXHuHVReh6J-L5YHZtFCZUwTwHUFMBnTVkwzErFiHJu6tPc-PoRasTP1b-EN7chkCMjwuYqPaezbUhJZ3hZQuZLFzlgwMEDgVTTC7uBFTBExa_mmgCb119hmBBPPP5rBzxu3obojFeP_bEHCyNp8e_ZJg.jpg",
+      "author_photo_path": "channels/mamlekate/media/3bdff07e0b423d609c46f425.jpg",
       "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><a href=\"https://x.com/spectatorindex/status/2105049915235955076\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">spectatorindex</a><br><br><b>توافق‌نامه کاخ سفید درباره ابرهوش مصنوعی</b><br><br>تعهد مشترک پیرامون مسئولیت‌پذیری در قبال مدل‌های پیشگام<br><br>به‌منظور ساختن آینده‌ای امیدبخش برای مردم آمریکا و سراسر جهان، باور ما بر این است که هر شرکتی موظف است فناوری خود را به‌شکلی ایمن و به‌گونه‌ای توسعه دهد که موجب اعتمادسازی نزد مشتریان و افکار عمومی شود.<br><br>نقطه آغاز این مسیر آن است که تمامی شرکت‌های فعال در آموزش و استقرار مدل‌های پیشگام، از فرایندها و سازوکارهای کنترلیِ داخلی و مستحکمی برخوردار باشند تا اطمینان حاصل شود فناوری آن‌ها عملکردی مطابق با اهداف تعیین‌شده دارد و هرگونه نقص احتمالی، بلافاصله شناسایی و برطرف می‌گردد. از این رو، علاوه بر تدابیر احتیاطی معمول، باور داریم که هر شرکت باید چهار لایه نظارتی و حسابرسی زیر را پیاده‌سازی کند:<br><br>۱.&nbsp;<b>پیاده‌سازی سازوکارهای کنترلیِ دقیق داخلی</b>&nbsp;به‌منظور پایش قابلیت‌ها و هم‌راستایی مدل‌ها در مراحل آموزش و به‌کارگیری، به‌ویژه در حوزه‌هایی نظیر امنیت سایبری، امنیت زیستی و تهدیدات شیمیایی، و حصول اطمینان از این‌که سامانه‌ها دست به نفوذ یا دسترسی غیرمجاز و ناخواسته به زیرساخت‌های فنی نزنند.<br><br>۲.&nbsp;<b>تفویض اختیار به یک تیم داخلی</b>&nbsp;تا اطمینان حاصل شود تمامی سامانه‌های کنترلی، نظارتی و شناسایی، مطابق با استانداردهای تعیین‌شده عمل می‌کنند و اختلالات شناسایی‌شده بی‌درنگ مرتفع می‌شوند.<br><br>۳.&nbsp;<b>همکاری با ارزیابان و حسابرسان مستقل بیرونی</b>&nbsp;جهت انجام بازرسی‌های بی‌طرفانه درباره درستی عملکرد فرایندهای نظارتی، پایش و کشف خطا.<br><br>۴.&nbsp;<b>تعیین یک کمیته مستقل از اعضای هیئت‌مدیره</b>&nbsp;به‌منظور نظارت عالیه، دریافت گزارش‌های دوره‌ای از تیم‌های اجرایی و حسابرسان داخلی و خارجی، و همچنین حصول اطمینان از رفع کامل تمامی کاستی‌های گزارش‌شده.<br>مجموعه این گام‌ها، اطمینان خاطری پایدار به شرکت‌ها، مشتریان و جامعه خواهد داد که فناوری مذکور عملکردی مطمئن و منطبق بر اهداف اولیه دارد.<br>شرکت‌های عضو این توافق به‌طور منظم تشکیل جلسه خواهند داد تا استانداردها و الگوهای بهینه را در جهت ارتقای ایمنی سامانه‌های خود تدوین کنند.<br><br>با گذشت زمان، مدون‌سازی این سازوکارها در چارچوب قوانین یا مقررات رسمی رویکردی منطقی خواهد بود. فارغ از این‌که اجرای این ضوابط در آینده برای بنگاه‌ها جنبه الزام حقوقی پیدا کند یا خیر، ما اجرای این کنترل‌ها و حسابرسی‌ها را ضرورتی حیاتی برای تضمین آینده‌ای امن برای همگان می‌دانیم و تک‌تک مجموعه‌های ما خود را متعهد به تحقق آن می‌دانند.<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a></div>",
       "plain_text": "spectatorindex توافق‌نامه کاخ سفید درباره ابرهوش مصنوعی تعهد مشترک پیرامون مسئولیت‌پذیری در قبال مدل‌های پیشگام به‌منظور ساختن آینده‌ای امیدبخش برای مردم آمریکا و سراسر جهان، باور ما بر این است که هر شرکتی موظف است فناوری خود را به‌شکلی ایمن و به‌گونه‌ای توسعه دهد که موجب اعتمادسازی نزد مشتریان و افکار عمومی شود. نقطه آغاز این مسیر آن است که تمامی شرکت‌های فعال در آموزش و استقرار مدل‌های پیشگام، از فرایندها و سازوکارهای کنترلیِ داخلی و مستحکمی برخوردار باشند تا اطمینان حاصل شود فناوری آن‌ها عملکردی مطابق با اهداف تعیین‌شده دارد و هرگونه نقص احتمالی، بلافاصله شناسایی و برطرف می‌گردد. از این رو، علاوه بر تدابیر احتیاطی معمول، باور داریم که هر شرکت باید چهار لایه نظارتی و حسابرسی زیر را پیاده‌سازی کند: ۱. پیاده‌سازی سازوکارهای کنترلیِ دقیق داخلی به‌منظور پایش قابلیت‌ها و هم‌راستایی مدل‌ها در مراحل آموزش و به‌کارگیری، به‌ویژه در حوزه‌هایی نظیر امنیت سایبری، امنیت زیستی و تهدیدات شیمیایی، و حصول اطمینان از این‌که سامانه‌ها دست به نفوذ یا دسترسی غیرمجاز و ناخواسته به زیرساخت‌های فنی نزنند. ۲. تفویض اختیار به یک تیم داخلی تا اطمینان حاصل شود تمامی سامانه‌های کنترلی، نظارتی و شناسایی، مطابق با استانداردهای تعیین‌شده عمل می‌کنند و اختلالات شناسایی‌شده بی‌درنگ مرتفع می‌شوند. ۳. همکاری با ارزیابان و حسابرسان مستقل بیرونی جهت انجام بازرسی‌های بی‌طرفانه درباره درستی عملکرد فرایندهای نظارتی، پایش و کشف خطا. ۴. تعیین یک کمیته مستقل از اعضای هیئت‌مدیره به‌منظور نظارت عالیه، دریافت گزارش‌های دوره‌ای از تیم‌های اجرایی و حسابرسان داخلی و خارجی، و همچنین حصول اطمینان از رفع کامل تمامی کاستی‌های گزارش‌شده. مجموعه این گام‌ها، اطمینان خاطری پایدار به شرکت‌ها، مشتریان و جامعه خواهد داد که فناوری مذکور عملکردی مطمئن و منطبق بر اهداف اولیه دارد. شرکت‌های عضو این توافق به‌طور منظم تشکیل جلسه خواهند داد تا استانداردها و الگوهای بهینه را در جهت ارتقای ایمنی سامانه‌های خود تدوین کنند. با گذشت زمان، مدون‌سازی این سازوکارها در چارچوب قوانین یا مقررات رسمی رویکردی منطقی خواهد بود. فارغ از این‌که اجرای این ضوابط در آینده برای بنگاه‌ها جنبه الزام حقوقی پیدا کند یا خیر، ما اجرای این کنترل‌ها و حسابرسی‌ها را ضرورتی حیاتی برای تضمین آینده‌ای امن برای همگان می‌دانیم و تک‌تک مجموعه‌های ما خود را متعهد به تحقق آن می‌دانند. @mamlekate",
       "media": [
@@ -76,7 +138,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23.9K",
+      "views_label": "82.1K",
       "posted_at": "2026-09-29T23:04:37+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104703"
@@ -84,8 +146,8 @@
     {
       "id": "mamlekate/104702",
       "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Htc6VhoLaqrQ4JOYNYXX1ru6-mfC0uAnfFwYskxqxvU2IcXn0zWNR3H5tcC2TFEC-XVMDVF52wuqcZYSusNpV2AQkRyb44aUlhEmbT_unLNc1GwmyFoseBX8JYpQ2Wcrq3QFDCG5rwa9JCEyrYMxHduoommTzwiD2tIvVPHjS4Yw3xc8jVlzEIdBBVQ-qu4dijnvuLkBaVtyAGmf0umC2soAxfAe7FUk_pG9JwfbDFKdLbOaNPi-XTCDhvYQFlsxz1QxvFtVOj43PIwEr16y124aaGCJOmqPkKOtDdvQzNxVrO3uaE1mb0Vs25EOI_DWLwiAxHhYc4vLKM3TQWvJaQ.jpg",
-      "author_photo_path": "channels/mamlekate/media/097535d27a5f7222e6cc66eb.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VW43vHY-Usgz1UzGHcEXKKNyWRjREa70iCrdyosDoKIkl6XI-472A-MI85KxbDIqn1ERYOngVL4QW39bkrW33zHZlm2x3cmG23nRCh4K2BrbgXgL7EdEvDpJm_hKd31E8DdrrZYjoyseYJjxs7Wm3iun44ptlXdju_fnem5whpwG5Pwb6DoRy1DWahad7jXHuHVReh6J-L5YHZtFCZUwTwHUFMBnTVkwzErFiHJu6tPc-PoRasTP1b-EN7chkCMjwuYqPaezbUhJZ3hZQuZLFzlgwMEDgVTTC7uBFTBExa_mmgCb119hmBBPPP5rBzxu3obojFeP_bEHCyNp8e_ZJg.jpg",
+      "author_photo_path": "channels/mamlekate/media/3bdff07e0b423d609c46f425.jpg",
       "body_html": "اخباری که از انتقال مقدار زیادی سلاح و غیره به منطقه می شنوید بی پایه هستند. فعلا یک تعداد جایگزینی تجهیزات هست و ناوگروه روزولت که حدود ۲ هفته طول می کشد تا به خاورمیانه برسد و احتمالا جایگزین جرج واشنگتن شود.<br>البته حداقل یک پنجره موقت از حضور ۳ ناوگروه بازخواهد شد.<br><br><a href=\"https://x.com/_KhodaBiamorz/status/2105014349257638279\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">_KhodaBiamorz</a><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
       "plain_text": "اخباری که از انتقال مقدار زیادی سلاح و غیره به منطقه می شنوید بی پایه هستند. فعلا یک تعداد جایگزینی تجهیزات هست و ناوگروه روزولت که حدود ۲ هفته طول می کشد تا به خاورمیانه برسد و احتمالا جایگزین جرج واشنگتن شود. البته حداقل یک پنجره موقت از حضور ۳ ناوگروه بازخواهد شد. _KhodaBiamorz @mamlekate",
       "media": [
@@ -100,7 +162,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "62.4K",
+      "views_label": "95.8K",
       "posted_at": "2026-09-29T20:04:34+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104702"
@@ -108,13 +170,13 @@
     {
       "id": "mamlekate/104701",
       "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Htc6VhoLaqrQ4JOYNYXX1ru6-mfC0uAnfFwYskxqxvU2IcXn0zWNR3H5tcC2TFEC-XVMDVF52wuqcZYSusNpV2AQkRyb44aUlhEmbT_unLNc1GwmyFoseBX8JYpQ2Wcrq3QFDCG5rwa9JCEyrYMxHduoommTzwiD2tIvVPHjS4Yw3xc8jVlzEIdBBVQ-qu4dijnvuLkBaVtyAGmf0umC2soAxfAe7FUk_pG9JwfbDFKdLbOaNPi-XTCDhvYQFlsxz1QxvFtVOj43PIwEr16y124aaGCJOmqPkKOtDdvQzNxVrO3uaE1mb0Vs25EOI_DWLwiAxHhYc4vLKM3TQWvJaQ.jpg",
-      "author_photo_path": "channels/mamlekate/media/097535d27a5f7222e6cc66eb.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VW43vHY-Usgz1UzGHcEXKKNyWRjREa70iCrdyosDoKIkl6XI-472A-MI85KxbDIqn1ERYOngVL4QW39bkrW33zHZlm2x3cmG23nRCh4K2BrbgXgL7EdEvDpJm_hKd31E8DdrrZYjoyseYJjxs7Wm3iun44ptlXdju_fnem5whpwG5Pwb6DoRy1DWahad7jXHuHVReh6J-L5YHZtFCZUwTwHUFMBnTVkwzErFiHJu6tPc-PoRasTP1b-EN7chkCMjwuYqPaezbUhJZ3hZQuZLFzlgwMEDgVTTC7uBFTBExa_mmgCb119hmBBPPP5rBzxu3obojFeP_bEHCyNp8e_ZJg.jpg",
+      "author_photo_path": "channels/mamlekate/media/3bdff07e0b423d609c46f425.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%A7%D8%B1-%D8%AF%DB%8C%DA%AF%D8%B1-%DA%AF%D9%81%D8%AA-%D8%AC%D9%86%DA%AF-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B2%D9%88%D8%AF-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%DB%8C%D8%A7%D9%81%D8%AA-09-29\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>ترامپ بار دیگر گفت جنگ با ایران خیلی زود پایان خواهد یافت</b></a><br><br>ترامپ می‌گوید از جنگ ایران به عنوان «یکی از مهم‌ترین اقداماتی» که دولتش انجام داده است، یاد خواهد شد.<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
       "plain_text": "📝 ترامپ بار دیگر گفت جنگ با ایران خیلی زود پایان خواهد یافت ترامپ می‌گوید از جنگ ایران به عنوان «یکی از مهم‌ترین اقداماتی» که دولتش انجام داده است، یاد خواهد شد. @mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "67K",
+      "views_label": "96.9K",
       "posted_at": "2026-09-29T19:52:43+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104701"
@@ -122,8 +184,8 @@
     {
       "id": "mamlekate/104700",
       "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Htc6VhoLaqrQ4JOYNYXX1ru6-mfC0uAnfFwYskxqxvU2IcXn0zWNR3H5tcC2TFEC-XVMDVF52wuqcZYSusNpV2AQkRyb44aUlhEmbT_unLNc1GwmyFoseBX8JYpQ2Wcrq3QFDCG5rwa9JCEyrYMxHduoommTzwiD2tIvVPHjS4Yw3xc8jVlzEIdBBVQ-qu4dijnvuLkBaVtyAGmf0umC2soAxfAe7FUk_pG9JwfbDFKdLbOaNPi-XTCDhvYQFlsxz1QxvFtVOj43PIwEr16y124aaGCJOmqPkKOtDdvQzNxVrO3uaE1mb0Vs25EOI_DWLwiAxHhYc4vLKM3TQWvJaQ.jpg",
-      "author_photo_path": "channels/mamlekate/media/097535d27a5f7222e6cc66eb.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VW43vHY-Usgz1UzGHcEXKKNyWRjREa70iCrdyosDoKIkl6XI-472A-MI85KxbDIqn1ERYOngVL4QW39bkrW33zHZlm2x3cmG23nRCh4K2BrbgXgL7EdEvDpJm_hKd31E8DdrrZYjoyseYJjxs7Wm3iun44ptlXdju_fnem5whpwG5Pwb6DoRy1DWahad7jXHuHVReh6J-L5YHZtFCZUwTwHUFMBnTVkwzErFiHJu6tPc-PoRasTP1b-EN7chkCMjwuYqPaezbUhJZ3hZQuZLFzlgwMEDgVTTC7uBFTBExa_mmgCb119hmBBPPP5rBzxu3obojFeP_bEHCyNp8e_ZJg.jpg",
+      "author_photo_path": "channels/mamlekate/media/3bdff07e0b423d609c46f425.jpg",
       "body_html": "<tg-emoji emoji-id=\"5926920908450045266\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296B6.png')\"><b>▶️</b></i></tg-emoji> <a href=\"http://youtube.com/watch?v=PJUxFvPhpBQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>برنامه کامل در یوتیوب - دو ماه پیش</b></a><br><br><tg-emoji emoji-id=\"5996618452318561096\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i></tg-emoji> پروفسور «جیانگ» تحلیل‌گر سیاسی ،در گفتگو با «پیرز مورگان»، مجری معروف انگلیسی، پیش‌بینی می‌کند که «نیروهای زمینی» آمریکایی زمانی بین ماه دسامبر ۲۰۲۶ تا مارچ ۲۰۲۷ به ایران وارد خواهند شد.<br><a href=\"https://x.com/MICOHEN04/status/2077322811719176490\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">MICOHEN04</a><br><br><tg-emoji emoji-id=\"5247176827016847212\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939E.png')\"><b>📞</b></i></tg-emoji> کلا Boots on the Ground خیلی دوست داره این جیانگ. خیلی هم مورگان دعوتش می‌کنه توی برنامه ش.<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
       "plain_text": "▶️ برنامه کامل در یوتیوب - دو ماه پیش 📝 پروفسور «جیانگ» تحلیل‌گر سیاسی ،در گفتگو با «پیرز مورگان»، مجری معروف انگلیسی، پیش‌بینی می‌کند که «نیروهای زمینی» آمریکایی زمانی بین ماه دسامبر ۲۰۲۶ تا مارچ ۲۰۲۷ به ایران وارد خواهند شد. MICOHEN04 📞 کلا Boots on the Ground خیلی دوست داره این جیانگ. خیلی هم مورگان دعوتش می‌کنه توی برنامه ش. @mamlekate",
       "media": [
@@ -138,7 +200,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "90.4K",
+      "views_label": "108K",
       "posted_at": "2026-09-29T17:24:44+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104700"
@@ -146,13 +208,13 @@
     {
       "id": "mamlekate/104699",
       "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Htc6VhoLaqrQ4JOYNYXX1ru6-mfC0uAnfFwYskxqxvU2IcXn0zWNR3H5tcC2TFEC-XVMDVF52wuqcZYSusNpV2AQkRyb44aUlhEmbT_unLNc1GwmyFoseBX8JYpQ2Wcrq3QFDCG5rwa9JCEyrYMxHduoommTzwiD2tIvVPHjS4Yw3xc8jVlzEIdBBVQ-qu4dijnvuLkBaVtyAGmf0umC2soAxfAe7FUk_pG9JwfbDFKdLbOaNPi-XTCDhvYQFlsxz1QxvFtVOj43PIwEr16y124aaGCJOmqPkKOtDdvQzNxVrO3uaE1mb0Vs25EOI_DWLwiAxHhYc4vLKM3TQWvJaQ.jpg",
-      "author_photo_path": "channels/mamlekate/media/097535d27a5f7222e6cc66eb.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VW43vHY-Usgz1UzGHcEXKKNyWRjREa70iCrdyosDoKIkl6XI-472A-MI85KxbDIqn1ERYOngVL4QW39bkrW33zHZlm2x3cmG23nRCh4K2BrbgXgL7EdEvDpJm_hKd31E8DdrrZYjoyseYJjxs7Wm3iun44ptlXdju_fnem5whpwG5Pwb6DoRy1DWahad7jXHuHVReh6J-L5YHZtFCZUwTwHUFMBnTVkwzErFiHJu6tPc-PoRasTP1b-EN7chkCMjwuYqPaezbUhJZ3hZQuZLFzlgwMEDgVTTC7uBFTBExa_mmgCb119hmBBPPP5rBzxu3obojFeP_bEHCyNp8e_ZJg.jpg",
+      "author_photo_path": "channels/mamlekate/media/3bdff07e0b423d609c46f425.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%D8%A7%D8%B2%D8%B3%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-%D9%BE%D8%B1%D9%88%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%D9%85%D8%A7%D9%87-%D8%A7%DA%A9%D8%AA%D8%A8%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%D8%B3%D8%AE%D8%AA%DA%AF%DB%8C%D8%B1%D8%A7%D9%86%D9%87%D8%A7%DB%8C-%D8%AA%D8%B9%DB%8C%DB%8C%D9%86-%DA%A9%D8%B1%D8%AF-09-29\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>ازسرگیری پروازهای عراق به ایران از ماه اکتبر؛ آمریکا شرایط سختگیرانه‌ای تعیین کرد</b></a><br><br>بر اساس مجوز وزارت خزانه‌داری آمریکا، انتقال وجوه پول نقد زیاد از سوی مسافران ممنوع شده و افراد تحت تحریم ایالات متحده نیز نمی‌توانند از این پروازها استفاده کنند.<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
       "plain_text": "📝 ازسرگیری پروازهای عراق به ایران از ماه اکتبر؛ آمریکا شرایط سختگیرانه‌ای تعیین کرد بر اساس مجوز وزارت خزانه‌داری آمریکا، انتقال وجوه پول نقد زیاد از سوی مسافران ممنوع شده و افراد تحت تحریم ایالات متحده نیز نمی‌توانند از این پروازها استفاده کنند. @mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "91.5K",
+      "views_label": "104K",
       "posted_at": "2026-09-29T16:07:26+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104699"
@@ -160,8 +222,8 @@
     {
       "id": "mamlekate/104698",
       "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Htc6VhoLaqrQ4JOYNYXX1ru6-mfC0uAnfFwYskxqxvU2IcXn0zWNR3H5tcC2TFEC-XVMDVF52wuqcZYSusNpV2AQkRyb44aUlhEmbT_unLNc1GwmyFoseBX8JYpQ2Wcrq3QFDCG5rwa9JCEyrYMxHduoommTzwiD2tIvVPHjS4Yw3xc8jVlzEIdBBVQ-qu4dijnvuLkBaVtyAGmf0umC2soAxfAe7FUk_pG9JwfbDFKdLbOaNPi-XTCDhvYQFlsxz1QxvFtVOj43PIwEr16y124aaGCJOmqPkKOtDdvQzNxVrO3uaE1mb0Vs25EOI_DWLwiAxHhYc4vLKM3TQWvJaQ.jpg",
-      "author_photo_path": "channels/mamlekate/media/097535d27a5f7222e6cc66eb.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VW43vHY-Usgz1UzGHcEXKKNyWRjREa70iCrdyosDoKIkl6XI-472A-MI85KxbDIqn1ERYOngVL4QW39bkrW33zHZlm2x3cmG23nRCh4K2BrbgXgL7EdEvDpJm_hKd31E8DdrrZYjoyseYJjxs7Wm3iun44ptlXdju_fnem5whpwG5Pwb6DoRy1DWahad7jXHuHVReh6J-L5YHZtFCZUwTwHUFMBnTVkwzErFiHJu6tPc-PoRasTP1b-EN7chkCMjwuYqPaezbUhJZ3hZQuZLFzlgwMEDgVTTC7uBFTBExa_mmgCb119hmBBPPP5rBzxu3obojFeP_bEHCyNp8e_ZJg.jpg",
+      "author_photo_path": "channels/mamlekate/media/3bdff07e0b423d609c46f425.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%AF%D8%B4%D9%85%D9%86%D8%A7%D9%86-%D9%85%D8%A7-%D9%85%D9%85%DA%A9%D9%86-%D8%A7%D8%B3%D8%AA-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A8%D9%87-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%AD%D9%85%D9%84%D9%87-%DA%A9%D9%86%D9%86%D8%AF-09-29\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>نتانیاهو: دشمنان ما ممکن است در آستانه انتخابات به اسرائیل حمله کنند</b></a><br><br>نتانیاهو: سرنخ‌هایی داریم که نزدیک انتخابات، دشمنامون می‌خوان حمله کنن. پس از همین‌جا، از پایگاه نیروی هوایی و بازوی بلند دولتمون اسرائیل، پیام میدم: با ما درنیفتین، نه الان و نه هیچ‌وقت دیگه. دست بلند ما هرجا و هر وقت بهتون می‌رسه.<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
       "plain_text": "📝 نتانیاهو: دشمنان ما ممکن است در آستانه انتخابات به اسرائیل حمله کنند نتانیاهو: سرنخ‌هایی داریم که نزدیک انتخابات، دشمنامون می‌خوان حمله کنن. پس از همین‌جا، از پایگاه نیروی هوایی و بازوی بلند دولتمون اسرائیل، پیام میدم: با ما درنیفتین، نه الان و نه هیچ‌وقت دیگه. دست بلند ما هرجا و هر وقت بهتون می‌رسه. @mamlekate",
       "media": [
@@ -181,7 +243,7 @@
           "count": "1"
         }
       ],
-      "views_label": "90.1K",
+      "views_label": "102K",
       "posted_at": "2026-09-29T15:50:56+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104698"
@@ -189,8 +251,8 @@
     {
       "id": "mamlekate/104697",
       "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Htc6VhoLaqrQ4JOYNYXX1ru6-mfC0uAnfFwYskxqxvU2IcXn0zWNR3H5tcC2TFEC-XVMDVF52wuqcZYSusNpV2AQkRyb44aUlhEmbT_unLNc1GwmyFoseBX8JYpQ2Wcrq3QFDCG5rwa9JCEyrYMxHduoommTzwiD2tIvVPHjS4Yw3xc8jVlzEIdBBVQ-qu4dijnvuLkBaVtyAGmf0umC2soAxfAe7FUk_pG9JwfbDFKdLbOaNPi-XTCDhvYQFlsxz1QxvFtVOj43PIwEr16y124aaGCJOmqPkKOtDdvQzNxVrO3uaE1mb0Vs25EOI_DWLwiAxHhYc4vLKM3TQWvJaQ.jpg",
-      "author_photo_path": "channels/mamlekate/media/097535d27a5f7222e6cc66eb.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VW43vHY-Usgz1UzGHcEXKKNyWRjREa70iCrdyosDoKIkl6XI-472A-MI85KxbDIqn1ERYOngVL4QW39bkrW33zHZlm2x3cmG23nRCh4K2BrbgXgL7EdEvDpJm_hKd31E8DdrrZYjoyseYJjxs7Wm3iun44ptlXdju_fnem5whpwG5Pwb6DoRy1DWahad7jXHuHVReh6J-L5YHZtFCZUwTwHUFMBnTVkwzErFiHJu6tPc-PoRasTP1b-EN7chkCMjwuYqPaezbUhJZ3hZQuZLFzlgwMEDgVTTC7uBFTBExa_mmgCb119hmBBPPP5rBzxu3obojFeP_bEHCyNp8e_ZJg.jpg",
+      "author_photo_path": "channels/mamlekate/media/3bdff07e0b423d609c46f425.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA6A7.png')\"><b>🦧</b></i> سخنگوی ارتش: هر ایرانی‌ای بتونه یه سرباز‌ آمریکایی رو بکشه یا اسیر کنه پاداش ۵ میلیارد تومنی دریافت خواهد کرد. اگه این فرد از بانوان باشد جایزه ‌ش دوبرابر یعنی ۱۰ میلیارد تومن خواهد بود. <br><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918F.png')\"><b>👏</b></i> از پای منقل انتظار دارند زنان ایرانی، که از صبح تا شب برای حجاب آزارشون میدن، برن سرباز آمریکایی اسیر بگیرن.<br><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C88.png')\"><b>✈️</b></i> اون خلبان آمریکایی زخمی که وسط ایران گرفتینش رو حالا جایزه شو دادین به خونواده <a href=\"https://t.me/mamlekate/104468\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">اون بدبختایی که پودر شدن؟</a><br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
       "plain_text": "🦧 سخنگوی ارتش: هر ایرانی‌ای بتونه یه سرباز‌ آمریکایی رو بکشه یا اسیر کنه پاداش ۵ میلیارد تومنی دریافت خواهد کرد. اگه این فرد از بانوان باشد جایزه ‌ش دوبرابر یعنی ۱۰ میلیارد تومن خواهد بود. 👏 از پای منقل انتظار دارند زنان ایرانی، که از صبح تا شب برای حجاب آزارشون میدن، برن سرباز آمریکایی اسیر بگیرن. ✈️ اون خلبان آمریکایی زخمی که وسط ایران گرفتینش رو حالا جایزه شو دادین به خونواده اون بدبختایی که پودر شدن؟ @mamlekate",
       "media": [
@@ -205,7 +267,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "94.2K",
+      "views_label": "105K",
       "posted_at": "2026-09-29T15:05:16+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104697"
@@ -213,8 +275,8 @@
     {
       "id": "mamlekate/104696",
       "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Htc6VhoLaqrQ4JOYNYXX1ru6-mfC0uAnfFwYskxqxvU2IcXn0zWNR3H5tcC2TFEC-XVMDVF52wuqcZYSusNpV2AQkRyb44aUlhEmbT_unLNc1GwmyFoseBX8JYpQ2Wcrq3QFDCG5rwa9JCEyrYMxHduoommTzwiD2tIvVPHjS4Yw3xc8jVlzEIdBBVQ-qu4dijnvuLkBaVtyAGmf0umC2soAxfAe7FUk_pG9JwfbDFKdLbOaNPi-XTCDhvYQFlsxz1QxvFtVOj43PIwEr16y124aaGCJOmqPkKOtDdvQzNxVrO3uaE1mb0Vs25EOI_DWLwiAxHhYc4vLKM3TQWvJaQ.jpg",
-      "author_photo_path": "channels/mamlekate/media/097535d27a5f7222e6cc66eb.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VW43vHY-Usgz1UzGHcEXKKNyWRjREa70iCrdyosDoKIkl6XI-472A-MI85KxbDIqn1ERYOngVL4QW39bkrW33zHZlm2x3cmG23nRCh4K2BrbgXgL7EdEvDpJm_hKd31E8DdrrZYjoyseYJjxs7Wm3iun44ptlXdju_fnem5whpwG5Pwb6DoRy1DWahad7jXHuHVReh6J-L5YHZtFCZUwTwHUFMBnTVkwzErFiHJu6tPc-PoRasTP1b-EN7chkCMjwuYqPaezbUhJZ3hZQuZLFzlgwMEDgVTTC7uBFTBExa_mmgCb119hmBBPPP5rBzxu3obojFeP_bEHCyNp8e_ZJg.jpg",
+      "author_photo_path": "channels/mamlekate/media/3bdff07e0b423d609c46f425.jpg",
       "body_html": "<tg-emoji emoji-id=\"5247176827016847212\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939E.png')\"><b>📞</b></i></tg-emoji> طرح فروش قسطی نخود و لوبیا توی شرکت مپنا توگا یکی از بزرگترین شرکت های ایران<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
       "plain_text": "📞 طرح فروش قسطی نخود و لوبیا توی شرکت مپنا توگا یکی از بزرگترین شرکت های ایران @mamlekate",
       "media": [
@@ -229,7 +291,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "99.3K",
+      "views_label": "109K",
       "posted_at": "2026-09-29T13:25:54+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104696"
@@ -237,8 +299,8 @@
     {
       "id": "mamlekate/104695",
       "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Htc6VhoLaqrQ4JOYNYXX1ru6-mfC0uAnfFwYskxqxvU2IcXn0zWNR3H5tcC2TFEC-XVMDVF52wuqcZYSusNpV2AQkRyb44aUlhEmbT_unLNc1GwmyFoseBX8JYpQ2Wcrq3QFDCG5rwa9JCEyrYMxHduoommTzwiD2tIvVPHjS4Yw3xc8jVlzEIdBBVQ-qu4dijnvuLkBaVtyAGmf0umC2soAxfAe7FUk_pG9JwfbDFKdLbOaNPi-XTCDhvYQFlsxz1QxvFtVOj43PIwEr16y124aaGCJOmqPkKOtDdvQzNxVrO3uaE1mb0Vs25EOI_DWLwiAxHhYc4vLKM3TQWvJaQ.jpg",
-      "author_photo_path": "channels/mamlekate/media/097535d27a5f7222e6cc66eb.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VW43vHY-Usgz1UzGHcEXKKNyWRjREa70iCrdyosDoKIkl6XI-472A-MI85KxbDIqn1ERYOngVL4QW39bkrW33zHZlm2x3cmG23nRCh4K2BrbgXgL7EdEvDpJm_hKd31E8DdrrZYjoyseYJjxs7Wm3iun44ptlXdju_fnem5whpwG5Pwb6DoRy1DWahad7jXHuHVReh6J-L5YHZtFCZUwTwHUFMBnTVkwzErFiHJu6tPc-PoRasTP1b-EN7chkCMjwuYqPaezbUhJZ3hZQuZLFzlgwMEDgVTTC7uBFTBExa_mmgCb119hmBBPPP5rBzxu3obojFeP_bEHCyNp8e_ZJg.jpg",
+      "author_photo_path": "channels/mamlekate/media/3bdff07e0b423d609c46f425.jpg",
       "body_html": "مجوز قانونی ورود گوشت الاغ و قاطر هم به بازار مصرف صادر شد<br><br>لعنت بر جد و آبادتون ، حرومزاده ها<br><a href=\"https://x.com/hadimehrane1/status/2104674803210723563\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">hadimehrane1</a><br><br>حالا توی آسیای میانه (ترکمن‌ها و ازبک‌ها و قزاق‌ها و ...) گوشت اسب می‌خورن ولی الاغ جدیده<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
       "plain_text": "مجوز قانونی ورود گوشت الاغ و قاطر هم به بازار مصرف صادر شد لعنت بر جد و آبادتون ، حرومزاده ها hadimehrane1 حالا توی آسیای میانه (ترکمن‌ها و ازبک‌ها و قزاق‌ها و ...) گوشت اسب می‌خورن ولی الاغ جدیده @mamlekate",
       "media": [
@@ -253,7 +315,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "121K",
+      "views_label": "131K",
       "posted_at": "2026-09-29T11:59:43+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104695"
@@ -261,8 +323,8 @@
     {
       "id": "mamlekate/104694",
       "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Htc6VhoLaqrQ4JOYNYXX1ru6-mfC0uAnfFwYskxqxvU2IcXn0zWNR3H5tcC2TFEC-XVMDVF52wuqcZYSusNpV2AQkRyb44aUlhEmbT_unLNc1GwmyFoseBX8JYpQ2Wcrq3QFDCG5rwa9JCEyrYMxHduoommTzwiD2tIvVPHjS4Yw3xc8jVlzEIdBBVQ-qu4dijnvuLkBaVtyAGmf0umC2soAxfAe7FUk_pG9JwfbDFKdLbOaNPi-XTCDhvYQFlsxz1QxvFtVOj43PIwEr16y124aaGCJOmqPkKOtDdvQzNxVrO3uaE1mb0Vs25EOI_DWLwiAxHhYc4vLKM3TQWvJaQ.jpg",
-      "author_photo_path": "channels/mamlekate/media/097535d27a5f7222e6cc66eb.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VW43vHY-Usgz1UzGHcEXKKNyWRjREa70iCrdyosDoKIkl6XI-472A-MI85KxbDIqn1ERYOngVL4QW39bkrW33zHZlm2x3cmG23nRCh4K2BrbgXgL7EdEvDpJm_hKd31E8DdrrZYjoyseYJjxs7Wm3iun44ptlXdju_fnem5whpwG5Pwb6DoRy1DWahad7jXHuHVReh6J-L5YHZtFCZUwTwHUFMBnTVkwzErFiHJu6tPc-PoRasTP1b-EN7chkCMjwuYqPaezbUhJZ3hZQuZLFzlgwMEDgVTTC7uBFTBExa_mmgCb119hmBBPPP5rBzxu3obojFeP_bEHCyNp8e_ZJg.jpg",
+      "author_photo_path": "channels/mamlekate/media/3bdff07e0b423d609c46f425.jpg",
       "body_html": "<a href=\"https://telegra.ph/%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%B2-%DB%B2%DB%B5%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B9%D8%A8%D9%88%D8%B1-%DA%A9%D8%B1%D8%AF-%D9%86%DA%AF%D8%B1%D8%A7%D9%86%DB%8C%D9%87%D8%A7-%D8%A7%D8%B2-%D8%AA%D8%B4%D8%AF%DB%8C%D8%AF-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D9%85%D8%B9%DB%8C%D8%B4%D8%AA%DB%8C-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-09-29\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>دلار ۲۵۰.۰۰۰ </b></a><br><br>بخاطر یه دبه اورانیوم:<br><a href=\"http://t.me/mamlekate/97247\" target=\"_blank\" rel=\"noopener\">t.me/mamlekate/97247</a>",
       "plain_text": "دلار ۲۵۰.۰۰۰ بخاطر یه دبه اورانیوم: t.me/mamlekate/97247",
       "media": [
@@ -277,7 +339,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "104K",
+      "views_label": "110K",
       "posted_at": "2026-09-29T11:07:10+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104694"
@@ -285,13 +347,13 @@
     {
       "id": "mamlekate/104693",
       "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Htc6VhoLaqrQ4JOYNYXX1ru6-mfC0uAnfFwYskxqxvU2IcXn0zWNR3H5tcC2TFEC-XVMDVF52wuqcZYSusNpV2AQkRyb44aUlhEmbT_unLNc1GwmyFoseBX8JYpQ2Wcrq3QFDCG5rwa9JCEyrYMxHduoommTzwiD2tIvVPHjS4Yw3xc8jVlzEIdBBVQ-qu4dijnvuLkBaVtyAGmf0umC2soAxfAe7FUk_pG9JwfbDFKdLbOaNPi-XTCDhvYQFlsxz1QxvFtVOj43PIwEr16y124aaGCJOmqPkKOtDdvQzNxVrO3uaE1mb0Vs25EOI_DWLwiAxHhYc4vLKM3TQWvJaQ.jpg",
-      "author_photo_path": "channels/mamlekate/media/097535d27a5f7222e6cc66eb.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VW43vHY-Usgz1UzGHcEXKKNyWRjREa70iCrdyosDoKIkl6XI-472A-MI85KxbDIqn1ERYOngVL4QW39bkrW33zHZlm2x3cmG23nRCh4K2BrbgXgL7EdEvDpJm_hKd31E8DdrrZYjoyseYJjxs7Wm3iun44ptlXdju_fnem5whpwG5Pwb6DoRy1DWahad7jXHuHVReh6J-L5YHZtFCZUwTwHUFMBnTVkwzErFiHJu6tPc-PoRasTP1b-EN7chkCMjwuYqPaezbUhJZ3hZQuZLFzlgwMEDgVTTC7uBFTBExa_mmgCb119hmBBPPP5rBzxu3obojFeP_bEHCyNp8e_ZJg.jpg",
+      "author_photo_path": "channels/mamlekate/media/3bdff07e0b423d609c46f425.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%DB%8C%DA%A9-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7%DB%8C-%D8%B4%D8%B1%DA%A9%D8%AA-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7%DB%8C%DB%8C-%DA%A9%D8%A7%D8%B3%D9%BE%DB%8C%D9%86-%D8%A8%D9%87%D8%AF%D9%84%DB%8C%D9%84-%D8%A8%D8%AF%D9%87%DB%8C-%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%DB%8C%D9%88%D8%B1%D9%88%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84-%D8%AA%D9%88%D9%82%DB%8C%D9%81-%D8%B4%D8%AF-09-29\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>یک هواپیمای شرکت هواپیمایی کاسپین به‌دلیل بدهی ۳ میلیون یورویی در استانبول توقیف شد</b></a><br><br>یک هواپیمای شرکت هواپیمایی کاسپین که پس از سوار کردن مسافران آماده پرواز از فرودگاه استانبول به ایران بود، به دلیل بدهی سه میلیون یورویی و در پی حکم قضایی توقیف شد و مسافران آن به ترمینال بازگردانده شدند. <br><br>خبرگزاری دمیرورن ترکیه گزارش داد به دلیل بدهی شرکت هواپیمایی کاسپین به یک شرکت ارائه دهنده خدمات نظارتی، روند قضایی علیه این شرکت در ترکیه آغاز شده است. بر اساس این گزارش، وکیلان شرکت طلبکار به همراه ماموران اجرای احکام به فرودگاه استانبول رفتند و خواستار جلوگیری از پرواز هواپیمای کاسپین با شماره ثبت «ای پی-کی پی بی» شدند.<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
       "plain_text": "📝 یک هواپیمای شرکت هواپیمایی کاسپین به‌دلیل بدهی ۳ میلیون یورویی در استانبول توقیف شد یک هواپیمای شرکت هواپیمایی کاسپین که پس از سوار کردن مسافران آماده پرواز از فرودگاه استانبول به ایران بود، به دلیل بدهی سه میلیون یورویی و در پی حکم قضایی توقیف شد و مسافران آن به ترمینال بازگردانده شدند. خبرگزاری دمیرورن ترکیه گزارش داد به دلیل بدهی شرکت هواپیمایی کاسپین به یک شرکت ارائه دهنده خدمات نظارتی، روند قضایی علیه این شرکت در ترکیه آغاز شده است. بر اساس این گزارش، وکیلان شرکت طلبکار به همراه ماموران اجرای احکام به فرودگاه استانبول رفتند و خواستار جلوگیری از پرواز هواپیمای کاسپین با شماره ثبت «ای پی-کی پی بی» شدند. @mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "103K",
+      "views_label": "109K",
       "posted_at": "2026-09-29T10:51:31+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104693"
@@ -299,8 +361,8 @@
     {
       "id": "mamlekate/104692",
       "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Htc6VhoLaqrQ4JOYNYXX1ru6-mfC0uAnfFwYskxqxvU2IcXn0zWNR3H5tcC2TFEC-XVMDVF52wuqcZYSusNpV2AQkRyb44aUlhEmbT_unLNc1GwmyFoseBX8JYpQ2Wcrq3QFDCG5rwa9JCEyrYMxHduoommTzwiD2tIvVPHjS4Yw3xc8jVlzEIdBBVQ-qu4dijnvuLkBaVtyAGmf0umC2soAxfAe7FUk_pG9JwfbDFKdLbOaNPi-XTCDhvYQFlsxz1QxvFtVOj43PIwEr16y124aaGCJOmqPkKOtDdvQzNxVrO3uaE1mb0Vs25EOI_DWLwiAxHhYc4vLKM3TQWvJaQ.jpg",
-      "author_photo_path": "channels/mamlekate/media/097535d27a5f7222e6cc66eb.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VW43vHY-Usgz1UzGHcEXKKNyWRjREa70iCrdyosDoKIkl6XI-472A-MI85KxbDIqn1ERYOngVL4QW39bkrW33zHZlm2x3cmG23nRCh4K2BrbgXgL7EdEvDpJm_hKd31E8DdrrZYjoyseYJjxs7Wm3iun44ptlXdju_fnem5whpwG5Pwb6DoRy1DWahad7jXHuHVReh6J-L5YHZtFCZUwTwHUFMBnTVkwzErFiHJu6tPc-PoRasTP1b-EN7chkCMjwuYqPaezbUhJZ3hZQuZLFzlgwMEDgVTTC7uBFTBExa_mmgCb119hmBBPPP5rBzxu3obojFeP_bEHCyNp8e_ZJg.jpg",
+      "author_photo_path": "channels/mamlekate/media/3bdff07e0b423d609c46f425.jpg",
       "body_html": "خبرنگار: افزایش ۳۰۰ هزار تومانی کالابرگ، پول یک پفک هم نمی‌شود!<br>سخنگوی دولت جمهوری اسلامی: قطعا کالابرگ برای خرید پفک داده نمی‌شود.<br><i><br>اصلاح‌طلب حرومزاده دهن‌دریده‌ی ایموجی اسهال در چند ثانیه آسمون و زمین رو به هم بافت که بگه همین اندازه پول پفکی هم که ما داریم میدیم از فضل و بخشش بیکران ما به رعیت گشنه و گداست.</i><br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
       "plain_text": "خبرنگار: افزایش ۳۰۰ هزار تومانی کالابرگ، پول یک پفک هم نمی‌شود! سخنگوی دولت جمهوری اسلامی: قطعا کالابرگ برای خرید پفک داده نمی‌شود. اصلاح‌طلب حرومزاده دهن‌دریده‌ی ایموجی اسهال در چند ثانیه آسمون و زمین رو به هم بافت که بگه همین اندازه پول پفکی هم که ما داریم میدیم از فضل و بخشش بیکران ما به رعیت گشنه و گداست. @mamlekate",
       "media": [
@@ -315,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "94.9K",
+      "views_label": "100K",
       "posted_at": "2026-09-29T10:49:30+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104692"
@@ -323,13 +385,13 @@
     {
       "id": "mamlekate/104691",
       "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Htc6VhoLaqrQ4JOYNYXX1ru6-mfC0uAnfFwYskxqxvU2IcXn0zWNR3H5tcC2TFEC-XVMDVF52wuqcZYSusNpV2AQkRyb44aUlhEmbT_unLNc1GwmyFoseBX8JYpQ2Wcrq3QFDCG5rwa9JCEyrYMxHduoommTzwiD2tIvVPHjS4Yw3xc8jVlzEIdBBVQ-qu4dijnvuLkBaVtyAGmf0umC2soAxfAe7FUk_pG9JwfbDFKdLbOaNPi-XTCDhvYQFlsxz1QxvFtVOj43PIwEr16y124aaGCJOmqPkKOtDdvQzNxVrO3uaE1mb0Vs25EOI_DWLwiAxHhYc4vLKM3TQWvJaQ.jpg",
-      "author_photo_path": "channels/mamlekate/media/097535d27a5f7222e6cc66eb.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VW43vHY-Usgz1UzGHcEXKKNyWRjREa70iCrdyosDoKIkl6XI-472A-MI85KxbDIqn1ERYOngVL4QW39bkrW33zHZlm2x3cmG23nRCh4K2BrbgXgL7EdEvDpJm_hKd31E8DdrrZYjoyseYJjxs7Wm3iun44ptlXdju_fnem5whpwG5Pwb6DoRy1DWahad7jXHuHVReh6J-L5YHZtFCZUwTwHUFMBnTVkwzErFiHJu6tPc-PoRasTP1b-EN7chkCMjwuYqPaezbUhJZ3hZQuZLFzlgwMEDgVTTC7uBFTBExa_mmgCb119hmBBPPP5rBzxu3obojFeP_bEHCyNp8e_ZJg.jpg",
+      "author_photo_path": "channels/mamlekate/media/3bdff07e0b423d609c46f425.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%D8%AA%D8%AA%D8%B1-%DB%B5%DB%B5%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D9%85%D8%B1%D8%AA%D8%A8%D8%B7-%D8%A8%D8%A7-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C-%D8%B1%D8%A7-%D9%85%D8%B3%D8%AF%D9%88%D8%AF-%DA%A9%D8%B1%D8%AF%D9%87%D8%A7%DB%8C%D9%85-09-29\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>تتر: ۵۵۰ میلیون دلار دارایی مرتبط با جمهوری اسلامی را مسدود کرده‌ایم</b></a><br><br>شرکت تتر، صادرکننده استیبل‌کوین یو‌اس‌دی‌تی، در بیانیه‌ای اعلام کرد امسال به مسدود شدن نزدیک ۵۵۰ میلیون دلار دارایی مرتبط با بانک مرکزی جمهوری اسلامی و شبکه‌های تحریم‌شده کمک کرده است.<br><br>انتشار این بیانیه در همان روزی انجام شد که اقلیت دموکرات کمیته فرعی دائمی تحقیقات سنای آمریکا گزارشی منتشر کرد و یو‌اس‌دی‌تی را «شریان مالی مهم» جمهوری اسلامی خواند.<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
       "plain_text": "📝 تتر: ۵۵۰ میلیون دلار دارایی مرتبط با جمهوری اسلامی را مسدود کرده‌ایم شرکت تتر، صادرکننده استیبل‌کوین یو‌اس‌دی‌تی، در بیانیه‌ای اعلام کرد امسال به مسدود شدن نزدیک ۵۵۰ میلیون دلار دارایی مرتبط با بانک مرکزی جمهوری اسلامی و شبکه‌های تحریم‌شده کمک کرده است. انتشار این بیانیه در همان روزی انجام شد که اقلیت دموکرات کمیته فرعی دائمی تحقیقات سنای آمریکا گزارشی منتشر کرد و یو‌اس‌دی‌تی را «شریان مالی مهم» جمهوری اسلامی خواند. @mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "95.9K",
+      "views_label": "102K",
       "posted_at": "2026-09-29T10:33:41+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104691"
@@ -337,8 +399,8 @@
     {
       "id": "mamlekate/104689",
       "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Htc6VhoLaqrQ4JOYNYXX1ru6-mfC0uAnfFwYskxqxvU2IcXn0zWNR3H5tcC2TFEC-XVMDVF52wuqcZYSusNpV2AQkRyb44aUlhEmbT_unLNc1GwmyFoseBX8JYpQ2Wcrq3QFDCG5rwa9JCEyrYMxHduoommTzwiD2tIvVPHjS4Yw3xc8jVlzEIdBBVQ-qu4dijnvuLkBaVtyAGmf0umC2soAxfAe7FUk_pG9JwfbDFKdLbOaNPi-XTCDhvYQFlsxz1QxvFtVOj43PIwEr16y124aaGCJOmqPkKOtDdvQzNxVrO3uaE1mb0Vs25EOI_DWLwiAxHhYc4vLKM3TQWvJaQ.jpg",
-      "author_photo_path": "channels/mamlekate/media/097535d27a5f7222e6cc66eb.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VW43vHY-Usgz1UzGHcEXKKNyWRjREa70iCrdyosDoKIkl6XI-472A-MI85KxbDIqn1ERYOngVL4QW39bkrW33zHZlm2x3cmG23nRCh4K2BrbgXgL7EdEvDpJm_hKd31E8DdrrZYjoyseYJjxs7Wm3iun44ptlXdju_fnem5whpwG5Pwb6DoRy1DWahad7jXHuHVReh6J-L5YHZtFCZUwTwHUFMBnTVkwzErFiHJu6tPc-PoRasTP1b-EN7chkCMjwuYqPaezbUhJZ3hZQuZLFzlgwMEDgVTTC7uBFTBExa_mmgCb119hmBBPPP5rBzxu3obojFeP_bEHCyNp8e_ZJg.jpg",
+      "author_photo_path": "channels/mamlekate/media/3bdff07e0b423d609c46f425.jpg",
       "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><b>پز نیست. سبک زندگیمه</b><br>در دو پرده: حسین و بابک<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a></div>",
       "plain_text": "پز نیست. سبک زندگیمه در دو پرده: حسین و بابک @mamlekate",
       "media": [
@@ -346,8 +408,8 @@
           "kind": "video",
           "asset_url": "https://t.me/mamlekate/104689?single",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/rYbaZK5kdxJ-2m9qXRMZG-6KdgIi0GjH8vFVU3zWxOvmAuKVtsakpVoG_pF1tRNZ_Q8Rg01zhei1aDqZ8vzl4Fdqd26EJqfYM_ryqVCKl1kMcyNXusPW2jqKrzd2sINydBaSMpN1xshY5OEfglnInPmcCCM58TQd58gJpVRz9BqskG-3vju8EUWPOm41MmFzA6oqNqOCHpS-_ZP01k1HB2QFaESJNlukNdnw4Mxly9jst-pNGT85fKm4i_sGh3V-OYjRg90d_pnbbcD4RpPsF79m8wATrvTR5FhT8NOoVSCE45Wz78Ag6aYQ0spGb3iVCdYb91TRed48yTkgvdko7w",
-          "thumbnail_path": "channels/mamlekate/media/9e865a2b73c095b67a5614d0.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/IIIa42cVYCnW1-8cNRGkj1vqkUl7eJcX36Ldq4vL-ETnm6D9W_GIQz3K4Z6zsSqGDkA1_yIrp4AS3PvRwFE6mG-WAS73Bd_r5IHxeHOB81bWASBJf_PJv0e2wv-olx-ZUCDLQAOru3qbLCFgF4GFRSQeHwVnVLgS0Pn_-V87fmNcPmJy0ByMcuq4oaFqFMg9DhAIVfaMG2gs2hOR90BB-bDv3h_ALiezd5LucPp_25Z9FwTNYHSdyYzkrl51CUI1NpDAM4lHaBFJt-TJlTxygYFvAfqtf3fpRmoy9D1YKB2paMVk9L72e8b9xuspetqXDi7D181jCji3sSG_eI8o6w",
+          "thumbnail_path": "channels/mamlekate/media/6b917040bde41c0d9d5d6944.jpg",
           "duration_label": "2:16",
           "aspect_ratio": null
         },
@@ -355,14 +417,14 @@
           "kind": "video",
           "asset_url": "https://t.me/mamlekate/104690?single",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/eloTKjbfhVZEZCxTVG2zzmFouPKFl9WsYfcWJDknx6FlMhau9mlKNU27J97TIsKNgYHpfrPEfMGfvU2HynSVDZqh5QdbvijgC2uKn7X8DV5vZn3p2M1md-5ilIwhn-bOwguwPTNDt_Ag_27MHTUDbpyQ-iCms4BnS-7X-x8SicgIEI2k10T8LedoLvWJMhqIOWU13IzkBgvWRmMDMW3s23qaiaLq0Ax2TpXuETL6_4JW3MG6IZ_oOAkvI3xHWpO3M3PPaxnhiqks8JQZvDTwP7QchH8MoHjFUcnFsAMyQERR0pxjb5sz5efP9ALKA_9OkCf8fl_NnnpBS0G316VlEg",
-          "thumbnail_path": "channels/mamlekate/media/b5f372b9ab101f6f1001689b.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/lW8w4TxKHvo2BKNJskl8Nbm0Rn8Q5ncO4FTZEkFHDDvJdk-M_qSnz2RSK7Nf__O1JmLz8hhrpqixCJfI9so5Tovs_M9r9Mo1CGHqoJmnfrV-NaeVUHjMEGdPUc-B9JC413n1Lbha1IhCWaLxnJW5AczsUXq1cPzXQveV81Ci6wI30wA7WmGeWHZbcfzdLoeXg7jxQt8-A0gAmF8vZaz_EU0DjTe4eJUjzhyaGFmDQjrKTgHmFmIApbQJFEXzO7rbo_pSbfrxdG8Yyn_KRRDVQm6gMIjMR-bIxhh5cfukemGeBvVhUFiwKBWsdiiklkrWPTzIdscZyafQY0RJXpWPkA",
+          "thumbnail_path": "channels/mamlekate/media/e888381e56b8672652857f7e.jpg",
           "duration_label": "0:37",
           "aspect_ratio": null
         }
       ],
       "reactions": [],
-      "views_label": "106K",
+      "views_label": "110K",
       "posted_at": "2026-09-29T06:25:46+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104689"
@@ -2354,96 +2416,6 @@
       "posted_at": "2026-09-22T15:33:05+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104585"
-    },
-    {
-      "id": "mamlekate/104584",
-      "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/vxRc9t7ZSNyZ5Ix8lHB_2mOPNHgoMvS1tmLWh14ICimm2HTQOY4XieqtXkJv3YRngOGyxsDZleO9XFdhFT8tNYJfV0W9anVkEIwCIEt9rQNjBHGAJ8vKk40D-wMs7uZviWMQMsriqwLZtlcuKC7FO_oOXaG5IZupJVm04p31gdMWiUrOb3H2odTuR-D8aSeTeTtKEVrWN8siU9th29PH_iKGLqtpOp25uzogL3l-AMzzVJRvX6ZA3cGHTGsR-irJSnW5QHqB-h5lfPxgGwNEofXGAUnZPASNMls4wWoLPHxFDWaTx2F1W8ZClRL8YJEK_VFa_NFQaOh0Ylma3XE6Dw.jpg",
-      "author_photo_path": "channels/mamlekate/media/9ee233e18fcf965bbd630044.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <b>ترامپ در سازمان ملل: باید تصمیم بزرگی درباره ایران بگیرم اما بنظرم بعد از انتخابات توافق می‌کنیم</b><br><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AF%D8%B1-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D9%85%D9%84%D9%84-%D9%85%D8%AA%D8%AD%D8%AF-%DB%8C%D8%A7-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D9%85%DB%8C%D8%B1%D8%B3%DB%8C%D9%85-%DB%8C%D8%A7-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C-%D9%85%D8%AD%D9%88-%D9%85%DB%8C%D8%B4%D9%88%D8%AF-09-22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>ترامپ در سازمان ملل متحد: یا با ایران به توافق می‌رسیم یا جمهوری اسلامی محو می‌شود</b></a><br><br>دونالد ترامپ رئیس‌جمهور ایالات متحده روز سه‌شنبه ۳۱ شهریورماه در نخستین‌روز هشتاد و یکمین نشست سران مجمع عمومی سازمان ملل متحد، مطابق رسم معمول سخنرانی کرد.<br><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%DB%8C%D8%A7-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D9%85%DB%8C%D8%B4%D9%88%D8%AF-%DB%8C%D8%A7-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C-%D8%B1%D8%A7-%D9%BE%DB%8C%D8%B4-%D8%A7%D8%B2-%DA%A9%D8%B4%D8%AA%D8%A7%D8%B1-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D9%85%D8%B1%D8%AF%D9%85-%D9%86%D8%A7%D8%A8%D9%88%D8%AF-%D9%85%DB%8C%DA%A9%D9%86%D9%85-09-22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>ترامپ: یا توافق می‌شود یا جمهوری اسلامی را پیش از کشتار بیشتر مردم نابود می‌کنم</b></a><br><br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
-      "plain_text": "📝 ترامپ در سازمان ملل: باید تصمیم بزرگی درباره ایران بگیرم اما بنظرم بعد از انتخابات توافق می‌کنیم 📝 ترامپ در سازمان ملل متحد: یا با ایران به توافق می‌رسیم یا جمهوری اسلامی محو می‌شود دونالد ترامپ رئیس‌جمهور ایالات متحده روز سه‌شنبه ۳۱ شهریورماه در نخستین‌روز هشتاد و یکمین نشست سران مجمع عمومی سازمان ملل متحد، مطابق رسم معمول سخنرانی کرد. 📝 ترامپ: یا توافق می‌شود یا جمهوری اسلامی را پیش از کشتار بیشتر مردم نابود می‌کنم @mamlekate",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/mamlekate/104584",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/RTZE5WGqiOayupDrF6fmQAf519by44TJOQ3NlBCOVpqO_5_NXHOHcwH1gzZ8k0vLoaNO6Il7HDsAxJbkYQ94_t7Zq0ow42txJfaCucYCXlwYLo5xise-1TGUITzKUIbbOS2jEbs15L1dF1y-miggQBQOR6-hdTOOtZW9rSG7ScndZFGznxxM7h9KT_mjkGFPsHAKYUhov03npus00gRbcX8Bh8RXDNUIquoiVx_i8iLv74H2TBv4aUpbkTum-AGNGhU-YRfDx7XKLvowAlHKw-15vdLJFCQ6C2t2HPAOaEvkdRbtZyeSkIPiNhkG_PgbWIHGdJQd67IyMLREsDBcCg",
-          "thumbnail_path": "channels/mamlekate/media/7b372d75817a99490019a27b.jpg",
-          "duration_label": "1:32",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "117K",
-      "posted_at": "2026-09-22T15:15:34+00:00",
-      "edited": true,
-      "permalink": "https://t.me/mamlekate/104584"
-    },
-    {
-      "id": "mamlekate/104582",
-      "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/vxRc9t7ZSNyZ5Ix8lHB_2mOPNHgoMvS1tmLWh14ICimm2HTQOY4XieqtXkJv3YRngOGyxsDZleO9XFdhFT8tNYJfV0W9anVkEIwCIEt9rQNjBHGAJ8vKk40D-wMs7uZviWMQMsriqwLZtlcuKC7FO_oOXaG5IZupJVm04p31gdMWiUrOb3H2odTuR-D8aSeTeTtKEVrWN8siU9th29PH_iKGLqtpOp25uzogL3l-AMzzVJRvX6ZA3cGHTGsR-irJSnW5QHqB-h5lfPxgGwNEofXGAUnZPASNMls4wWoLPHxFDWaTx2F1W8ZClRL8YJEK_VFa_NFQaOh0Ylma3XE6Dw.jpg",
-      "author_photo_path": "channels/mamlekate/media/9ee233e18fcf965bbd630044.jpg",
-      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <b>حرف‌های روبیو درباره خطر آخوند هسته‌ای و وضعیت تنگه هرمز</b><br><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%D8%A7%D8%B2%D8%B3%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA-%D8%AE%D8%B7-%D9%84%D9%88%D9%84%D9%87-%D8%B4%D8%B1%D9%82-%D8%BA%D8%B1%D8%A8-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%B3%D8%B9%D9%88%D8%AF%DB%8C-%D8%A8%D9%87-%D8%A7%D9%81%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A7%D9%86%D8%AC%D8%A7%D9%85%DB%8C%D8%AF-09-22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>ازسرگیری فعالیت خط لوله شرق-غرب عربستان سعودی به افت قیمت نفت انجامید</b></a><br><br>خبرگزاری رویترز به نقل از سه منبع آگاه گزارش داد عربستان سعودی فعالیت خط لوله شرق-غرب خود را از سر گرفته است و احتمال دارد صادرات نفت از بندر ینبع در دریای سرخ از اواخر سه‌شنبه ۳۱ شهریور مجددا آغاز شود. فعالیت این خط لوله در پی حمله پهپادی از خاک عراق متوقف شده بود.<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a></div>",
-      "plain_text": "📝 حرف‌های روبیو درباره خطر آخوند هسته‌ای و وضعیت تنگه هرمز 📝 ازسرگیری فعالیت خط لوله شرق-غرب عربستان سعودی به افت قیمت نفت انجامید خبرگزاری رویترز به نقل از سه منبع آگاه گزارش داد عربستان سعودی فعالیت خط لوله شرق-غرب خود را از سر گرفته است و احتمال دارد صادرات نفت از بندر ینبع در دریای سرخ از اواخر سه‌شنبه ۳۱ شهریور مجددا آغاز شود. فعالیت این خط لوله در پی حمله پهپادی از خاک عراق متوقف شده بود. @mamlekate",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/mamlekate/104582?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/m-JEXmXRovQYswPftQnsiQxkEO9Dp-cyKn-WzPxJfR5xojHRxI20ffxvNbnnWwuUSAsWqeqPdLiCd8YpTkqJDkqav_atfyorMcU7wgUTRieyms3UDneCsAmQEhDR_5TjYnvxGFvxQt3HBhQew64CMwEfGYe8KeP5XXFil1IY9nR0DY84UrWgC8UMU91k2uu8QmPXwURMKzlrUsSm7WKykB7SbK5X1w-KWY_vK39Y8AqyNgeeaN5dG6OKg_6gGJ4p7LgFa_3nm2CCJQw9hmoDJvvQUUR7gZ1BM2NIewxgNIRxReao5tPCRwQkVU2Vwd0Jc2hJUKWx4t_XJrXnqfbZUg",
-          "thumbnail_path": "channels/mamlekate/media/b9a132a31309d7ac3b70f7a0.jpg",
-          "duration_label": "0:51",
-          "aspect_ratio": null
-        },
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/mamlekate/104583?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ZYSEWajpM_J4avkpOixlnkzdFqGB7UXU-CqXvoGRzhGgzQbKPctHgjMd46nHPSWEZM7A4Gcu1PfMFH7atDRb6Jm6H2HEDxqn0-gw70GnSv600hKqbf1W2LWI--mxvXvQVwH452wL2E8ZPayo7c5_5HmlOKpyOMYQC8Adsf_0QBUeYel7zceYSyJTv1o31y2tZVb_zaQKrPj3cJ2bx4_zF_rPBWVgD7OOK6DzlmNQ2VuuE88WhEPcUIZHBIA0YUZ_M8hzi611R8aedKYfyFN1ycsw4pNiOwmtE8OPPFkAwkwAcxZ0zBsdgJoudM0767rle5rqPPcgYasiehUTqdIJzA",
-          "thumbnail_path": "channels/mamlekate/media/b2b1f7462ddc5cf6e72effaf.jpg",
-          "duration_label": "0:44",
-          "aspect_ratio": null
-        }
-      ],
-      "reactions": [],
-      "views_label": "104K",
-      "posted_at": "2026-09-22T15:14:26+00:00",
-      "edited": false,
-      "permalink": "https://t.me/mamlekate/104582"
-    },
-    {
-      "id": "mamlekate/104580",
-      "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/vxRc9t7ZSNyZ5Ix8lHB_2mOPNHgoMvS1tmLWh14ICimm2HTQOY4XieqtXkJv3YRngOGyxsDZleO9XFdhFT8tNYJfV0W9anVkEIwCIEt9rQNjBHGAJ8vKk40D-wMs7uZviWMQMsriqwLZtlcuKC7FO_oOXaG5IZupJVm04p31gdMWiUrOb3H2odTuR-D8aSeTeTtKEVrWN8siU9th29PH_iKGLqtpOp25uzogL3l-AMzzVJRvX6ZA3cGHTGsR-irJSnW5QHqB-h5lfPxgGwNEofXGAUnZPASNMls4wWoLPHxFDWaTx2F1W8ZClRL8YJEK_VFa_NFQaOh0Ylma3XE6Dw.jpg",
-      "author_photo_path": "channels/mamlekate/media/9ee233e18fcf965bbd630044.jpg",
-      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%D9%88%D8%B2%DB%8C%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B1%DA%98%DB%8C%D9%85-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%87%D8%B1%DA%AF%D8%B2-%D9%86%D8%A8%D8%A7%DB%8C%D8%AF-%D8%B3%D9%84%D8%A7%D8%AD-%D9%87%D8%B3%D8%AA%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%D9%87-%D8%A8%D8%A7%D8%B4%D8%AF-%D9%BE%D8%B1%D8%B2%DB%8C%D8%AF%D9%86%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A2%D9%85%D8%A7%D8%AF%D9%87-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA-09-22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>وزیر خارجه آمریکا: رژیم ایران هرگز نباید سلاح هسته‌ای داشته باشد؛ پرزیدنت ترامپ آماده دیدار با پزشکیان است</b></a><br><br>مارکو روبیو، وزیر امور خارجه آمریکا، روز سه‌شنبه ۳۱ شهریور در دو مصاحبه جداگانه با شبکه‌های ان‌بی‌سی نیوز و فاکس نیوز از آمادگی پرزیدنت ترامپ برای دیدار احتمالی با مسعود پزشکیان خبر داد و گفت همزمان با ادامه فشار اقتصادی بر جمهوری اسلامی، جریان نفت از تنگه هرمز در حال افزایش است.<br><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%D8%B1%D9%88%D8%A8%DB%8C%D9%88-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A2%D9%85%D8%A7%D8%AF%D9%87-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA-%D8%B3%D9%BE%D8%A7%D9%87-%D8%A2%D9%85%D8%A7%D8%AF%DA%AF%DB%8C-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%A8%D9%87-%D9%85%D8%B9%D9%86%D8%A7%DB%8C-%D9%86%D9%81%DB%8C-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%D9%86%DB%8C%D8%B3%D8%AA-09-22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>روبیو: ترامپ آماده دیدار با پزشکیان است؛ سپاه: آمادگی نظامی به معنای نفی مذاکره نیست</b></a><br><br>مارکو روبیو، وزیر امور خارجه آمریکا، روز سه‌شنبه ۳۱ شهریور گفت به باور او دونالد ترامپ، رئیس‌جمهور ایالات متحده، برای دیدار با مسعود پزشکیان، همتای ایرانی خود، در حاشیه مجمع عمومی سازمان ملل متحد در نیویورک آمادگی دارد اما هنوز برای چنین دیداری برنامه‌ریزی نشده است.<br><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> حسین محبی، سخنگوی سپاه پاسداران، در گفت‌وگو با خبرگزاری جمهوری اسلامی، ایرنا، به مذاکره احتمالی با ایالات متحده گفت: «اگر مصالح ملی ما در این است که در کنار جنگ، مذاکره هم داشته باشیم، باید مذاکره کنیم.»<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a></div>",
-      "plain_text": "📝 وزیر خارجه آمریکا: رژیم ایران هرگز نباید سلاح هسته‌ای داشته باشد؛ پرزیدنت ترامپ آماده دیدار با پزشکیان است مارکو روبیو، وزیر امور خارجه آمریکا، روز سه‌شنبه ۳۱ شهریور در دو مصاحبه جداگانه با شبکه‌های ان‌بی‌سی نیوز و فاکس نیوز از آمادگی پرزیدنت ترامپ برای دیدار احتمالی با مسعود پزشکیان خبر داد و گفت همزمان با ادامه فشار اقتصادی بر جمهوری اسلامی، جریان نفت از تنگه هرمز در حال افزایش است. 📝 روبیو: ترامپ آماده دیدار با پزشکیان است؛ سپاه: آمادگی نظامی به معنای نفی مذاکره نیست مارکو روبیو، وزیر امور خارجه آمریکا، روز سه‌شنبه ۳۱ شهریور گفت به باور او دونالد ترامپ، رئیس‌جمهور ایالات متحده، برای دیدار با مسعود پزشکیان، همتای ایرانی خود، در حاشیه مجمع عمومی سازمان ملل متحد در نیویورک آمادگی دارد اما هنوز برای چنین دیداری برنامه‌ریزی نشده است. 📝 حسین محبی، سخنگوی سپاه پاسداران، در گفت‌وگو با خبرگزاری جمهوری اسلامی، ایرنا، به مذاکره احتمالی با ایالات متحده گفت: «اگر مصالح ملی ما در این است که در کنار جنگ، مذاکره هم داشته باشیم، باید مذاکره کنیم.» @mamlekate",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/mamlekate/104580?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/LuchZeGA91hzzhBwiNfAR7UmZmoQmmhByvcBsFUVkeyNCht_aqDTL-iCgf8lxkAQswZdkc4ZOeF8weEVUysTgzGMQnelfoWH1qJHTjGcZ2l4lmbIJVzoSBNMDujnrFHGK6Zc_vzFf3cYmxkQM8pvq_nJj3im7xhe8KkjFfDxgBk70xBm23hnfh5agVVPZ3KQ0EKIfhwKcrP9vCK_kgmwKjkMTTd467oGu-A2Pk1v1QWlO0e46RRaWek4xJRvlP83niUAdnzoystNjvWuZgBDtTJF9ANrUMrB4gDIvt9saTA88UFg6_sqAly_ZkUzIJpQte6SvjdOyXdhNpKvtzEoOQ",
-          "thumbnail_path": "channels/mamlekate/media/839192067f3b7ca36b33e9c4.jpg",
-          "duration_label": "0:47",
-          "aspect_ratio": null
-        },
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/mamlekate/104581?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/YthmQUoShtPJCYzUCL7VGXeuB4STDaurbbTosnIbs2DmLZRtwrg3XwxIFxouXGoCegJhpnTg8plMNarGDFbVb4qzREefhRAoaa1YPpLqWSsSfXQPijccDGnu9oLTCq9ZAwDf0P720Ktt5VzKdIG9AmQ95vHR61kbg81lgwHQX2QeDM7YuOnI1hG4APj7mMfQoWeKdcpEo9BRlmQnY0GpXseKRKL-VM-OgZznqjR6qfjZAovgLrnrJkWaCvZOLiAb-whjtU2tTYEID2dO6LcwLRSzy9axueY_lsfRIlsMxaSmt5cKI3mfSBvF8XSv9j9kK-chxEgfcERonNXpk3RDbQ",
-          "thumbnail_path": "channels/mamlekate/media/1a6296c28da622a550af6cce.jpg",
-          "duration_label": "1:31",
-          "aspect_ratio": null
-        }
-      ],
-      "reactions": [],
-      "views_label": "96.7K",
-      "posted_at": "2026-09-22T15:09:13+00:00",
-      "edited": false,
-      "permalink": "https://t.me/mamlekate/104580"
     }
   ]
 }

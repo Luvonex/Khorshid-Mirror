@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-30T02:23:36.029Z",
+  "fetched_at": "2026-09-30T07:22:50.055Z",
   "channel": {
     "username": "mizangorup",
     "title": "💻 MIZAN | میزان 💻",
@@ -10,6 +10,63 @@
     "subscriber_count": "247K"
   },
   "posts": [
+    {
+      "id": "mizangorup/70647",
+      "author_name": "💻 MIZAN | میزان 💻",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vlZQJaKn_qo5s-0HmS8Wt9xe-ES_2yvHA84tzU5fkPW0PdBdvhLN6FtlsYXEjlzEI9k7w8-OUIfntPDWNcnOdu9-MTgw5Q3doIll3EluYcVME6vrHfj5wIES74VFMh4rZMUasWUvFlyjOEO-hfZhMqwFPh5gDmtXFkeeRnlkZt-ZzuKsPIY3FfVuHhFmLxljXuSxw5h_FwWxawb_TUMr6Mi1MRG_h6aGRcvJ3_ii1B0qWmQ_22czTZWDx1hzutRn0G7lIRKIo9KL0GujlIL9j-elkKj6d5R2ORvyyrxXgw7YcdeFygdOAwcBH3kKW37BeL1wzux0-Z-oRtJ7PwgohQ.jpg",
+      "author_photo_path": "channels/mizangorup/media/6d44a702855e8a95d7f4b453.jpg",
+      "body_html": "<a href=\"https://t.me/mizangorup/65677\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>یادمه یه فیلم از ۱۹ دی توی بندرعباس منتشر کردیم که یه نفر افتاده بود زمین، چندتا موتور سرکوبگران جمهوری اسلامی دوره‌اش کردن و بعد با تبر افتاده بودن به جونش…</b></a><br><br><br><a href=\"https://t.me/mizangorup\" target=\"_blank\">@mizangorup</a>",
+      "plain_text": "یادمه یه فیلم از ۱۹ دی توی بندرعباس منتشر کردیم که یه نفر افتاده بود زمین، چندتا موتور سرکوبگران جمهوری اسلامی دوره‌اش کردن و بعد با تبر افتاده بودن به جونش… @mizangorup",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/mizangorup/70647",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/UrK13QOziQZO0NXkGtGnH_zFQ6fs4k8ihMnGq7LNfWSbz8QHV1ljxJs--VADFSmDSKOlaewrwUL9yhzxdLZffYwdlCua5hdbJfxyJ-fJP0T9GBSZTtlTKDhUCA1zB8sc9kV3OUaMgt_9_hnAH15KnrTRMnbXSojlSZr4WwF-JQqFqfa1-yTdooygWM1CgX5K43LSVCVPdIcS0Em4wAERZL67Nna_ED0NtC-otOzh3tGdVlZoxnk_xe15EdNKxQM5CRPTcVX5s-BFE52p6-tFcKGqXvWZ_oGrOTJHvpawZM4cftLFm4CEVg5kXPq7EnBKPFzWyNsAqRcQ_TKpGYMRdw.jpg",
+          "thumbnail_path": "channels/mizangorup/media/575d69fc46cd4ec4bed5516a.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.0596026490066226
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "💔",
+          "count": "1.04K"
+        },
+        {
+          "emoji": "😢",
+          "count": "56"
+        },
+        {
+          "emoji": "❤",
+          "count": "15"
+        },
+        {
+          "emoji": "👍",
+          "count": "15"
+        },
+        {
+          "emoji": "🕊",
+          "count": "9"
+        },
+        {
+          "emoji": "😁",
+          "count": "8"
+        },
+        {
+          "emoji": "🔥",
+          "count": "5"
+        },
+        {
+          "emoji": "🫡",
+          "count": "2"
+        }
+      ],
+      "views_label": "24.3K",
+      "posted_at": "2026-09-30T03:33:53+00:00",
+      "edited": true,
+      "permalink": "https://t.me/mizangorup/70647"
+    },
     {
       "id": "mizangorup/70646",
       "author_name": "💻 MIZAN | میزان 💻",
@@ -21,27 +78,27 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "1.17K"
+          "count": "1.39K"
         },
         {
           "emoji": "👍",
-          "count": "122"
+          "count": "142"
         },
         {
           "emoji": "😢",
-          "count": "53"
+          "count": "64"
         },
         {
           "emoji": "❤",
+          "count": "25"
+        },
+        {
+          "emoji": "😁",
           "count": "20"
         },
         {
           "emoji": "🔥",
-          "count": "16"
-        },
-        {
-          "emoji": "😁",
-          "count": "16"
+          "count": "19"
         },
         {
           "emoji": "👌",
@@ -56,7 +113,7 @@
           "count": "5"
         }
       ],
-      "views_label": "29.4K",
+      "views_label": "42.2K",
       "posted_at": "2026-09-29T18:25:13+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70646"
@@ -82,50 +139,50 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "2.32K"
+          "count": "2.41K"
         },
         {
           "emoji": "👏",
-          "count": "107"
+          "count": "111"
         },
         {
           "emoji": "❤",
-          "count": "57"
+          "count": "58"
         },
         {
           "emoji": "👌",
-          "count": "34"
+          "count": "36"
         },
         {
           "emoji": "💔",
-          "count": "28"
+          "count": "29"
         },
         {
           "emoji": "😢",
-          "count": "17"
+          "count": "20"
         },
         {
           "emoji": "😁",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "🤝",
           "count": "4"
         },
         {
-          "emoji": "🍾",
+          "emoji": "🔥",
           "count": "3"
         },
         {
-          "emoji": "🔥",
-          "count": "2"
+          "emoji": "🍾",
+          "count": "3"
         },
         {
           "emoji": "🫡",
           "count": "2"
         }
       ],
-      "views_label": "51.9K",
+      "views_label": "57.6K",
       "posted_at": "2026-09-28T19:28:53+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70645"
@@ -151,11 +208,11 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "693"
+          "count": "706"
         },
         {
           "emoji": "😁",
-          "count": "204"
+          "count": "207"
         },
         {
           "emoji": "❤",
@@ -171,7 +228,7 @@
         },
         {
           "emoji": "🙏",
-          "count": "7"
+          "count": "8"
         },
         {
           "emoji": "💔",
@@ -182,7 +239,7 @@
           "count": "2"
         }
       ],
-      "views_label": "60.4K",
+      "views_label": "63.7K",
       "posted_at": "2026-09-27T22:41:20+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70644"
@@ -199,8 +256,8 @@
           "kind": "video",
           "asset_url": "https://t.me/mizangorup/70643",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/HH-nrjopjw17pzfvtBuX8sRmDi5XAR_dDIfmRmXtrkvrfMIGzOvJdeaFCEpCjR_5J7RDPLKySgtWuokDbnUg0J5NGpzgyPP56crr9ubmRHACIqGZNIX4og-gpqrEYNN5nB_nMW-G3XEZT6rR5psy4VWtSqjw9oXue6XWSQszdvc0BeDTPQEuJGZ7NbfaDn-xzqCoISzOOSvqFxX7ffWI2qZ-YqTGk6UXKV4HR_Fa3j1PZPkFVLDEprX2Jv_b14BMzVCFn3JANB1jaVen38hUZSvll5SE9ZStQ1178yHB3tjkseLara0USf1Dj6wNV3yUYDUBHy4Ar2SLycs_eq2n-g",
-          "thumbnail_path": "channels/mizangorup/media/f922fa396306ab7ca739f7d8.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Ct9CDK0Gxpfr0Mjcw-LHfqdKNuhnJQKnNYmQLlUCjK7SuOAhd07R5X9BYXrHoHhNPpKBQQWT3yin0njLa3OKmWd4pDjeNad-MwneptYrlbpDAPqShXi9hfJtDTHwI3SYAzx3QywXb-K9Wfn3_RhNKKHDL1chPbtAq9pHVgm6AXJciU27zfmap-jdvWDm-nXCwSfyVsz3cRdzFMymW4J4CFx7Ggewu8Sk6lTVuFfp52YS3UYvwvMpZmmh_Hc4DhQc-g92VdVNFR-62A7fPKyzvnog8gJharg5l52W5zxB1QedHw67VI1IsndncX1Ztr472yXASlOo-o-ZCawJo1N9wg",
+          "thumbnail_path": "channels/mizangorup/media/9677332adde1d65e24c287f9.jpg",
           "duration_label": "0:10",
           "aspect_ratio": 0.7500000000000188
         }
@@ -208,11 +265,11 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "784"
+          "count": "794"
         },
         {
           "emoji": "❤",
-          "count": "84"
+          "count": "85"
         },
         {
           "emoji": "😢",
@@ -239,7 +296,7 @@
           "count": "3"
         }
       ],
-      "views_label": "94.9K",
+      "views_label": "98.8K",
       "posted_at": "2026-09-25T07:02:16+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70643"
@@ -255,27 +312,27 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "995"
+          "count": "1K"
         },
         {
           "emoji": "👏",
-          "count": "403"
+          "count": "408"
         },
         {
           "emoji": "😁",
-          "count": "74"
+          "count": "77"
         },
         {
           "emoji": "👍",
-          "count": "24"
+          "count": "25"
         },
         {
           "emoji": "🔥",
-          "count": "18"
+          "count": "19"
         },
         {
           "emoji": "🤩",
-          "count": "10"
+          "count": "11"
         },
         {
           "emoji": "👌",
@@ -294,7 +351,7 @@
           "count": "1"
         }
       ],
-      "views_label": "76.3K",
+      "views_label": "78.8K",
       "posted_at": "2026-09-25T06:58:43+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70642"
@@ -320,11 +377,11 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "2.3K"
+          "count": "2.31K"
         },
         {
           "emoji": "❤",
-          "count": "94"
+          "count": "95"
         },
         {
           "emoji": "😢",
@@ -340,11 +397,11 @@
         },
         {
           "emoji": "💔",
-          "count": "14"
+          "count": "15"
         },
         {
           "emoji": "🍾",
-          "count": "11"
+          "count": "12"
         },
         {
           "emoji": "🫡",
@@ -363,7 +420,7 @@
           "count": "5"
         }
       ],
-      "views_label": "113K",
+      "views_label": "115K",
       "posted_at": "2026-09-23T19:56:16+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70641"
@@ -410,7 +467,7 @@
           "count": "1"
         }
       ],
-      "views_label": "85.9K",
+      "views_label": "90.9K",
       "posted_at": "2026-09-23T19:09:45+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70640"
@@ -436,7 +493,7 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "1.27K"
+          "count": "1.28K"
         },
         {
           "emoji": "👍",
@@ -444,11 +501,11 @@
         },
         {
           "emoji": "👏",
-          "count": "125"
+          "count": "126"
         },
         {
           "emoji": "❤",
-          "count": "89"
+          "count": "90"
         },
         {
           "emoji": "🎉",
@@ -479,7 +536,7 @@
           "count": "1"
         }
       ],
-      "views_label": "87.3K",
+      "views_label": "91.6K",
       "posted_at": "2026-09-23T18:01:26+00:00",
       "edited": true,
       "permalink": "https://t.me/mizangorup/70639"
@@ -523,7 +580,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "520"
+          "count": "523"
         },
         {
           "emoji": "💔",
@@ -531,7 +588,7 @@
         },
         {
           "emoji": "👍",
-          "count": "79"
+          "count": "80"
         },
         {
           "emoji": "🔥",
@@ -543,10 +600,10 @@
         },
         {
           "emoji": "👏",
-          "count": "6"
+          "count": "7"
         }
       ],
-      "views_label": "88.9K",
+      "views_label": "90.4K",
       "posted_at": "2026-09-22T16:48:49+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70636"
@@ -597,7 +654,7 @@
           "count": "3"
         }
       ],
-      "views_label": "87.7K",
+      "views_label": "93.9K",
       "posted_at": "2026-09-21T22:13:48+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70635"
@@ -639,7 +696,7 @@
         },
         {
           "emoji": "😢",
-          "count": "16"
+          "count": "17"
         },
         {
           "emoji": "🕊",
@@ -662,7 +719,7 @@
           "count": "1"
         }
       ],
-      "views_label": "80.2K",
+      "views_label": "83.3K",
       "posted_at": "2026-09-21T22:13:43+00:00",
       "edited": true,
       "permalink": "https://t.me/mizangorup/70634"
@@ -678,7 +735,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "423"
+          "count": "425"
         },
         {
           "emoji": "🔥",
@@ -705,7 +762,7 @@
           "count": "1"
         }
       ],
-      "views_label": "83.3K",
+      "views_label": "84.5K",
       "posted_at": "2026-09-21T22:09:08+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70633"
@@ -725,7 +782,7 @@
         },
         {
           "emoji": "🕊",
-          "count": "218"
+          "count": "219"
         },
         {
           "emoji": "💔",
@@ -760,7 +817,7 @@
           "count": "1"
         }
       ],
-      "views_label": "134K",
+      "views_label": "136K",
       "posted_at": "2026-09-16T16:43:31+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70631"
@@ -786,7 +843,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "2.58K"
+          "count": "2.59K"
         },
         {
           "emoji": "💔",
@@ -794,7 +851,7 @@
         },
         {
           "emoji": "🕊",
-          "count": "90"
+          "count": "91"
         },
         {
           "emoji": "😁",
@@ -829,7 +886,7 @@
           "count": "1"
         }
       ],
-      "views_label": "130K",
+      "views_label": "132K",
       "posted_at": "2026-09-16T16:25:57+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70630"
@@ -880,7 +937,7 @@
           "count": "3"
         }
       ],
-      "views_label": "121K",
+      "views_label": "122K",
       "posted_at": "2026-09-16T15:04:25+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70629"
@@ -897,8 +954,8 @@
           "kind": "video",
           "asset_url": "https://t.me/mizangorup/70628",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/D0ycGTFfZCpYseZ_7QpyZ11PbYZEtsYXxiesQmNyPyL8xfI19wkIIUs0du_yqlMkiOmwQgmDkM0Vv_HMCh7CZmRrr9aVK5dlgPp9i-VC0IaXUECMl5xpKl7uQAnMl6Qdm7FhrBAoJMmC74URAwh3ZAueifvpoZPGsDRPwyBzRpKhwhFajfDhB6uNZ-m27Y_QUVsQTCsyVDi7EXEjmBS8ziiA70zJ21w2ccfl_qc08yhZHGMOikF2DMHkadZtJa1K7yUoj7a75vzwfV8TiyogJ9_-Kj5-WCKKjOgiMcnpLM0nAgC6zLhjsJLYWKZWsJkA38eC1WZQ6GJ-pe_FhZjtHQ",
-          "thumbnail_path": "channels/mizangorup/media/5d6a7f58bc26d1e2f2950fa0.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/H3oJZA9cEvt3XnCRGugzWoDGH7cuGVVrBt01kFiuRckhrtoBHSHZQwaSH89ik8OROD7PT7L2GgdJ2j7VewaTPW3V68M0QKsPQqTdFlLoAsc2fjZ8ZWAmsMUtot5z0bpjjOQuAOVeuH3crjhjwG6Rm_UrWbuvbgbqhAxxKc_ghGw57xbpWa1rn9rLy3h4TZxQk514e_k0YgdGWNxoO2TrjcngFJAmjA5Wei8iVtfJUSsumdkaXgqt92Qt1lKh-Rr777JgemeCNdi_LWoDu72IXZ6ZYAtTlQRGZks0FsE_63VB_nlBtSo_NS0Ai-MrTdwOz9gu-yoVTuzMlnaoI_1bWw",
+          "thumbnail_path": "channels/mizangorup/media/6817a31d399fd1bf4e50fba1.jpg",
           "duration_label": "0:34",
           "aspect_ratio": 0.7500000000000188
         }
@@ -910,7 +967,7 @@
         },
         {
           "emoji": "😁",
-          "count": "354"
+          "count": "355"
         },
         {
           "emoji": "💔",
@@ -945,7 +1002,7 @@
           "count": "2"
         }
       ],
-      "views_label": "130K",
+      "views_label": "131K",
       "posted_at": "2026-09-16T08:50:14+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70628"
@@ -965,7 +1022,7 @@
         },
         {
           "emoji": "😢",
-          "count": "287"
+          "count": "289"
         },
         {
           "emoji": "💔",
@@ -1004,7 +1061,7 @@
           "count": "5"
         }
       ],
-      "views_label": "107K",
+      "views_label": "108K",
       "posted_at": "2026-09-15T15:48:55+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70627"
@@ -5750,63 +5807,6 @@
       "posted_at": "2026-07-18T20:14:49+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70537"
-    },
-    {
-      "id": "mizangorup/70536",
-      "author_name": "💻 MIZAN | میزان 💻",
-      "author_photo_url": "https://cdn4.telesco.pe/file/rIm5I0zj4HYGWhIy4TYiE34k5LtbxxksL5krfI1KlOuFndZmvlnHRcIlzIOhAn8Q8CBQ_3KZFP3fy1gpAr2YknC3SlQI-Muie4FyqUbv4-dGjVHHJ6dz1tN2YfnRo3L0_Jco_aOm5VlUF3KN5J02SNS3uHlB8HRlalpNSb3EmMa-pEBwSpNynMqTtqnO51f3eFywRffLH6i4GsOvcBsB7sCd7phBDXL_dPg-6K-nZbA7ziD91uuhT8TXWEMGnMhLaCPzJguCodhNOvnKoy4z-6m-LRW_TvaE86FXUug7CQTZTIHcRGkmo_9Sx23oilOn2DMH2hs4_e2GKg6RwzidzA.jpg",
-      "author_photo_path": "channels/mizangorup/media/e5fb34ba2892c5533d61c022.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>تعداد واقعی تمام جان فدایان جمهوری‌اسلامی در داخل و خارج ایران ۳،۸۷۵،۶۸۲ نفر  است یعنی تقریبا ۴.۵٪ جمعیت ۹۰،۰۰۰،۰۰۰ ایران<br></b><br><br><br><a href=\"https://t.me/mizangorup\" target=\"_blank\">@mizangorup</a>",
-      "plain_text": "🔴تعداد واقعی تمام جان فدایان جمهوری‌اسلامی در داخل و خارج ایران ۳،۸۷۵،۶۸۲ نفر است یعنی تقریبا ۴.۵٪ جمعیت ۹۰،۰۰۰،۰۰۰ ایران @mizangorup",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/mizangorup/70536",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/aJdzWnMqDphXQoHcG3kgNM1QZr5yhun9reEAu8349iH8VVVdp1PuxPxh4trSRNV-pvUgpNdQbsM-yPd3i_M9-uBdaj7x5oeH2wRiqrDPvI9f2O0P1l8_5yYixCbIBjiDSv1szZCp30tMT_Jc3-I7oa9h6KFXaZBPMCItsHTq8j8mRa4tQ1pibIfIA15lTH2QHu6TPf49jI9U2O6bH79MdGy6P7fJpmMi3o3I3jeflpoKE19GZd6pFcRo7M7s9hDD_0tkTRO8QF1a_nb5uhLMCZDl-zOG0wiyAmcRLJcLFSBEGFh5lVZSa1cI8EWTXPXWTl5-1ZC8EEL8cZFUKGYt6w.jpg",
-          "thumbnail_path": "channels/mizangorup/media/77412dc58087f91b290a426a.jpg",
-          "duration_label": null,
-          "aspect_ratio": 2.9962546816479403
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "😁",
-          "count": "1.54K"
-        },
-        {
-          "emoji": "👌",
-          "count": "80"
-        },
-        {
-          "emoji": "❤",
-          "count": "70"
-        },
-        {
-          "emoji": "💔",
-          "count": "46"
-        },
-        {
-          "emoji": "👍",
-          "count": "18"
-        },
-        {
-          "emoji": "🔥",
-          "count": "10"
-        },
-        {
-          "emoji": "🍾",
-          "count": "9"
-        },
-        {
-          "emoji": "🙏",
-          "count": "1"
-        }
-      ],
-      "views_label": "89.2K",
-      "posted_at": "2026-07-18T19:15:27+00:00",
-      "edited": false,
-      "permalink": "https://t.me/mizangorup/70536"
     }
   ]
 }
