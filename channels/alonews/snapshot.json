@@ -1,15 +1,929 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-01T02:26:37.411Z",
+  "fetched_at": "2026-10-01T08:51:53.285Z",
   "channel": {
     "username": "alonews",
     "title": "اخبار جنگ الونیوز AloNews",
     "description_html": "با الونیوز از اخبار جنگ و وقایع در چند ثانیه مطلع باش!<br><br>اخبار جنگ بدون سانسور در الونیوز <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918C.png')\"><b>👌</b></i><br><br>جهت رزرو تبلیغات<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/ads_alonews\" target=\"_blank\" rel=\"noopener\">https://t.me/ads_alonews</a><br><br>پشتیبانی کانال <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F95B5.png')\"><b>🕵️</b></i> <br><a href=\"https://t.me/AloNews?direct\" target=\"_blank\" rel=\"noopener\">https://t.me/AloNews?direct</a><br><br>مالک کانال <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA9.png')\"><b>🎩</b></i> <br><a href=\"https://t.me/AloNewsBot\" target=\"_blank\">@AloNewsBot</a><br><br>X:<br><a href=\"https://x.com/AloNewsBot\" target=\"_blank\" rel=\"noopener\">https://x.com/AloNewsBot</a>",
-    "photo_url": "https://cdn4.telesco.pe/file/IKvTy8_gV2jvj-MFsmrDB6mECCFRgRIE9HzaI0pRgMjrbH2CV2OnCXQ__nLY9_ta02gKzK45DaTXIUCJMdV69eNORqkAeVG79idMQNN0wka40G81JJ6sGRSnhaDlSkp_zCkDP8OkYRsHs6osXiQ_DHqFQ6mN4HQ_ZlPwA2gN9_ujzcw1z0-MShmXnVjUs6cRbTW6mRxUVJNnilHzLU51XLmu17YCjtiX0b_hR9EE_KxkD0c-CTENUtGaVuz4WQ_FouXMTtzUe6EE5fdsHT2R0yimXC9fI3W5JIyh2V52ONwk9v3YNNKaEca50k9SplocstD2CP5vgYSezPJmv87Fmg.jpg",
-    "photo_path": "channels/alonews/media/6961c1583331982e9ac65010.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/LKUcJOMXwon0mKhbhlO5EuKDeiQnQUbLK71hd4w0xXNyZkC42PpXKYogpOmJRmq-Y4oA9SNmbty7xOX4JxsbAoJdaeJQ4tOzj7pMoPl4fKqckU19PYWCPuDgE-PxSNZk-D-FAlyXKhTbyhIoYORKLRPKNq1UxjrkJIEHE6Ym3bYVQgl8OTXcFTBoVw1R5iwV8NhMvuy9xHZavcgdxgmeIa6qjpL5h9F-RCWkdp9pUiRlexj-q9ts2XdcOGAOnhiLkNiiErULk6uhnutyXQVXc6ksF_thUIItdfbnx4AibW7enpBFPZYzf1B4ngbZzijzpxJh54C41bPe-YVhrcz9og.jpg",
+    "photo_path": "channels/alonews/media/13db1a96686d1dbd43d9e0c7.jpg",
     "subscriber_count": "1.01M"
   },
   "posts": [
+    {
+      "id": "alonews/150372",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LKUcJOMXwon0mKhbhlO5EuKDeiQnQUbLK71hd4w0xXNyZkC42PpXKYogpOmJRmq-Y4oA9SNmbty7xOX4JxsbAoJdaeJQ4tOzj7pMoPl4fKqckU19PYWCPuDgE-PxSNZk-D-FAlyXKhTbyhIoYORKLRPKNq1UxjrkJIEHE6Ym3bYVQgl8OTXcFTBoVw1R5iwV8NhMvuy9xHZavcgdxgmeIa6qjpL5h9F-RCWkdp9pUiRlexj-q9ts2XdcOGAOnhiLkNiiErULk6uhnutyXQVXc6ksF_thUIItdfbnx4AibW7enpBFPZYzf1B4ngbZzijzpxJh54C41bPe-YVhrcz9og.jpg",
+      "author_photo_path": "channels/alonews/media/13db1a96686d1dbd43d9e0c7.jpg",
+      "body_html": "دیده شده در فروشگاه‌های کشور. <br><br>[<a href=\"https://t.me/AloTweet\" target=\"_blank\">@AloTweet</a>]",
+      "plain_text": "دیده شده در فروشگاه‌های کشور. [@AloTweet]",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/alonews/150372",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/rIVFKdTKMIIqZphvmTJODSYORkHlkFQcrROqn5le4r0LNtiYGtcRiZOhaI-kYfnZbQf9fEfNQAH-FwP6W5yjo6OFwTuUK6Gx5beE8WxSEWjaE8jn-btzVA0OHb6XEFJ2XUj63cWVqQKbknCjF43UKqQqadGYC_O3Ejdamzo9dMAjNOxyaEThRYz2R8YfNpWUWn8mvMnuyuYqbV4IPU4Xe8SPJGDYL5WwNMrWK3uQXsn2EIWgiFcs_NcIdISH5qC-IpCOdUBu6FDS3nDfGYHjujBspIk30er-TEAerb7WGcPXUt_3b-cikNbN-7fWZB0RJlwZZ9mvUYmpkS424KSuXg.jpg",
+          "thumbnail_path": "channels/alonews/media/04cdbbe75e9ea2cca30b8022.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.9950000000000403
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "40"
+        },
+        {
+          "emoji": "💔",
+          "count": "9"
+        },
+        {
+          "emoji": "🗿",
+          "count": "6"
+        },
+        {
+          "emoji": "💩",
+          "count": "5"
+        },
+        {
+          "emoji": "😐",
+          "count": "5"
+        },
+        {
+          "emoji": "🖕",
+          "count": "2"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        },
+        {
+          "emoji": "🤬",
+          "count": "1"
+        }
+      ],
+      "views_label": "1.04K",
+      "posted_at": "2026-10-01T08:50:39+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/150372"
+    },
+    {
+      "id": "alonews/150371",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LKUcJOMXwon0mKhbhlO5EuKDeiQnQUbLK71hd4w0xXNyZkC42PpXKYogpOmJRmq-Y4oA9SNmbty7xOX4JxsbAoJdaeJQ4tOzj7pMoPl4fKqckU19PYWCPuDgE-PxSNZk-D-FAlyXKhTbyhIoYORKLRPKNq1UxjrkJIEHE6Ym3bYVQgl8OTXcFTBoVw1R5iwV8NhMvuy9xHZavcgdxgmeIa6qjpL5h9F-RCWkdp9pUiRlexj-q9ts2XdcOGAOnhiLkNiiErULk6uhnutyXQVXc6ksF_thUIItdfbnx4AibW7enpBFPZYzf1B4ngbZzijzpxJh54C41bPe-YVhrcz9og.jpg",
+      "author_photo_path": "channels/alonews/media/13db1a96686d1dbd43d9e0c7.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>خروج ترکیه از یک پایگاه نظامی در عراق<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>وزارت دفاع ترکیه: ما تصمیم گرفته‌ایم که پایگاه بعشیقه-زیلکان را به تدریج و بر اساس سازوکار توافق شده به مقامات عراقی تحویل دهیم<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈خروج ترکیه از یک پایگاه نظامی در عراق 🔴وزارت دفاع ترکیه: ما تصمیم گرفته‌ایم که پایگاه بعشیقه-زیلکان را به تدریج و بر اساس سازوکار توافق شده به مقامات عراقی تحویل دهیم ✅ @AloNews",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "34"
+        },
+        {
+          "emoji": "🤣",
+          "count": "15"
+        },
+        {
+          "emoji": "❤",
+          "count": "4"
+        }
+      ],
+      "views_label": "5.12K",
+      "posted_at": "2026-10-01T08:47:11+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/150371"
+    },
+    {
+      "id": "alonews/150370",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LKUcJOMXwon0mKhbhlO5EuKDeiQnQUbLK71hd4w0xXNyZkC42PpXKYogpOmJRmq-Y4oA9SNmbty7xOX4JxsbAoJdaeJQ4tOzj7pMoPl4fKqckU19PYWCPuDgE-PxSNZk-D-FAlyXKhTbyhIoYORKLRPKNq1UxjrkJIEHE6Ym3bYVQgl8OTXcFTBoVw1R5iwV8NhMvuy9xHZavcgdxgmeIa6qjpL5h9F-RCWkdp9pUiRlexj-q9ts2XdcOGAOnhiLkNiiErULk6uhnutyXQVXc6ksF_thUIItdfbnx4AibW7enpBFPZYzf1B4ngbZzijzpxJh54C41bPe-YVhrcz9og.jpg",
+      "author_photo_path": "channels/alonews/media/13db1a96686d1dbd43d9e0c7.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>ان بی سی: ایران پیشنهاد آمریکا رو رد کرد.   <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B9.png')\"><b>💹</b></i>@shahab_gold_trading",
+      "plain_text": "🔴ان بی سی: ایران پیشنهاد آمریکا رو رد کرد. 💹@shahab_gold_trading",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "74"
+        },
+        {
+          "emoji": "👎",
+          "count": "21"
+        },
+        {
+          "emoji": "🔥",
+          "count": "20"
+        },
+        {
+          "emoji": "🖕",
+          "count": "13"
+        },
+        {
+          "emoji": "👍",
+          "count": "9"
+        },
+        {
+          "emoji": "🤣",
+          "count": "5"
+        },
+        {
+          "emoji": "🍌",
+          "count": "4"
+        }
+      ],
+      "views_label": "11.3K",
+      "posted_at": "2026-10-01T08:41:01+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/150370"
+    },
+    {
+      "id": "alonews/150369",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LKUcJOMXwon0mKhbhlO5EuKDeiQnQUbLK71hd4w0xXNyZkC42PpXKYogpOmJRmq-Y4oA9SNmbty7xOX4JxsbAoJdaeJQ4tOzj7pMoPl4fKqckU19PYWCPuDgE-PxSNZk-D-FAlyXKhTbyhIoYORKLRPKNq1UxjrkJIEHE6Ym3bYVQgl8OTXcFTBoVw1R5iwV8NhMvuy9xHZavcgdxgmeIa6qjpL5h9F-RCWkdp9pUiRlexj-q9ts2XdcOGAOnhiLkNiiErULk6uhnutyXQVXc6ksF_thUIItdfbnx4AibW7enpBFPZYzf1B4ngbZzijzpxJh54C41bPe-YVhrcz9og.jpg",
+      "author_photo_path": "channels/alonews/media/13db1a96686d1dbd43d9e0c7.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>قلعه نویی: استعفا از تیم ملی؟ نه، تسلیم نمیشم و دوباره تیمو میسازم<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈قلعه نویی: استعفا از تیم ملی؟ نه، تسلیم نمیشم و دوباره تیمو میسازم ✅ @AloNews",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "💩",
+          "count": "678"
+        },
+        {
+          "emoji": "🤣",
+          "count": "123"
+        },
+        {
+          "emoji": "🖕",
+          "count": "52"
+        },
+        {
+          "emoji": "🍌",
+          "count": "6"
+        },
+        {
+          "emoji": "❤",
+          "count": "4"
+        },
+        {
+          "emoji": "👎",
+          "count": "3"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        }
+      ],
+      "views_label": "18.4K",
+      "posted_at": "2026-10-01T08:28:23+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/150369"
+    },
+    {
+      "id": "alonews/150368",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LKUcJOMXwon0mKhbhlO5EuKDeiQnQUbLK71hd4w0xXNyZkC42PpXKYogpOmJRmq-Y4oA9SNmbty7xOX4JxsbAoJdaeJQ4tOzj7pMoPl4fKqckU19PYWCPuDgE-PxSNZk-D-FAlyXKhTbyhIoYORKLRPKNq1UxjrkJIEHE6Ym3bYVQgl8OTXcFTBoVw1R5iwV8NhMvuy9xHZavcgdxgmeIa6qjpL5h9F-RCWkdp9pUiRlexj-q9ts2XdcOGAOnhiLkNiiErULk6uhnutyXQVXc6ksF_thUIItdfbnx4AibW7enpBFPZYzf1B4ngbZzijzpxJh54C41bPe-YVhrcz9og.jpg",
+      "author_photo_path": "channels/alonews/media/13db1a96686d1dbd43d9e0c7.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji> 3 هواپیما نمی‌توانند در فرودگاه بین‌المللی ابها فرود بیایند و تا زمان صدور مجوز فرود، در مسیرهای دایره‌ای پرواز می‌کنند<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈 3 هواپیما نمی‌توانند در فرودگاه بین‌المللی ابها فرود بیایند و تا زمان صدور مجوز فرود، در مسیرهای دایره‌ای پرواز می‌کنند ✅ @AloNews",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/alonews/150368",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/U7NMzrjJvbg8O3f8IOtF2yUn7H93VpgnNTzMElicffzxHadJWB3Woy0GbB5sXqgUEsRQVEXqz9FNUVLAhrw5TxkjY18RseWlMa7mz-fTAjbuVHjNdgwhYU7T_J8lhU_dwPIJoY-7t-tW05SmwvWg0YNuATgZtRyi28JQDbQfi_DFTTV8nCGKgAeEMSzSWKG5CQ5bEJCrWSivoI8NUJaALbhJTi_j-Oz1iDBORC5yPpHIBthWWlVp5vwMdwob7niuzMrG43-RLL4c5Hy5rdrf0ClpFAw1IS0iNZ6s2Arkr7lcjbyKo--_TJVKNwQ_zB6GmP6R2sV062eyZOdVAelPxg.jpg",
+          "thumbnail_path": "channels/alonews/media/f03d94abf4a382e346347321.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.335559265442404
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "102"
+        },
+        {
+          "emoji": "🔥",
+          "count": "18"
+        },
+        {
+          "emoji": "❤",
+          "count": "12"
+        },
+        {
+          "emoji": "👍",
+          "count": "6"
+        }
+      ],
+      "views_label": "24.5K",
+      "posted_at": "2026-10-01T08:16:11+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/150368"
+    },
+    {
+      "id": "alonews/150367",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LKUcJOMXwon0mKhbhlO5EuKDeiQnQUbLK71hd4w0xXNyZkC42PpXKYogpOmJRmq-Y4oA9SNmbty7xOX4JxsbAoJdaeJQ4tOzj7pMoPl4fKqckU19PYWCPuDgE-PxSNZk-D-FAlyXKhTbyhIoYORKLRPKNq1UxjrkJIEHE6Ym3bYVQgl8OTXcFTBoVw1R5iwV8NhMvuy9xHZavcgdxgmeIa6qjpL5h9F-RCWkdp9pUiRlexj-q9ts2XdcOGAOnhiLkNiiErULk6uhnutyXQVXc6ksF_thUIItdfbnx4AibW7enpBFPZYzf1B4ngbZzijzpxJh54C41bPe-YVhrcz9og.jpg",
+      "author_photo_path": "channels/alonews/media/13db1a96686d1dbd43d9e0c7.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>محسن رضایی: قبل از اینکه انتقام آقا را بگیرم شهید نمیشوم<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈محسن رضایی: قبل از اینکه انتقام آقا را بگیرم شهید نمیشوم ✅ @AloNews",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "698"
+        },
+        {
+          "emoji": "💩",
+          "count": "214"
+        },
+        {
+          "emoji": "❤",
+          "count": "89"
+        },
+        {
+          "emoji": "🖕",
+          "count": "34"
+        },
+        {
+          "emoji": "👍",
+          "count": "11"
+        },
+        {
+          "emoji": "🤬",
+          "count": "4"
+        },
+        {
+          "emoji": "🍾",
+          "count": "3"
+        },
+        {
+          "emoji": "🔥",
+          "count": "2"
+        },
+        {
+          "emoji": "😐",
+          "count": "2"
+        }
+      ],
+      "views_label": "27.6K",
+      "posted_at": "2026-10-01T08:07:01+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/150367"
+    },
+    {
+      "id": "alonews/150366",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LKUcJOMXwon0mKhbhlO5EuKDeiQnQUbLK71hd4w0xXNyZkC42PpXKYogpOmJRmq-Y4oA9SNmbty7xOX4JxsbAoJdaeJQ4tOzj7pMoPl4fKqckU19PYWCPuDgE-PxSNZk-D-FAlyXKhTbyhIoYORKLRPKNq1UxjrkJIEHE6Ym3bYVQgl8OTXcFTBoVw1R5iwV8NhMvuy9xHZavcgdxgmeIa6qjpL5h9F-RCWkdp9pUiRlexj-q9ts2XdcOGAOnhiLkNiiErULk6uhnutyXQVXc6ksF_thUIItdfbnx4AibW7enpBFPZYzf1B4ngbZzijzpxJh54C41bPe-YVhrcz9og.jpg",
+      "author_photo_path": "channels/alonews/media/13db1a96686d1dbd43d9e0c7.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>نتانیاهو: خلبان عمانی به دبی منتقل خواهد شد<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈نتانیاهو: خلبان عمانی به دبی منتقل خواهد شد ✅ @AloNews",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "132"
+        },
+        {
+          "emoji": "🖕",
+          "count": "48"
+        },
+        {
+          "emoji": "🔥",
+          "count": "26"
+        },
+        {
+          "emoji": "💩",
+          "count": "13"
+        },
+        {
+          "emoji": "🤷‍♂",
+          "count": "7"
+        },
+        {
+          "emoji": "👍",
+          "count": "2"
+        },
+        {
+          "emoji": "💔",
+          "count": "1"
+        }
+      ],
+      "views_label": "28.6K",
+      "posted_at": "2026-10-01T08:03:01+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/150366"
+    },
+    {
+      "id": "alonews/150365",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LKUcJOMXwon0mKhbhlO5EuKDeiQnQUbLK71hd4w0xXNyZkC42PpXKYogpOmJRmq-Y4oA9SNmbty7xOX4JxsbAoJdaeJQ4tOzj7pMoPl4fKqckU19PYWCPuDgE-PxSNZk-D-FAlyXKhTbyhIoYORKLRPKNq1UxjrkJIEHE6Ym3bYVQgl8OTXcFTBoVw1R5iwV8NhMvuy9xHZavcgdxgmeIa6qjpL5h9F-RCWkdp9pUiRlexj-q9ts2XdcOGAOnhiLkNiiErULk6uhnutyXQVXc6ksF_thUIItdfbnx4AibW7enpBFPZYzf1B4ngbZzijzpxJh54C41bPe-YVhrcz9og.jpg",
+      "author_photo_path": "channels/alonews/media/13db1a96686d1dbd43d9e0c7.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>مدنی زاده، وزیر اقتصاد: به سالیان ساله که می‌گن دو هفته دیگه یا یک ماه دیگه اقتصاد ایران منهدم می‌شه و فروپاشی اتفاق می‌فته؛ اقتصاد ایران دچار فروپاشی نمیشه خیالتون راحت<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈مدنی زاده، وزیر اقتصاد: به سالیان ساله که می‌گن دو هفته دیگه یا یک ماه دیگه اقتصاد ایران منهدم می‌شه و فروپاشی اتفاق می‌فته؛ اقتصاد ایران دچار فروپاشی نمیشه خیالتون راحت ✅ @AloNews",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🖕",
+          "count": "456"
+        },
+        {
+          "emoji": "💩",
+          "count": "89"
+        },
+        {
+          "emoji": "🤣",
+          "count": "64"
+        },
+        {
+          "emoji": "❤",
+          "count": "22"
+        },
+        {
+          "emoji": "👍",
+          "count": "15"
+        },
+        {
+          "emoji": "🤬",
+          "count": "13"
+        },
+        {
+          "emoji": "😐",
+          "count": "5"
+        },
+        {
+          "emoji": "🍌",
+          "count": "2"
+        }
+      ],
+      "views_label": "30.7K",
+      "posted_at": "2026-10-01T07:59:01+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/150365"
+    },
+    {
+      "id": "alonews/150364",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LKUcJOMXwon0mKhbhlO5EuKDeiQnQUbLK71hd4w0xXNyZkC42PpXKYogpOmJRmq-Y4oA9SNmbty7xOX4JxsbAoJdaeJQ4tOzj7pMoPl4fKqckU19PYWCPuDgE-PxSNZk-D-FAlyXKhTbyhIoYORKLRPKNq1UxjrkJIEHE6Ym3bYVQgl8OTXcFTBoVw1R5iwV8NhMvuy9xHZavcgdxgmeIa6qjpL5h9F-RCWkdp9pUiRlexj-q9ts2XdcOGAOnhiLkNiiErULk6uhnutyXQVXc6ksF_thUIItdfbnx4AibW7enpBFPZYzf1B4ngbZzijzpxJh54C41bPe-YVhrcz9og.jpg",
+      "author_photo_path": "channels/alonews/media/13db1a96686d1dbd43d9e0c7.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>قیمت تتر از روی سایت نوبیتکس حذف شد<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈قیمت تتر از روی سایت نوبیتکس حذف شد ✅ @AloNews",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/alonews/150364",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Bz__Bj-IjLxWNlL_YMJFmxNQp72QNM-cWwaor13KAtp__JhE_zbZXBmyLuxpUSokaYRDlY6MiIQCx0QdM0Vlca9K2Da2doDzJ-urcInq_n-d8_V01VToUc64ag7DEMs-lv9sEuH_Ped4yh_22iqG72CXyVrvp8QnpubehCqT5syR1b60gb2XTePDNqDsQB00TImXuEnYN3XguddKc3d5QYH_6ARYJOBSZWyLrEkMdY_85h_7OT0erBDJIQ1Fht8Mlh-OHNH4x56CQTobpoVU3Ckat4hCff6QNCsb1ZMmENomcb3BrquRXSmTZHWCcX1SUsLtjQwNFEAJXh_Asrsz8w.jpg",
+          "thumbnail_path": "channels/alonews/media/0a7353a7c3b8be3b91b4291a.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.3675213675213675
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "415"
+        },
+        {
+          "emoji": "👍",
+          "count": "19"
+        },
+        {
+          "emoji": "👎",
+          "count": "18"
+        },
+        {
+          "emoji": "❤",
+          "count": "12"
+        },
+        {
+          "emoji": "🖕",
+          "count": "12"
+        },
+        {
+          "emoji": "💩",
+          "count": "11"
+        },
+        {
+          "emoji": "🫡",
+          "count": "1"
+        }
+      ],
+      "views_label": "31.7K",
+      "posted_at": "2026-10-01T07:55:01+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/150364"
+    },
+    {
+      "id": "alonews/150362",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LKUcJOMXwon0mKhbhlO5EuKDeiQnQUbLK71hd4w0xXNyZkC42PpXKYogpOmJRmq-Y4oA9SNmbty7xOX4JxsbAoJdaeJQ4tOzj7pMoPl4fKqckU19PYWCPuDgE-PxSNZk-D-FAlyXKhTbyhIoYORKLRPKNq1UxjrkJIEHE6Ym3bYVQgl8OTXcFTBoVw1R5iwV8NhMvuy9xHZavcgdxgmeIa6qjpL5h9F-RCWkdp9pUiRlexj-q9ts2XdcOGAOnhiLkNiiErULk6uhnutyXQVXc6ksF_thUIItdfbnx4AibW7enpBFPZYzf1B4ngbZzijzpxJh54C41bPe-YVhrcz9og.jpg",
+      "author_photo_path": "channels/alonews/media/13db1a96686d1dbd43d9e0c7.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>بیژن مرتضوی: رضا پهلوی مایه ننگ ایرانه<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈بیژن مرتضوی: رضا پهلوی مایه ننگ ایرانه ✅ @AloNews",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/alonews/150362",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/lgnFlGgFMSM-g88YazwAwkATMXoubQOqLpyBdY0lmrnxNt_sHIJ6MGclav5qZgVdtsQKubsNtRZRkWuIY6UAXEO9VdvMsTsG0GFt315r8S4ov3TttWOp9OHcwoeIs_IjE3FNbDx-DHmf7mUb9KoHo3iIOW381sUbDX6Jp5063PFGoEPdexdiqk8N8PkDRUk7MUZJPwjfkU7ZwdWwYM0ynt6-yCRazhmKiFTyhOtONhN3KCjF1frebKbXKakS0n4KwbK5FPtzHtfGSuBU3sDCICEfE6LMI7y9F1jOzDzDQtWnzm2rue8oMNjNftHDzm8MDf6hcHxiNKhxc45Px0GSjg.jpg",
+          "thumbnail_path": "channels/alonews/media/89b8f0cdd8305365ec0d181e.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.5717092337917484
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🖕",
+          "count": "1.81K"
+        },
+        {
+          "emoji": "👍",
+          "count": "687"
+        },
+        {
+          "emoji": "💩",
+          "count": "175"
+        },
+        {
+          "emoji": "🤣",
+          "count": "72"
+        },
+        {
+          "emoji": "❤",
+          "count": "40"
+        },
+        {
+          "emoji": "🔥",
+          "count": "14"
+        },
+        {
+          "emoji": "🤬",
+          "count": "11"
+        },
+        {
+          "emoji": "😐",
+          "count": "11"
+        },
+        {
+          "emoji": "🍌",
+          "count": "1"
+        }
+      ],
+      "views_label": "31.7K",
+      "posted_at": "2026-10-01T07:52:22+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/150362"
+    },
+    {
+      "id": "alonews/150360",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LKUcJOMXwon0mKhbhlO5EuKDeiQnQUbLK71hd4w0xXNyZkC42PpXKYogpOmJRmq-Y4oA9SNmbty7xOX4JxsbAoJdaeJQ4tOzj7pMoPl4fKqckU19PYWCPuDgE-PxSNZk-D-FAlyXKhTbyhIoYORKLRPKNq1UxjrkJIEHE6Ym3bYVQgl8OTXcFTBoVw1R5iwV8NhMvuy9xHZavcgdxgmeIa6qjpL5h9F-RCWkdp9pUiRlexj-q9ts2XdcOGAOnhiLkNiiErULk6uhnutyXQVXc6ksF_thUIItdfbnx4AibW7enpBFPZYzf1B4ngbZzijzpxJh54C41bPe-YVhrcz9og.jpg",
+      "author_photo_path": "channels/alonews/media/13db1a96686d1dbd43d9e0c7.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>مسیر تدارکاتی نیروهای وابسته به عربستان که لحج و تعز را به یکدیگر متصل می‌کند، پس از منفجر شدن پل قطع شد<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈مسیر تدارکاتی نیروهای وابسته به عربستان که لحج و تعز را به یکدیگر متصل می‌کند، پس از منفجر شدن پل قطع شد ✅ @AloNews",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/alonews/150360?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/igiDKf1kElZJYf1_iD8nf8QLTNXhJp5neVKL5K5bsZNZOXF5ur6w3nv6LbdIIHNQ__VPNmP-5FwIw_7xOtdj9VyhPycE-ZsagmwM7Z2BohSoyUINKbbxBFGYP1wWiEd8_J0_D2kpNc4ZqwsNThd2K6tvSDDTLcfg2bjDTJlE9II9UNDesfRqSvcRZOhXJ0mp_vtOooKSZ9c5KktrV8IUIceuBTF_G1JAVgPr5VfD8drLgah6BzbgdaW3rICSnlV1ISHx20GoRVlWJV1G20nfBO23y6pWw5hNxqqsaNQY6lmBq_dzoSonkqJoS7fqnsKyzvsKmZ6XTY-6-4wt3gCs7w.jpg",
+          "thumbnail_path": "channels/alonews/media/bcac1d36266ecbc3c38b6759.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.3333333333333
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/alonews/150361?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/fHz-BgIHiXX5uWb_Va9UNySAH4pfU0apnOv4OSZxOKhDgeZC-G_z5VZtDDoob1R3tEB_8O9EsQl9kAse0D4C4SzLvSXPgayJvhvceWrcjNdjeMKyXnseciXq1uCeoSgO0ZCVFLTgpXsqdZb38oTEjszKde1zdxN5mHIwkjEussq9LAQTq7E_gp5nNl68EjKeN6BpD0QsEQT5qHW73WbDhvaBV9mX0GFBTEdtn_IElzXP1up1IBcD-k8RHazAEOCc_8XGqzlb4Pnn0OVjODcdzCaRz2lFzhdCzipllYKmmqmDNASmIJBy16LSg-oXzfDpwo2LwHSG815AoiKDUyT3tQ.jpg",
+          "thumbnail_path": "channels/alonews/media/48a11abec2ea706203e13045.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.5625
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "129"
+        },
+        {
+          "emoji": "🤣",
+          "count": "39"
+        },
+        {
+          "emoji": "🔥",
+          "count": "14"
+        },
+        {
+          "emoji": "👍",
+          "count": "6"
+        },
+        {
+          "emoji": "🖕",
+          "count": "6"
+        },
+        {
+          "emoji": "😐",
+          "count": "1"
+        }
+      ],
+      "views_label": "31.7K",
+      "posted_at": "2026-10-01T07:48:22+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/150360"
+    },
+    {
+      "id": "alonews/150359",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LKUcJOMXwon0mKhbhlO5EuKDeiQnQUbLK71hd4w0xXNyZkC42PpXKYogpOmJRmq-Y4oA9SNmbty7xOX4JxsbAoJdaeJQ4tOzj7pMoPl4fKqckU19PYWCPuDgE-PxSNZk-D-FAlyXKhTbyhIoYORKLRPKNq1UxjrkJIEHE6Ym3bYVQgl8OTXcFTBoVw1R5iwV8NhMvuy9xHZavcgdxgmeIa6qjpL5h9F-RCWkdp9pUiRlexj-q9ts2XdcOGAOnhiLkNiiErULk6uhnutyXQVXc6ksF_thUIItdfbnx4AibW7enpBFPZYzf1B4ngbZzijzpxJh54C41bPe-YVhrcz9og.jpg",
+      "author_photo_path": "channels/alonews/media/13db1a96686d1dbd43d9e0c7.jpg",
+      "body_html": "نفت برنت دوباره بالا زده و داره به محدوده ۱۰۵ دلار میرسه  @shahab_gold_trading",
+      "plain_text": "نفت برنت دوباره بالا زده و داره به محدوده ۱۰۵ دلار میرسه @shahab_gold_trading",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "233"
+        },
+        {
+          "emoji": "👎",
+          "count": "29"
+        },
+        {
+          "emoji": "💩",
+          "count": "14"
+        },
+        {
+          "emoji": "🍌",
+          "count": "13"
+        },
+        {
+          "emoji": "🖕",
+          "count": "6"
+        },
+        {
+          "emoji": "❤",
+          "count": "4"
+        },
+        {
+          "emoji": "🤣",
+          "count": "4"
+        },
+        {
+          "emoji": "😎",
+          "count": "1"
+        }
+      ],
+      "views_label": "32.7K",
+      "posted_at": "2026-10-01T07:44:57+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/150359"
+    },
+    {
+      "id": "alonews/150358",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LKUcJOMXwon0mKhbhlO5EuKDeiQnQUbLK71hd4w0xXNyZkC42PpXKYogpOmJRmq-Y4oA9SNmbty7xOX4JxsbAoJdaeJQ4tOzj7pMoPl4fKqckU19PYWCPuDgE-PxSNZk-D-FAlyXKhTbyhIoYORKLRPKNq1UxjrkJIEHE6Ym3bYVQgl8OTXcFTBoVw1R5iwV8NhMvuy9xHZavcgdxgmeIa6qjpL5h9F-RCWkdp9pUiRlexj-q9ts2XdcOGAOnhiLkNiiErULk6uhnutyXQVXc6ksF_thUIItdfbnx4AibW7enpBFPZYzf1B4ngbZzijzpxJh54C41bPe-YVhrcz9og.jpg",
+      "author_photo_path": "channels/alonews/media/13db1a96686d1dbd43d9e0c7.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>جمعه این هفته غرب و شمال‌غرب کشور در انتظار توفان خواهد بود<br><br>‏<tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji> سرعت باد به ۵۰ الی ۸۰ کیلومتر برساعت خواهد رسید<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈جمعه این هفته غرب و شمال‌غرب کشور در انتظار توفان خواهد بود ‏🔴 سرعت باد به ۵۰ الی ۸۰ کیلومتر برساعت خواهد رسید ✅ @AloNews",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/alonews/150358",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/PnwsEjrc3BFTqfl1fWBdY90lXX3olsrVBSPZUKNPpqnwN10HUJ_YlK2-8lU5JFxXDUqrpx32fJM2-VziUswzxbn1YnKGC1YXp9Gi1rEVnmTxpjPkZNxSSxN-_JumIyhvxpKd8rH_CRzM2matdWU515pqSbrm4OLuqWhAkBKm8UkDGMWadSX7rIHTlBfZjnGGxcFbrdzKLOFFAAoEp3wsxnboE-_3HK5GosbTrgEfViuWohNgnBWYt5HopzRvGFyGyJLHNPUFRoDvtyyZeNQPLQd4fkrHiwX-OQIVBYKmjzl9QlU_clctiJ6fkH-QuXkBTwl7Z_uYSz3qTqR7hWQHyA.jpg",
+          "thumbnail_path": "channels/alonews/media/42d2f65dc0b1e576e8b0ac20.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.21765601217656
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "141"
+        },
+        {
+          "emoji": "🗿",
+          "count": "18"
+        },
+        {
+          "emoji": "🔥",
+          "count": "11"
+        },
+        {
+          "emoji": "💔",
+          "count": "7"
+        },
+        {
+          "emoji": "👍",
+          "count": "3"
+        },
+        {
+          "emoji": "🤯",
+          "count": "2"
+        },
+        {
+          "emoji": "🤬",
+          "count": "2"
+        },
+        {
+          "emoji": "🖕",
+          "count": "1"
+        }
+      ],
+      "views_label": "34.7K",
+      "posted_at": "2026-10-01T07:39:58+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/150358"
+    },
+    {
+      "id": "alonews/150357",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LKUcJOMXwon0mKhbhlO5EuKDeiQnQUbLK71hd4w0xXNyZkC42PpXKYogpOmJRmq-Y4oA9SNmbty7xOX4JxsbAoJdaeJQ4tOzj7pMoPl4fKqckU19PYWCPuDgE-PxSNZk-D-FAlyXKhTbyhIoYORKLRPKNq1UxjrkJIEHE6Ym3bYVQgl8OTXcFTBoVw1R5iwV8NhMvuy9xHZavcgdxgmeIa6qjpL5h9F-RCWkdp9pUiRlexj-q9ts2XdcOGAOnhiLkNiiErULk6uhnutyXQVXc6ksF_thUIItdfbnx4AibW7enpBFPZYzf1B4ngbZzijzpxJh54C41bPe-YVhrcz9og.jpg",
+      "author_photo_path": "channels/alonews/media/13db1a96686d1dbd43d9e0c7.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>درگیری‌های شدیدی بین نیروهای یمنی و نیروهای وفادار به عربستان سعودی در منطقه شرقی شهر تعز رخ داده است<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈درگیری‌های شدیدی بین نیروهای یمنی و نیروهای وفادار به عربستان سعودی در منطقه شرقی شهر تعز رخ داده است ✅ @AloNews",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/alonews/150357",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/HU4OwWSHQYt7C_XS1i76vg7dTqnx5MEzAFoVn5n6uVwHEId8zBBkhpeUKr-CNBTC0K8Ze8VK-XYN2AEMo1jcc19hp94_IXdS7XZj4OFPADhWAAWSVuN-laQvDZpbEBiaxKelz6ABu6t8Xl0JdUC054imImPodR8GfRLxhzjHm6yE9SWp-F7m0TcFux1IcF6EcoI8k2mumqBCfK0SGi17cPZs2bkEQcbGiE6DpMgx4gNPFvBJx78392_fgVpMJkRIuePg7UYLl6cXSmYFd3ul9BMUWDAjT7aKlAY8Q7Lmw5Amw3u90HLeot4faYcM922kn1Isx3_nxRbr_Z_y-lD8jA",
+          "thumbnail_path": "channels/alonews/media/ceda71fbaf861457c4a08d71.jpg",
+          "duration_label": "0:15",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "146"
+        },
+        {
+          "emoji": "❤",
+          "count": "28"
+        },
+        {
+          "emoji": "👍",
+          "count": "9"
+        },
+        {
+          "emoji": "💔",
+          "count": "7"
+        }
+      ],
+      "views_label": "36.8K",
+      "posted_at": "2026-10-01T07:28:07+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/150357"
+    },
+    {
+      "id": "alonews/150356",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LKUcJOMXwon0mKhbhlO5EuKDeiQnQUbLK71hd4w0xXNyZkC42PpXKYogpOmJRmq-Y4oA9SNmbty7xOX4JxsbAoJdaeJQ4tOzj7pMoPl4fKqckU19PYWCPuDgE-PxSNZk-D-FAlyXKhTbyhIoYORKLRPKNq1UxjrkJIEHE6Ym3bYVQgl8OTXcFTBoVw1R5iwV8NhMvuy9xHZavcgdxgmeIa6qjpL5h9F-RCWkdp9pUiRlexj-q9ts2XdcOGAOnhiLkNiiErULk6uhnutyXQVXc6ksF_thUIItdfbnx4AibW7enpBFPZYzf1B4ngbZzijzpxJh54C41bPe-YVhrcz9og.jpg",
+      "author_photo_path": "channels/alonews/media/13db1a96686d1dbd43d9e0c7.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji> هم‌اکنون آسمان امارات در اختیار چند هواپیمای نظامی ارتش آمریکا!<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈 هم‌اکنون آسمان امارات در اختیار چند هواپیمای نظامی ارتش آمریکا! ✅ @AloNews",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/alonews/150356",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/FPLOTGcXFVwaF3ZniiQF1uY4wMcABdpPCIY0JosGYdVBEjbaDLcjqjyBr5GWGC5Dike3_kekiYB6dgypuOp7pV09X3V5y6zP1VVU67Pv9ugqnBYwRlzHV6uVhN1R7EX8Y2shSO6S_ZQTdbPY0o7mNuFLrgg_WX1KJkPm7BUeQ_PybNH5jKscNH06kI7LKFYDTNIOHkvz0k8IcGYRRoYSiF77nM1oqoGwfFhDI-2iKBRntENca-eansss-KxaPr-zH2_8IdniyLPMeGjsQ6H3pZF74MFSmJet07WWHZllFSerX73XrMhotWWcnBqZ8gStsZHKh4giG1PcGWxlZwwCcQ.jpg",
+          "thumbnail_path": "channels/alonews/media/cbe32f6b1d74e085e5c224e4.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.4519056261343013
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "255"
+        },
+        {
+          "emoji": "🖕",
+          "count": "86"
+        },
+        {
+          "emoji": "🤣",
+          "count": "25"
+        },
+        {
+          "emoji": "🔥",
+          "count": "11"
+        },
+        {
+          "emoji": "💩",
+          "count": "5"
+        },
+        {
+          "emoji": "👍",
+          "count": "4"
+        }
+      ],
+      "views_label": "38.8K",
+      "posted_at": "2026-10-01T07:17:18+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/150356"
+    },
+    {
+      "id": "alonews/150355",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LKUcJOMXwon0mKhbhlO5EuKDeiQnQUbLK71hd4w0xXNyZkC42PpXKYogpOmJRmq-Y4oA9SNmbty7xOX4JxsbAoJdaeJQ4tOzj7pMoPl4fKqckU19PYWCPuDgE-PxSNZk-D-FAlyXKhTbyhIoYORKLRPKNq1UxjrkJIEHE6Ym3bYVQgl8OTXcFTBoVw1R5iwV8NhMvuy9xHZavcgdxgmeIa6qjpL5h9F-RCWkdp9pUiRlexj-q9ts2XdcOGAOnhiLkNiiErULk6uhnutyXQVXc6ksF_thUIItdfbnx4AibW7enpBFPZYzf1B4ngbZzijzpxJh54C41bPe-YVhrcz9og.jpg",
+      "author_photo_path": "channels/alonews/media/13db1a96686d1dbd43d9e0c7.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>سوئد از اول اکتبر جنگنده‌های JAS-39 گریپن خود را برای یک عملیات دوماهه ناتو به لهستان اعزام خواهد کرد؛ عملیاتی که با هدف تقویت جناح شرقی ائتلاف انجام می‌شود<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>این جنگنده‌ها تحت فرماندهی ناتو از آلمان، عملیات‌های هوایی را بر فراز شرق لهستان انجام خواهند داد و در حفاظت از یک مرکز لجستیکی پشتیبان اوکراین و همچنین تقویت سامانه یکپارچه دفاع هوایی و موشکی ناتو مشارکت خواهند کرد<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈سوئد از اول اکتبر جنگنده‌های JAS-39 گریپن خود را برای یک عملیات دوماهه ناتو به لهستان اعزام خواهد کرد؛ عملیاتی که با هدف تقویت جناح شرقی ائتلاف انجام می‌شود 🔴این جنگنده‌ها تحت فرماندهی ناتو از آلمان، عملیات‌های هوایی را بر فراز شرق لهستان انجام خواهند داد و در حفاظت از یک مرکز لجستیکی پشتیبان اوکراین و همچنین تقویت سامانه یکپارچه دفاع هوایی و موشکی ناتو مشارکت خواهند کرد ✅ @AloNews",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/alonews/150355",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/bciK8ZazovwD0Jlnu34HQA4KnDds-SDDGOIVpbj2kt48Hof2Vwx6tz4DqW3i41e1_lXKgjvWrkYZLElK-rbFRiNUyIYZpSn7V5XeadtdKdTGDp2LXxpu-tuZ73VvuxwHXQzXUp-FJyzkVoe8MSMfmNmM8gbzhZcCojEFw9vqNGN9_z3yLYAhfbIY7jULJKFZqPAbTLwsc7pOOdRfjSWTL8f6LMewYcI_ulGp3OS5bwOyC4voDAiJ1QRUNJDnY271y8k6TFl8N8xCkECEvLL3affqEdej0HaR-GxvzzkLy_ttixS4EMzh8ZvLxgz9yOz5smq3l8Msny20DFWcelNIYg.jpg",
+          "thumbnail_path": "channels/alonews/media/aec4dbedf5dba9dc25e6ce42.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "100"
+        },
+        {
+          "emoji": "❤",
+          "count": "20"
+        },
+        {
+          "emoji": "💩",
+          "count": "20"
+        },
+        {
+          "emoji": "👍",
+          "count": "10"
+        },
+        {
+          "emoji": "🖕",
+          "count": "3"
+        }
+      ],
+      "views_label": "41.9K",
+      "posted_at": "2026-10-01T07:07:51+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/150355"
+    },
+    {
+      "id": "alonews/150354",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LKUcJOMXwon0mKhbhlO5EuKDeiQnQUbLK71hd4w0xXNyZkC42PpXKYogpOmJRmq-Y4oA9SNmbty7xOX4JxsbAoJdaeJQ4tOzj7pMoPl4fKqckU19PYWCPuDgE-PxSNZk-D-FAlyXKhTbyhIoYORKLRPKNq1UxjrkJIEHE6Ym3bYVQgl8OTXcFTBoVw1R5iwV8NhMvuy9xHZavcgdxgmeIa6qjpL5h9F-RCWkdp9pUiRlexj-q9ts2XdcOGAOnhiLkNiiErULk6uhnutyXQVXc6ksF_thUIItdfbnx4AibW7enpBFPZYzf1B4ngbZzijzpxJh54C41bPe-YVhrcz9og.jpg",
+      "author_photo_path": "channels/alonews/media/13db1a96686d1dbd43d9e0c7.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>آژانس هوانوردی اروپا: از پرواز در حریم هوایی عربستان، لبنان، ایران، عراق، بحرین، کویت، قطر، امارات و عمان تا ۱۶ نوامبر خودداری شود<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈آژانس هوانوردی اروپا: از پرواز در حریم هوایی عربستان، لبنان، ایران، عراق، بحرین، کویت، قطر، امارات و عمان تا ۱۶ نوامبر خودداری شود ✅ @AloNews",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "141"
+        },
+        {
+          "emoji": "🤣",
+          "count": "41"
+        },
+        {
+          "emoji": "💩",
+          "count": "20"
+        },
+        {
+          "emoji": "❤",
+          "count": "13"
+        },
+        {
+          "emoji": "🔥",
+          "count": "7"
+        },
+        {
+          "emoji": "😐",
+          "count": "3"
+        },
+        {
+          "emoji": "🖕",
+          "count": "1"
+        },
+        {
+          "emoji": "😎",
+          "count": "1"
+        }
+      ],
+      "views_label": "41.9K",
+      "posted_at": "2026-10-01T07:03:16+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/150354"
+    },
+    {
+      "id": "alonews/150353",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LKUcJOMXwon0mKhbhlO5EuKDeiQnQUbLK71hd4w0xXNyZkC42PpXKYogpOmJRmq-Y4oA9SNmbty7xOX4JxsbAoJdaeJQ4tOzj7pMoPl4fKqckU19PYWCPuDgE-PxSNZk-D-FAlyXKhTbyhIoYORKLRPKNq1UxjrkJIEHE6Ym3bYVQgl8OTXcFTBoVw1R5iwV8NhMvuy9xHZavcgdxgmeIa6qjpL5h9F-RCWkdp9pUiRlexj-q9ts2XdcOGAOnhiLkNiiErULk6uhnutyXQVXc6ksF_thUIItdfbnx4AibW7enpBFPZYzf1B4ngbZzijzpxJh54C41bPe-YVhrcz9og.jpg",
+      "author_photo_path": "channels/alonews/media/13db1a96686d1dbd43d9e0c7.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>پسر پناهیان: اگر دانشجویان را اخراج نمی‌کنید، ما مردم به حسابشان برسیم، مماشات هم حدی داره!<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈پسر پناهیان: اگر دانشجویان را اخراج نمی‌کنید، ما مردم به حسابشان برسیم، مماشات هم حدی داره! ✅ @AloNews",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/alonews/150353",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/S8oqB7hOWAGvF6v9lEMw9i9Lcy8ck_ICBYVdOR3wjLvgRtPw_Nu2r_NSGKkBlb_pLd9p6hBIOOvFtLn09MqCH633NtU06Hr7q6u-sqmcHJccJM7e-qZKaKoG0Id7AzjqVSLvbvLVLYPKXrZN72oh7h9REG-Uvke72nUWXAcUwN2uNFOcCkeFz9GlqiVAvpR_K0AXgD2kvQ2dwxnLER0ikbLmEsxvbdQnFzFQyff5PHCMiCZDnqbgqvwTRkIOLCsWGggm8O3WfIWFtLageXLkbBnNZp7SKo0XqA6rACcJJ56bYg_qQ7zA1i_swzIMhPBG7EcZ4N7jgThrLO-3TGvIaw.jpg",
+          "thumbnail_path": "channels/alonews/media/af30443f43b63a9a943033d0.jpg",
+          "duration_label": null,
+          "aspect_ratio": 2.247191011235955
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "⭐",
+          "count": "1"
+        },
+        {
+          "emoji": "🖕",
+          "count": "1.86K"
+        },
+        {
+          "emoji": "💩",
+          "count": "409"
+        },
+        {
+          "emoji": "👍",
+          "count": "94"
+        },
+        {
+          "emoji": "❤",
+          "count": "25"
+        },
+        {
+          "emoji": "🤬",
+          "count": "21"
+        },
+        {
+          "emoji": "🍌",
+          "count": "6"
+        },
+        {
+          "emoji": "🤣",
+          "count": "5"
+        },
+        {
+          "emoji": "👎",
+          "count": "4"
+        }
+      ],
+      "views_label": "44.9K",
+      "posted_at": "2026-10-01T06:50:46+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/150353"
+    },
+    {
+      "id": "alonews/150352",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LKUcJOMXwon0mKhbhlO5EuKDeiQnQUbLK71hd4w0xXNyZkC42PpXKYogpOmJRmq-Y4oA9SNmbty7xOX4JxsbAoJdaeJQ4tOzj7pMoPl4fKqckU19PYWCPuDgE-PxSNZk-D-FAlyXKhTbyhIoYORKLRPKNq1UxjrkJIEHE6Ym3bYVQgl8OTXcFTBoVw1R5iwV8NhMvuy9xHZavcgdxgmeIa6qjpL5h9F-RCWkdp9pUiRlexj-q9ts2XdcOGAOnhiLkNiiErULk6uhnutyXQVXc6ksF_thUIItdfbnx4AibW7enpBFPZYzf1B4ngbZzijzpxJh54C41bPe-YVhrcz9og.jpg",
+      "author_photo_path": "channels/alonews/media/13db1a96686d1dbd43d9e0c7.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>رویترز: نفت با ۱۲ سنت معادل ۰.۱ درصد افزایش، به ۹۸.۱۵ دلار در هر بشکه رسید<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈رویترز: نفت با ۱۲ سنت معادل ۰.۱ درصد افزایش، به ۹۸.۱۵ دلار در هر بشکه رسید ✅ @AloNews",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🍌",
+          "count": "80"
+        },
+        {
+          "emoji": "🔥",
+          "count": "35"
+        },
+        {
+          "emoji": "❤",
+          "count": "8"
+        },
+        {
+          "emoji": "🤷‍♂",
+          "count": "6"
+        },
+        {
+          "emoji": "👍",
+          "count": "3"
+        },
+        {
+          "emoji": "🖕",
+          "count": "3"
+        }
+      ],
+      "views_label": "44.9K",
+      "posted_at": "2026-10-01T06:45:22+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/150352"
+    },
     {
       "id": "alonews/150330",
       "author_name": "اخبار جنگ الونیوز AloNews",
@@ -4014,848 +4928,6 @@
       "posted_at": "2026-09-30T07:51:31+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/150169"
-    },
-    {
-      "id": "alonews/150167",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IKvTy8_gV2jvj-MFsmrDB6mECCFRgRIE9HzaI0pRgMjrbH2CV2OnCXQ__nLY9_ta02gKzK45DaTXIUCJMdV69eNORqkAeVG79idMQNN0wka40G81JJ6sGRSnhaDlSkp_zCkDP8OkYRsHs6osXiQ_DHqFQ6mN4HQ_ZlPwA2gN9_ujzcw1z0-MShmXnVjUs6cRbTW6mRxUVJNnilHzLU51XLmu17YCjtiX0b_hR9EE_KxkD0c-CTENUtGaVuz4WQ_FouXMTtzUe6EE5fdsHT2R0yimXC9fI3W5JIyh2V52ONwk9v3YNNKaEca50k9SplocstD2CP5vgYSezPJmv87Fmg.jpg",
-      "author_photo_path": "channels/alonews/media/6961c1583331982e9ac65010.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>پروازهای جنگی متعددی در آسمان شهر طائف در عربستان سعودی در حال انجام است<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈پروازهای جنگی متعددی در آسمان شهر طائف در عربستان سعودی در حال انجام است ✅ @AloNews",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/alonews/150167?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/HwIhT8e_UnRRKIB8TkiIwwNlv68mLyZS6TcGZ-zLnwebgB31Pc2X4FFqz2j62qUIpqloAiSAnwiur3UhjvPqRq-uoFzbA2-PWJaI6oFAKOfXAu-f1-CELC_e0TZj52NAzY8YYRTUwUQpMJYMCckH9BNOsTKa2nDvg2sU0woqaDaNaa1_4iHCVaeCp_aGQMaiSEDUcWPRg5-MzjgWjoQdMUzAptYpoCZ9GnJ35tYCPNl2mqwN01j4yqM9neRRDLYm6A75GtgHjNxa-i-pWuiFE1SZAmaTS67pNo7aaAUgoD7v8kWN-4YeneOPgs2XGGukcCT1zYUdwNRfbFqdOi1C6g",
-          "thumbnail_path": "channels/alonews/media/7c0c82210408a95c33f17f73.jpg",
-          "duration_label": "0:28",
-          "aspect_ratio": null
-        },
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/alonews/150168?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/tgiy6qzeigoJZCkq-isEtqlndgmBj-4Dssc2Uhw8AU-uBsecs2wF-D4aKVkRItyHzvjGt960b9pV7R5kfvjTvAniyYK7UGJwBGajW2xBKwHx5Fis89PRamlP4pFJd8yKWk-alVAa2mulLb3MxcoG-E4HiDXA2s7WQ6swG7f-FR8agmW1VRDAuacNcQ3BfhIfqQQnjviIpUD1RtuPo3OuqPiYueWNO7_obsy1XNzqfl5VF2uvP1QzQAJWBtlq9DBCFWUpCW4I-PtYZjF2rTRy855Afv-6JPYYDSfa1cf8Iwh1ZPNGvFdKN8IW5k_HVBk5LEi70GnXHAddMtFO-UFakA",
-          "thumbnail_path": "channels/alonews/media/95b91ac7b6a03eca0d573560.jpg",
-          "duration_label": "0:26",
-          "aspect_ratio": null
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "72"
-        },
-        {
-          "emoji": "🖕",
-          "count": "29"
-        },
-        {
-          "emoji": "❤",
-          "count": "16"
-        },
-        {
-          "emoji": "👍",
-          "count": "6"
-        }
-      ],
-      "views_label": "32.7K",
-      "posted_at": "2026-09-30T07:41:02+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/150167"
-    },
-    {
-      "id": "alonews/150166",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IKvTy8_gV2jvj-MFsmrDB6mECCFRgRIE9HzaI0pRgMjrbH2CV2OnCXQ__nLY9_ta02gKzK45DaTXIUCJMdV69eNORqkAeVG79idMQNN0wka40G81JJ6sGRSnhaDlSkp_zCkDP8OkYRsHs6osXiQ_DHqFQ6mN4HQ_ZlPwA2gN9_ujzcw1z0-MShmXnVjUs6cRbTW6mRxUVJNnilHzLU51XLmu17YCjtiX0b_hR9EE_KxkD0c-CTENUtGaVuz4WQ_FouXMTtzUe6EE5fdsHT2R0yimXC9fI3W5JIyh2V52ONwk9v3YNNKaEca50k9SplocstD2CP5vgYSezPJmv87Fmg.jpg",
-      "author_photo_path": "channels/alonews/media/6961c1583331982e9ac65010.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>کتب کمک درسی ۷۰۰ درصد گران شدند<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈کتب کمک درسی ۷۰۰ درصد گران شدند ✅ @AloNews",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/alonews/150166",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/iodPbvyX0A-GYQf74iDUb1Hh182gPQX8sM19olgqy8i1hHf8pMlwP4DlnexCFruvTbpOspMzUNNh1QuLlV-qV5xyNtVI5686Jy8p_PgT57P7VWgAmwmMItST1SSnuRmxz-tXW0lLFztSaSl-RcLeLQtdC94wn93vOr98-FSKRndVVFfnhKJz5A2oniOZ2E37aUmG617H0b5QW8hM2ZLw_9kXao4FKKaUn5-_VOZ8h3B9qT8GpO8YH5Q7TxH2LLOtmK5Id4Tvb38-HnTzg_IAE74IjuPORLGVTp7eJg5AbkPwtEySY3mFYIkJDh-LVC45FLa47WWOiHz9T-1dE3NjNQ.jpg",
-          "thumbnail_path": "channels/alonews/media/36cdf48913fe89cd97c8abc1.jpg",
-          "duration_label": null,
-          "aspect_ratio": 3.1496062992125986
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤬",
-          "count": "288"
-        },
-        {
-          "emoji": "🤣",
-          "count": "29"
-        },
-        {
-          "emoji": "💩",
-          "count": "15"
-        },
-        {
-          "emoji": "💔",
-          "count": "14"
-        },
-        {
-          "emoji": "❤",
-          "count": "8"
-        },
-        {
-          "emoji": "👍",
-          "count": "6"
-        },
-        {
-          "emoji": "🖕",
-          "count": "4"
-        },
-        {
-          "emoji": "🙏",
-          "count": "1"
-        }
-      ],
-      "views_label": "33.8K",
-      "posted_at": "2026-09-30T07:37:01+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/150166"
-    },
-    {
-      "id": "alonews/150165",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IKvTy8_gV2jvj-MFsmrDB6mECCFRgRIE9HzaI0pRgMjrbH2CV2OnCXQ__nLY9_ta02gKzK45DaTXIUCJMdV69eNORqkAeVG79idMQNN0wka40G81JJ6sGRSnhaDlSkp_zCkDP8OkYRsHs6osXiQ_DHqFQ6mN4HQ_ZlPwA2gN9_ujzcw1z0-MShmXnVjUs6cRbTW6mRxUVJNnilHzLU51XLmu17YCjtiX0b_hR9EE_KxkD0c-CTENUtGaVuz4WQ_FouXMTtzUe6EE5fdsHT2R0yimXC9fI3W5JIyh2V52ONwk9v3YNNKaEca50k9SplocstD2CP5vgYSezPJmv87Fmg.jpg",
-      "author_photo_path": "channels/alonews/media/6961c1583331982e9ac65010.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>رسانه‌های اسرائیلی :  دلیل درخواست کمک از سوی هواپیما، وقوع درگیری و نزاع میان مسافران در داخل آن بوده است  <tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> @AloNews",
-      "plain_text": "👈رسانه‌های اسرائیلی : دلیل درخواست کمک از سوی هواپیما، وقوع درگیری و نزاع میان مسافران در داخل آن بوده است ✅ @AloNews",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "411"
-        },
-        {
-          "emoji": "💩",
-          "count": "15"
-        },
-        {
-          "emoji": "❤",
-          "count": "9"
-        },
-        {
-          "emoji": "🤬",
-          "count": "3"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        },
-        {
-          "emoji": "😐",
-          "count": "2"
-        }
-      ],
-      "views_label": "35.8K",
-      "posted_at": "2026-09-30T07:29:45+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/150165"
-    },
-    {
-      "id": "alonews/150164",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IKvTy8_gV2jvj-MFsmrDB6mECCFRgRIE9HzaI0pRgMjrbH2CV2OnCXQ__nLY9_ta02gKzK45DaTXIUCJMdV69eNORqkAeVG79idMQNN0wka40G81JJ6sGRSnhaDlSkp_zCkDP8OkYRsHs6osXiQ_DHqFQ6mN4HQ_ZlPwA2gN9_ujzcw1z0-MShmXnVjUs6cRbTW6mRxUVJNnilHzLU51XLmu17YCjtiX0b_hR9EE_KxkD0c-CTENUtGaVuz4WQ_FouXMTtzUe6EE5fdsHT2R0yimXC9fI3W5JIyh2V52ONwk9v3YNNKaEca50k9SplocstD2CP5vgYSezPJmv87Fmg.jpg",
-      "author_photo_path": "channels/alonews/media/6961c1583331982e9ac65010.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>ارتش اسرائیل (IDF): «در پی گزارش‌های اخیر، رئیس ستاد کل ارتش اسرائیل در دقایق گذشته یک ارزیابی وضعیت با حضور فرمانده نیروی هوایی اسرائیل، رئیس اداره عملیات، رئیس اطلاعات نظامی و شماری دیگر از فرماندهان انجام داد.»<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈ارتش اسرائیل (IDF): «در پی گزارش‌های اخیر، رئیس ستاد کل ارتش اسرائیل در دقایق گذشته یک ارزیابی وضعیت با حضور فرمانده نیروی هوایی اسرائیل، رئیس اداره عملیات، رئیس اطلاعات نظامی و شماری دیگر از فرماندهان انجام داد.» ✅ @AloNews",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "103"
-        },
-        {
-          "emoji": "💩",
-          "count": "33"
-        },
-        {
-          "emoji": "❤",
-          "count": "23"
-        },
-        {
-          "emoji": "🤣",
-          "count": "8"
-        },
-        {
-          "emoji": "🖕",
-          "count": "6"
-        },
-        {
-          "emoji": "🔥",
-          "count": "1"
-        }
-      ],
-      "views_label": "38.8K",
-      "posted_at": "2026-09-30T07:18:08+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/150164"
-    },
-    {
-      "id": "alonews/150163",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IKvTy8_gV2jvj-MFsmrDB6mECCFRgRIE9HzaI0pRgMjrbH2CV2OnCXQ__nLY9_ta02gKzK45DaTXIUCJMdV69eNORqkAeVG79idMQNN0wka40G81JJ6sGRSnhaDlSkp_zCkDP8OkYRsHs6osXiQ_DHqFQ6mN4HQ_ZlPwA2gN9_ujzcw1z0-MShmXnVjUs6cRbTW6mRxUVJNnilHzLU51XLmu17YCjtiX0b_hR9EE_KxkD0c-CTENUtGaVuz4WQ_FouXMTtzUe6EE5fdsHT2R0yimXC9fI3W5JIyh2V52ONwk9v3YNNKaEca50k9SplocstD2CP5vgYSezPJmv87Fmg.jpg",
-      "author_photo_path": "channels/alonews/media/6961c1583331982e9ac65010.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>مورگان اورتگاس، سخنگوی پیشین وزارت خارجه آمریکا : اگه مقامات جمهوری اسلامی منتظر انتخابات میان دوره‌ای آمریکا هستن تا قدرت تصمیم گیری ترامپ درباره ایران محدود بشه، دچار محاسبه‌ای کاملا اشتباه شدن<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>کارزار فشار حداکثری علیه جمهوری‌اسلامی و کشته شدن قاسم سلیمانی هردو زمانی رخ داد که دموکرات‌ها کنترل کنگره رو در دست داشتن<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈مورگان اورتگاس، سخنگوی پیشین وزارت خارجه آمریکا : اگه مقامات جمهوری اسلامی منتظر انتخابات میان دوره‌ای آمریکا هستن تا قدرت تصمیم گیری ترامپ درباره ایران محدود بشه، دچار محاسبه‌ای کاملا اشتباه شدن 🔴کارزار فشار حداکثری علیه جمهوری‌اسلامی و کشته شدن قاسم سلیمانی هردو زمانی رخ داد که دموکرات‌ها کنترل کنگره رو در دست داشتن ✅ @AloNews",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "266"
-        },
-        {
-          "emoji": "🖕",
-          "count": "48"
-        },
-        {
-          "emoji": "❤",
-          "count": "22"
-        },
-        {
-          "emoji": "🤣",
-          "count": "16"
-        },
-        {
-          "emoji": "🔥",
-          "count": "13"
-        }
-      ],
-      "views_label": "39.8K",
-      "posted_at": "2026-09-30T07:14:53+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/150163"
-    },
-    {
-      "id": "alonews/150162",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IKvTy8_gV2jvj-MFsmrDB6mECCFRgRIE9HzaI0pRgMjrbH2CV2OnCXQ__nLY9_ta02gKzK45DaTXIUCJMdV69eNORqkAeVG79idMQNN0wka40G81JJ6sGRSnhaDlSkp_zCkDP8OkYRsHs6osXiQ_DHqFQ6mN4HQ_ZlPwA2gN9_ujzcw1z0-MShmXnVjUs6cRbTW6mRxUVJNnilHzLU51XLmu17YCjtiX0b_hR9EE_KxkD0c-CTENUtGaVuz4WQ_FouXMTtzUe6EE5fdsHT2R0yimXC9fI3W5JIyh2V52ONwk9v3YNNKaEca50k9SplocstD2CP5vgYSezPJmv87Fmg.jpg",
-      "author_photo_path": "channels/alonews/media/6961c1583331982e9ac65010.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>سخنگوی نخست‌وزیر اسرائیل: حادثه‌ای که برای هواپیمای فلای‌دبی رخ داد، اقدام به هواپیماربایی نبوده است<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈سخنگوی نخست‌وزیر اسرائیل: حادثه‌ای که برای هواپیمای فلای‌دبی رخ داد، اقدام به هواپیماربایی نبوده است ✅ @AloNews",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "109"
-        },
-        {
-          "emoji": "💩",
-          "count": "52"
-        },
-        {
-          "emoji": "👍",
-          "count": "25"
-        },
-        {
-          "emoji": "👎",
-          "count": "5"
-        },
-        {
-          "emoji": "🔥",
-          "count": "4"
-        }
-      ],
-      "views_label": "40.9K",
-      "posted_at": "2026-09-30T07:07:50+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/150162"
-    },
-    {
-      "id": "alonews/150161",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IKvTy8_gV2jvj-MFsmrDB6mECCFRgRIE9HzaI0pRgMjrbH2CV2OnCXQ__nLY9_ta02gKzK45DaTXIUCJMdV69eNORqkAeVG79idMQNN0wka40G81JJ6sGRSnhaDlSkp_zCkDP8OkYRsHs6osXiQ_DHqFQ6mN4HQ_ZlPwA2gN9_ujzcw1z0-MShmXnVjUs6cRbTW6mRxUVJNnilHzLU51XLmu17YCjtiX0b_hR9EE_KxkD0c-CTENUtGaVuz4WQ_FouXMTtzUe6EE5fdsHT2R0yimXC9fI3W5JIyh2V52ONwk9v3YNNKaEca50k9SplocstD2CP5vgYSezPJmv87Fmg.jpg",
-      "author_photo_path": "channels/alonews/media/6961c1583331982e9ac65010.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>فلایت رادار: یک فروند هواپیمای مسافربری بوئینگ ۷۳۷ شرکت فلای‌دبی که از دبی به مقصد تل‌آویو در پرواز بود، پس از آنکه برای مدت کوتاهی کد اضطراری ۷۷۰۰ و سپس کد ۷۵۰۰ مربوط به احتمال هواپیماربایی را مخابره کرد، اکنون در حال بازگشت و تغییر مسیر به سمت دبی است …",
-      "plain_text": "👈فلایت رادار: یک فروند هواپیمای مسافربری بوئینگ ۷۳۷ شرکت فلای‌دبی که از دبی به مقصد تل‌آویو در پرواز بود، پس از آنکه برای مدت کوتاهی کد اضطراری ۷۷۰۰ و سپس کد ۷۵۰۰ مربوط به احتمال هواپیماربایی را مخابره کرد، اکنون در حال بازگشت و تغییر مسیر به سمت دبی است …",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "270"
-        },
-        {
-          "emoji": "❤",
-          "count": "20"
-        },
-        {
-          "emoji": "😐",
-          "count": "13"
-        },
-        {
-          "emoji": "👍",
-          "count": "7"
-        },
-        {
-          "emoji": "🖕",
-          "count": "5"
-        },
-        {
-          "emoji": "💩",
-          "count": "4"
-        },
-        {
-          "emoji": "🗿",
-          "count": "2"
-        },
-        {
-          "emoji": "👎",
-          "count": "1"
-        }
-      ],
-      "views_label": "19.4K",
-      "posted_at": "2026-09-30T06:57:35+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/150161"
-    },
-    {
-      "id": "alonews/150160",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IKvTy8_gV2jvj-MFsmrDB6mECCFRgRIE9HzaI0pRgMjrbH2CV2OnCXQ__nLY9_ta02gKzK45DaTXIUCJMdV69eNORqkAeVG79idMQNN0wka40G81JJ6sGRSnhaDlSkp_zCkDP8OkYRsHs6osXiQ_DHqFQ6mN4HQ_ZlPwA2gN9_ujzcw1z0-MShmXnVjUs6cRbTW6mRxUVJNnilHzLU51XLmu17YCjtiX0b_hR9EE_KxkD0c-CTENUtGaVuz4WQ_FouXMTtzUe6EE5fdsHT2R0yimXC9fI3W5JIyh2V52ONwk9v3YNNKaEca50k9SplocstD2CP5vgYSezPJmv87Fmg.jpg",
-      "author_photo_path": "channels/alonews/media/6961c1583331982e9ac65010.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>فلایت رادار: یک فروند هواپیمای مسافربری بوئینگ ۷۳۷ شرکت فلای‌دبی که از دبی به مقصد تل‌آویو در پرواز بود، پس از آنکه برای مدت کوتاهی کد اضطراری ۷۷۰۰ و سپس کد ۷۵۰۰ مربوط به احتمال هواپیماربایی را مخابره کرد، اکنون در حال بازگشت و تغییر مسیر به سمت دبی است …",
-      "plain_text": "👈فلایت رادار: یک فروند هواپیمای مسافربری بوئینگ ۷۳۷ شرکت فلای‌دبی که از دبی به مقصد تل‌آویو در پرواز بود، پس از آنکه برای مدت کوتاهی کد اضطراری ۷۷۰۰ و سپس کد ۷۵۰۰ مربوط به احتمال هواپیماربایی را مخابره کرد، اکنون در حال بازگشت و تغییر مسیر به سمت دبی است …",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "66"
-        },
-        {
-          "emoji": "🤣",
-          "count": "24"
-        },
-        {
-          "emoji": "💩",
-          "count": "14"
-        },
-        {
-          "emoji": "🙏",
-          "count": "8"
-        },
-        {
-          "emoji": "😐",
-          "count": "3"
-        },
-        {
-          "emoji": "🖕",
-          "count": "2"
-        }
-      ],
-      "views_label": "19.4K",
-      "posted_at": "2026-09-30T06:56:29+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/150160"
-    },
-    {
-      "id": "alonews/150159",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IKvTy8_gV2jvj-MFsmrDB6mECCFRgRIE9HzaI0pRgMjrbH2CV2OnCXQ__nLY9_ta02gKzK45DaTXIUCJMdV69eNORqkAeVG79idMQNN0wka40G81JJ6sGRSnhaDlSkp_zCkDP8OkYRsHs6osXiQ_DHqFQ6mN4HQ_ZlPwA2gN9_ujzcw1z0-MShmXnVjUs6cRbTW6mRxUVJNnilHzLU51XLmu17YCjtiX0b_hR9EE_KxkD0c-CTENUtGaVuz4WQ_FouXMTtzUe6EE5fdsHT2R0yimXC9fI3W5JIyh2V52ONwk9v3YNNKaEca50k9SplocstD2CP5vgYSezPJmv87Fmg.jpg",
-      "author_photo_path": "channels/alonews/media/6961c1583331982e9ac65010.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji> <b>پروازهای فرودگاه بن گورین به حالت تعلیق درآمد.</b><br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈 پروازهای فرودگاه بن گورین به حالت تعلیق درآمد. ✅ @AloNews",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "53"
-        },
-        {
-          "emoji": "💩",
-          "count": "16"
-        },
-        {
-          "emoji": "❤",
-          "count": "8"
-        },
-        {
-          "emoji": "👍",
-          "count": "4"
-        },
-        {
-          "emoji": "🔥",
-          "count": "4"
-        },
-        {
-          "emoji": "💔",
-          "count": "1"
-        },
-        {
-          "emoji": "😐",
-          "count": "1"
-        }
-      ],
-      "views_label": "19.4K",
-      "posted_at": "2026-09-30T06:56:20+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/150159"
-    },
-    {
-      "id": "alonews/150158",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IKvTy8_gV2jvj-MFsmrDB6mECCFRgRIE9HzaI0pRgMjrbH2CV2OnCXQ__nLY9_ta02gKzK45DaTXIUCJMdV69eNORqkAeVG79idMQNN0wka40G81JJ6sGRSnhaDlSkp_zCkDP8OkYRsHs6osXiQ_DHqFQ6mN4HQ_ZlPwA2gN9_ujzcw1z0-MShmXnVjUs6cRbTW6mRxUVJNnilHzLU51XLmu17YCjtiX0b_hR9EE_KxkD0c-CTENUtGaVuz4WQ_FouXMTtzUe6EE5fdsHT2R0yimXC9fI3W5JIyh2V52ONwk9v3YNNKaEca50k9SplocstD2CP5vgYSezPJmv87Fmg.jpg",
-      "author_photo_path": "channels/alonews/media/6961c1583331982e9ac65010.jpg",
-      "body_html": "تتر به ۲۵۹ هزار تومن رسید  برای اولین  بار در طول تاریخ فقط در عرض یک روز ۱۰ هزارتومان دلار بالا رفت.   @shahab_gold_trading",
-      "plain_text": "تتر به ۲۵۹ هزار تومن رسید برای اولین بار در طول تاریخ فقط در عرض یک روز ۱۰ هزارتومان دلار بالا رفت. @shahab_gold_trading",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤬",
-          "count": "40"
-        },
-        {
-          "emoji": "🤣",
-          "count": "9"
-        },
-        {
-          "emoji": "👎",
-          "count": "6"
-        },
-        {
-          "emoji": "💔",
-          "count": "6"
-        },
-        {
-          "emoji": "💩",
-          "count": "3"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        }
-      ],
-      "views_label": "20.5K",
-      "posted_at": "2026-09-30T06:55:10+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/150158"
-    },
-    {
-      "id": "alonews/150157",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IKvTy8_gV2jvj-MFsmrDB6mECCFRgRIE9HzaI0pRgMjrbH2CV2OnCXQ__nLY9_ta02gKzK45DaTXIUCJMdV69eNORqkAeVG79idMQNN0wka40G81JJ6sGRSnhaDlSkp_zCkDP8OkYRsHs6osXiQ_DHqFQ6mN4HQ_ZlPwA2gN9_ujzcw1z0-MShmXnVjUs6cRbTW6mRxUVJNnilHzLU51XLmu17YCjtiX0b_hR9EE_KxkD0c-CTENUtGaVuz4WQ_FouXMTtzUe6EE5fdsHT2R0yimXC9fI3W5JIyh2V52ONwk9v3YNNKaEca50k9SplocstD2CP5vgYSezPJmv87Fmg.jpg",
-      "author_photo_path": "channels/alonews/media/6961c1583331982e9ac65010.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>فلایت رادار: یک فروند هواپیمای مسافربری بوئینگ ۷۳۷ شرکت فلای‌دبی که از دبی به مقصد تل‌آویو در پرواز بود، پس از آنکه برای مدت کوتاهی کد اضطراری ۷۷۰۰ و سپس کد ۷۵۰۰ مربوط به احتمال هواپیماربایی را مخابره کرد، اکنون در حال بازگشت و تغییر مسیر به سمت دبی است …",
-      "plain_text": "👈فلایت رادار: یک فروند هواپیمای مسافربری بوئینگ ۷۳۷ شرکت فلای‌دبی که از دبی به مقصد تل‌آویو در پرواز بود، پس از آنکه برای مدت کوتاهی کد اضطراری ۷۷۰۰ و سپس کد ۷۵۰۰ مربوط به احتمال هواپیماربایی را مخابره کرد، اکنون در حال بازگشت و تغییر مسیر به سمت دبی است …",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "113"
-        },
-        {
-          "emoji": "❤",
-          "count": "34"
-        },
-        {
-          "emoji": "💔",
-          "count": "7"
-        },
-        {
-          "emoji": "👍",
-          "count": "6"
-        },
-        {
-          "emoji": "🖕",
-          "count": "3"
-        }
-      ],
-      "views_label": "23.5K",
-      "posted_at": "2026-09-30T06:49:16+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/150157"
-    },
-    {
-      "id": "alonews/150156",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IKvTy8_gV2jvj-MFsmrDB6mECCFRgRIE9HzaI0pRgMjrbH2CV2OnCXQ__nLY9_ta02gKzK45DaTXIUCJMdV69eNORqkAeVG79idMQNN0wka40G81JJ6sGRSnhaDlSkp_zCkDP8OkYRsHs6osXiQ_DHqFQ6mN4HQ_ZlPwA2gN9_ujzcw1z0-MShmXnVjUs6cRbTW6mRxUVJNnilHzLU51XLmu17YCjtiX0b_hR9EE_KxkD0c-CTENUtGaVuz4WQ_FouXMTtzUe6EE5fdsHT2R0yimXC9fI3W5JIyh2V52ONwk9v3YNNKaEca50k9SplocstD2CP5vgYSezPJmv87Fmg.jpg",
-      "author_photo_path": "channels/alonews/media/6961c1583331982e9ac65010.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>منابع عبری: انتظار می رود این هواپیما 10 دقیقه دیگر در عربستان سعودی فرود بیاید  <tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> @AloNews",
-      "plain_text": "👈منابع عبری: انتظار می رود این هواپیما 10 دقیقه دیگر در عربستان سعودی فرود بیاید ✅ @AloNews",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "49"
-        },
-        {
-          "emoji": "🤣",
-          "count": "27"
-        },
-        {
-          "emoji": "🖕",
-          "count": "11"
-        },
-        {
-          "emoji": "🔥",
-          "count": "8"
-        },
-        {
-          "emoji": "💔",
-          "count": "4"
-        },
-        {
-          "emoji": "💩",
-          "count": "2"
-        },
-        {
-          "emoji": "😐",
-          "count": "2"
-        },
-        {
-          "emoji": "🍾",
-          "count": "1"
-        }
-      ],
-      "views_label": "23.5K",
-      "posted_at": "2026-09-30T06:48:58+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/150156"
-    },
-    {
-      "id": "alonews/150155",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IKvTy8_gV2jvj-MFsmrDB6mECCFRgRIE9HzaI0pRgMjrbH2CV2OnCXQ__nLY9_ta02gKzK45DaTXIUCJMdV69eNORqkAeVG79idMQNN0wka40G81JJ6sGRSnhaDlSkp_zCkDP8OkYRsHs6osXiQ_DHqFQ6mN4HQ_ZlPwA2gN9_ujzcw1z0-MShmXnVjUs6cRbTW6mRxUVJNnilHzLU51XLmu17YCjtiX0b_hR9EE_KxkD0c-CTENUtGaVuz4WQ_FouXMTtzUe6EE5fdsHT2R0yimXC9fI3W5JIyh2V52ONwk9v3YNNKaEca50k9SplocstD2CP5vgYSezPJmv87Fmg.jpg",
-      "author_photo_path": "channels/alonews/media/6961c1583331982e9ac65010.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>فلایت رادار: یک فروند هواپیمای مسافربری بوئینگ ۷۳۷ شرکت فلای‌دبی که از دبی به مقصد تل‌آویو در پرواز بود، پس از آنکه برای مدت کوتاهی کد اضطراری ۷۷۰۰ و سپس کد ۷۵۰۰ مربوط به احتمال هواپیماربایی را مخابره کرد، اکنون در حال بازگشت و تغییر مسیر به سمت دبی است …",
-      "plain_text": "👈فلایت رادار: یک فروند هواپیمای مسافربری بوئینگ ۷۳۷ شرکت فلای‌دبی که از دبی به مقصد تل‌آویو در پرواز بود، پس از آنکه برای مدت کوتاهی کد اضطراری ۷۷۰۰ و سپس کد ۷۵۰۰ مربوط به احتمال هواپیماربایی را مخابره کرد، اکنون در حال بازگشت و تغییر مسیر به سمت دبی است …",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "141"
-        },
-        {
-          "emoji": "❤",
-          "count": "38"
-        },
-        {
-          "emoji": "🖕",
-          "count": "21"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        },
-        {
-          "emoji": "💩",
-          "count": "2"
-        },
-        {
-          "emoji": "😐",
-          "count": "1"
-        }
-      ],
-      "views_label": "25.6K",
-      "posted_at": "2026-09-30T06:42:24+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/150155"
-    },
-    {
-      "id": "alonews/150153",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IKvTy8_gV2jvj-MFsmrDB6mECCFRgRIE9HzaI0pRgMjrbH2CV2OnCXQ__nLY9_ta02gKzK45DaTXIUCJMdV69eNORqkAeVG79idMQNN0wka40G81JJ6sGRSnhaDlSkp_zCkDP8OkYRsHs6osXiQ_DHqFQ6mN4HQ_ZlPwA2gN9_ujzcw1z0-MShmXnVjUs6cRbTW6mRxUVJNnilHzLU51XLmu17YCjtiX0b_hR9EE_KxkD0c-CTENUtGaVuz4WQ_FouXMTtzUe6EE5fdsHT2R0yimXC9fI3W5JIyh2V52ONwk9v3YNNKaEca50k9SplocstD2CP5vgYSezPJmv87Fmg.jpg",
-      "author_photo_path": "channels/alonews/media/6961c1583331982e9ac65010.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>منابع ایتایی: کار ماست، الله اکبر<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈منابع ایتایی: کار ماست، الله اکبر ✅ @AloNews",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/alonews/150153",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/a-TH7yVMLm5fPFuB3QDd8SBX9oDENKcMXZDN-XNEOnmxXlKbQAawG7pidfE3Nlt5fsKQA1AF8kdB_LtMSkfymV-8h3pHb2JUS651cRIfh0OxxCv-3f9CuI9vWPxy529TfMpzQogTs3lYNUfg8Bc9v1Sm0i2Bf34qZ5WFpI1DrdCcu3jeyKs3YmLvPO8KNj0P_HFu39oRdXlX8tJNjQ5wIQAgCf4_pJDN2ZOnkbs4y6lwgHWzRmtiv2f8i_D2RPWFkmTi59mw0Z5mdVGPwTzvbuEN_PxCWpaptci4mhsxs0GPDNzUeRZni3FgUeh99yDpB97c1qN1aQCDZiUF9VqhEw",
-          "thumbnail_path": "channels/alonews/media/543377cea2196d2ec13ae72f.jpg",
-          "duration_label": "0:09",
-          "aspect_ratio": 0.9000000000000089
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "273"
-        },
-        {
-          "emoji": "🍌",
-          "count": "20"
-        },
-        {
-          "emoji": "❤",
-          "count": "14"
-        },
-        {
-          "emoji": "🖕",
-          "count": "6"
-        },
-        {
-          "emoji": "🔥",
-          "count": "2"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        },
-        {
-          "emoji": "🤯",
-          "count": "1"
-        },
-        {
-          "emoji": "💩",
-          "count": "1"
-        }
-      ],
-      "views_label": "25.6K",
-      "posted_at": "2026-09-30T06:41:23+00:00",
-      "edited": true,
-      "permalink": "https://t.me/alonews/150153"
-    },
-    {
-      "id": "alonews/150152",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IKvTy8_gV2jvj-MFsmrDB6mECCFRgRIE9HzaI0pRgMjrbH2CV2OnCXQ__nLY9_ta02gKzK45DaTXIUCJMdV69eNORqkAeVG79idMQNN0wka40G81JJ6sGRSnhaDlSkp_zCkDP8OkYRsHs6osXiQ_DHqFQ6mN4HQ_ZlPwA2gN9_ujzcw1z0-MShmXnVjUs6cRbTW6mRxUVJNnilHzLU51XLmu17YCjtiX0b_hR9EE_KxkD0c-CTENUtGaVuz4WQ_FouXMTtzUe6EE5fdsHT2R0yimXC9fI3W5JIyh2V52ONwk9v3YNNKaEca50k9SplocstD2CP5vgYSezPJmv87Fmg.jpg",
-      "author_photo_path": "channels/alonews/media/6961c1583331982e9ac65010.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>کانال ۱۲ اسرائیل در مورد هواپیمای بوئینگ ۷۳۷ فلای دبی: خلبان کد مربوط به ربوده شدن هواپیما را ارسال کرده است، شماری از اسرائیلی‌ها در این پرواز حضور دارند.  <tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>این هواپیما دیگر در اپلیکیشن رهگیری پرواز Flightradar نیز نمایش داده نمی‌شود.  <tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> @AloNews",
-      "plain_text": "👈کانال ۱۲ اسرائیل در مورد هواپیمای بوئینگ ۷۳۷ فلای دبی: خلبان کد مربوط به ربوده شدن هواپیما را ارسال کرده است، شماری از اسرائیلی‌ها در این پرواز حضور دارند. 🔴این هواپیما دیگر در اپلیکیشن رهگیری پرواز Flightradar نیز نمایش داده نمی‌شود. ✅ @AloNews",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "128"
-        },
-        {
-          "emoji": "🤣",
-          "count": "58"
-        },
-        {
-          "emoji": "💔",
-          "count": "30"
-        },
-        {
-          "emoji": "❤",
-          "count": "9"
-        },
-        {
-          "emoji": "🖕",
-          "count": "7"
-        },
-        {
-          "emoji": "💩",
-          "count": "2"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        },
-        {
-          "emoji": "😐",
-          "count": "1"
-        }
-      ],
-      "views_label": "25.6K",
-      "posted_at": "2026-09-30T06:38:53+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/150152"
-    },
-    {
-      "id": "alonews/150151",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IKvTy8_gV2jvj-MFsmrDB6mECCFRgRIE9HzaI0pRgMjrbH2CV2OnCXQ__nLY9_ta02gKzK45DaTXIUCJMdV69eNORqkAeVG79idMQNN0wka40G81JJ6sGRSnhaDlSkp_zCkDP8OkYRsHs6osXiQ_DHqFQ6mN4HQ_ZlPwA2gN9_ujzcw1z0-MShmXnVjUs6cRbTW6mRxUVJNnilHzLU51XLmu17YCjtiX0b_hR9EE_KxkD0c-CTENUtGaVuz4WQ_FouXMTtzUe6EE5fdsHT2R0yimXC9fI3W5JIyh2V52ONwk9v3YNNKaEca50k9SplocstD2CP5vgYSezPJmv87Fmg.jpg",
-      "author_photo_path": "channels/alonews/media/6961c1583331982e9ac65010.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>کانال ۱۲ اسرائیل: مقام‌های اسرائیلی ارتباط خود را با یک فروند بوئینگ ۷۳۷ فلای‌دبی از دست داده‌اند و اسرائیل در حال بررسی احتمال هواپیماربایی این هواپیماست.  <tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji> جنگنده‌های نیروی هوایی اسرائیل برای رهگیری این هواپیما به پرواز درآمده‌اند  <tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> @AloNews",
-      "plain_text": "👈کانال ۱۲ اسرائیل: مقام‌های اسرائیلی ارتباط خود را با یک فروند بوئینگ ۷۳۷ فلای‌دبی از دست داده‌اند و اسرائیل در حال بررسی احتمال هواپیماربایی این هواپیماست. 🔴 جنگنده‌های نیروی هوایی اسرائیل برای رهگیری این هواپیما به پرواز درآمده‌اند ✅ @AloNews",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "103"
-        },
-        {
-          "emoji": "🤣",
-          "count": "55"
-        },
-        {
-          "emoji": "❤",
-          "count": "13"
-        },
-        {
-          "emoji": "💔",
-          "count": "11"
-        },
-        {
-          "emoji": "👍",
-          "count": "9"
-        },
-        {
-          "emoji": "🖕",
-          "count": "2"
-        },
-        {
-          "emoji": "💩",
-          "count": "1"
-        },
-        {
-          "emoji": "😐",
-          "count": "1"
-        }
-      ],
-      "views_label": "26.6K",
-      "posted_at": "2026-09-30T06:35:31+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/150151"
-    },
-    {
-      "id": "alonews/150150",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IKvTy8_gV2jvj-MFsmrDB6mECCFRgRIE9HzaI0pRgMjrbH2CV2OnCXQ__nLY9_ta02gKzK45DaTXIUCJMdV69eNORqkAeVG79idMQNN0wka40G81JJ6sGRSnhaDlSkp_zCkDP8OkYRsHs6osXiQ_DHqFQ6mN4HQ_ZlPwA2gN9_ujzcw1z0-MShmXnVjUs6cRbTW6mRxUVJNnilHzLU51XLmu17YCjtiX0b_hR9EE_KxkD0c-CTENUtGaVuz4WQ_FouXMTtzUe6EE5fdsHT2R0yimXC9fI3W5JIyh2V52ONwk9v3YNNKaEca50k9SplocstD2CP5vgYSezPJmv87Fmg.jpg",
-      "author_photo_path": "channels/alonews/media/6961c1583331982e9ac65010.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>فلایت رادار: یک فروند هواپیمای مسافربری بوئینگ ۷۳۷ شرکت فلای‌دبی که از دبی به مقصد تل‌آویو در پرواز بود، پس از آنکه برای مدت کوتاهی کد اضطراری ۷۷۰۰ و سپس کد ۷۵۰۰ مربوط به احتمال هواپیماربایی را مخابره کرد، اکنون در حال بازگشت و تغییر مسیر به سمت دبی است …",
-      "plain_text": "👈فلایت رادار: یک فروند هواپیمای مسافربری بوئینگ ۷۳۷ شرکت فلای‌دبی که از دبی به مقصد تل‌آویو در پرواز بود، پس از آنکه برای مدت کوتاهی کد اضطراری ۷۷۰۰ و سپس کد ۷۵۰۰ مربوط به احتمال هواپیماربایی را مخابره کرد، اکنون در حال بازگشت و تغییر مسیر به سمت دبی است …",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "93"
-        },
-        {
-          "emoji": "🤣",
-          "count": "26"
-        },
-        {
-          "emoji": "🔥",
-          "count": "10"
-        },
-        {
-          "emoji": "🖕",
-          "count": "10"
-        },
-        {
-          "emoji": "👎",
-          "count": "3"
-        },
-        {
-          "emoji": "🤯",
-          "count": "2"
-        },
-        {
-          "emoji": "💩",
-          "count": "2"
-        },
-        {
-          "emoji": "😎",
-          "count": "2"
-        },
-        {
-          "emoji": "😐",
-          "count": "1"
-        }
-      ],
-      "views_label": "27.6K",
-      "posted_at": "2026-09-30T06:34:57+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/150150"
-    },
-    {
-      "id": "alonews/150149",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IKvTy8_gV2jvj-MFsmrDB6mECCFRgRIE9HzaI0pRgMjrbH2CV2OnCXQ__nLY9_ta02gKzK45DaTXIUCJMdV69eNORqkAeVG79idMQNN0wka40G81JJ6sGRSnhaDlSkp_zCkDP8OkYRsHs6osXiQ_DHqFQ6mN4HQ_ZlPwA2gN9_ujzcw1z0-MShmXnVjUs6cRbTW6mRxUVJNnilHzLU51XLmu17YCjtiX0b_hR9EE_KxkD0c-CTENUtGaVuz4WQ_FouXMTtzUe6EE5fdsHT2R0yimXC9fI3W5JIyh2V52ONwk9v3YNNKaEca50k9SplocstD2CP5vgYSezPJmv87Fmg.jpg",
-      "author_photo_path": "channels/alonews/media/6961c1583331982e9ac65010.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>فلایت رادار: یک فروند هواپیمای مسافربری بوئینگ ۷۳۷ شرکت فلای‌دبی که از دبی به مقصد تل‌آویو در پرواز بود، پس از آنکه برای مدت کوتاهی کد اضطراری ۷۷۰۰ و سپس کد ۷۵۰۰ مربوط به احتمال هواپیماربایی را مخابره کرد، اکنون در حال بازگشت و تغییر مسیر به سمت دبی است<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈فلایت رادار: یک فروند هواپیمای مسافربری بوئینگ ۷۳۷ شرکت فلای‌دبی که از دبی به مقصد تل‌آویو در پرواز بود، پس از آنکه برای مدت کوتاهی کد اضطراری ۷۷۰۰ و سپس کد ۷۵۰۰ مربوط به احتمال هواپیماربایی را مخابره کرد، اکنون در حال بازگشت و تغییر مسیر به سمت دبی است ✅ @AloNews",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/alonews/150149",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/AIrUAtWoH-u37EMz7He1iZw7YsgZAn6iTE_PFe2p6Nt3_bKeuNvaZ091SFLpUr3Ih4J6b6-zl92CnDIZCZsvFN9Dk9Q1PDsv53Dn6BY3Ydc1OpGQi9XgBB7Rwu6qw807wWWdJ3WA7Kc-IzCLoWJWCXCNJtuNByPV4zEbyU8_OE30-mb9ySMRjE_CSYbuNhfUvBZF4s_fxwraEEg_FOgBgVtSUXPMdWT4V5PU92CsnzGv3h_KhWOfxnas4L2R58YnTg_mqCFHbwUqAKUrEPlq8YDlVk0se-UCzfmZUkf0OXuL5pAykeKgeRxVbv6hsu8nz4h0GB4DoV1Ck4yVTcMSrg.jpg",
-          "thumbnail_path": "channels/alonews/media/ba025699f29a5e22ffd166d9.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "93"
-        },
-        {
-          "emoji": "🔥",
-          "count": "32"
-        },
-        {
-          "emoji": "❤",
-          "count": "13"
-        },
-        {
-          "emoji": "😎",
-          "count": "3"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        },
-        {
-          "emoji": "💔",
-          "count": "2"
-        },
-        {
-          "emoji": "😐",
-          "count": "1"
-        }
-      ],
-      "views_label": "27.6K",
-      "posted_at": "2026-09-30T06:34:34+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/150149"
-    },
-    {
-      "id": "alonews/150148",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IKvTy8_gV2jvj-MFsmrDB6mECCFRgRIE9HzaI0pRgMjrbH2CV2OnCXQ__nLY9_ta02gKzK45DaTXIUCJMdV69eNORqkAeVG79idMQNN0wka40G81JJ6sGRSnhaDlSkp_zCkDP8OkYRsHs6osXiQ_DHqFQ6mN4HQ_ZlPwA2gN9_ujzcw1z0-MShmXnVjUs6cRbTW6mRxUVJNnilHzLU51XLmu17YCjtiX0b_hR9EE_KxkD0c-CTENUtGaVuz4WQ_FouXMTtzUe6EE5fdsHT2R0yimXC9fI3W5JIyh2V52ONwk9v3YNNKaEca50k9SplocstD2CP5vgYSezPJmv87Fmg.jpg",
-      "author_photo_path": "channels/alonews/media/6961c1583331982e9ac65010.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>گاردین: مذاکرات ایران و آمریکا نتیجه‌ی چندانی نداشته و احتمال از سرگیری درگیری‌ها افزایش پیدا کرده.<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈گاردین: مذاکرات ایران و آمریکا نتیجه‌ی چندانی نداشته و احتمال از سرگیری درگیری‌ها افزایش پیدا کرده. ✅ @AloNews",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "124"
-        },
-        {
-          "emoji": "🔥",
-          "count": "27"
-        },
-        {
-          "emoji": "💔",
-          "count": "6"
-        },
-        {
-          "emoji": "🤬",
-          "count": "5"
-        },
-        {
-          "emoji": "❤",
-          "count": "3"
-        },
-        {
-          "emoji": "👎",
-          "count": "1"
-        },
-        {
-          "emoji": "😎",
-          "count": "1"
-        }
-      ],
-      "views_label": "25.6K",
-      "posted_at": "2026-09-30T06:33:35+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/150148"
     }
   ]
 }
