@@ -1,42 +1,400 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-03T05:53:06.472Z",
+  "fetched_at": "2026-10-03T10:40:45.046Z",
   "channel": {
     "username": "iranianminds",
     "title": "Iranian Minds",
     "description_html": "Manager : <a href=\"https://t.me/AmirrPower\" target=\"_blank\">@AmirrPower</a>",
-    "photo_url": "https://cdn4.telesco.pe/file/NCrpQ1lUePQRJtjJF87IKyEmtjd-BDckIukcoO824l5CpJ7t67PsvHXPn9MXYf3w2bTM3n6IoeAgn9p4SjDdXo2Ahz1a9baW-6clUT5QWVvt38Y7kFWtgnC95A4U7KfILWqKemqlsKnMuNMcjHLdqCGb6sPIaNNGJ5JVa77u8-4f2VbjPRBzBA2Nye1LQRLwYRKE7d9ehXYpyGe9ARjwWy9ezJxqMhCierV8EllglPN-iOh7Je_wx1bXEbaDcAs_KG4Zxvdv_c2_-JnENB6weDhvBlfSCCyZVvHpUhVQvj0ZJ-T6jZXkAQrQt57DaXZDynx0KejH21NHJEdDuEJAhQ.jpg",
-    "photo_path": "channels/iranianminds/media/55eb26c9bf71b800fb5e47f1.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/l5qeJbR6xKGqIgqMJerhUx8yQEPTkqm3ITpKxbMBCkbQSljrnK_uSDxt2zTpRqNW4eJgw1BRZspkyMOkIYbREafbvSJOJ_hF5h0fxKaTyZ0TlSF_y1yPnZWFh_E811DN91B8umg1pSMEoO4xGLFt-mTXYsEKQtj-857GiIOsMu9Up0sy07cEzPSgqZSnY31tWg4qnjF-FmtSGMMv8sYZKRC1ilKrn7QkLiUVpHhkLebrpMKBfOC2IgXgA6Cm1BV2hVfgL_nRWEauZk-rlsQRYcEpIlixuSPKkFUbZPZn6bH5Fk2HhjqzxETxFgflokJ8Ucd8tQxqMRJ2H6B1NW9zVA.jpg",
+    "photo_path": "channels/iranianminds/media/5f08db10fdd6d8ea80450a9d.jpg",
     "subscriber_count": "237K"
   },
   "posts": [
     {
-      "id": "IranianMinds/30138",
+      "id": "IranianMinds/30146",
       "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/NCrpQ1lUePQRJtjJF87IKyEmtjd-BDckIukcoO824l5CpJ7t67PsvHXPn9MXYf3w2bTM3n6IoeAgn9p4SjDdXo2Ahz1a9baW-6clUT5QWVvt38Y7kFWtgnC95A4U7KfILWqKemqlsKnMuNMcjHLdqCGb6sPIaNNGJ5JVa77u8-4f2VbjPRBzBA2Nye1LQRLwYRKE7d9ehXYpyGe9ARjwWy9ezJxqMhCierV8EllglPN-iOh7Je_wx1bXEbaDcAs_KG4Zxvdv_c2_-JnENB6weDhvBlfSCCyZVvHpUhVQvj0ZJ-T6jZXkAQrQt57DaXZDynx0KejH21NHJEdDuEJAhQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/55eb26c9bf71b800fb5e47f1.jpg",
-      "body_html": "داداشای عزیز<br>امروز 3 اوکتبر<br>روز جهانی دوست پسره<br>اگه چیزی میخوایید از خانوم بچه ها امروز وقتشه<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "داداشای عزیز امروز 3 اوکتبر روز جهانی دوست پسره اگه چیزی میخوایید از خانوم بچه ها امروز وقتشه @IranianMinds",
-      "media": [],
+      "author_photo_url": "https://cdn4.telesco.pe/file/l5qeJbR6xKGqIgqMJerhUx8yQEPTkqm3ITpKxbMBCkbQSljrnK_uSDxt2zTpRqNW4eJgw1BRZspkyMOkIYbREafbvSJOJ_hF5h0fxKaTyZ0TlSF_y1yPnZWFh_E811DN91B8umg1pSMEoO4xGLFt-mTXYsEKQtj-857GiIOsMu9Up0sy07cEzPSgqZSnY31tWg4qnjF-FmtSGMMv8sYZKRC1ilKrn7QkLiUVpHhkLebrpMKBfOC2IgXgA6Cm1BV2hVfgL_nRWEauZk-rlsQRYcEpIlixuSPKkFUbZPZn6bH5Fk2HhjqzxETxFgflokJ8Ucd8tQxqMRJ2H6B1NW9zVA.jpg",
+      "author_photo_path": "channels/iranianminds/media/5f08db10fdd6d8ea80450a9d.jpg",
+      "body_html": "تصویری از مهدی نادری جهرمی<br><br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "تصویری از مهدی نادری جهرمی @IranianMinds",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranianMinds/30146",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/G0K-pvsdWRE5DbdsKrEBBxptEd67JkJ37EeoXQzJ7-DPFo1Lv3j2qjPadAuu-fO7E3CuzsK-43qEcRFdJ-jc00r_-hH0Se-1SrvuiqnOujOBKzIvPyYOO2xNDojZ1cKF7b99_PhJxPFE0vjrTvCDC1-c-WX5UGW0v2zIJEjCFs0Ue34MfV5bAFMk5Aa_WjQGFEIHEpNuszkzfk3ZBd7r_v_4YcEfiAeRWgXLwR93dF9DRUCmArXFTyltLOziWPdOSFirTTN7W4D_hVP1ZqatSwguMJIlym9z_NQ5AZTroevBlPxdqkhP4bUYgR0_1rF4Pm9lyC0CsEfCdK8v6fIqag.jpg",
+          "thumbnail_path": "channels/iranianminds/media/7d06871471853df444b5b59f.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
       "reactions": [
         {
+          "emoji": "❤‍🔥",
+          "count": "496"
+        },
+        {
+          "emoji": "🔥",
+          "count": "64"
+        },
+        {
           "emoji": "🤣",
-          "count": "268"
+          "count": "39"
         },
         {
           "emoji": "❤",
-          "count": "14"
+          "count": "12"
         },
         {
           "emoji": "🖕",
-          "count": "11"
+          "count": "10"
+        },
+        {
+          "emoji": "👍",
+          "count": "7"
         },
         {
           "emoji": "💔",
           "count": "1"
         }
       ],
-      "views_label": "11.9K",
+      "views_label": "13.4K",
+      "posted_at": "2026-10-03T10:05:47+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/30146"
+    },
+    {
+      "id": "IranianMinds/30145",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l5qeJbR6xKGqIgqMJerhUx8yQEPTkqm3ITpKxbMBCkbQSljrnK_uSDxt2zTpRqNW4eJgw1BRZspkyMOkIYbREafbvSJOJ_hF5h0fxKaTyZ0TlSF_y1yPnZWFh_E811DN91B8umg1pSMEoO4xGLFt-mTXYsEKQtj-857GiIOsMu9Up0sy07cEzPSgqZSnY31tWg4qnjF-FmtSGMMv8sYZKRC1ilKrn7QkLiUVpHhkLebrpMKBfOC2IgXgA6Cm1BV2hVfgL_nRWEauZk-rlsQRYcEpIlixuSPKkFUbZPZn6bH5Fk2HhjqzxETxFgflokJ8Ucd8tQxqMRJ2H6B1NW9zVA.jpg",
+      "author_photo_path": "channels/iranianminds/media/5f08db10fdd6d8ea80450a9d.jpg",
+      "body_html": "پشماتون بریزه<br><br>ایران‌ اینترنشنال اومده یه گزارشی از مهدی نادری جهرمی، رییس هیئت‌ مدیره شرکت تهران‌ اینترنت و موسس و مالک اپلیکیشن هف‌ هشتاد جمع اوری کرده<br><br><br><blockquote>نادری جهرمی از همون بچگی خودشو یه عرزشی جا زده و توی دانشگاه امام صادق درس خونده و اونقدری ضد اسرائیلی بوده که تمام وزارت ها بهش پیشنهاد کار دادن.<br></blockquote><br><blockquote>نادری جهرمی به نمایندگان مجلس ۳۰۰ سکه بهار ازادی رشوه میداده و همه رو خریده بوده و توی ترور فرمانده هان سپاه نقش مستقیم داشته</blockquote><br><br>یعنی رسما طرف سال ها جاسوس موسادی بوده و اینقدر تمیز جلو میرفته که هیچکس متوجه نشده<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "پشماتون بریزه ایران‌ اینترنشنال اومده یه گزارشی از مهدی نادری جهرمی، رییس هیئت‌ مدیره شرکت تهران‌ اینترنت و موسس و مالک اپلیکیشن هف‌ هشتاد جمع اوری کرده نادری جهرمی از همون بچگی خودشو یه عرزشی جا زده و توی دانشگاه امام صادق درس خونده و اونقدری ضد اسرائیلی بوده که تمام وزارت ها بهش پیشنهاد کار دادن. نادری جهرمی به نمایندگان مجلس ۳۰۰ سکه بهار ازادی رشوه میداده و همه رو خریده بوده و توی ترور فرمانده هان سپاه نقش مستقیم داشته یعنی رسما طرف سال ها جاسوس موسادی بوده و اینقدر تمیز جلو میرفته که هیچکس متوجه نشده @IranianMinds",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranianMinds/30145",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/RF0fv1M6N0hxLMTVjBVAYT-qdklwS1lguRfXGSUPXnbZk5RV5EeJH9qPDUNP-8esJQH-yD4sgTl9WuBu3Or-2sSftGk9fXPMcFijaU9oT5_FH6vEFFxSqmKEwsHOfA4B7ZLuRX8PMu-obk0ueXTk-C496BtXDwu4ls9RgtFe6hDXJQ3Q04a_PNHPZFAqCJyENcwQm4qSMRCZ9B7gv2v7Q2PACxnggPu2ctpzqAzoEykVMf8gvL2zTBNEVs2hcw7RqbmS30dN-D87QZgpC9_EW1fDkCuXNrSfF9HRrceJJeKMr4NFdQCAS83xe5V0xAHHhf_VOufrOkZnNAd3hnOYRA",
+          "thumbnail_path": "channels/iranianminds/media/c76e7b44cabe75ca3da0aaea.jpg",
+          "duration_label": "9:51",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "684"
+        },
+        {
+          "emoji": "🤣",
+          "count": "79"
+        },
+        {
+          "emoji": "❤",
+          "count": "23"
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "10"
+        },
+        {
+          "emoji": "👏",
+          "count": "4"
+        },
+        {
+          "emoji": "🖕",
+          "count": "3"
+        }
+      ],
+      "views_label": "14.1K",
+      "posted_at": "2026-10-03T10:05:10+00:00",
+      "edited": true,
+      "permalink": "https://t.me/IranianMinds/30145"
+    },
+    {
+      "id": "IranianMinds/30144",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l5qeJbR6xKGqIgqMJerhUx8yQEPTkqm3ITpKxbMBCkbQSljrnK_uSDxt2zTpRqNW4eJgw1BRZspkyMOkIYbREafbvSJOJ_hF5h0fxKaTyZ0TlSF_y1yPnZWFh_E811DN91B8umg1pSMEoO4xGLFt-mTXYsEKQtj-857GiIOsMu9Up0sy07cEzPSgqZSnY31tWg4qnjF-FmtSGMMv8sYZKRC1ilKrn7QkLiUVpHhkLebrpMKBfOC2IgXgA6Cm1BV2hVfgL_nRWEauZk-rlsQRYcEpIlixuSPKkFUbZPZn6bH5Fk2HhjqzxETxFgflokJ8Ucd8tQxqMRJ2H6B1NW9zVA.jpg",
+      "author_photo_path": "channels/iranianminds/media/5f08db10fdd6d8ea80450a9d.jpg",
+      "body_html": "۶ روز اعتراض : ۰ کشته<br>۲ روز اعتراض : ۴۵۰۰۰ کشته",
+      "plain_text": "۶ روز اعتراض : ۰ کشته ۲ روز اعتراض : ۴۵۰۰۰ کشته",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "💔",
+          "count": "667"
+        },
+        {
+          "emoji": "👍",
+          "count": "50"
+        },
+        {
+          "emoji": "🤣",
+          "count": "7"
+        },
+        {
+          "emoji": "🖕",
+          "count": "3"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        }
+      ],
+      "views_label": "13.4K",
+      "posted_at": "2026-10-03T10:03:42+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/30144"
+    },
+    {
+      "id": "IranianMinds/30143",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l5qeJbR6xKGqIgqMJerhUx8yQEPTkqm3ITpKxbMBCkbQSljrnK_uSDxt2zTpRqNW4eJgw1BRZspkyMOkIYbREafbvSJOJ_hF5h0fxKaTyZ0TlSF_y1yPnZWFh_E811DN91B8umg1pSMEoO4xGLFt-mTXYsEKQtj-857GiIOsMu9Up0sy07cEzPSgqZSnY31tWg4qnjF-FmtSGMMv8sYZKRC1ilKrn7QkLiUVpHhkLebrpMKBfOC2IgXgA6Cm1BV2hVfgL_nRWEauZk-rlsQRYcEpIlixuSPKkFUbZPZn6bH5Fk2HhjqzxETxFgflokJ8Ucd8tQxqMRJ2H6B1NW9zVA.jpg",
+      "author_photo_path": "channels/iranianminds/media/5f08db10fdd6d8ea80450a9d.jpg",
+      "body_html": "آره مادرجنده آره<br>فقط تو فرانسه این اتفاق افتاده<br>تو ایران اصلا این اتفاق نیفتاده تاحالا<br>یعنی فیک نیوز تر از این خبرگذاری های ایرانی وجود نداره<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "آره مادرجنده آره فقط تو فرانسه این اتفاق افتاده تو ایران اصلا این اتفاق نیفتاده تاحالا یعنی فیک نیوز تر از این خبرگذاری های ایرانی وجود نداره @IranianMinds",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranianMinds/30143",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/YmWPsz1pueb6DuygNgUvPwhtW2k-DOl7mQRZEtSoG0oUb6xtzGUrRGAk8yj4GRQsaOX3XuqQI_Ik35WxhwjuXY2wukBR7jV4itY3iQgcmsTy3J_NtrTmoPbYCpHUnSNrdYadA6rupkRtMW72qBmDrp0UVuYU4B5HGEma-cWKGLtTQ731vk8x_E5E00V9bwiDNYK8j9yyw-KSypqGjHpJN9gevaGOwwh9HYmQhtL_vVwI3xvwd8Jv22mVx52JZxxE_HE2FIufWi2isPzs_uRni_AEeLYcfszAeLcXJ-xmLcyC7MPCfBWt43gMPhLnbYPwEVIL-BGhyA3qiIEze7jQYQ.jpg",
+          "thumbnail_path": "channels/iranianminds/media/30066ae0341beaa776cf03ab.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.8018018018018018
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "632"
+        },
+        {
+          "emoji": "🖕",
+          "count": "185"
+        },
+        {
+          "emoji": "🤣",
+          "count": "17"
+        },
+        {
+          "emoji": "❤",
+          "count": "4"
+        },
+        {
+          "emoji": "💔",
+          "count": "2"
+        },
+        {
+          "emoji": "👏",
+          "count": "1"
+        }
+      ],
+      "views_label": "17.4K",
+      "posted_at": "2026-10-03T09:53:38+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/30143"
+    },
+    {
+      "id": "IranianMinds/30142",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l5qeJbR6xKGqIgqMJerhUx8yQEPTkqm3ITpKxbMBCkbQSljrnK_uSDxt2zTpRqNW4eJgw1BRZspkyMOkIYbREafbvSJOJ_hF5h0fxKaTyZ0TlSF_y1yPnZWFh_E811DN91B8umg1pSMEoO4xGLFt-mTXYsEKQtj-857GiIOsMu9Up0sy07cEzPSgqZSnY31tWg4qnjF-FmtSGMMv8sYZKRC1ilKrn7QkLiUVpHhkLebrpMKBfOC2IgXgA6Cm1BV2hVfgL_nRWEauZk-rlsQRYcEpIlixuSPKkFUbZPZn6bH5Fk2HhjqzxETxFgflokJ8Ucd8tQxqMRJ2H6B1NW9zVA.jpg",
+      "author_photo_path": "channels/iranianminds/media/5f08db10fdd6d8ea80450a9d.jpg",
+      "body_html": "<b>انتشار تصاویر جدید از کمک‌ خلبان فلای دبی</b><br><br>نمیخوره چاقو کش باشی داداش<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "انتشار تصاویر جدید از کمک‌ خلبان فلای دبی نمیخوره چاقو کش باشی داداش @IranianMinds",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranianMinds/30142",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/SWKJ5FIO3TTCX53iXKXWYu9gxLVYqjCiSzlb9_oJG_IJWqlPa_kYoQM7fPf5WO-ZzPSuzRemJeQ9whF-dCJNmwvKHjPR_nl7F335puLGi3S1bvQmsL9DxLDLUoZLfxG4OiKUW0bcaLY4v27UGeHGF-nOvc2WSVOPucEK5qnHFyaDanNxuhL2NnQJh2iIiocqm0dKcyFbQHkzl-8dGhlTAvpd8YBCd4YcJo3s4J6MZRNOfb9YNjLsvzEQ3N9hKGc8Cb2abY8BiQWL9dQ2ZMGCMnnz6268ZhjbkoF8OSpyuRkrTWLjNRNA5Aq1CO9m9HmoeZ3WmmWuZFP_FId14EVZoQ.jpg",
+          "thumbnail_path": "channels/iranianminds/media/43d629ac50bce2250b3d4793.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8424543946932348
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "583"
+        },
+        {
+          "emoji": "🖕",
+          "count": "56"
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "13"
+        },
+        {
+          "emoji": "❤",
+          "count": "8"
+        },
+        {
+          "emoji": "👍",
+          "count": "2"
+        }
+      ],
+      "views_label": "19.8K",
+      "posted_at": "2026-10-03T09:44:28+00:00",
+      "edited": true,
+      "permalink": "https://t.me/IranianMinds/30142"
+    },
+    {
+      "id": "IranianMinds/30141",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l5qeJbR6xKGqIgqMJerhUx8yQEPTkqm3ITpKxbMBCkbQSljrnK_uSDxt2zTpRqNW4eJgw1BRZspkyMOkIYbREafbvSJOJ_hF5h0fxKaTyZ0TlSF_y1yPnZWFh_E811DN91B8umg1pSMEoO4xGLFt-mTXYsEKQtj-857GiIOsMu9Up0sy07cEzPSgqZSnY31tWg4qnjF-FmtSGMMv8sYZKRC1ilKrn7QkLiUVpHhkLebrpMKBfOC2IgXgA6Cm1BV2hVfgL_nRWEauZk-rlsQRYcEpIlixuSPKkFUbZPZn6bH5Fk2HhjqzxETxFgflokJ8Ucd8tQxqMRJ2H6B1NW9zVA.jpg",
+      "author_photo_path": "channels/iranianminds/media/5f08db10fdd6d8ea80450a9d.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> اسامی رتبه‌های برتر کنکور 1405 اعلام شد و تا فردا نتیجه همه میاد؛<br><blockquote>رشته ریاضی ۱۰ نفر برتر: ۹ پسر ۱ دختر<br>رشته تجربی ۱۰ نفر برتر: ۹ پسر ۱ دختر<br>زشته انسانی ۱۰ نفر برتر: ۴ پسر ۶ دختر <br>رشته هنر ۵ نفر برتر: همگی دختر</blockquote><br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "🔴 اسامی رتبه‌های برتر کنکور 1405 اعلام شد و تا فردا نتیجه همه میاد؛ رشته ریاضی ۱۰ نفر برتر: ۹ پسر ۱ دختر رشته تجربی ۱۰ نفر برتر: ۹ پسر ۱ دختر زشته انسانی ۱۰ نفر برتر: ۴ پسر ۶ دختر رشته هنر ۵ نفر برتر: همگی دختر @IranianMinds",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranianMinds/30141",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/QDfqGO4iFiOKsQgiI19N3dVQIuoLhsGflYid8gncgzir0BBLXIG4-IFmyWydb-CRyIRHE2JSBdklCie6PUJXs-QNZj3rMLPS-NCqI1gx6z0yZh_TEECSZn9myGJT120D9YiFsCSkZClByfoFQ_G9g14Pge_M-ke0ao4VN4Y0YIpmluXo0_hd6CsJxsbxowQYmXMq4Wv-c-owGQfdzy9KXX3e-zIWiFC-Yt62hlMNw4-SE13bRdR1Pe3pSM16InBTPfwmi1yKwiTwZTQ-sqGC4WW1FIfb97rQAsbrEvkZJEbBbLHjnfrj6kj8eCh3VwD8PAc4dfOTQGarqxOgnhiH1g.jpg",
+          "thumbnail_path": "channels/iranianminds/media/e2be8bc0a45f5d97d5c3c921.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤‍🔥",
+          "count": "523"
+        },
+        {
+          "emoji": "🤣",
+          "count": "100"
+        },
+        {
+          "emoji": "❤",
+          "count": "23"
+        },
+        {
+          "emoji": "👏",
+          "count": "15"
+        },
+        {
+          "emoji": "💔",
+          "count": "12"
+        },
+        {
+          "emoji": "👍",
+          "count": "9"
+        },
+        {
+          "emoji": "🖕",
+          "count": "7"
+        },
+        {
+          "emoji": "🔥",
+          "count": "5"
+        }
+      ],
+      "views_label": "28.5K",
+      "posted_at": "2026-10-03T08:27:36+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/30141"
+    },
+    {
+      "id": "IranianMinds/30139",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l5qeJbR6xKGqIgqMJerhUx8yQEPTkqm3ITpKxbMBCkbQSljrnK_uSDxt2zTpRqNW4eJgw1BRZspkyMOkIYbREafbvSJOJ_hF5h0fxKaTyZ0TlSF_y1yPnZWFh_E811DN91B8umg1pSMEoO4xGLFt-mTXYsEKQtj-857GiIOsMu9Up0sy07cEzPSgqZSnY31tWg4qnjF-FmtSGMMv8sYZKRC1ilKrn7QkLiUVpHhkLebrpMKBfOC2IgXgA6Cm1BV2hVfgL_nRWEauZk-rlsQRYcEpIlixuSPKkFUbZPZn6bH5Fk2HhjqzxETxFgflokJ8Ucd8tQxqMRJ2H6B1NW9zVA.jpg",
+      "author_photo_path": "channels/iranianminds/media/5f08db10fdd6d8ea80450a9d.jpg",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> ارتش اسرائیل در صبح امروز اقدام به ترور علی العمودی، معاون فرماندهی سیاسی جنبش حماس، کرد. وی  که به عنوان رهبر این گروه در نوار غزه و جانشین یحیی سنوار شناخته می‌شد، هدف این عملیات قرار گرفت. نتیجه نهایی این عملیات در حال حاضر مشخص نیست.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a></div>",
+      "plain_text": "🔴 ارتش اسرائیل در صبح امروز اقدام به ترور علی العمودی، معاون فرماندهی سیاسی جنبش حماس، کرد. وی که به عنوان رهبر این گروه در نوار غزه و جانشین یحیی سنوار شناخته می‌شد، هدف این عملیات قرار گرفت. نتیجه نهایی این عملیات در حال حاضر مشخص نیست. @IranianMinds",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranianMinds/30140?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/n3fRcDIyzFKb3udlEOvnj80o2wGzzJEsWhOntnJZAZ328Oawszx4mFzQDmLzsWT4Dd3p834GqftthlkvlLOGw9Rez4a7P_GA6Y-fdaJnaXSrKQg9-pPXsGk4MgXdfXqEnMk2GMRXfeQ1ZT5dgS9En6K2WRSG3s_tEmv5Ra4LYJUXAJN_lKiS75etuH8HRjAQAOOwn__ArDDpxvhw1W7pI1icd-y3IaW1NqYiTXu7N2x4tGsHYaTAsV3ZxcKpIu86arSsGrr-9zFKuIxLedCjh6TUrWOtuKZDEBcHXbvQ9ZKGLArvVJoQbha96Fnw16-_NXM0Jen-TmsZyxGO354V2w.jpg",
+          "thumbnail_path": "channels/iranianminds/media/509662ebd4bd25a7c98d5c16.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7755102040816
+        },
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranianMinds/30139?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qHsh4nyhK-eeQCOQwC1EhXg-j84DycPO12eEJoQrDk9wHI_BPN86uHHZFBEqV_dKr5qk8qM1bb1Zpb26CgR_l9QQoXDColgKkewOTNjQe0TZDshwmjYwsSKsQrFrWzqD7D8RPq03Whk_NN48Q-rmOraErj_XWWERFS_G4gYs_7gJsmlm5eOUMiYg--UKS-dQe82ESXNtN6nqsK7WFtyguIDgZfghkj1VvpFxk00qOaJMegmtvCD7JnBpCFTDBnuQ2w-Yo_dRGwZECvm3mB_PNTHioprYkfSnS6_MvKYqDnFlKEir5Uw894QAD1K5DDURL6410MK2nnCEwvZRIr7YFg",
+          "thumbnail_path": "channels/iranianminds/media/8cda3bbeac54f6fb2233efc8.jpg",
+          "duration_label": "0:04",
+          "aspect_ratio": null
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "585"
+        },
+        {
+          "emoji": "🤣",
+          "count": "29"
+        },
+        {
+          "emoji": "❤",
+          "count": "27"
+        },
+        {
+          "emoji": "👍",
+          "count": "10"
+        },
+        {
+          "emoji": "👏",
+          "count": "5"
+        },
+        {
+          "emoji": "🖕",
+          "count": "4"
+        },
+        {
+          "emoji": "💔",
+          "count": "1"
+        }
+      ],
+      "views_label": "29.3K",
+      "posted_at": "2026-10-03T08:12:56+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/30139"
+    },
+    {
+      "id": "IranianMinds/30138",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l5qeJbR6xKGqIgqMJerhUx8yQEPTkqm3ITpKxbMBCkbQSljrnK_uSDxt2zTpRqNW4eJgw1BRZspkyMOkIYbREafbvSJOJ_hF5h0fxKaTyZ0TlSF_y1yPnZWFh_E811DN91B8umg1pSMEoO4xGLFt-mTXYsEKQtj-857GiIOsMu9Up0sy07cEzPSgqZSnY31tWg4qnjF-FmtSGMMv8sYZKRC1ilKrn7QkLiUVpHhkLebrpMKBfOC2IgXgA6Cm1BV2hVfgL_nRWEauZk-rlsQRYcEpIlixuSPKkFUbZPZn6bH5Fk2HhjqzxETxFgflokJ8Ucd8tQxqMRJ2H6B1NW9zVA.jpg",
+      "author_photo_path": "channels/iranianminds/media/5f08db10fdd6d8ea80450a9d.jpg",
+      "body_html": "داداشای عزیز<br>امروز 3 اوکتبر<br>روز جهانی دوست پسره<br>اگه چیزی میخوایید از خانوم بچه ها امروز وقتشه<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "داداشای عزیز امروز 3 اوکتبر روز جهانی دوست پسره اگه چیزی میخوایید از خانوم بچه ها امروز وقتشه @IranianMinds",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "716"
+        },
+        {
+          "emoji": "❤",
+          "count": "45"
+        },
+        {
+          "emoji": "🖕",
+          "count": "20"
+        },
+        {
+          "emoji": "💔",
+          "count": "10"
+        },
+        {
+          "emoji": "👍",
+          "count": "2"
+        },
+        {
+          "emoji": "🔥",
+          "count": "2"
+        }
+      ],
+      "views_label": "39.3K",
       "posted_at": "2026-10-03T04:56:53+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/30138"
@@ -44,34 +402,38 @@
     {
       "id": "IranianMinds/30137",
       "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/NCrpQ1lUePQRJtjJF87IKyEmtjd-BDckIukcoO824l5CpJ7t67PsvHXPn9MXYf3w2bTM3n6IoeAgn9p4SjDdXo2Ahz1a9baW-6clUT5QWVvt38Y7kFWtgnC95A4U7KfILWqKemqlsKnMuNMcjHLdqCGb6sPIaNNGJ5JVa77u8-4f2VbjPRBzBA2Nye1LQRLwYRKE7d9ehXYpyGe9ARjwWy9ezJxqMhCierV8EllglPN-iOh7Je_wx1bXEbaDcAs_KG4Zxvdv_c2_-JnENB6weDhvBlfSCCyZVvHpUhVQvj0ZJ-T6jZXkAQrQt57DaXZDynx0KejH21NHJEdDuEJAhQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/55eb26c9bf71b800fb5e47f1.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l5qeJbR6xKGqIgqMJerhUx8yQEPTkqm3ITpKxbMBCkbQSljrnK_uSDxt2zTpRqNW4eJgw1BRZspkyMOkIYbREafbvSJOJ_hF5h0fxKaTyZ0TlSF_y1yPnZWFh_E811DN91B8umg1pSMEoO4xGLFt-mTXYsEKQtj-857GiIOsMu9Up0sy07cEzPSgqZSnY31tWg4qnjF-FmtSGMMv8sYZKRC1ilKrn7QkLiUVpHhkLebrpMKBfOC2IgXgA6Cm1BV2hVfgL_nRWEauZk-rlsQRYcEpIlixuSPKkFUbZPZn6bH5Fk2HhjqzxETxFgflokJ8Ucd8tQxqMRJ2H6B1NW9zVA.jpg",
+      "author_photo_path": "channels/iranianminds/media/5f08db10fdd6d8ea80450a9d.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> رویترز:<br><br>دو تبعه ایرانی به نام‌های سلام احمدیان، ۳۶ ساله، و رحمان صالحی، ۳۴ ساله، بعد از دستگیری در یک عملیات ضدتروریستی در ۲۰ سپتامبر، به اتهام آماده‌سازی اقدامات تروریستی علیه جامعه یهودیان منچستر دستگیر شدند<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
       "plain_text": "🔴 رویترز: دو تبعه ایرانی به نام‌های سلام احمدیان، ۳۶ ساله، و رحمان صالحی، ۳۴ ساله، بعد از دستگیری در یک عملیات ضدتروریستی در ۲۰ سپتامبر، به اتهام آماده‌سازی اقدامات تروریستی علیه جامعه یهودیان منچستر دستگیر شدند @IranianMinds",
       "media": [],
       "reactions": [
         {
           "emoji": "👍",
-          "count": "415"
-        },
-        {
-          "emoji": "🤣",
-          "count": "17"
+          "count": "675"
         },
         {
           "emoji": "👏",
-          "count": "16"
+          "count": "53"
+        },
+        {
+          "emoji": "🤣",
+          "count": "35"
         },
         {
           "emoji": "❤",
-          "count": "14"
+          "count": "26"
+        },
+        {
+          "emoji": "💔",
+          "count": "5"
         },
         {
           "emoji": "🖕",
-          "count": "2"
+          "count": "4"
         }
       ],
-      "views_label": "22.3K",
+      "views_label": "42.7K",
       "posted_at": "2026-10-03T03:25:58+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/30137"
@@ -79,8 +441,8 @@
     {
       "id": "IranianMinds/30136",
       "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/NCrpQ1lUePQRJtjJF87IKyEmtjd-BDckIukcoO824l5CpJ7t67PsvHXPn9MXYf3w2bTM3n6IoeAgn9p4SjDdXo2Ahz1a9baW-6clUT5QWVvt38Y7kFWtgnC95A4U7KfILWqKemqlsKnMuNMcjHLdqCGb6sPIaNNGJ5JVa77u8-4f2VbjPRBzBA2Nye1LQRLwYRKE7d9ehXYpyGe9ARjwWy9ezJxqMhCierV8EllglPN-iOh7Je_wx1bXEbaDcAs_KG4Zxvdv_c2_-JnENB6weDhvBlfSCCyZVvHpUhVQvj0ZJ-T6jZXkAQrQt57DaXZDynx0KejH21NHJEdDuEJAhQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/55eb26c9bf71b800fb5e47f1.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l5qeJbR6xKGqIgqMJerhUx8yQEPTkqm3ITpKxbMBCkbQSljrnK_uSDxt2zTpRqNW4eJgw1BRZspkyMOkIYbREafbvSJOJ_hF5h0fxKaTyZ0TlSF_y1yPnZWFh_E811DN91B8umg1pSMEoO4xGLFt-mTXYsEKQtj-857GiIOsMu9Up0sy07cEzPSgqZSnY31tWg4qnjF-FmtSGMMv8sYZKRC1ilKrn7QkLiUVpHhkLebrpMKBfOC2IgXgA6Cm1BV2hVfgL_nRWEauZk-rlsQRYcEpIlixuSPKkFUbZPZn6bH5Fk2HhjqzxETxFgflokJ8Ucd8tQxqMRJ2H6B1NW9zVA.jpg",
+      "author_photo_path": "channels/iranianminds/media/5f08db10fdd6d8ea80450a9d.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> استوری جدید آنا د آرماس رو میبینید که چقدر لاغر کرده : <br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
       "plain_text": "🔴 استوری جدید آنا د آرماس رو میبینید که چقدر لاغر کرده : @IranianMinds",
       "media": [
@@ -97,30 +459,34 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "776"
+          "count": "1.01K"
         },
         {
           "emoji": "❤",
-          "count": "83"
+          "count": "109"
         },
         {
           "emoji": "🖕",
-          "count": "52"
+          "count": "67"
         },
         {
           "emoji": "🤣",
-          "count": "29"
+          "count": "36"
         },
         {
           "emoji": "👍",
-          "count": "9"
+          "count": "12"
         },
         {
           "emoji": "👏",
-          "count": "3"
+          "count": "6"
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "1"
         }
       ],
-      "views_label": "34.3K",
+      "views_label": "48.9K",
       "posted_at": "2026-10-02T23:06:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/30136"
@@ -128,8 +494,8 @@
     {
       "id": "IranianMinds/30134",
       "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/NCrpQ1lUePQRJtjJF87IKyEmtjd-BDckIukcoO824l5CpJ7t67PsvHXPn9MXYf3w2bTM3n6IoeAgn9p4SjDdXo2Ahz1a9baW-6clUT5QWVvt38Y7kFWtgnC95A4U7KfILWqKemqlsKnMuNMcjHLdqCGb6sPIaNNGJ5JVa77u8-4f2VbjPRBzBA2Nye1LQRLwYRKE7d9ehXYpyGe9ARjwWy9ezJxqMhCierV8EllglPN-iOh7Je_wx1bXEbaDcAs_KG4Zxvdv_c2_-JnENB6weDhvBlfSCCyZVvHpUhVQvj0ZJ-T6jZXkAQrQt57DaXZDynx0KejH21NHJEdDuEJAhQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/55eb26c9bf71b800fb5e47f1.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l5qeJbR6xKGqIgqMJerhUx8yQEPTkqm3ITpKxbMBCkbQSljrnK_uSDxt2zTpRqNW4eJgw1BRZspkyMOkIYbREafbvSJOJ_hF5h0fxKaTyZ0TlSF_y1yPnZWFh_E811DN91B8umg1pSMEoO4xGLFt-mTXYsEKQtj-857GiIOsMu9Up0sy07cEzPSgqZSnY31tWg4qnjF-FmtSGMMv8sYZKRC1ilKrn7QkLiUVpHhkLebrpMKBfOC2IgXgA6Cm1BV2hVfgL_nRWEauZk-rlsQRYcEpIlixuSPKkFUbZPZn6bH5Fk2HhjqzxETxFgflokJ8Ucd8tQxqMRJ2H6B1NW9zVA.jpg",
+      "author_photo_path": "channels/iranianminds/media/5f08db10fdd6d8ea80450a9d.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i> <b>چرا باید عضو کانال ما باشی؟</b><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> <b>تحلیل‌های روزانه و اختصاصی بازی‌های مهم</b><br><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> پیشنهادهای ویژه با وین‌ریت بالا</b><br><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> استراتژی‌های مدیریت سرمایه برای جلوگیری از ضرر</b><br><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> پشتیبانی و پاسخگویی سریع در گروه VIP</b><br>همین حالا به جمع حرفه‌ای‌ها بپیوند و پیش از هر بازی، استراتژی برنده رو از ما بگیر! <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i> <b>همین حالا به جمع حرفه‌ای‌ها ملحق شو:</b><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i> <b>ورود به کانال اصلی (آنالیزها و فرم‌های روزانه):</b><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://t.me/+SvieErqYgCU3MzNk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>اینجا کلیک کنید و عضو کانال شوید</b></a><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AC.png')\"><b>💬</b></i> <b>ورود به سوپرگروه (چت و تبادل نظر کاربران)</b> ea10<b>:</b><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://t.me/+4bLzD2s-F80wMzBk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>اینجا کلیک کنید و به گروه بپیوندید</b></a>",
       "plain_text": "✅ چرا باید عضو کانال ما باشی؟ 🔹 تحلیل‌های روزانه و اختصاصی بازی‌های مهم 🔹 پیشنهادهای ویژه با وین‌ریت بالا 🔹 استراتژی‌های مدیریت سرمایه برای جلوگیری از ضرر 🔹 پشتیبانی و پاسخگویی سریع در گروه VIP همین حالا به جمع حرفه‌ای‌ها بپیوند و پیش از هر بازی، استراتژی برنده رو از ما بگیر! 🚀 همین حالا به جمع حرفه‌ای‌ها ملحق شو: 📢 ورود به کانال اصلی (آنالیزها و فرم‌های روزانه): 🔗 اینجا کلیک کنید و عضو کانال شوید 💬 ورود به سوپرگروه (چت و تبادل نظر کاربران) ea10: 🔗 اینجا کلیک کنید و به گروه بپیوندید",
       "media": [
@@ -146,14 +512,14 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "10"
+          "count": "12"
         },
         {
           "emoji": "❤",
-          "count": "6"
+          "count": "8"
         }
       ],
-      "views_label": "31.8K",
+      "views_label": "45.3K",
       "posted_at": "2026-10-02T23:06:04+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/30134"
@@ -161,18 +527,18 @@
     {
       "id": "IranianMinds/30135",
       "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/NCrpQ1lUePQRJtjJF87IKyEmtjd-BDckIukcoO824l5CpJ7t67PsvHXPn9MXYf3w2bTM3n6IoeAgn9p4SjDdXo2Ahz1a9baW-6clUT5QWVvt38Y7kFWtgnC95A4U7KfILWqKemqlsKnMuNMcjHLdqCGb6sPIaNNGJ5JVa77u8-4f2VbjPRBzBA2Nye1LQRLwYRKE7d9ehXYpyGe9ARjwWy9ezJxqMhCierV8EllglPN-iOh7Je_wx1bXEbaDcAs_KG4Zxvdv_c2_-JnENB6weDhvBlfSCCyZVvHpUhVQvj0ZJ-T6jZXkAQrQt57DaXZDynx0KejH21NHJEdDuEJAhQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/55eb26c9bf71b800fb5e47f1.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l5qeJbR6xKGqIgqMJerhUx8yQEPTkqm3ITpKxbMBCkbQSljrnK_uSDxt2zTpRqNW4eJgw1BRZspkyMOkIYbREafbvSJOJ_hF5h0fxKaTyZ0TlSF_y1yPnZWFh_E811DN91B8umg1pSMEoO4xGLFt-mTXYsEKQtj-857GiIOsMu9Up0sy07cEzPSgqZSnY31tWg4qnjF-FmtSGMMv8sYZKRC1ilKrn7QkLiUVpHhkLebrpMKBfOC2IgXgA6Cm1BV2hVfgL_nRWEauZk-rlsQRYcEpIlixuSPKkFUbZPZn6bH5Fk2HhjqzxETxFgflokJ8Ucd8tQxqMRJ2H6B1NW9zVA.jpg",
+      "author_photo_path": "channels/iranianminds/media/5f08db10fdd6d8ea80450a9d.jpg",
       "body_html": "<b>ما در تیپسترپرشین آمار، ترکیب و تاکتیک تیم‌ها رو شخم می‌زنیم تا مطمئن‌ترین گزینه‌ها رو دستت بدیم</b><br><br><a href=\"https://t.me/+SvieErqYgCU3MzNk\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/+SvieErqYgCU3MzNk</b></a>",
       "plain_text": "ما در تیپسترپرشین آمار، ترکیب و تاکتیک تیم‌ها رو شخم می‌زنیم تا مطمئن‌ترین گزینه‌ها رو دستت بدیم https://t.me/+SvieErqYgCU3MzNk",
       "media": [],
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "11"
+          "count": "14"
         }
       ],
-      "views_label": "32.3K",
+      "views_label": "45.1K",
       "posted_at": "2026-10-02T23:06:04+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/30135"
@@ -180,8 +546,8 @@
     {
       "id": "IranianMinds/30133",
       "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/NCrpQ1lUePQRJtjJF87IKyEmtjd-BDckIukcoO824l5CpJ7t67PsvHXPn9MXYf3w2bTM3n6IoeAgn9p4SjDdXo2Ahz1a9baW-6clUT5QWVvt38Y7kFWtgnC95A4U7KfILWqKemqlsKnMuNMcjHLdqCGb6sPIaNNGJ5JVa77u8-4f2VbjPRBzBA2Nye1LQRLwYRKE7d9ehXYpyGe9ARjwWy9ezJxqMhCierV8EllglPN-iOh7Je_wx1bXEbaDcAs_KG4Zxvdv_c2_-JnENB6weDhvBlfSCCyZVvHpUhVQvj0ZJ-T6jZXkAQrQt57DaXZDynx0KejH21NHJEdDuEJAhQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/55eb26c9bf71b800fb5e47f1.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l5qeJbR6xKGqIgqMJerhUx8yQEPTkqm3ITpKxbMBCkbQSljrnK_uSDxt2zTpRqNW4eJgw1BRZspkyMOkIYbREafbvSJOJ_hF5h0fxKaTyZ0TlSF_y1yPnZWFh_E811DN91B8umg1pSMEoO4xGLFt-mTXYsEKQtj-857GiIOsMu9Up0sy07cEzPSgqZSnY31tWg4qnjF-FmtSGMMv8sYZKRC1ilKrn7QkLiUVpHhkLebrpMKBfOC2IgXgA6Cm1BV2hVfgL_nRWEauZk-rlsQRYcEpIlixuSPKkFUbZPZn6bH5Fk2HhjqzxETxFgflokJ8Ucd8tQxqMRJ2H6B1NW9zVA.jpg",
+      "author_photo_path": "channels/iranianminds/media/5f08db10fdd6d8ea80450a9d.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> <b>آمریکا شبکه تأمین مالی حماس را تحریم کرد.<br><br>وزارت خزانه‌داری ایالات متحده یک عضو شاخه نظامی حماس در غزه، دو فرد و دو نهاد خیریه‌ای مستقر در فرانسه را به دلیل تشکیل شبکه تأمین مالی تحریم کرد. این شبکه طی سال‌های ۲۰۲۰ تا ۲۰۲۶ با استفاده از خیریه‌های صوری و رمزارز، بیش از ۲ میلیون دلار را جمع‌آوری و به حماس منتقل کرده است.</b><br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
       "plain_text": "🔴 آمریکا شبکه تأمین مالی حماس را تحریم کرد. وزارت خزانه‌داری ایالات متحده یک عضو شاخه نظامی حماس در غزه، دو فرد و دو نهاد خیریه‌ای مستقر در فرانسه را به دلیل تشکیل شبکه تأمین مالی تحریم کرد. این شبکه طی سال‌های ۲۰۲۰ تا ۲۰۲۶ با استفاده از خیریه‌های صوری و رمزارز، بیش از ۲ میلیون دلار را جمع‌آوری و به حماس منتقل کرده است. @IranianMinds",
       "media": [
@@ -198,11 +564,11 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "655"
+          "count": "732"
         },
         {
           "emoji": "❤",
-          "count": "65"
+          "count": "71"
         },
         {
           "emoji": "🤣",
@@ -210,22 +576,22 @@
         },
         {
           "emoji": "🖕",
+          "count": "18"
+        },
+        {
+          "emoji": "👏",
           "count": "17"
         },
         {
           "emoji": "👍",
-          "count": "15"
-        },
-        {
-          "emoji": "👏",
-          "count": "14"
+          "count": "16"
         },
         {
           "emoji": "❤‍🔥",
           "count": "2"
         }
       ],
-      "views_label": "40.6K",
+      "views_label": "47.9K",
       "posted_at": "2026-10-02T20:08:27+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/30133"
@@ -233,8 +599,8 @@
     {
       "id": "IranianMinds/30132",
       "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/NCrpQ1lUePQRJtjJF87IKyEmtjd-BDckIukcoO824l5CpJ7t67PsvHXPn9MXYf3w2bTM3n6IoeAgn9p4SjDdXo2Ahz1a9baW-6clUT5QWVvt38Y7kFWtgnC95A4U7KfILWqKemqlsKnMuNMcjHLdqCGb6sPIaNNGJ5JVa77u8-4f2VbjPRBzBA2Nye1LQRLwYRKE7d9ehXYpyGe9ARjwWy9ezJxqMhCierV8EllglPN-iOh7Je_wx1bXEbaDcAs_KG4Zxvdv_c2_-JnENB6weDhvBlfSCCyZVvHpUhVQvj0ZJ-T6jZXkAQrQt57DaXZDynx0KejH21NHJEdDuEJAhQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/55eb26c9bf71b800fb5e47f1.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l5qeJbR6xKGqIgqMJerhUx8yQEPTkqm3ITpKxbMBCkbQSljrnK_uSDxt2zTpRqNW4eJgw1BRZspkyMOkIYbREafbvSJOJ_hF5h0fxKaTyZ0TlSF_y1yPnZWFh_E811DN91B8umg1pSMEoO4xGLFt-mTXYsEKQtj-857GiIOsMu9Up0sy07cEzPSgqZSnY31tWg4qnjF-FmtSGMMv8sYZKRC1ilKrn7QkLiUVpHhkLebrpMKBfOC2IgXgA6Cm1BV2hVfgL_nRWEauZk-rlsQRYcEpIlixuSPKkFUbZPZn6bH5Fk2HhjqzxETxFgflokJ8Ucd8tQxqMRJ2H6B1NW9zVA.jpg",
+      "author_photo_path": "channels/iranianminds/media/5f08db10fdd6d8ea80450a9d.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> مراد ویسی :<br><br> ممکنه اصلا توی تونل یه تیکه مقوا گذاشته باشن و مجتبی خامنه‌ای وجود نداشته باشه.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
       "plain_text": "🔴 مراد ویسی : ممکنه اصلا توی تونل یه تیکه مقوا گذاشته باشن و مجتبی خامنه‌ای وجود نداشته باشه. @IranianMinds",
       "media": [
@@ -251,26 +617,26 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "2.06K"
+          "count": "2.24K"
         },
         {
           "emoji": "👍",
-          "count": "78"
+          "count": "82"
         },
         {
           "emoji": "🖕",
-          "count": "26"
+          "count": "30"
         },
         {
           "emoji": "❤",
-          "count": "13"
+          "count": "14"
         },
         {
           "emoji": "❤‍🔥",
-          "count": "4"
+          "count": "5"
         }
       ],
-      "views_label": "45.8K",
+      "views_label": "51.3K",
       "posted_at": "2026-10-02T19:16:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/30132"
@@ -278,8 +644,8 @@
     {
       "id": "IranianMinds/30130",
       "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/NCrpQ1lUePQRJtjJF87IKyEmtjd-BDckIukcoO824l5CpJ7t67PsvHXPn9MXYf3w2bTM3n6IoeAgn9p4SjDdXo2Ahz1a9baW-6clUT5QWVvt38Y7kFWtgnC95A4U7KfILWqKemqlsKnMuNMcjHLdqCGb6sPIaNNGJ5JVa77u8-4f2VbjPRBzBA2Nye1LQRLwYRKE7d9ehXYpyGe9ARjwWy9ezJxqMhCierV8EllglPN-iOh7Je_wx1bXEbaDcAs_KG4Zxvdv_c2_-JnENB6weDhvBlfSCCyZVvHpUhVQvj0ZJ-T6jZXkAQrQt57DaXZDynx0KejH21NHJEdDuEJAhQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/55eb26c9bf71b800fb5e47f1.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l5qeJbR6xKGqIgqMJerhUx8yQEPTkqm3ITpKxbMBCkbQSljrnK_uSDxt2zTpRqNW4eJgw1BRZspkyMOkIYbREafbvSJOJ_hF5h0fxKaTyZ0TlSF_y1yPnZWFh_E811DN91B8umg1pSMEoO4xGLFt-mTXYsEKQtj-857GiIOsMu9Up0sy07cEzPSgqZSnY31tWg4qnjF-FmtSGMMv8sYZKRC1ilKrn7QkLiUVpHhkLebrpMKBfOC2IgXgA6Cm1BV2hVfgL_nRWEauZk-rlsQRYcEpIlixuSPKkFUbZPZn6bH5Fk2HhjqzxETxFgflokJ8Ucd8tQxqMRJ2H6B1NW9zVA.jpg",
+      "author_photo_path": "channels/iranianminds/media/5f08db10fdd6d8ea80450a9d.jpg",
       "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAB.png')\"><b>⚫️</b></i> و همچنین امروز تولد جاویدنام نیکاشاکرمی ‌هست ، نیکا اگه هنوز در بینمون بود امروز ۲۱ ساله میشد.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a></div>",
       "plain_text": "⚫️ و همچنین امروز تولد جاویدنام نیکاشاکرمی ‌هست ، نیکا اگه هنوز در بینمون بود امروز ۲۱ ساله میشد. @IranianMinds",
       "media": [
@@ -305,7 +671,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "3.46K"
+          "count": "3.75K"
         },
         {
           "emoji": "🤣",
@@ -313,11 +679,11 @@
         },
         {
           "emoji": "❤",
-          "count": "78"
+          "count": "86"
         },
         {
           "emoji": "❤‍🔥",
-          "count": "22"
+          "count": "23"
         },
         {
           "emoji": "🖕",
@@ -326,9 +692,13 @@
         {
           "emoji": "👏",
           "count": "2"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
         }
       ],
-      "views_label": "45.3K",
+      "views_label": "50.6K",
       "posted_at": "2026-10-02T19:03:21+00:00",
       "edited": true,
       "permalink": "https://t.me/IranianMinds/30130"
@@ -336,8 +706,8 @@
     {
       "id": "IranianMinds/30129",
       "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/NCrpQ1lUePQRJtjJF87IKyEmtjd-BDckIukcoO824l5CpJ7t67PsvHXPn9MXYf3w2bTM3n6IoeAgn9p4SjDdXo2Ahz1a9baW-6clUT5QWVvt38Y7kFWtgnC95A4U7KfILWqKemqlsKnMuNMcjHLdqCGb6sPIaNNGJ5JVa77u8-4f2VbjPRBzBA2Nye1LQRLwYRKE7d9ehXYpyGe9ARjwWy9ezJxqMhCierV8EllglPN-iOh7Je_wx1bXEbaDcAs_KG4Zxvdv_c2_-JnENB6weDhvBlfSCCyZVvHpUhVQvj0ZJ-T6jZXkAQrQt57DaXZDynx0KejH21NHJEdDuEJAhQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/55eb26c9bf71b800fb5e47f1.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l5qeJbR6xKGqIgqMJerhUx8yQEPTkqm3ITpKxbMBCkbQSljrnK_uSDxt2zTpRqNW4eJgw1BRZspkyMOkIYbREafbvSJOJ_hF5h0fxKaTyZ0TlSF_y1yPnZWFh_E811DN91B8umg1pSMEoO4xGLFt-mTXYsEKQtj-857GiIOsMu9Up0sy07cEzPSgqZSnY31tWg4qnjF-FmtSGMMv8sYZKRC1ilKrn7QkLiUVpHhkLebrpMKBfOC2IgXgA6Cm1BV2hVfgL_nRWEauZk-rlsQRYcEpIlixuSPKkFUbZPZn6bH5Fk2HhjqzxETxFgflokJ8Ucd8tQxqMRJ2H6B1NW9zVA.jpg",
+      "author_photo_path": "channels/iranianminds/media/5f08db10fdd6d8ea80450a9d.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAB.png')\"><b>⚫️</b></i> امروز ۱۰ مهر ماه تولد و سالگرد جاویدنام شدن خدانور لجه‌ایه خدانور در روز تولدش توسط جمهوری اسلامی کشته شد …<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
       "plain_text": "⚫️ امروز ۱۰ مهر ماه تولد و سالگرد جاویدنام شدن خدانور لجه‌ایه خدانور در روز تولدش توسط جمهوری اسلامی کشته شد … @IranianMinds",
       "media": [
@@ -354,15 +724,15 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "3.24K"
+          "count": "3.53K"
         },
         {
           "emoji": "🤣",
-          "count": "1.94K"
+          "count": "1.95K"
         },
         {
           "emoji": "❤",
-          "count": "67"
+          "count": "71"
         },
         {
           "emoji": "🖕",
@@ -377,7 +747,7 @@
           "count": "2"
         }
       ],
-      "views_label": "43.7K",
+      "views_label": "48.3K",
       "posted_at": "2026-10-02T19:01:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/30129"
@@ -385,8 +755,8 @@
     {
       "id": "IranianMinds/30127",
       "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/NCrpQ1lUePQRJtjJF87IKyEmtjd-BDckIukcoO824l5CpJ7t67PsvHXPn9MXYf3w2bTM3n6IoeAgn9p4SjDdXo2Ahz1a9baW-6clUT5QWVvt38Y7kFWtgnC95A4U7KfILWqKemqlsKnMuNMcjHLdqCGb6sPIaNNGJ5JVa77u8-4f2VbjPRBzBA2Nye1LQRLwYRKE7d9ehXYpyGe9ARjwWy9ezJxqMhCierV8EllglPN-iOh7Je_wx1bXEbaDcAs_KG4Zxvdv_c2_-JnENB6weDhvBlfSCCyZVvHpUhVQvj0ZJ-T6jZXkAQrQt57DaXZDynx0KejH21NHJEdDuEJAhQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/55eb26c9bf71b800fb5e47f1.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l5qeJbR6xKGqIgqMJerhUx8yQEPTkqm3ITpKxbMBCkbQSljrnK_uSDxt2zTpRqNW4eJgw1BRZspkyMOkIYbREafbvSJOJ_hF5h0fxKaTyZ0TlSF_y1yPnZWFh_E811DN91B8umg1pSMEoO4xGLFt-mTXYsEKQtj-857GiIOsMu9Up0sy07cEzPSgqZSnY31tWg4qnjF-FmtSGMMv8sYZKRC1ilKrn7QkLiUVpHhkLebrpMKBfOC2IgXgA6Cm1BV2hVfgL_nRWEauZk-rlsQRYcEpIlixuSPKkFUbZPZn6bH5Fk2HhjqzxETxFgflokJ8Ucd8tQxqMRJ2H6B1NW9zVA.jpg",
+      "author_photo_path": "channels/iranianminds/media/5f08db10fdd6d8ea80450a9d.jpg",
       "body_html": "۷ ماه از آن روز باشکوه گذشت …  @IranianMinds",
       "plain_text": "۷ ماه از آن روز باشکوه گذشت … @IranianMinds",
       "media": [
@@ -412,7 +782,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "2K"
+          "count": "2.14K"
         },
         {
           "emoji": "❤",
@@ -420,7 +790,7 @@
         },
         {
           "emoji": "🖕",
-          "count": "18"
+          "count": "19"
         },
         {
           "emoji": "💔",
@@ -431,7 +801,7 @@
           "count": "1"
         }
       ],
-      "views_label": "45.7K",
+      "views_label": "49.6K",
       "posted_at": "2026-10-02T18:34:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/30127"
@@ -4111,309 +4481,6 @@
       "posted_at": "2026-09-30T18:45:04+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/30028"
-    },
-    {
-      "id": "IranianMinds/30027",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/TLTmUQZvo-M2hsYeFCXtd3JoaPXgqyLVWDRKaLXma7ObuGQeV7deC41LOTVDc2w_2ZFUTx2Tv7ciB2IvB1YlqQbRLCwVrql5EuUiQO2d0dS5a8ZefDkZiuB5FM9cKTpg4b35V_V3W7a8FKDTGWI4D4DhS1x8_Sb458vQnctxoVUYZyMpJ9oDXXHtCvPfsVdFLn9ConjB1QAGU-aaVQZRAjKQSCsH0g2saU-56dfH0XUCWyTMaAoWkY7auNw9Mi9H5UyeiXOBPN3lcI6isNg3DVuknVRD0OUcKALjPGTuZ2QySyvSvODk5874bRkdxzk6k_bLweaWMCi0KVJ3iiY5Og.jpg",
-      "author_photo_path": "channels/iranianminds/media/9a203afae430ed1a1c5cc0b6.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> آژیرهای خطر در نزدیکی پایگاه موفق السلطی در اردن به صدا درآمدند.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "🔴 آژیرهای خطر در نزدیکی پایگاه موفق السلطی در اردن به صدا درآمدند. @IranianMinds",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranianMinds/30027",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/uzMFLSek9pAKqZLT3Yj7TnD1ioFC_H9XQ_LgLrcsJt_4ot9lrJDY5N0LE55UVTZX2P8sISWKFRGHRb46crp9IoNFlNcndYGfRGQbei-jXTkRElA860uEfRMNZd7pUQu_opUfd97sdIUa3WAHM8x3TjJHSAb2CNiKcjyBVgaPqu520UaATY4FdWAemHncxKI_g7c_7jLwYUby46rtIXip_iCsnt8bLcgcxyi78vFpF40APm7GdBFulSiP5YIcAU7UV7tzdTt1z0vhLk-6fmXwZldMrWldpun2cPGDC3uU6dpb5-we1WyaNOtvIY0zUzh1aoqcPyZ6UolmHzU_mKiOqg",
-          "thumbnail_path": "channels/iranianminds/media/99100af1a2c2d5556367e9b2.jpg",
-          "duration_label": "0:08",
-          "aspect_ratio": 1.7740585774058542
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "326"
-        },
-        {
-          "emoji": "🤣",
-          "count": "39"
-        },
-        {
-          "emoji": "👍",
-          "count": "14"
-        },
-        {
-          "emoji": "❤",
-          "count": "3"
-        },
-        {
-          "emoji": "💔",
-          "count": "2"
-        }
-      ],
-      "views_label": "41.1K",
-      "posted_at": "2026-09-30T18:27:54+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/30027"
-    },
-    {
-      "id": "IranianMinds/30026",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/TLTmUQZvo-M2hsYeFCXtd3JoaPXgqyLVWDRKaLXma7ObuGQeV7deC41LOTVDc2w_2ZFUTx2Tv7ciB2IvB1YlqQbRLCwVrql5EuUiQO2d0dS5a8ZefDkZiuB5FM9cKTpg4b35V_V3W7a8FKDTGWI4D4DhS1x8_Sb458vQnctxoVUYZyMpJ9oDXXHtCvPfsVdFLn9ConjB1QAGU-aaVQZRAjKQSCsH0g2saU-56dfH0XUCWyTMaAoWkY7auNw9Mi9H5UyeiXOBPN3lcI6isNg3DVuknVRD0OUcKALjPGTuZ2QySyvSvODk5874bRkdxzk6k_bLweaWMCi0KVJ3iiY5Og.jpg",
-      "author_photo_path": "channels/iranianminds/media/9a203afae430ed1a1c5cc0b6.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> ترامپ:<br><br><blockquote>ایران در جنگ، ۴۵۰۰ نفر را از دست داده است و ما به زودی پیروز خواهیم شد.</blockquote><br><blockquote>میزان نفتی که در سه روز گذشته از تنگه هرمز خارج کردیم، از هر میزان دیگری در تاریخ بیشتر بوده است.</blockquote><br><blockquote>ما تقریباً کنترل کامل تنگه هرمز را در دست داریم.</blockquote><br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "🔴 ترامپ: ایران در جنگ، ۴۵۰۰ نفر را از دست داده است و ما به زودی پیروز خواهیم شد. میزان نفتی که در سه روز گذشته از تنگه هرمز خارج کردیم، از هر میزان دیگری در تاریخ بیشتر بوده است. ما تقریباً کنترل کامل تنگه هرمز را در دست داریم. @IranianMinds",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "2"
-        },
-        {
-          "emoji": "🖕",
-          "count": "1.32K"
-        },
-        {
-          "emoji": "🔥",
-          "count": "714"
-        },
-        {
-          "emoji": "❤",
-          "count": "54"
-        },
-        {
-          "emoji": "🤣",
-          "count": "24"
-        },
-        {
-          "emoji": "👍",
-          "count": "14"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "4"
-        },
-        {
-          "emoji": "💔",
-          "count": "3"
-        }
-      ],
-      "views_label": "43.4K",
-      "posted_at": "2026-09-30T18:01:12+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/30026"
-    },
-    {
-      "id": "IranianMinds/30025",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/TLTmUQZvo-M2hsYeFCXtd3JoaPXgqyLVWDRKaLXma7ObuGQeV7deC41LOTVDc2w_2ZFUTx2Tv7ciB2IvB1YlqQbRLCwVrql5EuUiQO2d0dS5a8ZefDkZiuB5FM9cKTpg4b35V_V3W7a8FKDTGWI4D4DhS1x8_Sb458vQnctxoVUYZyMpJ9oDXXHtCvPfsVdFLn9ConjB1QAGU-aaVQZRAjKQSCsH0g2saU-56dfH0XUCWyTMaAoWkY7auNw9Mi9H5UyeiXOBPN3lcI6isNg3DVuknVRD0OUcKALjPGTuZ2QySyvSvODk5874bRkdxzk6k_bLweaWMCi0KVJ3iiY5Og.jpg",
-      "author_photo_path": "channels/iranianminds/media/9a203afae430ed1a1c5cc0b6.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> فوری: ترامپ:<br><br>به زودی متوجه خواهید شد که اتفاقاتی در مورد ایران رخ خواهد داد.</b><br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "🔴 فوری: ترامپ: به زودی متوجه خواهید شد که اتفاقاتی در مورد ایران رخ خواهد داد. @IranianMinds",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranianMinds/30025",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/JG27snwnny5qA87XE5ZteGGrqTPsGzXKnQZXAFToF6fPwqaB2me6fxOdW_RjOZrcyX3AJn_PtTCE9HZEMMIS7XzajCR8LjCbRYl8Tw_jV4_Vi2_sKqQ-7t6lWL6qtzseA3Nl4ynukRB3BVb7GrItsO5yQE_P-16KZv1nim2N6Hv7roOU4Fym9grWiGzTDCub_HXAFImZuXKNpie9UaqP-68M-tBJY_e01iw4HNBKSzyBaw7bBDVsSE8Z-aszlMDCsK31Q2GAdL86jQRKat57PLwpe400gxJ-ClYq2GxAHcGq5YvBaUW06BrS-ACWcfGYQ_idQJm3BkUCpCLCc_3e5Q",
-          "thumbnail_path": "channels/iranianminds/media/43916ebf5a960ef8c9ccd6c5.jpg",
-          "duration_label": "0:10",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "787"
-        },
-        {
-          "emoji": "🔥",
-          "count": "138"
-        },
-        {
-          "emoji": "🤣",
-          "count": "50"
-        },
-        {
-          "emoji": "🖕",
-          "count": "45"
-        },
-        {
-          "emoji": "👍",
-          "count": "18"
-        }
-      ],
-      "views_label": "42.8K",
-      "posted_at": "2026-09-30T17:56:00+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/30025"
-    },
-    {
-      "id": "IranianMinds/30024",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/TLTmUQZvo-M2hsYeFCXtd3JoaPXgqyLVWDRKaLXma7ObuGQeV7deC41LOTVDc2w_2ZFUTx2Tv7ciB2IvB1YlqQbRLCwVrql5EuUiQO2d0dS5a8ZefDkZiuB5FM9cKTpg4b35V_V3W7a8FKDTGWI4D4DhS1x8_Sb458vQnctxoVUYZyMpJ9oDXXHtCvPfsVdFLn9ConjB1QAGU-aaVQZRAjKQSCsH0g2saU-56dfH0XUCWyTMaAoWkY7auNw9Mi9H5UyeiXOBPN3lcI6isNg3DVuknVRD0OUcKALjPGTuZ2QySyvSvODk5874bRkdxzk6k_bLweaWMCi0KVJ3iiY5Og.jpg",
-      "author_photo_path": "channels/iranianminds/media/9a203afae430ed1a1c5cc0b6.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> لحظاتی پیش نخست‌وزیر بریتانیا، اعلام کرده است که شواهد نشان می‌دهد ایران در حمله ناموفق به پایگاه هوایی بریتانیا و بمب افکن های آمریکایی نقش داشته است.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "🔴 لحظاتی پیش نخست‌وزیر بریتانیا، اعلام کرده است که شواهد نشان می‌دهد ایران در حمله ناموفق به پایگاه هوایی بریتانیا و بمب افکن های آمریکایی نقش داشته است. @IranianMinds",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "674"
-        },
-        {
-          "emoji": "👍",
-          "count": "93"
-        },
-        {
-          "emoji": "🤣",
-          "count": "63"
-        },
-        {
-          "emoji": "❤",
-          "count": "13"
-        },
-        {
-          "emoji": "🖕",
-          "count": "6"
-        }
-      ],
-      "views_label": "42.5K",
-      "posted_at": "2026-09-30T17:42:00+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/30024"
-    },
-    {
-      "id": "IranianMinds/30023",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/TLTmUQZvo-M2hsYeFCXtd3JoaPXgqyLVWDRKaLXma7ObuGQeV7deC41LOTVDc2w_2ZFUTx2Tv7ciB2IvB1YlqQbRLCwVrql5EuUiQO2d0dS5a8ZefDkZiuB5FM9cKTpg4b35V_V3W7a8FKDTGWI4D4DhS1x8_Sb458vQnctxoVUYZyMpJ9oDXXHtCvPfsVdFLn9ConjB1QAGU-aaVQZRAjKQSCsH0g2saU-56dfH0XUCWyTMaAoWkY7auNw9Mi9H5UyeiXOBPN3lcI6isNg3DVuknVRD0OUcKALjPGTuZ2QySyvSvODk5874bRkdxzk6k_bLweaWMCi0KVJ3iiY5Og.jpg",
-      "author_photo_path": "channels/iranianminds/media/9a203afae430ed1a1c5cc0b6.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> نفت برنت ۹۸ دلار.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "🔴 نفت برنت ۹۸ دلار. @IranianMinds",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranianMinds/30023",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/gE6CR0kSQGUxUlsV5ithvvg-DrnmNrOkiPb0O1qoA2sJ9KR6xiQc3O4iF4JVdeLEiYvjdtwJ4DRlARsOZ01Y9DoCLKAqRrkSJrOxqXuaDqjb_qEBH9uXSJAolt9GOwItD4OvLC5piqce4bLf3a6SGfOVh0LG-7yEpWjzuY2_ufBz1arApRflZaxWdvLUFndzYEZ9EgGgu-lrJNiGgBgLJ2riT19fjox_WefMYLKiQzBzhI52d7kF6UObuVgQC3pIWHZ33OByd8fDiEuDQ9IdgwHWUTbblN9H1pSB45RzMybV0jY6XbLJ1ia0an_DQA2r89ycLXcWcE6mi6-OE8ekWw.jpg",
-          "thumbnail_path": "channels/iranianminds/media/f0084ed4aa86705e96bc9999.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.3377926421404682
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "302"
-        },
-        {
-          "emoji": "🤣",
-          "count": "56"
-        },
-        {
-          "emoji": "❤",
-          "count": "12"
-        },
-        {
-          "emoji": "🖕",
-          "count": "10"
-        },
-        {
-          "emoji": "🔥",
-          "count": "1"
-        }
-      ],
-      "views_label": "41.8K",
-      "posted_at": "2026-09-30T17:32:46+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/30023"
-    },
-    {
-      "id": "IranianMinds/30022",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/TLTmUQZvo-M2hsYeFCXtd3JoaPXgqyLVWDRKaLXma7ObuGQeV7deC41LOTVDc2w_2ZFUTx2Tv7ciB2IvB1YlqQbRLCwVrql5EuUiQO2d0dS5a8ZefDkZiuB5FM9cKTpg4b35V_V3W7a8FKDTGWI4D4DhS1x8_Sb458vQnctxoVUYZyMpJ9oDXXHtCvPfsVdFLn9ConjB1QAGU-aaVQZRAjKQSCsH0g2saU-56dfH0XUCWyTMaAoWkY7auNw9Mi9H5UyeiXOBPN3lcI6isNg3DVuknVRD0OUcKALjPGTuZ2QySyvSvODk5874bRkdxzk6k_bLweaWMCi0KVJ3iiY5Og.jpg",
-      "author_photo_path": "channels/iranianminds/media/9a203afae430ed1a1c5cc0b6.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> در ایتا و روبیکا چه میگذرد:</b><br><br><b>رونمایی از اولین موشک اتمی جمهوری اسلامی با دستور مجتبی خامنه‌ای</b><br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "🔴 در ایتا و روبیکا چه میگذرد: رونمایی از اولین موشک اتمی جمهوری اسلامی با دستور مجتبی خامنه‌ای @IranianMinds",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranianMinds/30022",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/TEJeX7npxOLDoMR53nG3gpAsPNBCdDDbSBfCUQJQtFMuOJ2V1oRuLQJGcre-X3yT2cXC7G_rGh6zuoS1dm1VXO7dCArm9gZbigQnxtCXaijktF8qB9CgALzuTtg7srSiDYrJFoNk5cYY_hgtYT8Rz7OTodrKS2ZIHrI2ov1nscackbG-hgvgBTzvY8_jmSK1RHoKu_MCkbvGfyHNDfHEs67xqdMeQPRrlWw_4ZYt614BoH02KD5SEr6GN4rt68i_wGCoQj8oX1hGqgkpYRU7ZWv_8L5wwTuvuFeeMUjJg35LnM6MbINdvnOmS1usBevScSO6HbRkOZ2yakxNmEi66g",
-          "thumbnail_path": "channels/iranianminds/media/c040eca54fcd9e5ca8798b0d.jpg",
-          "duration_label": "1:24",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "1.16K"
-        },
-        {
-          "emoji": "🖕",
-          "count": "91"
-        },
-        {
-          "emoji": "❤",
-          "count": "24"
-        },
-        {
-          "emoji": "💔",
-          "count": "3"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        },
-        {
-          "emoji": "🔥",
-          "count": "2"
-        }
-      ],
-      "views_label": "42.5K",
-      "posted_at": "2026-09-30T17:11:55+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/30022"
-    },
-    {
-      "id": "IranianMinds/30020",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/TLTmUQZvo-M2hsYeFCXtd3JoaPXgqyLVWDRKaLXma7ObuGQeV7deC41LOTVDc2w_2ZFUTx2Tv7ciB2IvB1YlqQbRLCwVrql5EuUiQO2d0dS5a8ZefDkZiuB5FM9cKTpg4b35V_V3W7a8FKDTGWI4D4DhS1x8_Sb458vQnctxoVUYZyMpJ9oDXXHtCvPfsVdFLn9ConjB1QAGU-aaVQZRAjKQSCsH0g2saU-56dfH0XUCWyTMaAoWkY7auNw9Mi9H5UyeiXOBPN3lcI6isNg3DVuknVRD0OUcKALjPGTuZ2QySyvSvODk5874bRkdxzk6k_bLweaWMCi0KVJ3iiY5Og.jpg",
-      "author_photo_path": "channels/iranianminds/media/9a203afae430ed1a1c5cc0b6.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i><b> داداش فوتبال می‌بینی ولی هنوز ازش چیزی درنمیاری؟ <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F988F.png')\"><b>😏</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i><br><br>یه سر بیا ایرانی بتینگ <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9180.png')\"><b>👀</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918D.png')\"><b>👍</b></i><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i> تاسیس کانال سال 2020&nbsp; اینجا خبری از حرفای الکی نیست؛ بازی‌های جذاب رو بررسی می‌کنیم و فرم‌های روزانه می‌ذاریم <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EAF.png')\"><b>🎯</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938A.png')\"><b>📊</b></i><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')\"><b>💰</b></i> اگه دنبال یه کانال فعال و رفاقتی برای پیش‌بینی فوتبالی، یه سر بزن… شاید همون چیزی باشه که دنبالش بودی <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F988E.png')\"><b>😎</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i> بیا داخل، خودت ببین چه خبره!</b><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8694.png')\"><b>🆔</b></i> <a href=\"http://t.me/+3P2wZvzhZbsyY2Vk\" target=\"_blank\" rel=\"noopener\"><b>t.me/+3P2wZvzhZbsyY2Vk</b></a><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8694.png')\"><b>🆔</b></i> <a href=\"http://t.me/+3P2wZvzhZbsyY2Vk\" target=\"_blank\" rel=\"noopener\"><b>t.me/+3P2wZvzhZbsyY2Vk</b></a>",
-      "plain_text": "🔥 داداش فوتبال می‌بینی ولی هنوز ازش چیزی درنمیاری؟ 😏⚽️ یه سر بیا ایرانی بتینگ 👀👍 ✅ تاسیس کانال سال 2020 اینجا خبری از حرفای الکی نیست؛ بازی‌های جذاب رو بررسی می‌کنیم و فرم‌های روزانه می‌ذاریم 🎯📊 💰 اگه دنبال یه کانال فعال و رفاقتی برای پیش‌بینی فوتبالی، یه سر بزن… شاید همون چیزی باشه که دنبالش بودی 😎🔥 👇 بیا داخل، خودت ببین چه خبره! 🆔 t.me/+3P2wZvzhZbsyY2Vk 🆔 t.me/+3P2wZvzhZbsyY2Vk",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranianMinds/30020",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/jEQtoNr0gMc6JnKR_VUYnzHqZD6AOFxrLSK5VgdUkyINELXwLXxi3GmqTYAyNYoMfnQFiszwCqRZvtgn7oH5YEwcGGUdsskj9d2aiCJFKcznNsp1_gpym1FDjHC9FaIJ6z7F4wrcBE3PDUvJD78AfdGib1VOqEeVwYn5lUT_vQaz49v3zQxR7KFyDJEr4yWiZtHVDEB6iEudWaVCQSbN5kyb2wEmEWYGQhOX0B4J2n5cXioUml4-WAQREz7Xw19nS_TuJDiQMc2SMasym4KBTteQ3nRIkozC86dwGwie1jpFRYUKneEn58sXud3iQ7zOtY3plen2nGoDXm5bzLHteA.jpg",
-          "thumbnail_path": "channels/iranianminds/media/18e90d7f5edfbbfdb35ea0ff.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "33"
-        },
-        {
-          "emoji": "🖕",
-          "count": "17"
-        },
-        {
-          "emoji": "❤",
-          "count": "10"
-        }
-      ],
-      "views_label": "39.5K",
-      "posted_at": "2026-09-30T17:11:47+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/30020"
     }
   ]
 }
