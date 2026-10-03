@@ -1,6 +1,15 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-03T05:46:20.048Z",
-  "succeeded": 35,
-  "failed": []
+  "generated_at": "2026-10-03T05:53:17.814Z",
+  "succeeded": 33,
+  "failed": [
+    {
+      "username": "mwarmonitor",
+      "error": "fetch failed"
+    },
+    {
+      "username": "officialrezapahlavi",
+      "error": "fetch failed"
+    }
+  ]
 }
