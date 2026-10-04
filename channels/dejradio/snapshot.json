@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-04T16:57:35.810Z",
+  "fetched_at": "2026-10-04T18:41:02.202Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,68 @@
     "subscriber_count": "14K"
   },
   "posts": [
+    {
+      "id": "DEJradio/8324",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Qtw8gkdVHI3rD7iw5yVL8HaoNJStcZAirCz9mu7HxDCtHyA0I4UFDl24E-TY_gSHz4CSpTRfass0Mkbo1dXecKf70mNGLKIq4XdnFCEuLlHHmpL7QdyQQfCtDyIjBTl3HuRAvBOlaTlzrKWu5Ter8XO_Vv5FIklFYQJrSZirVHiqV64Q4Nxuh7H_Pw0GbMKCSnSZ87vus7zDSO8rQ7MzA0Rf4S57wjRg-S6UbAIFwT5sn1q59rjA-YVNslVH5jykkgEWUxtLJO8SF5FCmseE6c5yUagbIsFeqXFCLj-v-6pI4C_ZQBIK2TwbghSBT7ftj1nPwAh8WmqVMo11WcKSYA.jpg",
+      "author_photo_path": "channels/dejradio/media/686e917cec5998ba8d220572.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5949286409478082944\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9598.png')\"><b>🕘</b></i> خبر ۲۱<br> یکشنبه ۱۲ مهرماه ۱۴۰۵<br><br><a href=\"?q=%23%D8%AE%D8%A8%D8%B1\">#خبر</a> ۲۱<br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "⭕️🕘 خبر ۲۱ یکشنبه ۱۲ مهرماه ۱۴۰۵ #خبر ۲۱ @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/8324",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/VEsSdB4Yd5h3E8u5p2X7pumNjShqfdXNm3QbV0Yz4BDjRyvuEXmHlA0l77TQHImXCUTsY-3eQYKsgucvwfLrBnRgLxWG2MLKiVLuqv8bZ8u2asBiIXjhYsa4yMUFxdbig5g6UvBLoTnEkd_5nxrLnnsmnrXlXmfdrYAfavl2Ai62LfdWjLfgtMgP7wEiatsW5Me9bxasVS5r_pAsYeK49JeF2GQQ00FOsKIgXiTt6THXcaB9P8ijOKK-kkrBFVLZjCcilqzQqOm_Px9eDi0VN2U1_DYq-BpkzBkxAG95OFTvyWt66sQ6Yi2WrW69nsCDLOzVnJJp5IvS_Q_brv-k6g",
+          "thumbnail_path": "channels/dejradio/media/64f5772dd26e5678e599c926.jpg",
+          "duration_label": "2:35",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "4"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
+        }
+      ],
+      "views_label": "520",
+      "posted_at": "2026-10-04T17:50:24+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/8324"
+    },
+    {
+      "id": "DEJradio/8323",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Qtw8gkdVHI3rD7iw5yVL8HaoNJStcZAirCz9mu7HxDCtHyA0I4UFDl24E-TY_gSHz4CSpTRfass0Mkbo1dXecKf70mNGLKIq4XdnFCEuLlHHmpL7QdyQQfCtDyIjBTl3HuRAvBOlaTlzrKWu5Ter8XO_Vv5FIklFYQJrSZirVHiqV64Q4Nxuh7H_Pw0GbMKCSnSZ87vus7zDSO8rQ7MzA0Rf4S57wjRg-S6UbAIFwT5sn1q59rjA-YVNslVH5jykkgEWUxtLJO8SF5FCmseE6c5yUagbIsFeqXFCLj-v-6pI4C_ZQBIK2TwbghSBT7ftj1nPwAh8WmqVMo11WcKSYA.jpg",
+      "author_photo_path": "channels/dejradio/media/686e917cec5998ba8d220572.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')\"><b>🎥</b></i> <tg-emoji emoji-id=\"5841473431744287874\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i></tg-emoji>  <b>ناشناس ۱۱۷۸۰؛ رواتی از سوگ و حافظه</b><br><br>«ناشناس ۱۱۷۸۰» روایتی مستند ـ شاعرانه از زندگی، فقدان و یاد جاویدنامان اعتراضات ۱۸ و ۱۹ دی‌ماه است؛ روایتی از سرکوب و خشونت، سوگ بازماندگان و حافظه جمعی مردمی که نمی‌خواهند نام جان‌باختگان به فراموشی سپرده شود.<br>این نمایش به نویسندگی و کارگردانی هیلا صدیقی، پس از لندن و آمستردام، در برلین و هامبورگ نیز روی صحنه رفت و مسیر تور بین‌المللی خود را ادامه داد.<br><br><br><a href=\"?q=%23%D8%AF%DB%8C%D9%85%D8%A7%D9%87_%D8%AE%D9%88%D9%86%DB%8C%D9%86\">#دیماه_خونین</a> <a href=\"?q=%23%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8_%D8%B4%DB%8C%D8%B1%D9%88%D8%AE%D9%88%D8%B4%DB%8C%D8%AF\">#انقلاب_شیروخوشید</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "🎥 🛑 ناشناس ۱۱۷۸۰؛ رواتی از سوگ و حافظه «ناشناس ۱۱۷۸۰» روایتی مستند ـ شاعرانه از زندگی، فقدان و یاد جاویدنامان اعتراضات ۱۸ و ۱۹ دی‌ماه است؛ روایتی از سرکوب و خشونت، سوگ بازماندگان و حافظه جمعی مردمی که نمی‌خواهند نام جان‌باختگان به فراموشی سپرده شود. این نمایش به نویسندگی و کارگردانی هیلا صدیقی، پس از لندن و آمستردام، در برلین و هامبورگ نیز روی صحنه رفت و مسیر تور بین‌المللی خود را ادامه داد. #دیماه_خونین #انقلاب_شیروخوشید @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/8323",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/tfSSTBcR6RHef6y0D9q1nDcRJtrFX5tK7QTFU05nmT2TGw-udAv7yJdYbTx6qL0ETEKj0q9T9kHpaB24Mx-9VBFRSd4kx2tkwcjcyZhiWd5ia8eZi9H0Wg-XWyXR72I_JrnxsWG3sEVhU0ySnZEa_fKLLuFurS5gXgc_alNNMccBIcbu0Xx9OlKl4VaGgob_7p0_0QI7vEsKKL3Gj_ofLX6SCbjlAixWkak-p99YWXFGHis3dY0TCNgiWiHiBXCYtwGsWScmSMR9YlQDfGb6FpIi87M_Pa5X5bckPYK-CUgK91170IHkVe4SXggdN3h9juqEKtqjSnkXFHpa3ImEPQ",
+          "thumbnail_path": "channels/dejradio/media/9fad05042c1f0b1b54f1fe96.jpg",
+          "duration_label": "4:18",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "💔",
+          "count": "16"
+        }
+      ],
+      "views_label": "656",
+      "posted_at": "2026-10-04T17:38:28+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/8323"
+    },
     {
       "id": "DEJradio/8322",
       "author_name": "DEJ",
@@ -31,14 +93,18 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "27"
+          "count": "40"
         },
         {
           "emoji": "❤",
           "count": "1"
+        },
+        {
+          "emoji": "🫡",
+          "count": "1"
         }
       ],
-      "views_label": "643",
+      "views_label": "1.13K",
       "posted_at": "2026-10-04T15:41:32+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8322"
@@ -64,18 +130,18 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "12"
+          "count": "17"
         },
         {
           "emoji": "👍",
-          "count": "4"
+          "count": "7"
         },
         {
           "emoji": "🖕",
           "count": "4"
         }
       ],
-      "views_label": "734",
+      "views_label": "1.2K",
       "posted_at": "2026-10-04T15:34:36+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8321"
@@ -101,7 +167,7 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "22"
+          "count": "26"
         },
         {
           "emoji": "❤",
@@ -112,7 +178,7 @@
           "count": "1"
         }
       ],
-      "views_label": "797",
+      "views_label": "1.16K",
       "posted_at": "2026-10-04T15:13:23+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8320"
@@ -138,18 +204,18 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "9"
+          "count": "10"
         },
         {
           "emoji": "👍",
-          "count": "2"
+          "count": "4"
         },
         {
           "emoji": "🤔",
           "count": "1"
         }
       ],
-      "views_label": "910",
+      "views_label": "1.19K",
       "posted_at": "2026-10-04T14:30:45+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8319"
@@ -179,7 +245,7 @@
         },
         {
           "emoji": "🤬",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "😁",
@@ -190,7 +256,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.08K",
+      "views_label": "1.32K",
       "posted_at": "2026-10-04T13:48:10+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/8318"
@@ -216,14 +282,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "12"
+          "count": "13"
         },
         {
           "emoji": "❤",
           "count": "1"
         }
       ],
-      "views_label": "1.17K",
+      "views_label": "1.34K",
       "posted_at": "2026-10-04T13:08:34+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8317"
@@ -249,7 +315,7 @@
       "reactions": [
         {
           "emoji": "🤮",
-          "count": "46"
+          "count": "54"
         },
         {
           "emoji": "😁",
@@ -260,7 +326,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.29K",
+      "views_label": "1.47K",
       "posted_at": "2026-10-04T12:15:34+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8316"
@@ -286,18 +352,18 @@
       "reactions": [
         {
           "emoji": "🫡",
-          "count": "36"
+          "count": "37"
         },
         {
           "emoji": "❤",
-          "count": "13"
+          "count": "14"
         },
         {
           "emoji": "👍",
-          "count": "4"
+          "count": "5"
         }
       ],
-      "views_label": "1.16K",
+      "views_label": "1.28K",
       "posted_at": "2026-10-04T11:51:09+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8315"
@@ -323,14 +389,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "16"
+          "count": "17"
         },
         {
           "emoji": "🙏",
           "count": "2"
         }
       ],
-      "views_label": "1.35K",
+      "views_label": "1.46K",
       "posted_at": "2026-10-04T11:24:18+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8314"
@@ -356,14 +422,14 @@
       "reactions": [
         {
           "emoji": "😡",
-          "count": "28"
+          "count": "32"
         },
         {
           "emoji": "❤",
           "count": "2"
         }
       ],
-      "views_label": "1.44K",
+      "views_label": "1.56K",
       "posted_at": "2026-10-04T11:01:54+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8313"
@@ -389,18 +455,18 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "12"
+          "count": "15"
         },
         {
           "emoji": "👍",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "😢",
           "count": "1"
         }
       ],
-      "views_label": "1.5K",
+      "views_label": "1.59K",
       "posted_at": "2026-10-04T09:37:22+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8312"
@@ -426,7 +492,7 @@
       "reactions": [
         {
           "emoji": "😡",
-          "count": "45"
+          "count": "49"
         },
         {
           "emoji": "😁",
@@ -445,7 +511,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.68K",
+      "views_label": "1.77K",
       "posted_at": "2026-10-04T08:20:52+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8311"
@@ -525,11 +591,11 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "33"
+          "count": "35"
         },
         {
           "emoji": "🖕",
-          "count": "8"
+          "count": "9"
         },
         {
           "emoji": "🤮",
@@ -544,7 +610,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.66K",
+      "views_label": "1.76K",
       "posted_at": "2026-10-04T07:51:20+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8304"
@@ -4153,92 +4219,6 @@
       "posted_at": "2026-09-30T07:00:56+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/8206"
-    },
-    {
-      "id": "DEJradio/8205",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/sDoaJNe17lFrKyVqYi_VmbDMhDSVwWmr0mQ9-9v62uqPol0iAnc1Zr1fPNX9pbPsLqRDzDKXxD6w1ymGV5-wDTKgi6c5BuCqtMbrvEHO4_k9X3ZZsXAHwAzSsYRn2XliqsNIwm4nemLy1PBQNGuAuz5abYKjSqtGRdV7f7xm_D2z7PaNuLdeZjHGyH0S3TPS_5AbJZmv_8k6XwTtp4D2XCaIL01gSE4BVhYiBtubrH37aKzK9iNsrfN1RvdreXUgXwUtk5jKkGScCeB3banXrREeBGOKR3XRwj01ngafB414iCO1ma6M2ebrj_ACvO53s-u-H3UtiCP1dBAu4j2uHA.jpg",
-      "author_photo_path": "channels/dejradio/media/63f044a77988eba3198b2aa1.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i> به گزارش شبکه ۱۲ اسرائیل، آمریکا دو اسکادران جنگنده اف-۲۲ به پایگاه هوایی «عُوودا» در جنوب اسرائیل اعزام کرده است.<br>مقام‌های امنیتی اسرائیل گفتند این استقرار بخشی از جابه‌جایی و بازآرایی گسترده‌تر نیروهای نظامی آمریکا در سراسر خاورمیانه است و نشانه‌ای از تشدید تازه تنش با ایران محسوب نمی‌شود.<br><br>این مقام‌ها تأکید کردند انتقال این هواپیماها از یک منطقه دیگر به اسرائیل، به معنای تغییر در سطح آمادگی نظامی آمریکا در ارتباط با ایران نیست.<br><br>یکی از مقام‌های امنیتی در این باره گفت: «آمریکایی‌ها هنوز با سطح تجمع نیروهایی که در آستانه جنگ با ایران داشتند، فاصله بسیار زیادی دارند.»<br><br>ارتش آمریکا در هفته‌های اخیر در حال چرخش واحدهای جنگنده در سراسر خاورمیانه بوده است؛ به این ترتیب که هواپیماها و نیروهای تازه‌نفس وارد منطقه می‌شوند و هم‌زمان به واحدهایی که برای مدت طولانی در منطقه مستقر بوده‌اند، اجازه داده می‌شود به پایگاه‌های اصلی خود بازگردند.<br><br><a href=\"?q=%23%D8%AC%D9%86%DA%AF\">#جنگ</a> <a href=\"?q=%23%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84\">#اسرائیل</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "🔺📢 به گزارش شبکه ۱۲ اسرائیل، آمریکا دو اسکادران جنگنده اف-۲۲ به پایگاه هوایی «عُوودا» در جنوب اسرائیل اعزام کرده است. مقام‌های امنیتی اسرائیل گفتند این استقرار بخشی از جابه‌جایی و بازآرایی گسترده‌تر نیروهای نظامی آمریکا در سراسر خاورمیانه است و نشانه‌ای از تشدید تازه تنش با ایران محسوب نمی‌شود. این مقام‌ها تأکید کردند انتقال این هواپیماها از یک منطقه دیگر به اسرائیل، به معنای تغییر در سطح آمادگی نظامی آمریکا در ارتباط با ایران نیست. یکی از مقام‌های امنیتی در این باره گفت: «آمریکایی‌ها هنوز با سطح تجمع نیروهایی که در آستانه جنگ با ایران داشتند، فاصله بسیار زیادی دارند.» ارتش آمریکا در هفته‌های اخیر در حال چرخش واحدهای جنگنده در سراسر خاورمیانه بوده است؛ به این ترتیب که هواپیماها و نیروهای تازه‌نفس وارد منطقه می‌شوند و هم‌زمان به واحدهایی که برای مدت طولانی در منطقه مستقر بوده‌اند، اجازه داده می‌شود به پایگاه‌های اصلی خود بازگردند. #جنگ #اسرائیل @DEJradio",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/8205",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/dPe12VJRPfBg_eBGdPEwc1FhElqjoni2raYNgt2c4wF4fsfAzRbwvpbbpp9WFTh67ycBUy4nHjUcBl9sSh_3GWIc7IORQm7ocTKkzXil_9lZD4GXuvZDDN1Lg3QKu3Q3W1jmZUw8AT-36q29YWjVJJBv2zWyzJk9CFHCW-ilYq54SmGEvJvzk1avA4xrtTvCO2GCZQQTWz14W-hI8yflxxiCBflwgn9eBFwJZ2vlZfoJ3kRhej4RL5_M-IG7HpGcWu1aUJS8BzOXQtWsILKfG-v8MyjolwGSgI_QO2LR88bohwEwu_KHQS43gy8u7o40tQAYdEf4Du6bXkYspTNuoA.jpg",
-          "thumbnail_path": "channels/dejradio/media/bcf884acf91f8c5e2bb8749a.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.7987500000000295
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "28"
-        },
-        {
-          "emoji": "👏",
-          "count": "5"
-        },
-        {
-          "emoji": "🔥",
-          "count": "1"
-        },
-        {
-          "emoji": "🖕",
-          "count": "1"
-        }
-      ],
-      "views_label": "1.73K",
-      "posted_at": "2026-09-29T21:57:03+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/8205"
-    },
-    {
-      "id": "DEJradio/8204",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/sDoaJNe17lFrKyVqYi_VmbDMhDSVwWmr0mQ9-9v62uqPol0iAnc1Zr1fPNX9pbPsLqRDzDKXxD6w1ymGV5-wDTKgi6c5BuCqtMbrvEHO4_k9X3ZZsXAHwAzSsYRn2XliqsNIwm4nemLy1PBQNGuAuz5abYKjSqtGRdV7f7xm_D2z7PaNuLdeZjHGyH0S3TPS_5AbJZmv_8k6XwTtp4D2XCaIL01gSE4BVhYiBtubrH37aKzK9iNsrfN1RvdreXUgXwUtk5jKkGScCeB3banXrREeBGOKR3XRwj01ngafB414iCO1ma6M2ebrj_ACvO53s-u-H3UtiCP1dBAu4j2uHA.jpg",
-      "author_photo_path": "channels/dejradio/media/63f044a77988eba3198b2aa1.jpg",
-      "body_html": "<b><tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji></b><b><tg-emoji emoji-id=\"5951842387465605469\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji></b><b> هشدار چند کشور اروپایی؛ شهروندان خود را به ترک ایران فراخواندند</b><br><br>چند کشور اروپایی از جمله سوئد، نروژ، فرانسه، آلمان، ایتالیا، دانمارک و فنلاند، هشدارهای مسافرتی خود درباره ایران را تمدید کرده و از شهروندانشان خواسته‌اند از سفر به ایران خودداری کنند.<br>شماری از این کشورها همچنین از اتباع خود که در ایران حضور دارند خواسته‌اند، با توجه به شرایط امنیتی و تنش‌های منطقه‌ای، در صورت امکان ایران را ترک کنند.<br><br><a href=\"?q=%23%D9%87%D8%B4%D8%AF%D8%A7%D8%B1_%D9%85%D8%B3%D8%A7%D9%81%D8%B1%D8%AA%DB%8C\">#هشدار_مسافرتی</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "🔺⭕️ هشدار چند کشور اروپایی؛ شهروندان خود را به ترک ایران فراخواندند چند کشور اروپایی از جمله سوئد، نروژ، فرانسه، آلمان، ایتالیا، دانمارک و فنلاند، هشدارهای مسافرتی خود درباره ایران را تمدید کرده و از شهروندانشان خواسته‌اند از سفر به ایران خودداری کنند. شماری از این کشورها همچنین از اتباع خود که در ایران حضور دارند خواسته‌اند، با توجه به شرایط امنیتی و تنش‌های منطقه‌ای، در صورت امکان ایران را ترک کنند. #هشدار_مسافرتی @DEJradio",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/8204",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/RUJL_NNcxVWEeIJlp_uxBfW-nfONfiz3ihS62-I4A5KeRyel__6ofUR5PqZ_ZrOPOn0D8Uqy6zWjAN07J86od5jTepehNNC8wktt89RtouC2USGzrU-XV4vh6mVi_pDUAGPmDclcmYcXithjBZtVuQg9UCVcKih-JsEqs0ALny5SBc1v2vlbXLS--5IYo_5Rvv6YHdBj6XpTNXJluvHZTelB19H-nlxjaYQ8FN8N-t4f7T6pZKMJ9s5TttKkNuk3UZi9nDSZyfsRNlWIpJzLJ4RFTqvyV0EsStIclGzxFtFl6dP-etCNulckNT9Yg17dWymR_Mftl7KdM9hZqkf7bg.jpg",
-          "thumbnail_path": "channels/dejradio/media/7938108d2c0ddb6cec842079.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👏",
-          "count": "34"
-        },
-        {
-          "emoji": "🔥",
-          "count": "5"
-        },
-        {
-          "emoji": "❤",
-          "count": "2"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        },
-        {
-          "emoji": "👎",
-          "count": "1"
-        }
-      ],
-      "views_label": "1.93K",
-      "posted_at": "2026-09-29T21:03:32+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/8204"
     }
   ]
 }
