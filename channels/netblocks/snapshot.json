@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-08T00:30:11.184Z",
+  "fetched_at": "2026-10-08T06:07:52.543Z",
   "channel": {
     "username": "netblocks",
     "title": "NetBlocks",
@@ -10,6 +10,63 @@
     "subscriber_count": "48.1K"
   },
   "posts": [
+    {
+      "id": "netblocks/1559",
+      "author_name": "NetBlocks",
+      "author_photo_url": "https://cdn4.telesco.pe/file/fOtIAqZxSn3tTtNo2Jx20hD2MqLn0xvfkFG2kHH6LIEVA9Qs-znMr4PVKKeLeWpvVa4tBraSDEnWAA2lXkekwSk3by-UZmitFPFn2romXEPiiOF-mluMAKhEYDsF4yqtvDTqybQAMQiHhBw8ZNJyGUxDsAPpTeou_9RwCbsq-nBAwkU8Kh69VVMTSMRDFQbKHbN9feS56fe4deFvcowv9tpdFmbnC9YObaeFg9jIuLp1NoZsviUaWDkm05KKVVG2Bvd8d7f3gRCT4_TRJf2KB8uRUxHmk8Sy0og5JmgVpo9kz1RBbdP1HGhvJMxnpaYjWbfx18nJqcYVuK9QkNHiOw.jpg",
+      "author_photo_path": "channels/netblocks/media/29507f847b60eb251eb1dddf.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Metrics show a significant disruption to the network of Russian internet and cloud giant Yandex. Reports indicate a major fire at one of the company's data centers in Sasovo, Ryazan Oblast, <a href=\"?q=%23Russia\">#Russia</a>, after a Ukrainian drone attack campaign.",
+      "plain_text": "⚠️ Confirmed: Metrics show a significant disruption to the network of Russian internet and cloud giant Yandex. Reports indicate a major fire at one of the company's data centers in Sasovo, Ryazan Oblast, #Russia, after a Ukrainian drone attack campaign.",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/netblocks/1559",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/G-4Fhe90X8YtUsQO_DEoJffBWl5hbbV2Hohy9KWK5OG2cvB4TRIlmwEiFd4_Nia-ZfoSdOXmzNpx0u0o5LkvSZfhAhvbbRg9pi1tbZSuEnUk9oAJF2Ka6TifytNSjCOsq6uW0DmFImqqC3iZhb7d6dMviaEowkfAZSw6WB21KAuCLPvNd3RLm4MwKq5aenUUft5NLHVJOGuGgY24N3EuSRxh5VMJ6RFkQJTD9pLrVluocbawBvGgeYDV607u9SFdaP1o46RNBbqwDuOSJCzRKz4g_HqwuBcjThG3frYbSkT0iG828Ozd1vkvLF_J9I9ia7eGddreQAmg4rQCVZAuzA.jpg",
+          "thumbnail_path": "channels/netblocks/media/d1343bf6f2a9418c5563ed3a.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "😁",
+          "count": "59"
+        },
+        {
+          "emoji": "😢",
+          "count": "13"
+        },
+        {
+          "emoji": "🎉",
+          "count": "12"
+        },
+        {
+          "emoji": "❤",
+          "count": "7"
+        },
+        {
+          "emoji": "🥰",
+          "count": "2"
+        },
+        {
+          "emoji": "👏",
+          "count": "2"
+        },
+        {
+          "emoji": "🤬",
+          "count": "2"
+        },
+        {
+          "emoji": "🤔",
+          "count": "1"
+        }
+      ],
+      "views_label": "4.51K",
+      "posted_at": "2026-10-08T01:25:58+00:00",
+      "edited": true,
+      "permalink": "https://t.me/netblocks/1559"
+    },
     {
       "id": "netblocks/1558",
       "author_name": "NetBlocks",
@@ -31,23 +88,23 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "65"
+          "count": "80"
         },
         {
           "emoji": "❤",
-          "count": "11"
+          "count": "14"
         },
         {
           "emoji": "😢",
-          "count": "8"
+          "count": "11"
         },
         {
           "emoji": "😁",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "🎉",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "👎",
@@ -62,7 +119,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.66K",
+      "views_label": "6.43K",
       "posted_at": "2026-10-07T17:35:11+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1558"
@@ -88,11 +145,11 @@
       "reactions": [
         {
           "emoji": "😢",
-          "count": "87"
+          "count": "92"
         },
         {
           "emoji": "🔥",
-          "count": "18"
+          "count": "19"
         },
         {
           "emoji": "😁",
@@ -104,7 +161,7 @@
         },
         {
           "emoji": "❤",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "🎉",
@@ -119,7 +176,7 @@
           "count": "1"
         }
       ],
-      "views_label": "12.2K",
+      "views_label": "13.6K",
       "posted_at": "2026-09-30T17:46:51+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1557"
@@ -145,7 +202,7 @@
       "reactions": [
         {
           "emoji": "😢",
-          "count": "84"
+          "count": "85"
         },
         {
           "emoji": "❤",
@@ -157,7 +214,7 @@
         },
         {
           "emoji": "🔥",
-          "count": "9"
+          "count": "10"
         },
         {
           "emoji": "🤬",
@@ -165,7 +222,7 @@
         },
         {
           "emoji": "😱",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "🎉",
@@ -180,7 +237,7 @@
           "count": "1"
         }
       ],
-      "views_label": "14.8K",
+      "views_label": "16.1K",
       "posted_at": "2026-09-27T23:13:10+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1556"
@@ -206,11 +263,11 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "124"
+          "count": "127"
         },
         {
           "emoji": "🔥",
-          "count": "46"
+          "count": "47"
         },
         {
           "emoji": "😁",
@@ -222,7 +279,7 @@
         },
         {
           "emoji": "❤",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "👎",
@@ -245,7 +302,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15.7K",
+      "views_label": "16.6K",
       "posted_at": "2026-09-27T16:16:51+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1555"
@@ -271,11 +328,11 @@
       "reactions": [
         {
           "emoji": "🤯",
-          "count": "49"
+          "count": "50"
         },
         {
           "emoji": "🔥",
-          "count": "19"
+          "count": "20"
         },
         {
           "emoji": "🤬",
@@ -295,10 +352,10 @@
         },
         {
           "emoji": "❤",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "15.9K",
+      "views_label": "16.4K",
       "posted_at": "2026-09-26T11:13:54+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1554"
@@ -359,7 +416,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15K",
+      "views_label": "15.4K",
       "posted_at": "2026-09-25T19:03:30+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1553"
@@ -412,7 +469,7 @@
           "count": "1"
         }
       ],
-      "views_label": "14.7K",
+      "views_label": "15.3K",
       "posted_at": "2026-09-24T22:36:34+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1552"
@@ -473,7 +530,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15.8K",
+      "views_label": "16.3K",
       "posted_at": "2026-09-24T03:01:53+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1551"
@@ -534,7 +591,7 @@
           "count": "1"
         }
       ],
-      "views_label": "20.9K",
+      "views_label": "21.2K",
       "posted_at": "2026-09-19T02:54:11+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1550"
@@ -591,7 +648,7 @@
           "count": "2"
         }
       ],
-      "views_label": "21.1K",
+      "views_label": "21.3K",
       "posted_at": "2026-09-18T21:22:35+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1549"
@@ -617,7 +674,7 @@
       "reactions": [
         {
           "emoji": "😢",
-          "count": "105"
+          "count": "106"
         },
         {
           "emoji": "👍",
@@ -644,7 +701,7 @@
           "count": "1"
         }
       ],
-      "views_label": "22K",
+      "views_label": "22.2K",
       "posted_at": "2026-09-18T20:55:13+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1548"
@@ -674,7 +731,7 @@
         },
         {
           "emoji": "😁",
-          "count": "22"
+          "count": "23"
         },
         {
           "emoji": "😢",
@@ -693,7 +750,7 @@
           "count": "1"
         }
       ],
-      "views_label": "22.7K",
+      "views_label": "23.5K",
       "posted_at": "2026-09-14T03:44:03+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1547"
@@ -762,7 +819,7 @@
           "count": "1"
         }
       ],
-      "views_label": "29.3K",
+      "views_label": "29.9K",
       "posted_at": "2026-09-04T02:21:29+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1546"
@@ -819,7 +876,7 @@
           "count": "1"
         }
       ],
-      "views_label": "36.1K",
+      "views_label": "36.5K",
       "posted_at": "2026-08-27T23:45:52+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1545"
@@ -872,7 +929,7 @@
           "count": "5"
         }
       ],
-      "views_label": "40.4K",
+      "views_label": "40.6K",
       "posted_at": "2026-08-20T02:45:31+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1544"
@@ -898,7 +955,7 @@
       "reactions": [
         {
           "emoji": "😢",
-          "count": "86"
+          "count": "87"
         },
         {
           "emoji": "😁",
@@ -925,7 +982,7 @@
           "count": "2"
         }
       ],
-      "views_label": "36.9K",
+      "views_label": "37K",
       "posted_at": "2026-08-16T20:09:11+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1543"
@@ -978,7 +1035,7 @@
           "count": "1"
         }
       ],
-      "views_label": "29.9K",
+      "views_label": "30K",
       "posted_at": "2026-08-16T08:06:02+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1542"
@@ -1039,7 +1096,7 @@
           "count": "1"
         }
       ],
-      "views_label": "28.7K",
+      "views_label": "28.8K",
       "posted_at": "2026-08-13T22:24:49+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1541"
@@ -1056,8 +1113,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/netblocks/1540",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/g664rzN2a56On_1q8XVjSDGcMrcJ4BsKy5VwPHpZxVQBnf2M3J6l0YoUKGAmYxhItdLq5SODBu0gXIc6A3prob_6ao0fNlebE2mtq0SbE1yWQtVfph8tfoBM-aIaKrGZw-gM2faAo3ymHiZKcW3IttzCKHQYVqIjP8cIgPXMZ-jzc6GQXjTZ8QRTMlWoG70iFALu3M4gWjc4tCCuZ-bMHPz29vYg3dAM0eAfM6urgv-G7FEpKlt3QgaVftcP8eIRjjJWxChC8eTIYsCvnD-YWrFZUnHx_P1n_K4rE3PAXBTW-jsECwaHg8tpgc4LgfmGbp1dIBSDfIT1yC0AK9OmAw.jpg",
-          "thumbnail_path": "channels/netblocks/media/a0d427e4ea5f1cf8016515eb.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/RolL3WqkVQWBfu3tt1qZYPQDKhEedYOnoIU2T6vCm7KMEzn4OgcODlQUU-IVfpAS3v1mVlKEqtE566GF4DLa5xNHTBQTMBO06UMNGIUPtJnHQqxYziICLeQsgsueOKfWKUDFjXh4XajWM96tGVOlB_Do9DLUudfBJqXjfss32GZhm0dP-Id_PXP3yVCrC_SpXWPvXZrwgah4s5VsmShYSPAP1PQSEqvLYa_oMZsWpdgU4XK-Rqp26Yv1oWP-jSxQMsqPtSoAfLhSV1XgQDHQxyBJ_jkuUsB4AzlCsgJ8RglM4JOQmyuxaQ2l1zrnYYeI-XMcaAsGRuBhlWMXV3ky7g.jpg",
+          "thumbnail_path": "channels/netblocks/media/684efc09cc62cf7d2c075d04.jpg",
           "duration_label": null,
           "aspect_ratio": 1.7777777777777777
         }
