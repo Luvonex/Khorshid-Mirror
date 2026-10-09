@@ -1,54 +1,984 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-09T17:32:00.399Z",
+  "fetched_at": "2026-10-09T21:38:57.880Z",
   "channel": {
     "username": "kianmeli1",
     "title": "کیان ملی 1",
     "description_html": "ارتباط<br><a href=\"https://t.me/ZALL_KIANl\" target=\"_blank\">@ZALL_KIANl</a>",
-    "photo_url": "https://cdn4.telesco.pe/file/E2PchFSAo8swb3ESS49PZMjG6XT17nXH0Oc_drNuX65ZE9S07CbvAWj3YJ3x7yIO3Lw5m_47ddJsscZQqshUYUyNnFzkG2Xhg3LPb227fA5has9NpHac2DgJE60CfnZl_yZIMfkxmbBEnt2FbdDWpBKFLCQiAILOpEzsfTE_qV75dFtYkEmFx2yj96QyLYZluTdrweYmpa5BgxvOPJu-dkdnyYXR1JNlZFHZ5TUxIGdBV5-csHhbYHqWTHSUSi1x_847oUll787Ai9dK4Rt78B2C1SU4F7he0gHpNUEqR12YUC4HCQT_SQxofl-x9wEtnUYG7g3bbuZb1CWN1XuS6Q.jpg",
-    "photo_path": "channels/kianmeli1/media/da54147fa899522369315bd2.jpg",
-    "subscriber_count": "341K"
+    "photo_url": "https://cdn4.telesco.pe/file/esfN6jxduEUhald0F_dQaE_q_AYN9MMdMB8lI2ZubZUGNrRM_1ZfSvB5dVFFz0WTMiJ2ETcMCdvgfQjNRA65dzDmRjSGBeWSbXrjOUrH38X-6QIw32HkKO9__cUiLmrhiz5qRUZvpqhfwVe1F8oi1k2tqjWCe2UU2_8ex0GOv77Ox1c-izRCMhsYqYuTZRcFuP78GlDgFQZDYqfaUW5YvKBbF0mRIbSWil-YfCSBn_tMCM7XDbQD-l_UoqNtav7zLbcNfO_ZZdO4eygQtLPaBh6px40z71I_cWoRNjeKOUILojirtNdmWatLCCuwDGA4OQZenNAES2xCV6ACbO_vuA.jpg",
+    "photo_path": "channels/kianmeli1/media/15f9138d4851e907070c2486.jpg",
+    "subscriber_count": "342K"
   },
   "posts": [
     {
-      "id": "kianmeli1/93157",
+      "id": "kianmeli1/93173",
       "author_name": "کیان ملی 1",
-      "author_photo_url": "https://cdn4.telesco.pe/file/E2PchFSAo8swb3ESS49PZMjG6XT17nXH0Oc_drNuX65ZE9S07CbvAWj3YJ3x7yIO3Lw5m_47ddJsscZQqshUYUyNnFzkG2Xhg3LPb227fA5has9NpHac2DgJE60CfnZl_yZIMfkxmbBEnt2FbdDWpBKFLCQiAILOpEzsfTE_qV75dFtYkEmFx2yj96QyLYZluTdrweYmpa5BgxvOPJu-dkdnyYXR1JNlZFHZ5TUxIGdBV5-csHhbYHqWTHSUSi1x_847oUll787Ai9dK4Rt78B2C1SU4F7he0gHpNUEqR12YUC4HCQT_SQxofl-x9wEtnUYG7g3bbuZb1CWN1XuS6Q.jpg",
-      "author_photo_path": "channels/kianmeli1/media/da54147fa899522369315bd2.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>درود فراوان پدافند یزد فعال شده پشت پارک کوهستان</b><br><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
-      "plain_text": "🔴درود فراوان پدافند یزد فعال شده پشت پارک کوهستان #کیان_ملی https://t.me/kianmeli1",
+      "author_photo_url": "https://cdn4.telesco.pe/file/esfN6jxduEUhald0F_dQaE_q_AYN9MMdMB8lI2ZubZUGNrRM_1ZfSvB5dVFFz0WTMiJ2ETcMCdvgfQjNRA65dzDmRjSGBeWSbXrjOUrH38X-6QIw32HkKO9__cUiLmrhiz5qRUZvpqhfwVe1F8oi1k2tqjWCe2UU2_8ex0GOv77Ox1c-izRCMhsYqYuTZRcFuP78GlDgFQZDYqfaUW5YvKBbF0mRIbSWil-YfCSBn_tMCM7XDbQD-l_UoqNtav7zLbcNfO_ZZdO4eygQtLPaBh6px40z71I_cWoRNjeKOUILojirtNdmWatLCCuwDGA4OQZenNAES2xCV6ACbO_vuA.jpg",
+      "author_photo_path": "channels/kianmeli1/media/15f9138d4851e907070c2486.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>طرف هرمزگان کوهمبارک صدا وحشتناک انفجار اومد ساعت ۰۰:۵۰</b><br><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
+      "plain_text": "🔴طرف هرمزگان کوهمبارک صدا وحشتناک انفجار اومد ساعت ۰۰:۵۰ #کیان_ملی https://t.me/kianmeli1",
       "media": [],
       "reactions": [
         {
+          "emoji": "👀",
+          "count": "98"
+        },
+        {
           "emoji": "🔥",
-          "count": "78"
+          "count": "33"
         },
         {
           "emoji": "👍",
-          "count": "8"
+          "count": "13"
         },
         {
-          "emoji": "😱",
-          "count": "7"
+          "emoji": "😁",
+          "count": "5"
+        },
+        {
+          "emoji": "😨",
+          "count": "5"
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "4"
+        },
+        {
+          "emoji": "🤯",
+          "count": "2"
+        },
+        {
+          "emoji": "😐",
+          "count": "2"
+        },
+        {
+          "emoji": "⚡",
+          "count": "1"
+        },
+        {
+          "emoji": "🕊",
+          "count": "1"
+        }
+      ],
+      "views_label": "9.29K",
+      "posted_at": "2026-10-09T21:33:10+00:00",
+      "edited": false,
+      "permalink": "https://t.me/kianmeli1/93173"
+    },
+    {
+      "id": "kianmeli1/93172",
+      "author_name": "کیان ملی 1",
+      "author_photo_url": "https://cdn4.telesco.pe/file/esfN6jxduEUhald0F_dQaE_q_AYN9MMdMB8lI2ZubZUGNrRM_1ZfSvB5dVFFz0WTMiJ2ETcMCdvgfQjNRA65dzDmRjSGBeWSbXrjOUrH38X-6QIw32HkKO9__cUiLmrhiz5qRUZvpqhfwVe1F8oi1k2tqjWCe2UU2_8ex0GOv77Ox1c-izRCMhsYqYuTZRcFuP78GlDgFQZDYqfaUW5YvKBbF0mRIbSWil-YfCSBn_tMCM7XDbQD-l_UoqNtav7zLbcNfO_ZZdO4eygQtLPaBh6px40z71I_cWoRNjeKOUILojirtNdmWatLCCuwDGA4OQZenNAES2xCV6ACbO_vuA.jpg",
+      "author_photo_path": "channels/kianmeli1/media/15f9138d4851e907070c2486.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>رویترز: امریکا ممکن است نیروهای نخبه را برای عملیات های خاص</b> <b>قبل از شروع</b> <b>جنگ در ایران مستقر کرده باشد<br><br></b><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><b><br></b><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
+      "plain_text": "🔴رویترز: امریکا ممکن است نیروهای نخبه را برای عملیات های خاص قبل از شروع جنگ در ایران مستقر کرده باشد #کیان_ملی https://t.me/kianmeli1",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/kianmeli1/93172",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/GPocmpwcEDR5eTTqG3T7ep8gjC5ofHtL-nN8wOsuZD6cck3pSLlkczbn45619cGslCcoyZqX_k1ffR8tDOrirHsysy9NR3i3CNXRhmDrx4-3hBIJn8CDDbUIkyrhGLobObmZO8iDk845klUdxOj4LhZDapO-qayi8xQohswhPoYXxN0b5o7s--1FYHP7K5JOpGWaCSfgFIMm7-uz5rQpjI0q3-5lLJoHYggvzWQfaR73w7GEtSAayezOe4ZMNYvGQqugjO_ONXiouZmPL2tE7Yvs94r3u9HsPmo2WSgLjLTM3_uN1MJ2ZxvJZoHDz_yk57wDmQJaIEL8LqCy6GmCOQ.jpg",
+          "thumbnail_path": "channels/kianmeli1/media/37c998d43b9f5e4eae4e378d.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.4999999999999925
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤‍🔥",
+          "count": "280"
+        },
+        {
+          "emoji": "😁",
+          "count": "65"
+        },
+        {
+          "emoji": "👍",
+          "count": "37"
+        },
+        {
+          "emoji": "🔥",
+          "count": "21"
+        },
+        {
+          "emoji": "👀",
+          "count": "10"
+        },
+        {
+          "emoji": "👎",
+          "count": "9"
         },
         {
           "emoji": "😎",
           "count": "6"
         },
         {
+          "emoji": "🤷‍♀",
+          "count": "5"
+        },
+        {
+          "emoji": "😡",
+          "count": "3"
+        },
+        {
+          "emoji": "🕊",
+          "count": "1"
+        }
+      ],
+      "views_label": "24.8K",
+      "posted_at": "2026-10-09T21:13:20+00:00",
+      "edited": false,
+      "permalink": "https://t.me/kianmeli1/93172"
+    },
+    {
+      "id": "kianmeli1/93171",
+      "author_name": "کیان ملی 1",
+      "author_photo_url": "https://cdn4.telesco.pe/file/esfN6jxduEUhald0F_dQaE_q_AYN9MMdMB8lI2ZubZUGNrRM_1ZfSvB5dVFFz0WTMiJ2ETcMCdvgfQjNRA65dzDmRjSGBeWSbXrjOUrH38X-6QIw32HkKO9__cUiLmrhiz5qRUZvpqhfwVe1F8oi1k2tqjWCe2UU2_8ex0GOv77Ox1c-izRCMhsYqYuTZRcFuP78GlDgFQZDYqfaUW5YvKBbF0mRIbSWil-YfCSBn_tMCM7XDbQD-l_UoqNtav7zLbcNfO_ZZdO4eygQtLPaBh6px40z71I_cWoRNjeKOUILojirtNdmWatLCCuwDGA4OQZenNAES2xCV6ACbO_vuA.jpg",
+      "author_photo_path": "channels/kianmeli1/media/15f9138d4851e907070c2486.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>تحلیلگر امریکا: تجهیزات آبی و خاکی امریکا برای ورود زمینی به ایران آماده شده است<br><br></b><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><b><br></b><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
+      "plain_text": "🔴تحلیلگر امریکا: تجهیزات آبی و خاکی امریکا برای ورود زمینی به ایران آماده شده است #کیان_ملی https://t.me/kianmeli1",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/kianmeli1/93171",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/TVP_nBJ7Wn__i9a1nsfpcuP_fngJddxQ4KT1fSqahJj8QWXPo_PGoFAi2u0XDNGSPJxZG0y1GtVBLwTizPVhR5WVYM51ws77TxjMruVUTwE7_aVwtEakZlh9RHMTpXRf7zGBohTr2IpsnUN1MI8IJreCJxIvbIzI7Yb1-J7yVJ2iZhbraMP7BelZbT2w1-gENegrUZwRPISYId11g3ytz6bFy2GbJC6VJlxlzBk9BS6LMDif0A5jduYNJuiRZBFA-ThBgnmPIg22lSr5e3HZoD25kv48Sl7ty9H1OnIXftDIJIc9Dbpga7DYjDEC51NNYTYYY9f1wWb-yqJzennTsA.jpg",
+          "thumbnail_path": "channels/kianmeli1/media/fc9e211710fbf0240a6eb93c.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.5009380863039399
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤‍🔥",
+          "count": "383"
+        },
+        {
+          "emoji": "🔥",
+          "count": "97"
+        },
+        {
+          "emoji": "😁",
+          "count": "73"
+        },
+        {
+          "emoji": "👏",
+          "count": "48"
+        },
+        {
+          "emoji": "👎",
+          "count": "26"
+        },
+        {
+          "emoji": "😡",
+          "count": "24"
+        },
+        {
+          "emoji": "👍",
+          "count": "16"
+        },
+        {
+          "emoji": "🏆",
+          "count": "6"
+        },
+        {
+          "emoji": "😎",
+          "count": "6"
+        },
+        {
+          "emoji": "🤝",
+          "count": "3"
+        }
+      ],
+      "views_label": "34.1K",
+      "posted_at": "2026-10-09T21:00:01+00:00",
+      "edited": false,
+      "permalink": "https://t.me/kianmeli1/93171"
+    },
+    {
+      "id": "kianmeli1/93170",
+      "author_name": "کیان ملی 1",
+      "author_photo_url": "https://cdn4.telesco.pe/file/esfN6jxduEUhald0F_dQaE_q_AYN9MMdMB8lI2ZubZUGNrRM_1ZfSvB5dVFFz0WTMiJ2ETcMCdvgfQjNRA65dzDmRjSGBeWSbXrjOUrH38X-6QIw32HkKO9__cUiLmrhiz5qRUZvpqhfwVe1F8oi1k2tqjWCe2UU2_8ex0GOv77Ox1c-izRCMhsYqYuTZRcFuP78GlDgFQZDYqfaUW5YvKBbF0mRIbSWil-YfCSBn_tMCM7XDbQD-l_UoqNtav7zLbcNfO_ZZdO4eygQtLPaBh6px40z71I_cWoRNjeKOUILojirtNdmWatLCCuwDGA4OQZenNAES2xCV6ACbO_vuA.jpg",
+      "author_photo_path": "channels/kianmeli1/media/15f9138d4851e907070c2486.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>کانال های سپاه: موشک ها بسمت اهداف قفل شده اند٫ به ایران حمله شود بدون درنگ شلیک میشوند</b><br><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
+      "plain_text": "🔴کانال های سپاه: موشک ها بسمت اهداف قفل شده اند٫ به ایران حمله شود بدون درنگ شلیک میشوند #کیان_ملی https://t.me/kianmeli1",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "😁",
+          "count": "516"
+        },
+        {
+          "emoji": "👏",
+          "count": "75"
+        },
+        {
+          "emoji": "👎",
+          "count": "34"
+        },
+        {
+          "emoji": "😱",
+          "count": "24"
+        },
+        {
+          "emoji": "👍",
+          "count": "14"
+        },
+        {
+          "emoji": "🔥",
+          "count": "10"
+        },
+        {
+          "emoji": "🏆",
+          "count": "7"
+        },
+        {
+          "emoji": "⚡",
+          "count": "6"
+        },
+        {
+          "emoji": "🕊",
+          "count": "6"
+        },
+        {
+          "emoji": "🍾",
+          "count": "6"
+        }
+      ],
+      "views_label": "40.2K",
+      "posted_at": "2026-10-09T20:50:55+00:00",
+      "edited": false,
+      "permalink": "https://t.me/kianmeli1/93170"
+    },
+    {
+      "id": "kianmeli1/93169",
+      "author_name": "کیان ملی 1",
+      "author_photo_url": "https://cdn4.telesco.pe/file/esfN6jxduEUhald0F_dQaE_q_AYN9MMdMB8lI2ZubZUGNrRM_1ZfSvB5dVFFz0WTMiJ2ETcMCdvgfQjNRA65dzDmRjSGBeWSbXrjOUrH38X-6QIw32HkKO9__cUiLmrhiz5qRUZvpqhfwVe1F8oi1k2tqjWCe2UU2_8ex0GOv77Ox1c-izRCMhsYqYuTZRcFuP78GlDgFQZDYqfaUW5YvKBbF0mRIbSWil-YfCSBn_tMCM7XDbQD-l_UoqNtav7zLbcNfO_ZZdO4eygQtLPaBh6px40z71I_cWoRNjeKOUILojirtNdmWatLCCuwDGA4OQZenNAES2xCV6ACbO_vuA.jpg",
+      "author_photo_path": "channels/kianmeli1/media/15f9138d4851e907070c2486.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>فوری-صفحه فارسی وزارت امور خارجه امریکا</b><br><br><b>شهروندان امریکایی همین حالا ایران را ترک کنید !</b><br><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
+      "plain_text": "🔴فوری-صفحه فارسی وزارت امور خارجه امریکا شهروندان امریکایی همین حالا ایران را ترک کنید ! #کیان_ملی https://t.me/kianmeli1",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/kianmeli1/93169",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/UNerfZywBTpefnisnzBRttVHzPkJdvRRYtZeoPoVfu0W_UR_pQAHaYDhZVVCjlA0WIK0EJ6JL8CIYxmK6jBIgxf3U60uWSjUpondnCDooWl5WkLlzjS6YMlJPAmgeFRj03T4V5-eTG-4w4bu8GbQxLt0n5nrKxQ19zeq5vQWf9xePYwApWsxvVmWrPH_-YyTcvlpIk214vr5gxeUBK7qa2z1vA3-JMcE-z6gS0Ld4mZua6hq_ke4q-3vwwkfccsgFdRRjVWJ28YEG5qEBbU47mswRC2duI3gnDnDawaxgUBrOOCKtfzwUA1gkS_uvQmsI45RizMhWAmCWpOVqTek0Q.jpg",
+          "thumbnail_path": "channels/kianmeli1/media/98a844548153ec72681f324a.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "576"
+        },
+        {
+          "emoji": "🔥",
+          "count": "170"
+        },
+        {
+          "emoji": "😁",
+          "count": "115"
+        },
+        {
+          "emoji": "😱",
+          "count": "64"
+        },
+        {
           "emoji": "👀",
+          "count": "25"
+        },
+        {
+          "emoji": "👎",
+          "count": "14"
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "11"
+        },
+        {
+          "emoji": "🤷‍♂",
+          "count": "10"
+        },
+        {
+          "emoji": "😡",
+          "count": "5"
+        },
+        {
+          "emoji": "💯",
+          "count": "4"
+        }
+      ],
+      "views_label": "62.8K",
+      "posted_at": "2026-10-09T20:09:56+00:00",
+      "edited": false,
+      "permalink": "https://t.me/kianmeli1/93169"
+    },
+    {
+      "id": "kianmeli1/93168",
+      "author_name": "کیان ملی 1",
+      "author_photo_url": "https://cdn4.telesco.pe/file/esfN6jxduEUhald0F_dQaE_q_AYN9MMdMB8lI2ZubZUGNrRM_1ZfSvB5dVFFz0WTMiJ2ETcMCdvgfQjNRA65dzDmRjSGBeWSbXrjOUrH38X-6QIw32HkKO9__cUiLmrhiz5qRUZvpqhfwVe1F8oi1k2tqjWCe2UU2_8ex0GOv77Ox1c-izRCMhsYqYuTZRcFuP78GlDgFQZDYqfaUW5YvKBbF0mRIbSWil-YfCSBn_tMCM7XDbQD-l_UoqNtav7zLbcNfO_ZZdO4eygQtLPaBh6px40z71I_cWoRNjeKOUILojirtNdmWatLCCuwDGA4OQZenNAES2xCV6ACbO_vuA.jpg",
+      "author_photo_path": "channels/kianmeli1/media/15f9138d4851e907070c2486.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>درود فراوان پدافند یزد فعال شده پشت پارک کوهستان  #کیان_ملی https://t.me/kianmeli1",
+      "plain_text": "🔴درود فراوان پدافند یزد فعال شده پشت پارک کوهستان #کیان_ملی https://t.me/kianmeli1",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "😁",
+          "count": "908"
+        },
+        {
+          "emoji": "😱",
+          "count": "118"
+        },
+        {
+          "emoji": "👀",
+          "count": "58"
+        },
+        {
+          "emoji": "👍",
+          "count": "46"
+        },
+        {
+          "emoji": "👎",
+          "count": "21"
+        },
+        {
+          "emoji": "🔥",
+          "count": "21"
+        },
+        {
+          "emoji": "🍾",
+          "count": "14"
+        },
+        {
+          "emoji": "🤯",
+          "count": "11"
+        },
+        {
+          "emoji": "🤷‍♀",
+          "count": "9"
+        },
+        {
+          "emoji": "🕊",
+          "count": "5"
+        }
+      ],
+      "views_label": "76.1K",
+      "posted_at": "2026-10-09T19:35:48+00:00",
+      "edited": false,
+      "permalink": "https://t.me/kianmeli1/93168"
+    },
+    {
+      "id": "kianmeli1/93167",
+      "author_name": "کیان ملی 1",
+      "author_photo_url": "https://cdn4.telesco.pe/file/esfN6jxduEUhald0F_dQaE_q_AYN9MMdMB8lI2ZubZUGNrRM_1ZfSvB5dVFFz0WTMiJ2ETcMCdvgfQjNRA65dzDmRjSGBeWSbXrjOUrH38X-6QIw32HkKO9__cUiLmrhiz5qRUZvpqhfwVe1F8oi1k2tqjWCe2UU2_8ex0GOv77Ox1c-izRCMhsYqYuTZRcFuP78GlDgFQZDYqfaUW5YvKBbF0mRIbSWil-YfCSBn_tMCM7XDbQD-l_UoqNtav7zLbcNfO_ZZdO4eygQtLPaBh6px40z71I_cWoRNjeKOUILojirtNdmWatLCCuwDGA4OQZenNAES2xCV6ACbO_vuA.jpg",
+      "author_photo_path": "channels/kianmeli1/media/15f9138d4851e907070c2486.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>خبرنگار صداوسیما: اگر قرار باشه که حمله کنند امشب میکنند ٫بعد از امشب خطر رفع میشود</b><br><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
+      "plain_text": "🔴خبرنگار صداوسیما: اگر قرار باشه که حمله کنند امشب میکنند ٫بعد از امشب خطر رفع میشود #کیان_ملی https://t.me/kianmeli1",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "😁",
+          "count": "1.41K"
+        },
+        {
+          "emoji": "😐",
+          "count": "162"
+        },
+        {
+          "emoji": "🔥",
+          "count": "73"
+        },
+        {
+          "emoji": "🤷‍♂",
+          "count": "59"
+        },
+        {
+          "emoji": "👎",
+          "count": "54"
+        },
+        {
+          "emoji": "👀",
+          "count": "41"
+        },
+        {
+          "emoji": "👍",
+          "count": "22"
+        },
+        {
+          "emoji": "😱",
+          "count": "8"
+        },
+        {
+          "emoji": "💔",
           "count": "5"
         },
         {
           "emoji": "❤‍🔥",
           "count": "3"
+        }
+      ],
+      "views_label": "91.5K",
+      "posted_at": "2026-10-09T18:49:57+00:00",
+      "edited": false,
+      "permalink": "https://t.me/kianmeli1/93167"
+    },
+    {
+      "id": "kianmeli1/93166",
+      "author_name": "کیان ملی 1",
+      "author_photo_url": "https://cdn4.telesco.pe/file/esfN6jxduEUhald0F_dQaE_q_AYN9MMdMB8lI2ZubZUGNrRM_1ZfSvB5dVFFz0WTMiJ2ETcMCdvgfQjNRA65dzDmRjSGBeWSbXrjOUrH38X-6QIw32HkKO9__cUiLmrhiz5qRUZvpqhfwVe1F8oi1k2tqjWCe2UU2_8ex0GOv77Ox1c-izRCMhsYqYuTZRcFuP78GlDgFQZDYqfaUW5YvKBbF0mRIbSWil-YfCSBn_tMCM7XDbQD-l_UoqNtav7zLbcNfO_ZZdO4eygQtLPaBh6px40z71I_cWoRNjeKOUILojirtNdmWatLCCuwDGA4OQZenNAES2xCV6ACbO_vuA.jpg",
+      "author_photo_path": "channels/kianmeli1/media/15f9138d4851e907070c2486.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>حجم انتقال تسلیحات جنگی به منطقه به حدی است که برای جنگ عادی دو سه روزه نیست<br><br></b><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><b><br></b><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
+      "plain_text": "🔴حجم انتقال تسلیحات جنگی به منطقه به حدی است که برای جنگ عادی دو سه روزه نیست #کیان_ملی https://t.me/kianmeli1",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/kianmeli1/93166",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/etLg-VYkVokHJs_pAhBWuVYGERFrtXKRLOGcT-pA1mvH21zV8XgroyhaQl0ZBulVIgjvvw0nwueKqhT_QN9A9Volat4HsSFmJUhOFSAHHOGd7-KKrmIASYaJnJmeB6FUVlM00E9h3qgIHtpSiSMbyjF_Wn4wwPbAhA5y3-OX64btS5AgYqHwGJEaAHOVphtQDR9GNIhaOQN4HkjRw-6VNDSlPNzUeGCxCLhVIv20BJVi4ixoJ3v_-OXqqBwNCa8_bB3ohj0C_n6--Xx-4J2Q_J4IaR7vA5jHSJ7RcoJILgdWss2Cquz8zsXtt3Oaro5nB2bQG2sffYOIR6c5wIAvkA",
+          "thumbnail_path": "channels/kianmeli1/media/10aed6c601cfe143af2eb5d8.jpg",
+          "duration_label": "0:59",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "608"
+        },
+        {
+          "emoji": "😱",
+          "count": "110"
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "50"
+        },
+        {
+          "emoji": "🔥",
+          "count": "49"
+        },
+        {
+          "emoji": "😁",
+          "count": "40"
+        },
+        {
+          "emoji": "😡",
+          "count": "19"
+        },
+        {
+          "emoji": "🤯",
+          "count": "15"
+        },
+        {
+          "emoji": "👏",
+          "count": "14"
+        },
+        {
+          "emoji": "👎",
+          "count": "12"
+        },
+        {
+          "emoji": "🕊",
+          "count": "6"
+        }
+      ],
+      "views_label": "90.5K",
+      "posted_at": "2026-10-09T18:47:19+00:00",
+      "edited": false,
+      "permalink": "https://t.me/kianmeli1/93166"
+    },
+    {
+      "id": "kianmeli1/93165",
+      "author_name": "کیان ملی 1",
+      "author_photo_url": "https://cdn4.telesco.pe/file/esfN6jxduEUhald0F_dQaE_q_AYN9MMdMB8lI2ZubZUGNrRM_1ZfSvB5dVFFz0WTMiJ2ETcMCdvgfQjNRA65dzDmRjSGBeWSbXrjOUrH38X-6QIw32HkKO9__cUiLmrhiz5qRUZvpqhfwVe1F8oi1k2tqjWCe2UU2_8ex0GOv77Ox1c-izRCMhsYqYuTZRcFuP78GlDgFQZDYqfaUW5YvKBbF0mRIbSWil-YfCSBn_tMCM7XDbQD-l_UoqNtav7zLbcNfO_ZZdO4eygQtLPaBh6px40z71I_cWoRNjeKOUILojirtNdmWatLCCuwDGA4OQZenNAES2xCV6ACbO_vuA.jpg",
+      "author_photo_path": "channels/kianmeli1/media/15f9138d4851e907070c2486.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>برای بار دوم در شرق تهران صدای پدافند اومد٫ خبرایی هست ! !</b><br><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
+      "plain_text": "🔴برای بار دوم در شرق تهران صدای پدافند اومد٫ خبرایی هست ! ! #کیان_ملی https://t.me/kianmeli1",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "719"
+        },
+        {
+          "emoji": "🤷‍♂",
+          "count": "140"
+        },
+        {
+          "emoji": "👎",
+          "count": "60"
+        },
+        {
+          "emoji": "👍",
+          "count": "41"
+        },
+        {
+          "emoji": "🤷‍♀",
+          "count": "20"
         },
         {
           "emoji": "😐",
+          "count": "17"
+        },
+        {
+          "emoji": "🍾",
+          "count": "16"
+        },
+        {
+          "emoji": "😭",
+          "count": "16"
+        },
+        {
+          "emoji": "😎",
+          "count": "15"
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "7"
+        }
+      ],
+      "views_label": "95.5K",
+      "posted_at": "2026-10-09T18:28:36+00:00",
+      "edited": false,
+      "permalink": "https://t.me/kianmeli1/93165"
+    },
+    {
+      "id": "kianmeli1/93164",
+      "author_name": "کیان ملی 1",
+      "author_photo_url": "https://cdn4.telesco.pe/file/esfN6jxduEUhald0F_dQaE_q_AYN9MMdMB8lI2ZubZUGNrRM_1ZfSvB5dVFFz0WTMiJ2ETcMCdvgfQjNRA65dzDmRjSGBeWSbXrjOUrH38X-6QIw32HkKO9__cUiLmrhiz5qRUZvpqhfwVe1F8oi1k2tqjWCe2UU2_8ex0GOv77Ox1c-izRCMhsYqYuTZRcFuP78GlDgFQZDYqfaUW5YvKBbF0mRIbSWil-YfCSBn_tMCM7XDbQD-l_UoqNtav7zLbcNfO_ZZdO4eygQtLPaBh6px40z71I_cWoRNjeKOUILojirtNdmWatLCCuwDGA4OQZenNAES2xCV6ACbO_vuA.jpg",
+      "author_photo_path": "channels/kianmeli1/media/15f9138d4851e907070c2486.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>نکته مهم هنگام تخلیه (در صورت جنگ):</b><br><br><b>پیش از خروج، حتماً شیرهای اصلی گاز و آب را ببندید، فیوز برق را قطع کنید و کیف نجات (حاوی آب، غذای خشک، مدارک شناسایی، داروهای ضروری و چراغ‌قوه) را همراه خود بردارید.</b><br><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
+      "plain_text": "🔴نکته مهم هنگام تخلیه (در صورت جنگ): پیش از خروج، حتماً شیرهای اصلی گاز و آب را ببندید، فیوز برق را قطع کنید و کیف نجات (حاوی آب، غذای خشک، مدارک شناسایی، داروهای ضروری و چراغ‌قوه) را همراه خود بردارید. #کیان_ملی https://t.me/kianmeli1",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "😭",
+          "count": "387"
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "153"
+        },
+        {
+          "emoji": "😁",
+          "count": "127"
+        },
+        {
+          "emoji": "👍",
+          "count": "81"
+        },
+        {
+          "emoji": "👎",
+          "count": "25"
+        },
+        {
+          "emoji": "🔥",
+          "count": "23"
+        },
+        {
+          "emoji": "😱",
+          "count": "11"
+        },
+        {
+          "emoji": "🤯",
+          "count": "9"
+        },
+        {
+          "emoji": "💯",
+          "count": "9"
+        },
+        {
+          "emoji": "🕊",
+          "count": "7"
+        }
+      ],
+      "views_label": "95.6K",
+      "posted_at": "2026-10-09T18:20:14+00:00",
+      "edited": false,
+      "permalink": "https://t.me/kianmeli1/93164"
+    },
+    {
+      "id": "kianmeli1/93163",
+      "author_name": "کیان ملی 1",
+      "author_photo_url": "https://cdn4.telesco.pe/file/esfN6jxduEUhald0F_dQaE_q_AYN9MMdMB8lI2ZubZUGNrRM_1ZfSvB5dVFFz0WTMiJ2ETcMCdvgfQjNRA65dzDmRjSGBeWSbXrjOUrH38X-6QIw32HkKO9__cUiLmrhiz5qRUZvpqhfwVe1F8oi1k2tqjWCe2UU2_8ex0GOv77Ox1c-izRCMhsYqYuTZRcFuP78GlDgFQZDYqfaUW5YvKBbF0mRIbSWil-YfCSBn_tMCM7XDbQD-l_UoqNtav7zLbcNfO_ZZdO4eygQtLPaBh6px40z71I_cWoRNjeKOUILojirtNdmWatLCCuwDGA4OQZenNAES2xCV6ACbO_vuA.jpg",
+      "author_photo_path": "channels/kianmeli1/media/15f9138d4851e907070c2486.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>به تجمعات شبانه اعلام شده میدان خالی نکنید ممکنه بمباران بشید ولی خیابون رو خالی نکنید</b><br><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
+      "plain_text": "🔴به تجمعات شبانه اعلام شده میدان خالی نکنید ممکنه بمباران بشید ولی خیابون رو خالی نکنید #کیان_ملی https://t.me/kianmeli1",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "😁",
+          "count": "1.97K"
+        },
+        {
+          "emoji": "🔥",
+          "count": "90"
+        },
+        {
+          "emoji": "😱",
+          "count": "61"
+        },
+        {
+          "emoji": "👍",
+          "count": "44"
+        },
+        {
+          "emoji": "😐",
+          "count": "36"
+        },
+        {
+          "emoji": "👎",
+          "count": "31"
+        },
+        {
+          "emoji": "😎",
+          "count": "19"
+        },
+        {
+          "emoji": "🤯",
+          "count": "10"
+        },
+        {
+          "emoji": "👀",
+          "count": "9"
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "3"
+        }
+      ],
+      "views_label": "97.6K",
+      "posted_at": "2026-10-09T18:10:47+00:00",
+      "edited": false,
+      "permalink": "https://t.me/kianmeli1/93163"
+    },
+    {
+      "id": "kianmeli1/93162",
+      "author_name": "کیان ملی 1",
+      "author_photo_url": "https://cdn4.telesco.pe/file/esfN6jxduEUhald0F_dQaE_q_AYN9MMdMB8lI2ZubZUGNrRM_1ZfSvB5dVFFz0WTMiJ2ETcMCdvgfQjNRA65dzDmRjSGBeWSbXrjOUrH38X-6QIw32HkKO9__cUiLmrhiz5qRUZvpqhfwVe1F8oi1k2tqjWCe2UU2_8ex0GOv77Ox1c-izRCMhsYqYuTZRcFuP78GlDgFQZDYqfaUW5YvKBbF0mRIbSWil-YfCSBn_tMCM7XDbQD-l_UoqNtav7zLbcNfO_ZZdO4eygQtLPaBh6px40z71I_cWoRNjeKOUILojirtNdmWatLCCuwDGA4OQZenNAES2xCV6ACbO_vuA.jpg",
+      "author_photo_path": "channels/kianmeli1/media/15f9138d4851e907070c2486.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>چندین کلانتری در منطقه ۷ و ۸ تهران تخلیه شده </b><br><br><b>دقیقا مشخص نیست واقعا خبریه یا نه ! شاید محض احتیاط تخلیه کردن</b><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
+      "plain_text": "🔴چندین کلانتری در منطقه ۷ و ۸ تهران تخلیه شده دقیقا مشخص نیست واقعا خبریه یا نه ! شاید محض احتیاط تخلیه کردن #کیان_ملی https://t.me/kianmeli1",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "484"
+        },
+        {
+          "emoji": "🔥",
+          "count": "123"
+        },
+        {
+          "emoji": "😁",
+          "count": "115"
+        },
+        {
+          "emoji": "👀",
+          "count": "27"
+        },
+        {
+          "emoji": "👎",
+          "count": "21"
+        },
+        {
+          "emoji": "🍾",
+          "count": "11"
+        },
+        {
+          "emoji": "💔",
+          "count": "7"
+        },
+        {
+          "emoji": "👏",
+          "count": "2"
+        },
+        {
+          "emoji": "🙏",
+          "count": "2"
+        }
+      ],
+      "views_label": "98.6K",
+      "posted_at": "2026-10-09T18:07:35+00:00",
+      "edited": false,
+      "permalink": "https://t.me/kianmeli1/93162"
+    },
+    {
+      "id": "kianmeli1/93161",
+      "author_name": "کیان ملی 1",
+      "author_photo_url": "https://cdn4.telesco.pe/file/esfN6jxduEUhald0F_dQaE_q_AYN9MMdMB8lI2ZubZUGNrRM_1ZfSvB5dVFFz0WTMiJ2ETcMCdvgfQjNRA65dzDmRjSGBeWSbXrjOUrH38X-6QIw32HkKO9__cUiLmrhiz5qRUZvpqhfwVe1F8oi1k2tqjWCe2UU2_8ex0GOv77Ox1c-izRCMhsYqYuTZRcFuP78GlDgFQZDYqfaUW5YvKBbF0mRIbSWil-YfCSBn_tMCM7XDbQD-l_UoqNtav7zLbcNfO_ZZdO4eygQtLPaBh6px40z71I_cWoRNjeKOUILojirtNdmWatLCCuwDGA4OQZenNAES2xCV6ACbO_vuA.jpg",
+      "author_photo_path": "channels/kianmeli1/media/15f9138d4851e907070c2486.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>گزارش ها از اختلال در جی‌پی‌اس تهران</b><br><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
+      "plain_text": "🔴گزارش ها از اختلال در جی‌پی‌اس تهران #کیان_ملی https://t.me/kianmeli1",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "😱",
+          "count": "367"
+        },
+        {
+          "emoji": "👍",
+          "count": "143"
+        },
+        {
+          "emoji": "🔥",
+          "count": "60"
+        },
+        {
+          "emoji": "👎",
+          "count": "32"
+        },
+        {
+          "emoji": "👀",
+          "count": "19"
+        },
+        {
+          "emoji": "😡",
+          "count": "18"
+        },
+        {
+          "emoji": "🍾",
+          "count": "10"
+        },
+        {
+          "emoji": "🤷‍♂",
+          "count": "5"
+        },
+        {
+          "emoji": "🤷‍♀",
+          "count": "5"
+        },
+        {
+          "emoji": "🕊",
+          "count": "2"
+        }
+      ],
+      "views_label": "98.6K",
+      "posted_at": "2026-10-09T17:52:10+00:00",
+      "edited": false,
+      "permalink": "https://t.me/kianmeli1/93161"
+    },
+    {
+      "id": "kianmeli1/93160",
+      "author_name": "کیان ملی 1",
+      "author_photo_url": "https://cdn4.telesco.pe/file/esfN6jxduEUhald0F_dQaE_q_AYN9MMdMB8lI2ZubZUGNrRM_1ZfSvB5dVFFz0WTMiJ2ETcMCdvgfQjNRA65dzDmRjSGBeWSbXrjOUrH38X-6QIw32HkKO9__cUiLmrhiz5qRUZvpqhfwVe1F8oi1k2tqjWCe2UU2_8ex0GOv77Ox1c-izRCMhsYqYuTZRcFuP78GlDgFQZDYqfaUW5YvKBbF0mRIbSWil-YfCSBn_tMCM7XDbQD-l_UoqNtav7zLbcNfO_ZZdO4eygQtLPaBh6px40z71I_cWoRNjeKOUILojirtNdmWatLCCuwDGA4OQZenNAES2xCV6ACbO_vuA.jpg",
+      "author_photo_path": "channels/kianmeli1/media/15f9138d4851e907070c2486.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>فوری</b>-<b>فردا شنبه «تمام مدارس هرمزگان» تعطیل است </b><br><br>-<b>فرداشب اعلام میشود که یکشنبه هم تعطیل میشود یا خیر</b><br><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
+      "plain_text": "🔴فوری-فردا شنبه «تمام مدارس هرمزگان» تعطیل است -فرداشب اعلام میشود که یکشنبه هم تعطیل میشود یا خیر #کیان_ملی https://t.me/kianmeli1",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/kianmeli1/93160",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Z-eXGT1vmMz1WCoLUykFztrfd9DBxoXY5lWzbj0XjR7TbCVXrqmcBzR6aydmnAAo1zWtTHlNn_Cbx3wFwWYbL5UQyyn8CVXDSEyusVC7YUbXfRFktZdK92IpZ7CjPfzEf7yVMXvihNGxGXPSPt2vu_JJxWcU_0826bra96pINjUlZFPcK8rh9bFqGfm4tTOVzmpjhIBBXAMHiyvWSSEQZYadzm-CZPkACuDOJxvAYaAFJf09Rk4NQgSD-kyQXOi8Dv0AeLzPq_dh-vtZsQrn-HDRqhGzevaX_Veh8KdHQhL5DiIQSFD-JnhOXnckNGMTUYuLQtn6nqfZ_mZa7UBDhA",
+          "thumbnail_path": "channels/kianmeli1/media/19587e36fe581f933c6ae873.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.8823529411764706
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "😁",
+          "count": "478"
+        },
+        {
+          "emoji": "👍",
+          "count": "78"
+        },
+        {
+          "emoji": "👀",
+          "count": "39"
+        },
+        {
+          "emoji": "😱",
+          "count": "20"
+        },
+        {
+          "emoji": "👎",
+          "count": "14"
+        },
+        {
+          "emoji": "🔥",
+          "count": "12"
+        },
+        {
+          "emoji": "🤷‍♂",
+          "count": "11"
+        },
+        {
+          "emoji": "🍾",
+          "count": "5"
+        },
+        {
+          "emoji": "😭",
+          "count": "3"
+        },
+        {
+          "emoji": "😡",
+          "count": "3"
+        }
+      ],
+      "views_label": "98.6K",
+      "posted_at": "2026-10-09T17:43:22+00:00",
+      "edited": false,
+      "permalink": "https://t.me/kianmeli1/93160"
+    },
+    {
+      "id": "kianmeli1/93159",
+      "author_name": "کیان ملی 1",
+      "author_photo_url": "https://cdn4.telesco.pe/file/esfN6jxduEUhald0F_dQaE_q_AYN9MMdMB8lI2ZubZUGNrRM_1ZfSvB5dVFFz0WTMiJ2ETcMCdvgfQjNRA65dzDmRjSGBeWSbXrjOUrH38X-6QIw32HkKO9__cUiLmrhiz5qRUZvpqhfwVe1F8oi1k2tqjWCe2UU2_8ex0GOv77Ox1c-izRCMhsYqYuTZRcFuP78GlDgFQZDYqfaUW5YvKBbF0mRIbSWil-YfCSBn_tMCM7XDbQD-l_UoqNtav7zLbcNfO_ZZdO4eygQtLPaBh6px40z71I_cWoRNjeKOUILojirtNdmWatLCCuwDGA4OQZenNAES2xCV6ACbO_vuA.jpg",
+      "author_photo_path": "channels/kianmeli1/media/15f9138d4851e907070c2486.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>پدافند شرق تهران توی آسمان یه چیزایی رو داشت میزد صدای انفجار شدید اومد</b><br><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
+      "plain_text": "🔴پدافند شرق تهران توی آسمان یه چیزایی رو داشت میزد صدای انفجار شدید اومد #کیان_ملی https://t.me/kianmeli1",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "509"
+        },
+        {
+          "emoji": "👀",
+          "count": "96"
+        },
+        {
+          "emoji": "👍",
+          "count": "63"
+        },
+        {
+          "emoji": "😁",
+          "count": "44"
+        },
+        {
+          "emoji": "👎",
+          "count": "33"
+        },
+        {
+          "emoji": "🤷‍♂",
+          "count": "20"
+        },
+        {
+          "emoji": "🍾",
+          "count": "13"
+        },
+        {
+          "emoji": "😐",
+          "count": "11"
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "6"
+        },
+        {
+          "emoji": "💔",
+          "count": "5"
+        }
+      ],
+      "views_label": "101K",
+      "posted_at": "2026-10-09T17:34:41+00:00",
+      "edited": false,
+      "permalink": "https://t.me/kianmeli1/93159"
+    },
+    {
+      "id": "kianmeli1/93158",
+      "author_name": "کیان ملی 1",
+      "author_photo_url": "https://cdn4.telesco.pe/file/esfN6jxduEUhald0F_dQaE_q_AYN9MMdMB8lI2ZubZUGNrRM_1ZfSvB5dVFFz0WTMiJ2ETcMCdvgfQjNRA65dzDmRjSGBeWSbXrjOUrH38X-6QIw32HkKO9__cUiLmrhiz5qRUZvpqhfwVe1F8oi1k2tqjWCe2UU2_8ex0GOv77Ox1c-izRCMhsYqYuTZRcFuP78GlDgFQZDYqfaUW5YvKBbF0mRIbSWil-YfCSBn_tMCM7XDbQD-l_UoqNtav7zLbcNfO_ZZdO4eygQtLPaBh6px40z71I_cWoRNjeKOUILojirtNdmWatLCCuwDGA4OQZenNAES2xCV6ACbO_vuA.jpg",
+      "author_photo_path": "channels/kianmeli1/media/15f9138d4851e907070c2486.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>صداوسیما: امشب آماده باش در بالاترین سطح است</b><br><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
+      "plain_text": "🔴صداوسیما: امشب آماده باش در بالاترین سطح است #کیان_ملی https://t.me/kianmeli1",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "530"
+        },
+        {
+          "emoji": "😁",
+          "count": "199"
+        },
+        {
+          "emoji": "👍",
+          "count": "42"
+        },
+        {
+          "emoji": "👎",
+          "count": "22"
+        },
+        {
+          "emoji": "👀",
+          "count": "21"
+        },
+        {
+          "emoji": "🍾",
+          "count": "14"
+        },
+        {
+          "emoji": "😐",
+          "count": "13"
+        },
+        {
+          "emoji": "🤯",
           "count": "1"
         }
       ],
-      "views_label": "8.25K",
+      "views_label": "102K",
+      "posted_at": "2026-10-09T17:32:14+00:00",
+      "edited": false,
+      "permalink": "https://t.me/kianmeli1/93158"
+    },
+    {
+      "id": "kianmeli1/93157",
+      "author_name": "کیان ملی 1",
+      "author_photo_url": "https://cdn4.telesco.pe/file/esfN6jxduEUhald0F_dQaE_q_AYN9MMdMB8lI2ZubZUGNrRM_1ZfSvB5dVFFz0WTMiJ2ETcMCdvgfQjNRA65dzDmRjSGBeWSbXrjOUrH38X-6QIw32HkKO9__cUiLmrhiz5qRUZvpqhfwVe1F8oi1k2tqjWCe2UU2_8ex0GOv77Ox1c-izRCMhsYqYuTZRcFuP78GlDgFQZDYqfaUW5YvKBbF0mRIbSWil-YfCSBn_tMCM7XDbQD-l_UoqNtav7zLbcNfO_ZZdO4eygQtLPaBh6px40z71I_cWoRNjeKOUILojirtNdmWatLCCuwDGA4OQZenNAES2xCV6ACbO_vuA.jpg",
+      "author_photo_path": "channels/kianmeli1/media/15f9138d4851e907070c2486.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>درود فراوان پدافند یزد فعال شده پشت پارک کوهستان</b><br><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
+      "plain_text": "🔴درود فراوان پدافند یزد فعال شده پشت پارک کوهستان #کیان_ملی https://t.me/kianmeli1",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "470"
+        },
+        {
+          "emoji": "👍",
+          "count": "77"
+        },
+        {
+          "emoji": "👀",
+          "count": "34"
+        },
+        {
+          "emoji": "😐",
+          "count": "17"
+        },
+        {
+          "emoji": "😱",
+          "count": "16"
+        },
+        {
+          "emoji": "😁",
+          "count": "15"
+        },
+        {
+          "emoji": "👎",
+          "count": "11"
+        },
+        {
+          "emoji": "😎",
+          "count": "10"
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "8"
+        },
+        {
+          "emoji": "🤷‍♂",
+          "count": "4"
+        }
+      ],
+      "views_label": "99.7K",
       "posted_at": "2026-10-09T17:28:29+00:00",
       "edited": false,
       "permalink": "https://t.me/kianmeli1/93157"
@@ -56,8 +986,8 @@
     {
       "id": "kianmeli1/93156",
       "author_name": "کیان ملی 1",
-      "author_photo_url": "https://cdn4.telesco.pe/file/E2PchFSAo8swb3ESS49PZMjG6XT17nXH0Oc_drNuX65ZE9S07CbvAWj3YJ3x7yIO3Lw5m_47ddJsscZQqshUYUyNnFzkG2Xhg3LPb227fA5has9NpHac2DgJE60CfnZl_yZIMfkxmbBEnt2FbdDWpBKFLCQiAILOpEzsfTE_qV75dFtYkEmFx2yj96QyLYZluTdrweYmpa5BgxvOPJu-dkdnyYXR1JNlZFHZ5TUxIGdBV5-csHhbYHqWTHSUSi1x_847oUll787Ai9dK4Rt78B2C1SU4F7he0gHpNUEqR12YUC4HCQT_SQxofl-x9wEtnUYG7g3bbuZb1CWN1XuS6Q.jpg",
-      "author_photo_path": "channels/kianmeli1/media/da54147fa899522369315bd2.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/esfN6jxduEUhald0F_dQaE_q_AYN9MMdMB8lI2ZubZUGNrRM_1ZfSvB5dVFFz0WTMiJ2ETcMCdvgfQjNRA65dzDmRjSGBeWSbXrjOUrH38X-6QIw32HkKO9__cUiLmrhiz5qRUZvpqhfwVe1F8oi1k2tqjWCe2UU2_8ex0GOv77Ox1c-izRCMhsYqYuTZRcFuP78GlDgFQZDYqfaUW5YvKBbF0mRIbSWil-YfCSBn_tMCM7XDbQD-l_UoqNtav7zLbcNfO_ZZdO4eygQtLPaBh6px40z71I_cWoRNjeKOUILojirtNdmWatLCCuwDGA4OQZenNAES2xCV6ACbO_vuA.jpg",
+      "author_photo_path": "channels/kianmeli1/media/15f9138d4851e907070c2486.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>صدای شبیه انفجار از محدوده فلکه سوم تهران پارس ، شرق تهران  https://t.me/kianmeli1",
       "plain_text": "🔴صدای شبیه انفجار از محدوده فلکه سوم تهران پارس ، شرق تهران https://t.me/kianmeli1",
       "media": [
@@ -74,42 +1004,46 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "130"
+          "count": "462"
         },
         {
           "emoji": "😱",
-          "count": "24"
-        },
-        {
-          "emoji": "🤷‍♀",
-          "count": "14"
-        },
-        {
-          "emoji": "👎",
-          "count": "12"
+          "count": "79"
         },
         {
           "emoji": "🔥",
-          "count": "10"
-        },
-        {
-          "emoji": "😐",
-          "count": "10"
+          "count": "66"
         },
         {
           "emoji": "👍",
-          "count": "6"
+          "count": "44"
+        },
+        {
+          "emoji": "👎",
+          "count": "33"
+        },
+        {
+          "emoji": "🤷‍♀",
+          "count": "21"
+        },
+        {
+          "emoji": "😐",
+          "count": "20"
         },
         {
           "emoji": "👀",
-          "count": "4"
+          "count": "9"
+        },
+        {
+          "emoji": "🍾",
+          "count": "6"
         },
         {
           "emoji": "🏆",
-          "count": "2"
+          "count": "5"
         }
       ],
-      "views_label": "14.4K",
+      "views_label": "102K",
       "posted_at": "2026-10-09T17:23:57+00:00",
       "edited": false,
       "permalink": "https://t.me/kianmeli1/93156"
@@ -117,46 +1051,46 @@
     {
       "id": "kianmeli1/93155",
       "author_name": "کیان ملی 1",
-      "author_photo_url": "https://cdn4.telesco.pe/file/E2PchFSAo8swb3ESS49PZMjG6XT17nXH0Oc_drNuX65ZE9S07CbvAWj3YJ3x7yIO3Lw5m_47ddJsscZQqshUYUyNnFzkG2Xhg3LPb227fA5has9NpHac2DgJE60CfnZl_yZIMfkxmbBEnt2FbdDWpBKFLCQiAILOpEzsfTE_qV75dFtYkEmFx2yj96QyLYZluTdrweYmpa5BgxvOPJu-dkdnyYXR1JNlZFHZ5TUxIGdBV5-csHhbYHqWTHSUSi1x_847oUll787Ai9dK4Rt78B2C1SU4F7he0gHpNUEqR12YUC4HCQT_SQxofl-x9wEtnUYG7g3bbuZb1CWN1XuS6Q.jpg",
-      "author_photo_path": "channels/kianmeli1/media/da54147fa899522369315bd2.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/esfN6jxduEUhald0F_dQaE_q_AYN9MMdMB8lI2ZubZUGNrRM_1ZfSvB5dVFFz0WTMiJ2ETcMCdvgfQjNRA65dzDmRjSGBeWSbXrjOUrH38X-6QIw32HkKO9__cUiLmrhiz5qRUZvpqhfwVe1F8oi1k2tqjWCe2UU2_8ex0GOv77Ox1c-izRCMhsYqYuTZRcFuP78GlDgFQZDYqfaUW5YvKBbF0mRIbSWil-YfCSBn_tMCM7XDbQD-l_UoqNtav7zLbcNfO_ZZdO4eygQtLPaBh6px40z71I_cWoRNjeKOUILojirtNdmWatLCCuwDGA4OQZenNAES2xCV6ACbO_vuA.jpg",
+      "author_photo_path": "channels/kianmeli1/media/15f9138d4851e907070c2486.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>تحلیلگر امارات: امشب بهترین فرصت برای حمله به ایران است</b><br><b>ترامپ نباید تعلل کند٫ کشورهای عربی در خطرند</b><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
       "plain_text": "🔴تحلیلگر امارات: امشب بهترین فرصت برای حمله به ایران است ترامپ نباید تعلل کند٫ کشورهای عربی در خطرند https://t.me/kianmeli1",
       "media": [],
       "reactions": [
         {
           "emoji": "👍",
-          "count": "192"
+          "count": "750"
         },
         {
           "emoji": "😁",
-          "count": "52"
-        },
-        {
-          "emoji": "🔥",
-          "count": "17"
-        },
-        {
-          "emoji": "👎",
-          "count": "8"
+          "count": "172"
         },
         {
           "emoji": "😡",
-          "count": "6"
+          "count": "70"
         },
         {
-          "emoji": "❤‍🔥",
-          "count": "4"
+          "emoji": "🔥",
+          "count": "40"
+        },
+        {
+          "emoji": "👎",
+          "count": "24"
         },
         {
           "emoji": "😐",
-          "count": "3"
+          "count": "11"
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "8"
         },
         {
           "emoji": "😎",
-          "count": "2"
+          "count": "8"
         }
       ],
-      "views_label": "18.5K",
+      "views_label": "94.5K",
       "posted_at": "2026-10-09T17:20:20+00:00",
       "edited": false,
       "permalink": "https://t.me/kianmeli1/93155"
@@ -164,38 +1098,54 @@
     {
       "id": "kianmeli1/93154",
       "author_name": "کیان ملی 1",
-      "author_photo_url": "https://cdn4.telesco.pe/file/E2PchFSAo8swb3ESS49PZMjG6XT17nXH0Oc_drNuX65ZE9S07CbvAWj3YJ3x7yIO3Lw5m_47ddJsscZQqshUYUyNnFzkG2Xhg3LPb227fA5has9NpHac2DgJE60CfnZl_yZIMfkxmbBEnt2FbdDWpBKFLCQiAILOpEzsfTE_qV75dFtYkEmFx2yj96QyLYZluTdrweYmpa5BgxvOPJu-dkdnyYXR1JNlZFHZ5TUxIGdBV5-csHhbYHqWTHSUSi1x_847oUll787Ai9dK4Rt78B2C1SU4F7he0gHpNUEqR12YUC4HCQT_SQxofl-x9wEtnUYG7g3bbuZb1CWN1XuS6Q.jpg",
-      "author_photo_path": "channels/kianmeli1/media/da54147fa899522369315bd2.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/esfN6jxduEUhald0F_dQaE_q_AYN9MMdMB8lI2ZubZUGNrRM_1ZfSvB5dVFFz0WTMiJ2ETcMCdvgfQjNRA65dzDmRjSGBeWSbXrjOUrH38X-6QIw32HkKO9__cUiLmrhiz5qRUZvpqhfwVe1F8oi1k2tqjWCe2UU2_8ex0GOv77Ox1c-izRCMhsYqYuTZRcFuP78GlDgFQZDYqfaUW5YvKBbF0mRIbSWil-YfCSBn_tMCM7XDbQD-l_UoqNtav7zLbcNfO_ZZdO4eygQtLPaBh6px40z71I_cWoRNjeKOUILojirtNdmWatLCCuwDGA4OQZenNAES2xCV6ACbO_vuA.jpg",
+      "author_photo_path": "channels/kianmeli1/media/15f9138d4851e907070c2486.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>دادستان کل امارات: کمک‌خلبان شرکت هواپیمایی فلای‌دبی قصد داشت در فرودگاه بن‌گوریون، «عملیاتی انتحاری» انجام دهد </b><br><br><b>او طرح خود را از حملات ۱۱ سپتامبر الهام گرفته بود </b><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
       "plain_text": "🔴دادستان کل امارات: کمک‌خلبان شرکت هواپیمایی فلای‌دبی قصد داشت در فرودگاه بن‌گوریون، «عملیاتی انتحاری» انجام دهد او طرح خود را از حملات ۱۱ سپتامبر الهام گرفته بود https://t.me/kianmeli1",
       "media": [],
       "reactions": [
         {
           "emoji": "👍",
-          "count": "76"
+          "count": "375"
         },
         {
           "emoji": "😐",
-          "count": "21"
-        },
-        {
-          "emoji": "😁",
-          "count": "19"
+          "count": "92"
         },
         {
           "emoji": "😡",
-          "count": "11"
+          "count": "75"
+        },
+        {
+          "emoji": "😁",
+          "count": "44"
         },
         {
           "emoji": "🔥",
-          "count": "4"
+          "count": "13"
         },
         {
           "emoji": "👎",
+          "count": "10"
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "4"
+        },
+        {
+          "emoji": "💔",
+          "count": "3"
+        },
+        {
+          "emoji": "🤝",
+          "count": "3"
+        },
+        {
+          "emoji": "😱",
           "count": "2"
         }
       ],
-      "views_label": "18.6K",
+      "views_label": "93.5K",
       "posted_at": "2026-10-09T17:19:22+00:00",
       "edited": false,
       "permalink": "https://t.me/kianmeli1/93154"
@@ -4996,990 +5946,6 @@
       "posted_at": "2026-10-07T19:31:43+00:00",
       "edited": false,
       "permalink": "https://t.me/kianmeli1/93071"
-    },
-    {
-      "id": "kianmeli1/93070",
-      "author_name": "کیان ملی 1",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QhQZLi34OZtTszLQsM1vW68FDy4bw8E042c_gV3JJDLwnF7KoCQTBsj6v17Z2RhXhH_2M388Ye_FmeBiVkwLO1cUySHrsVcM5xUb5ilYENP7mHxeE68AS6sDU2H8WuUzJNAX2EXzNUWiERSUYNAEioKisS7I2JTv8cMKdcDwI-pcbih2cWiwIShFesKkBKwbMVGkhQP3JMcM14AEy2ZWF5gAZ-VqPpmH9khirsI3_-zS0nUMJC0HUdaMOHhCLtUpNFmaZoxvU0OA6Ze7VPcnYv6HD2uofFXAb718pV9XilonHM80UH9YWKc85q5bq2HHXxm2BqfhRPaTZAAubwoiDg.jpg",
-      "author_photo_path": "channels/kianmeli1/media/d0f0808ba9d11009c1d3b4b1.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>کانال ۱۴ اسراییل: نیروهای زمینی جنگنجو به سیستان و بلوچستان وارد شده اند و در حال پیشروی هستند</b><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
-      "plain_text": "🔴کانال ۱۴ اسراییل: نیروهای زمینی جنگنجو به سیستان و بلوچستان وارد شده اند و در حال پیشروی هستند https://t.me/kianmeli1",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "1.27K"
-        },
-        {
-          "emoji": "👍",
-          "count": "348"
-        },
-        {
-          "emoji": "😁",
-          "count": "92"
-        },
-        {
-          "emoji": "👎",
-          "count": "73"
-        },
-        {
-          "emoji": "👏",
-          "count": "54"
-        },
-        {
-          "emoji": "😡",
-          "count": "51"
-        },
-        {
-          "emoji": "👀",
-          "count": "41"
-        },
-        {
-          "emoji": "😱",
-          "count": "24"
-        },
-        {
-          "emoji": "😭",
-          "count": "14"
-        },
-        {
-          "emoji": "🕊",
-          "count": "6"
-        }
-      ],
-      "views_label": "96.8K",
-      "posted_at": "2026-10-07T19:04:36+00:00",
-      "edited": false,
-      "permalink": "https://t.me/kianmeli1/93070"
-    },
-    {
-      "id": "kianmeli1/93069",
-      "author_name": "کیان ملی 1",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QhQZLi34OZtTszLQsM1vW68FDy4bw8E042c_gV3JJDLwnF7KoCQTBsj6v17Z2RhXhH_2M388Ye_FmeBiVkwLO1cUySHrsVcM5xUb5ilYENP7mHxeE68AS6sDU2H8WuUzJNAX2EXzNUWiERSUYNAEioKisS7I2JTv8cMKdcDwI-pcbih2cWiwIShFesKkBKwbMVGkhQP3JMcM14AEy2ZWF5gAZ-VqPpmH9khirsI3_-zS0nUMJC0HUdaMOHhCLtUpNFmaZoxvU0OA6Ze7VPcnYv6HD2uofFXAb718pV9XilonHM80UH9YWKc85q5bq2HHXxm2BqfhRPaTZAAubwoiDg.jpg",
-      "author_photo_path": "channels/kianmeli1/media/d0f0808ba9d11009c1d3b4b1.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>در پی حملات حوثی‌ها به فرودگاه‌های عربستان سعودی، ۳ نفر کشته و ۳۶ تن دیگر زخمی شدند.</b><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
-      "plain_text": "🔴در پی حملات حوثی‌ها به فرودگاه‌های عربستان سعودی، ۳ نفر کشته و ۳۶ تن دیگر زخمی شدند. https://t.me/kianmeli1",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "😱",
-          "count": "281"
-        },
-        {
-          "emoji": "🔥",
-          "count": "125"
-        },
-        {
-          "emoji": "😡",
-          "count": "72"
-        },
-        {
-          "emoji": "👍",
-          "count": "55"
-        },
-        {
-          "emoji": "👏",
-          "count": "31"
-        },
-        {
-          "emoji": "😁",
-          "count": "21"
-        },
-        {
-          "emoji": "💔",
-          "count": "13"
-        },
-        {
-          "emoji": "😨",
-          "count": "9"
-        },
-        {
-          "emoji": "🍾",
-          "count": "7"
-        },
-        {
-          "emoji": "👎",
-          "count": "6"
-        }
-      ],
-      "views_label": "92K",
-      "posted_at": "2026-10-07T19:00:03+00:00",
-      "edited": false,
-      "permalink": "https://t.me/kianmeli1/93069"
-    },
-    {
-      "id": "kianmeli1/93068",
-      "author_name": "کیان ملی 1",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QhQZLi34OZtTszLQsM1vW68FDy4bw8E042c_gV3JJDLwnF7KoCQTBsj6v17Z2RhXhH_2M388Ye_FmeBiVkwLO1cUySHrsVcM5xUb5ilYENP7mHxeE68AS6sDU2H8WuUzJNAX2EXzNUWiERSUYNAEioKisS7I2JTv8cMKdcDwI-pcbih2cWiwIShFesKkBKwbMVGkhQP3JMcM14AEy2ZWF5gAZ-VqPpmH9khirsI3_-zS0nUMJC0HUdaMOHhCLtUpNFmaZoxvU0OA6Ze7VPcnYv6HD2uofFXAb718pV9XilonHM80UH9YWKc85q5bq2HHXxm2BqfhRPaTZAAubwoiDg.jpg",
-      "author_photo_path": "channels/kianmeli1/media/d0f0808ba9d11009c1d3b4b1.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>شنیده شدن صدای ۴ انفجار در «تنگه هرمز».</b><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
-      "plain_text": "🔴شنیده شدن صدای ۴ انفجار در «تنگه هرمز». https://t.me/kianmeli1",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "324"
-        },
-        {
-          "emoji": "😱",
-          "count": "43"
-        },
-        {
-          "emoji": "👍",
-          "count": "28"
-        },
-        {
-          "emoji": "😁",
-          "count": "25"
-        },
-        {
-          "emoji": "👀",
-          "count": "15"
-        },
-        {
-          "emoji": "👏",
-          "count": "8"
-        },
-        {
-          "emoji": "😡",
-          "count": "8"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "3"
-        },
-        {
-          "emoji": "😨",
-          "count": "3"
-        }
-      ],
-      "views_label": "91.6K",
-      "posted_at": "2026-10-07T19:00:01+00:00",
-      "edited": false,
-      "permalink": "https://t.me/kianmeli1/93068"
-    },
-    {
-      "id": "kianmeli1/93067",
-      "author_name": "کیان ملی 1",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QhQZLi34OZtTszLQsM1vW68FDy4bw8E042c_gV3JJDLwnF7KoCQTBsj6v17Z2RhXhH_2M388Ye_FmeBiVkwLO1cUySHrsVcM5xUb5ilYENP7mHxeE68AS6sDU2H8WuUzJNAX2EXzNUWiERSUYNAEioKisS7I2JTv8cMKdcDwI-pcbih2cWiwIShFesKkBKwbMVGkhQP3JMcM14AEy2ZWF5gAZ-VqPpmH9khirsI3_-zS0nUMJC0HUdaMOHhCLtUpNFmaZoxvU0OA6Ze7VPcnYv6HD2uofFXAb718pV9XilonHM80UH9YWKc85q5bq2HHXxm2BqfhRPaTZAAubwoiDg.jpg",
-      "author_photo_path": "channels/kianmeli1/media/d0f0808ba9d11009c1d3b4b1.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>لحظاتی قبل تعدادی نیروی مسلح به درون سیستان و بلوچستان نفوذ کردند و مقرهای انتظامی در شهرستان گلشن را تسخیر کردند</b><br><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
-      "plain_text": "🔴لحظاتی قبل تعدادی نیروی مسلح به درون سیستان و بلوچستان نفوذ کردند و مقرهای انتظامی در شهرستان گلشن را تسخیر کردند #کیان_ملی https://t.me/kianmeli1",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "1.45K"
-        },
-        {
-          "emoji": "👍",
-          "count": "358"
-        },
-        {
-          "emoji": "😱",
-          "count": "132"
-        },
-        {
-          "emoji": "😁",
-          "count": "57"
-        },
-        {
-          "emoji": "👎",
-          "count": "52"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "38"
-        },
-        {
-          "emoji": "🤯",
-          "count": "31"
-        },
-        {
-          "emoji": "👀",
-          "count": "25"
-        },
-        {
-          "emoji": "🤝",
-          "count": "24"
-        },
-        {
-          "emoji": "🤷‍♀",
-          "count": "9"
-        }
-      ],
-      "views_label": "100K",
-      "posted_at": "2026-10-07T18:21:42+00:00",
-      "edited": false,
-      "permalink": "https://t.me/kianmeli1/93067"
-    },
-    {
-      "id": "kianmeli1/93066",
-      "author_name": "کیان ملی 1",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QhQZLi34OZtTszLQsM1vW68FDy4bw8E042c_gV3JJDLwnF7KoCQTBsj6v17Z2RhXhH_2M388Ye_FmeBiVkwLO1cUySHrsVcM5xUb5ilYENP7mHxeE68AS6sDU2H8WuUzJNAX2EXzNUWiERSUYNAEioKisS7I2JTv8cMKdcDwI-pcbih2cWiwIShFesKkBKwbMVGkhQP3JMcM14AEy2ZWF5gAZ-VqPpmH9khirsI3_-zS0nUMJC0HUdaMOHhCLtUpNFmaZoxvU0OA6Ze7VPcnYv6HD2uofFXAb718pV9XilonHM80UH9YWKc85q5bq2HHXxm2BqfhRPaTZAAubwoiDg.jpg",
-      "author_photo_path": "channels/kianmeli1/media/d0f0808ba9d11009c1d3b4b1.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>فشار اقتصادی امارات به تهران که ممکن است به آتش جنگ بیافزاید</b><br><br><b>امارات متحده عربی ورود ۴۷۲ کشتی را به بنادر خود ممنوع کرد </b><br><br><b>سازمان دریانوردی امارات ارائه خدمات بندری به ۴۷۲ کشتی را متوقف کرده است؛ کشتی‌هایی که اکثر آن‌ها یا با ایران مرتبط بوده‌اند و یا برای عبور از تنگه هرمز، از آب‌های ایران گذر کرده‌اند.</b><br><br><b>این اقدامی است که شریان حیاتی کشتیرانی تهران را به شدت تحت فشار قرار می‌دهد.</b><br><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
-      "plain_text": "🔴فشار اقتصادی امارات به تهران که ممکن است به آتش جنگ بیافزاید امارات متحده عربی ورود ۴۷۲ کشتی را به بنادر خود ممنوع کرد سازمان دریانوردی امارات ارائه خدمات بندری به ۴۷۲ کشتی را متوقف کرده است؛ کشتی‌هایی که اکثر آن‌ها یا با ایران مرتبط بوده‌اند و یا برای عبور از تنگه هرمز، از آب‌های ایران گذر کرده‌اند. این اقدامی است که شریان حیاتی کشتیرانی تهران را به شدت تحت فشار قرار می‌دهد. #کیان_ملی https://t.me/kianmeli1",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/kianmeli1/93066",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/d48Uu2DqlTxLLe-0zlelekVtdYKobwOjHLYWQv7tqSFbVIV3AfYh9cg_NRdFzNaOUSlqr0bdlKR5v6ycpcnKAxm1FfYKmsmU7fqgDg1MX9izUbtuKoRy_JHmtkqe41Hha0t_y_qzYKP1HfUMlGQjwCogpeaAahhE2mYqAxsEQvlheiburHLPWsAXODn-6Z8aw2BvBL4_vrHU28Lnp-XKcNVctnikjP7UpOfKS3kCNwkP2kqoQUSqShJJvD2xRPEg9q5q5Nz9KBhieYy8poEec0CR_IIQmQyL6TLZTw7MJC0v4irKqjF_BUqinIOCCdB4NkYE1K-Lz1B_zKpW42qV3g.jpg",
-          "thumbnail_path": "channels/kianmeli1/media/5fa0bca131e5fdb1cd37e44f.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.3071895424836601
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "447"
-        },
-        {
-          "emoji": "👍",
-          "count": "163"
-        },
-        {
-          "emoji": "👏",
-          "count": "81"
-        },
-        {
-          "emoji": "👎",
-          "count": "31"
-        },
-        {
-          "emoji": "😁",
-          "count": "21"
-        },
-        {
-          "emoji": "😱",
-          "count": "19"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "10"
-        },
-        {
-          "emoji": "💔",
-          "count": "10"
-        },
-        {
-          "emoji": "🤝",
-          "count": "10"
-        },
-        {
-          "emoji": "🙏",
-          "count": "5"
-        }
-      ],
-      "views_label": "95.7K",
-      "posted_at": "2026-10-07T18:20:00+00:00",
-      "edited": false,
-      "permalink": "https://t.me/kianmeli1/93066"
-    },
-    {
-      "id": "kianmeli1/93065",
-      "author_name": "کیان ملی 1",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QhQZLi34OZtTszLQsM1vW68FDy4bw8E042c_gV3JJDLwnF7KoCQTBsj6v17Z2RhXhH_2M388Ye_FmeBiVkwLO1cUySHrsVcM5xUb5ilYENP7mHxeE68AS6sDU2H8WuUzJNAX2EXzNUWiERSUYNAEioKisS7I2JTv8cMKdcDwI-pcbih2cWiwIShFesKkBKwbMVGkhQP3JMcM14AEy2ZWF5gAZ-VqPpmH9khirsI3_-zS0nUMJC0HUdaMOHhCLtUpNFmaZoxvU0OA6Ze7VPcnYv6HD2uofFXAb718pV9XilonHM80UH9YWKc85q5bq2HHXxm2BqfhRPaTZAAubwoiDg.jpg",
-      "author_photo_path": "channels/kianmeli1/media/d0f0808ba9d11009c1d3b4b1.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>اسراییل در حال کمک به عربستان </b><br><br><b>رسانه‌های همسو با حوثی‌ها مدعی هستند که اسرائیل پروازهای شناسایی بر فراز مناطق تحت کنترل حوثی‌ها در شمال یمن را آغاز کرده و اطلاعات ارزشمندی را درباره این شبه‌نظامیان شیعهِ مورد حمایت ایران، در اختیار عربستان سعودی قرار می‌دهد.</b><br><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
-      "plain_text": "🔴اسراییل در حال کمک به عربستان رسانه‌های همسو با حوثی‌ها مدعی هستند که اسرائیل پروازهای شناسایی بر فراز مناطق تحت کنترل حوثی‌ها در شمال یمن را آغاز کرده و اطلاعات ارزشمندی را درباره این شبه‌نظامیان شیعهِ مورد حمایت ایران، در اختیار عربستان سعودی قرار می‌دهد. #کیان_ملی https://t.me/kianmeli1",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/kianmeli1/93065",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/lNfYpoxyzWjrVsG5RZG47DvXfTWcu2fm7exc67Bj9smZ-rpKU0p_sKqVZ6SmR5k42KPlXHch7ZLgQz_0OVeCHs8nduxJFxO6-wVEtYHeX-gOqINDDmKyUfqAM1xk4BBQaIypaZauo-czZx1LmVKjP9c7U0WrWq6w24VRHg4aW4_cyDxOQQEPh7uQSDLjaSn_KwpUj4T5h0GlP_p0aOUTB3H6NS__OVBZs0LIcVFhT_mw0OzZ4zqfFBdH2S7s11ZOE64mRvbquXWsu_x0rXmlqV5iihYW3IeGAlJ0MGuT-DgCc_LmCD6R5HCiv4_8sBU0MPADx6pkH3YFspWR3YNorw.jpg",
-          "thumbnail_path": "channels/kianmeli1/media/093f4ce3edbbaef8e1d77a40.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.5325670498084292
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "780"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "94"
-        },
-        {
-          "emoji": "👏",
-          "count": "56"
-        },
-        {
-          "emoji": "😡",
-          "count": "36"
-        },
-        {
-          "emoji": "🔥",
-          "count": "30"
-        },
-        {
-          "emoji": "😁",
-          "count": "19"
-        },
-        {
-          "emoji": "👎",
-          "count": "14"
-        },
-        {
-          "emoji": "👀",
-          "count": "8"
-        },
-        {
-          "emoji": "😎",
-          "count": "5"
-        },
-        {
-          "emoji": "😭",
-          "count": "4"
-        }
-      ],
-      "views_label": "90.5K",
-      "posted_at": "2026-10-07T18:16:55+00:00",
-      "edited": false,
-      "permalink": "https://t.me/kianmeli1/93065"
-    },
-    {
-      "id": "kianmeli1/93064",
-      "author_name": "کیان ملی 1",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QhQZLi34OZtTszLQsM1vW68FDy4bw8E042c_gV3JJDLwnF7KoCQTBsj6v17Z2RhXhH_2M388Ye_FmeBiVkwLO1cUySHrsVcM5xUb5ilYENP7mHxeE68AS6sDU2H8WuUzJNAX2EXzNUWiERSUYNAEioKisS7I2JTv8cMKdcDwI-pcbih2cWiwIShFesKkBKwbMVGkhQP3JMcM14AEy2ZWF5gAZ-VqPpmH9khirsI3_-zS0nUMJC0HUdaMOHhCLtUpNFmaZoxvU0OA6Ze7VPcnYv6HD2uofFXAb718pV9XilonHM80UH9YWKc85q5bq2HHXxm2BqfhRPaTZAAubwoiDg.jpg",
-      "author_photo_path": "channels/kianmeli1/media/d0f0808ba9d11009c1d3b4b1.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>دونالد ترامپ، رئیس‌جمهور آمریکا، می‌گوید روسیه اطلاعات زیادی درباره وضعیت شیوع طاعون فاش نمی‌کند؛ وضعیتی مشابه آنچه در دوران همه‌گیری کووید از سوی چین شاهد بودیم.<br></b><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
-      "plain_text": "🔴دونالد ترامپ، رئیس‌جمهور آمریکا، می‌گوید روسیه اطلاعات زیادی درباره وضعیت شیوع طاعون فاش نمی‌کند؛ وضعیتی مشابه آنچه در دوران همه‌گیری کووید از سوی چین شاهد بودیم. https://t.me/kianmeli1",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/kianmeli1/93064",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/rZ49nQEtY1l6PBnfGsKtsHwWNHciGqngc196bq1XMCapxx0AvoBL3hZG_3Cwy_RKF2zmnF1X2g06tWZazQ4v3-ak-9UT_8OTVB__X4078BiTDjf4hV1qgZ7uCv8X44y1rloWNSWYKrSar1JvPTdfgvyxbXKFGPyrPluM4rqAiTZYJAVXSq0uqAbj2S0tsjD3gfGokBGpUvlXhNs20mzAMugMX9mo1JuWU1sLIHSR6fc9TNx5IXSv4GnOTIzCo9d9mzGfsQmlRJVjExVP56ReA53_87D6F8PPD7e1oo68INtJHyMbA3S5LN_8vzqVKv_B9dmYRxfU4UVyhHz0W4Z05g.jpg",
-          "thumbnail_path": "channels/kianmeli1/media/ff26725d523bdf861740b29e.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "😱",
-          "count": "522"
-        },
-        {
-          "emoji": "😡",
-          "count": "194"
-        },
-        {
-          "emoji": "👍",
-          "count": "74"
-        },
-        {
-          "emoji": "👀",
-          "count": "38"
-        },
-        {
-          "emoji": "😁",
-          "count": "22"
-        },
-        {
-          "emoji": "😨",
-          "count": "11"
-        },
-        {
-          "emoji": "👎",
-          "count": "10"
-        },
-        {
-          "emoji": "🔥",
-          "count": "10"
-        },
-        {
-          "emoji": "🍾",
-          "count": "4"
-        },
-        {
-          "emoji": "😎",
-          "count": "3"
-        }
-      ],
-      "views_label": "93.7K",
-      "posted_at": "2026-10-07T17:41:56+00:00",
-      "edited": false,
-      "permalink": "https://t.me/kianmeli1/93064"
-    },
-    {
-      "id": "kianmeli1/93063",
-      "author_name": "کیان ملی 1",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QhQZLi34OZtTszLQsM1vW68FDy4bw8E042c_gV3JJDLwnF7KoCQTBsj6v17Z2RhXhH_2M388Ye_FmeBiVkwLO1cUySHrsVcM5xUb5ilYENP7mHxeE68AS6sDU2H8WuUzJNAX2EXzNUWiERSUYNAEioKisS7I2JTv8cMKdcDwI-pcbih2cWiwIShFesKkBKwbMVGkhQP3JMcM14AEy2ZWF5gAZ-VqPpmH9khirsI3_-zS0nUMJC0HUdaMOHhCLtUpNFmaZoxvU0OA6Ze7VPcnYv6HD2uofFXAb718pV9XilonHM80UH9YWKc85q5bq2HHXxm2BqfhRPaTZAAubwoiDg.jpg",
-      "author_photo_path": "channels/kianmeli1/media/d0f0808ba9d11009c1d3b4b1.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>به گزارش رویترز، حملات ایران به کشتی‌ها در تنگه هرمز به بالاترین سطح خود از زمان آغاز درگیری‌ها در ماه فوریه رسیده است.</b><br><br><b>ایران تنها در عرض ۸ روز به ۱۲ نفتکش حمله کرده است.</b><br><br><b>به نوشته فایننشال تایمز، شرکت‌های کشتیرانی اکنون به کاپیتان‌های کشتی پیشنهاد پرداخت ماهانه تا ۱۰۰ هزار دلار، به اضافه پاداش ۵۰ هزار دلاری، برای عبور از تنگه هرمز تحت حفاظت آمریکا را می‌دهند.</b><br><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
-      "plain_text": "🔴به گزارش رویترز، حملات ایران به کشتی‌ها در تنگه هرمز به بالاترین سطح خود از زمان آغاز درگیری‌ها در ماه فوریه رسیده است. ایران تنها در عرض ۸ روز به ۱۲ نفتکش حمله کرده است. به نوشته فایننشال تایمز، شرکت‌های کشتیرانی اکنون به کاپیتان‌های کشتی پیشنهاد پرداخت ماهانه تا ۱۰۰ هزار دلار، به اضافه پاداش ۵۰ هزار دلاری، برای عبور از تنگه هرمز تحت حفاظت آمریکا را می‌دهند. #کیان_ملی https://t.me/kianmeli1",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/kianmeli1/93063",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/qaOtj3ioDAjnXiCv9xNxPCiVo5z1-0lX27VFTrRxON0n6iLH08sBEGt2pgVpvF8thZ_K5ehfRB7t4Rka4GiijrLf6EobIrXgu4fsWIN0QkN-0P8AGO0CvN09FOR-HjBKjZuJBM4lXywxDzDwGjYsW2FWddwphk5zC8Im3-yWQFaYT89MTEoWbn7lU6E0UbmGjn3FcSpyOC_b-l5pSc6PBNWcwYeiS4jRPKwoIyZnFt3WPamg8_RCRkV1tjCYyhKeDEOOzYlmqKtYfpvFDkWwuL4OnaOJpK1oW-FuTS9P1BMyOOMRgBddT7LgzKTasLzn8xZ2dnq4NZ9Dgvb8skn-fg.jpg",
-          "thumbnail_path": "channels/kianmeli1/media/993f8be5619c8144d937d67b.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👀",
-          "count": "214"
-        },
-        {
-          "emoji": "🔥",
-          "count": "93"
-        },
-        {
-          "emoji": "😡",
-          "count": "52"
-        },
-        {
-          "emoji": "👍",
-          "count": "25"
-        },
-        {
-          "emoji": "😱",
-          "count": "20"
-        },
-        {
-          "emoji": "⚡",
-          "count": "9"
-        },
-        {
-          "emoji": "🤷‍♀",
-          "count": "9"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "7"
-        },
-        {
-          "emoji": "🤯",
-          "count": "6"
-        },
-        {
-          "emoji": "😢",
-          "count": "4"
-        }
-      ],
-      "views_label": "93.2K",
-      "posted_at": "2026-10-07T17:31:16+00:00",
-      "edited": false,
-      "permalink": "https://t.me/kianmeli1/93063"
-    },
-    {
-      "id": "kianmeli1/93062",
-      "author_name": "کیان ملی 1",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QhQZLi34OZtTszLQsM1vW68FDy4bw8E042c_gV3JJDLwnF7KoCQTBsj6v17Z2RhXhH_2M388Ye_FmeBiVkwLO1cUySHrsVcM5xUb5ilYENP7mHxeE68AS6sDU2H8WuUzJNAX2EXzNUWiERSUYNAEioKisS7I2JTv8cMKdcDwI-pcbih2cWiwIShFesKkBKwbMVGkhQP3JMcM14AEy2ZWF5gAZ-VqPpmH9khirsI3_-zS0nUMJC0HUdaMOHhCLtUpNFmaZoxvU0OA6Ze7VPcnYv6HD2uofFXAb718pV9XilonHM80UH9YWKc85q5bq2HHXxm2BqfhRPaTZAAubwoiDg.jpg",
-      "author_photo_path": "channels/kianmeli1/media/d0f0808ba9d11009c1d3b4b1.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>خلاصه وضعیت ۲۴ ساعت اخیر: به گفته چندین منبع، جنگنده‌های رادارگریز اف-۳۵ اسرائیل بر فراز ایران یک رزمایش نظامی انجام دادند.</b><br><br><b>این هواپیماها پیش از ورود به حریم هوایی ایران، بر فراز آسمان عراق سوخت‌گیری کردند.</b><br><br><b>برخی گزارش‌ها همچنین حاکی از آن است که یک اسکادران از جنگنده‌های اف-۳۵ آمریکا از پایگاه هوایی «الازرق» در اردن برخاسته، در نزدیکی مرزهای غربی ایران رزمایشی انجام داده و سپس به پایگاه خود بازگشته‌اند.</b><br><br><b>بخش عمده‌ای از پایگاه‌های موشکی دوربرد ایران در غرب این کشور واقع شده است.</b><br><br><b>این رزمایش‌ها می‌تواند نشان‌دهنده آن باشد که اسرائیل و آمریکا در حال آماده‌سازی خود برای احتمال انجام حمله‌ای دیگر علیه ایران هستند.</b><br><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
-      "plain_text": "🔴خلاصه وضعیت ۲۴ ساعت اخیر: به گفته چندین منبع، جنگنده‌های رادارگریز اف-۳۵ اسرائیل بر فراز ایران یک رزمایش نظامی انجام دادند. این هواپیماها پیش از ورود به حریم هوایی ایران، بر فراز آسمان عراق سوخت‌گیری کردند. برخی گزارش‌ها همچنین حاکی از آن است که یک اسکادران از جنگنده‌های اف-۳۵ آمریکا از پایگاه هوایی «الازرق» در اردن برخاسته، در نزدیکی مرزهای غربی ایران رزمایشی انجام داده و سپس به پایگاه خود بازگشته‌اند. بخش عمده‌ای از پایگاه‌های موشکی دوربرد ایران در غرب این کشور واقع شده است. این رزمایش‌ها می‌تواند نشان‌دهنده آن باشد که اسرائیل و آمریکا در حال آماده‌سازی خود برای احتمال انجام حمله‌ای دیگر علیه ایران هستند. #کیان_ملی https://t.me/kianmeli1",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/kianmeli1/93062",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/MoypV3k7p2PSgHcdBMcsrbfOVHl-BRisPM0q379UD7r1uZmsPRC6Q_S1klmFHy1Zhjg9WA30IEla_RznKR2mRcE_E3o_Mg0YUElJE6PfBTMSeF9Ku51nQQ-jUlPP0wE17XcXtziDT3b17XRThletwrcWwPeTdCbhXesrhkCQnn7bh4S-In74d8UirFkx8kLZpkZjsdONUj2DueS5pTWKqyCFmpd8SZZ9C0sN9Mk4aOF65wM-Th0vyvHEhz75zCbvdCJqC4Gz21bAllve_u1EWZQwQ4YlDm77vXcHVrHLKdCQ8sBIbWWi6XMi8jeHocviwXxeJVDF1vDfLcF89zmSMg.jpg",
-          "thumbnail_path": "channels/kianmeli1/media/ddbdee4c141ab77434e9f6d6.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤‍🔥",
-          "count": "532"
-        },
-        {
-          "emoji": "👏",
-          "count": "269"
-        },
-        {
-          "emoji": "👎",
-          "count": "53"
-        },
-        {
-          "emoji": "👍",
-          "count": "37"
-        },
-        {
-          "emoji": "😡",
-          "count": "35"
-        },
-        {
-          "emoji": "🔥",
-          "count": "24"
-        },
-        {
-          "emoji": "👀",
-          "count": "14"
-        },
-        {
-          "emoji": "🙏",
-          "count": "13"
-        },
-        {
-          "emoji": "🤝",
-          "count": "12"
-        },
-        {
-          "emoji": "💔",
-          "count": "1"
-        }
-      ],
-      "views_label": "97.1K",
-      "posted_at": "2026-10-07T13:20:47+00:00",
-      "edited": false,
-      "permalink": "https://t.me/kianmeli1/93062"
-    },
-    {
-      "id": "kianmeli1/93061",
-      "author_name": "کیان ملی 1",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QhQZLi34OZtTszLQsM1vW68FDy4bw8E042c_gV3JJDLwnF7KoCQTBsj6v17Z2RhXhH_2M388Ye_FmeBiVkwLO1cUySHrsVcM5xUb5ilYENP7mHxeE68AS6sDU2H8WuUzJNAX2EXzNUWiERSUYNAEioKisS7I2JTv8cMKdcDwI-pcbih2cWiwIShFesKkBKwbMVGkhQP3JMcM14AEy2ZWF5gAZ-VqPpmH9khirsI3_-zS0nUMJC0HUdaMOHhCLtUpNFmaZoxvU0OA6Ze7VPcnYv6HD2uofFXAb718pV9XilonHM80UH9YWKc85q5bq2HHXxm2BqfhRPaTZAAubwoiDg.jpg",
-      "author_photo_path": "channels/kianmeli1/media/d0f0808ba9d11009c1d3b4b1.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>مارکو روبیو میگه تنگه هرمز بازه و صادرات نفت از اون به اندازه قبل از شروع درگیری‌هاست. به گفته او ایران دیگه کنترل کامل تنگه رو نداره.</b><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
-      "plain_text": "🔴مارکو روبیو میگه تنگه هرمز بازه و صادرات نفت از اون به اندازه قبل از شروع درگیری‌هاست. به گفته او ایران دیگه کنترل کامل تنگه رو نداره. https://t.me/kianmeli1",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/kianmeli1/93061",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/IegTvgajataDhwnDVWMtxUcWwgUNdgOnqW4ojVzXeauEEHfTr7_drNLzm8p_1EW0yh1LbyirUZh350dhs5ETyDtfir5QEi6ogYrclWfwmqZzkTSPMiKGwFjwJZZNFb0VZX6QeRmj9xdbYx7CFl4cOiA2A4vZCnGXZDP2n3rBhjrYfvHAYTexVPRI7BQdQIgwhG5YxqyBCb6t_TkhFkAPf4RWTaUuGYiJgTUv0ve2VS03wdbua8llxKLS9vT8sjfCZS7bmtWNdntVnKnF_lZO9WnOi441yIA-jIo-FtKBvzLIIMI8BAN-LHFfzTdlZZeLxXy3Xt5GWX4ziB7tfjCAlA",
-          "thumbnail_path": "channels/kianmeli1/media/8e412c3910c84cec87fb048f.jpg",
-          "duration_label": "0:08",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "647"
-        },
-        {
-          "emoji": "👎",
-          "count": "79"
-        },
-        {
-          "emoji": "😁",
-          "count": "49"
-        },
-        {
-          "emoji": "🤷‍♂",
-          "count": "12"
-        },
-        {
-          "emoji": "🔥",
-          "count": "12"
-        },
-        {
-          "emoji": "😎",
-          "count": "8"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "7"
-        },
-        {
-          "emoji": "😡",
-          "count": "4"
-        }
-      ],
-      "views_label": "93.3K",
-      "posted_at": "2026-10-07T13:17:17+00:00",
-      "edited": false,
-      "permalink": "https://t.me/kianmeli1/93061"
-    },
-    {
-      "id": "kianmeli1/93060",
-      "author_name": "کیان ملی 1",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QhQZLi34OZtTszLQsM1vW68FDy4bw8E042c_gV3JJDLwnF7KoCQTBsj6v17Z2RhXhH_2M388Ye_FmeBiVkwLO1cUySHrsVcM5xUb5ilYENP7mHxeE68AS6sDU2H8WuUzJNAX2EXzNUWiERSUYNAEioKisS7I2JTv8cMKdcDwI-pcbih2cWiwIShFesKkBKwbMVGkhQP3JMcM14AEy2ZWF5gAZ-VqPpmH9khirsI3_-zS0nUMJC0HUdaMOHhCLtUpNFmaZoxvU0OA6Ze7VPcnYv6HD2uofFXAb718pV9XilonHM80UH9YWKc85q5bq2HHXxm2BqfhRPaTZAAubwoiDg.jpg",
-      "author_photo_path": "channels/kianmeli1/media/d0f0808ba9d11009c1d3b4b1.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>دیوارنگاره ای در تهران</b><br><br><b>حاوی یک پیام سیاسی صریح در بستر رقابت‌های جهانی است:</b><br><b>شکست آمریکا توسط چین: عقاب (نماد آمریکا) در چنگال اژدها (نماد چین) اسیر شده که نشان‌دهنده پیام افول قدرت آمریکا و ظهور چین به عنوان ابرقدرت جدید جهان است.</b><br><br><b>دیدگاه تهران: نصب این بنر نشان‌دهنده تمایل جمهوری اسلامی به تصویر کشیدن یک جبهه متحد با چین علیه غرب و تاکید بر تغییر موازنه قدرت در هندسه جدید جهانی است.</b><br><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
-      "plain_text": "🔴دیوارنگاره ای در تهران حاوی یک پیام سیاسی صریح در بستر رقابت‌های جهانی است: شکست آمریکا توسط چین: عقاب (نماد آمریکا) در چنگال اژدها (نماد چین) اسیر شده که نشان‌دهنده پیام افول قدرت آمریکا و ظهور چین به عنوان ابرقدرت جدید جهان است. دیدگاه تهران: نصب این بنر نشان‌دهنده تمایل جمهوری اسلامی به تصویر کشیدن یک جبهه متحد با چین علیه غرب و تاکید بر تغییر موازنه قدرت در هندسه جدید جهانی است. #کیان_ملی https://t.me/kianmeli1",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/kianmeli1/93060",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/gf2t6f8il5AP7P03-RapDGkAjRBx293jIBrtutN7RKTihh_uiEU4Pzg61TuTXtwURWGtIIqQ1pENxPkEUyA5z3uBh0ZVEMOoqNeoW5iQ8MSOd4vwr-9ynu_UL2dtFmOfizqlZRPXW8GsS8t7zD0FOb07_8azaY4O7-WsoY_KL5wvA1cb_FiovmdivJ7C1Sbpf_M5mF0Kp-InqHDb24Rl81DeG5-GiTjGMQMs2SWIyIJROdLpP44BhLyQIIy0i5fehWWKmc7eF8koPOlYneDeawaMOTZ5PXvbmvmSnXj6RvK2qiCZMLgAHVYSUsgvMz3HLpBLdKQckFV5P04JxXE31g.jpg",
-          "thumbnail_path": "channels/kianmeli1/media/dbb8771213a7ab8d3fada8ee.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "😁",
-          "count": "757"
-        },
-        {
-          "emoji": "👎",
-          "count": "282"
-        },
-        {
-          "emoji": "👍",
-          "count": "74"
-        },
-        {
-          "emoji": "😡",
-          "count": "20"
-        },
-        {
-          "emoji": "🤷‍♂",
-          "count": "12"
-        },
-        {
-          "emoji": "👏",
-          "count": "7"
-        },
-        {
-          "emoji": "🤷‍♀",
-          "count": "6"
-        },
-        {
-          "emoji": "🔥",
-          "count": "6"
-        },
-        {
-          "emoji": "💯",
-          "count": "3"
-        },
-        {
-          "emoji": "😎",
-          "count": "3"
-        }
-      ],
-      "views_label": "91.9K",
-      "posted_at": "2026-10-07T13:16:00+00:00",
-      "edited": false,
-      "permalink": "https://t.me/kianmeli1/93060"
-    },
-    {
-      "id": "kianmeli1/93059",
-      "author_name": "کیان ملی 1",
-      "author_photo_url": "https://cdn4.telesco.pe/file/E2zCZx1RBu9VsBRqqcQXbzgpPSeCdUNd-qMbOxP9HIr_KDgRPIctUqXuG6p1TAHSof6L_1mywQ-eOk5tY-9nLhOhMVILkegtF8Sk1CEgAtKqA2yyrD-UgRBUj5EGQNgfPICT2p3CKcU1wZhhJlxOoluRd-UmIO7kF03-ECGFqM1bPruM8gyiJOB8qPuRgE5JHb58Q3VQxm6QerVp41-w4caYerctfDwCviGfzB0rhUD9vhdU7Qpvf8pNOiS1xxT1dXr7ju7TQsJ9_-lxZHpKo9_bFNe2GbZ4VnCXLXFcJiaU54pI1wrjEHXu5eEAPUM3II4eRFpTUO1ut7IdB1vWEQ.jpg",
-      "author_photo_path": "channels/kianmeli1/media/6b66c8134c098a32e1a2a5b5.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>سنتکام: یک فروند جنگنده F-35B Lightning II متعلق به سپاه تفنگداران دریایی ایالات متحده، هم‌زمان با حرکت ناو USS Boxer (LHD 4) در منطقه خاورمیانه، از عرشه پروازی این ناو به هوا برمی‌خیزد.</b><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
-      "plain_text": "🔴سنتکام: یک فروند جنگنده F-35B Lightning II متعلق به سپاه تفنگداران دریایی ایالات متحده، هم‌زمان با حرکت ناو USS Boxer (LHD 4) در منطقه خاورمیانه، از عرشه پروازی این ناو به هوا برمی‌خیزد. https://t.me/kianmeli1",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/kianmeli1/93059",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/h5ZqKAfSjIfMdje8xQeR0AAwlnOv2otnEekXVa3XAHolCCTqd7nEtiW50ARwc0mm6nrCNhpGPevHX8c_2WAZnd0KVkBInJsjOsTkcr_wEUq1v-UK_JjI-enXtiInhHDJxms30Co5u0iE3K4MuPafwdiUE0whVM6zmWQy1V9c5UpXoxLO_JuLMgI5uJWjgMc9EAFybq3Im8LUsLl1638SDG4O9qDksAtqLL-973FWCwjGRlvnmMc9ib5iqXVgw0ZQVCU4_KJFS8p5Is1tMtaDFDuOitCpUj7CZr7DmonaliFvt7mG7R1O2p8f97PsGg5WvuReON8ejghj-1GTCZc36g.jpg",
-          "thumbnail_path": "channels/kianmeli1/media/c640a122fa81fa783ad3b416.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.931250000000004
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👏",
-          "count": "356"
-        },
-        {
-          "emoji": "👍",
-          "count": "55"
-        },
-        {
-          "emoji": "🔥",
-          "count": "19"
-        },
-        {
-          "emoji": "😡",
-          "count": "11"
-        },
-        {
-          "emoji": "🤷‍♀",
-          "count": "10"
-        },
-        {
-          "emoji": "😁",
-          "count": "10"
-        },
-        {
-          "emoji": "🤷‍♂",
-          "count": "9"
-        },
-        {
-          "emoji": "🏆",
-          "count": "7"
-        },
-        {
-          "emoji": "😱",
-          "count": "3"
-        },
-        {
-          "emoji": "😐",
-          "count": "1"
-        }
-      ],
-      "views_label": "79.4K",
-      "posted_at": "2026-10-07T13:12:07+00:00",
-      "edited": false,
-      "permalink": "https://t.me/kianmeli1/93059"
-    },
-    {
-      "id": "kianmeli1/93058",
-      "author_name": "کیان ملی 1",
-      "author_photo_url": "https://cdn4.telesco.pe/file/E2zCZx1RBu9VsBRqqcQXbzgpPSeCdUNd-qMbOxP9HIr_KDgRPIctUqXuG6p1TAHSof6L_1mywQ-eOk5tY-9nLhOhMVILkegtF8Sk1CEgAtKqA2yyrD-UgRBUj5EGQNgfPICT2p3CKcU1wZhhJlxOoluRd-UmIO7kF03-ECGFqM1bPruM8gyiJOB8qPuRgE5JHb58Q3VQxm6QerVp41-w4caYerctfDwCviGfzB0rhUD9vhdU7Qpvf8pNOiS1xxT1dXr7ju7TQsJ9_-lxZHpKo9_bFNe2GbZ4VnCXLXFcJiaU54pI1wrjEHXu5eEAPUM3II4eRFpTUO1ut7IdB1vWEQ.jpg",
-      "author_photo_path": "channels/kianmeli1/media/6b66c8134c098a32e1a2a5b5.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i>پست‌هایی در شبکه‌های اجتماعی چین به سرعت در حال انتشار است که به ساکنان شمال این کشور — به‌ویژه سه استان شمال‌شرقی هم‌مرز با روسیه — هشدار می‌دهد تا پیش از وقوع احتمالی و قریب‌الوقوع قرنطینه شهری، فوراً نسبت به ذخیره‌سازی مواد غذایی ضروری و اقلام پزشکی اقدام کنند.</b><br><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
-      "plain_text": "⚠️پست‌هایی در شبکه‌های اجتماعی چین به سرعت در حال انتشار است که به ساکنان شمال این کشور — به‌ویژه سه استان شمال‌شرقی هم‌مرز با روسیه — هشدار می‌دهد تا پیش از وقوع احتمالی و قریب‌الوقوع قرنطینه شهری، فوراً نسبت به ذخیره‌سازی مواد غذایی ضروری و اقلام پزشکی اقدام کنند. #کیان_ملی https://t.me/kianmeli1",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/kianmeli1/93058",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/jHtpTi6Qh-IusECF99M0P_LWOAiXGfY6lAK-LrHIfFGyhp4xcwYFcnEL7GVd29m0ckA1AuHpYQ1LKdP3QRcOQ6BSuN0G4RJdgBRXb2ClBbF1-Fs773Za3hl__EQpid59jLKuBRz2ViLE5i5U5H_kO7O1039ss9mYa4k0mC21B1JAtbGHHUIzCVFzewdbg8GMAjIczhRtpk-dET4720GAq0rFx4e1b2hz_AMvL2mAAqudsVNqWVsTdEnoPEuHSSt7EUhiOihilcEbatF6ijyZB1J5bbKfdYQOlv8pOJP5Kl5enKNbV3UV9AQoH0BLdW_Ok8WO5c5EZGO2cu-ep9eIAw.jpg",
-          "thumbnail_path": "channels/kianmeli1/media/81c4d38cd731e2343888afc6.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.3675213675213675
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "😱",
-          "count": "501"
-        },
-        {
-          "emoji": "😁",
-          "count": "99"
-        },
-        {
-          "emoji": "🔥",
-          "count": "22"
-        },
-        {
-          "emoji": "👀",
-          "count": "19"
-        },
-        {
-          "emoji": "👍",
-          "count": "18"
-        },
-        {
-          "emoji": "👎",
-          "count": "15"
-        },
-        {
-          "emoji": "😐",
-          "count": "14"
-        },
-        {
-          "emoji": "🤯",
-          "count": "6"
-        },
-        {
-          "emoji": "💔",
-          "count": "6"
-        },
-        {
-          "emoji": "😎",
-          "count": "2"
-        }
-      ],
-      "views_label": "79.5K",
-      "posted_at": "2026-10-07T13:00:21+00:00",
-      "edited": false,
-      "permalink": "https://t.me/kianmeli1/93058"
-    },
-    {
-      "id": "kianmeli1/93057",
-      "author_name": "کیان ملی 1",
-      "author_photo_url": "https://cdn4.telesco.pe/file/E2zCZx1RBu9VsBRqqcQXbzgpPSeCdUNd-qMbOxP9HIr_KDgRPIctUqXuG6p1TAHSof6L_1mywQ-eOk5tY-9nLhOhMVILkegtF8Sk1CEgAtKqA2yyrD-UgRBUj5EGQNgfPICT2p3CKcU1wZhhJlxOoluRd-UmIO7kF03-ECGFqM1bPruM8gyiJOB8qPuRgE5JHb58Q3VQxm6QerVp41-w4caYerctfDwCviGfzB0rhUD9vhdU7Qpvf8pNOiS1xxT1dXr7ju7TQsJ9_-lxZHpKo9_bFNe2GbZ4VnCXLXFcJiaU54pI1wrjEHXu5eEAPUM3II4eRFpTUO1ut7IdB1vWEQ.jpg",
-      "author_photo_path": "channels/kianmeli1/media/6b66c8134c098a32e1a2a5b5.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>فوری-سفارت ایالات متحده در پی شیوع احتمالی طاعون ریوی، از تمامی آمریکایی‌های حاضر در روسیه خواست تا فوراً این کشور را ترک کنند.</b><br><br><a href=\"?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C\"><b>#کیان_ملی</b></a><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
-      "plain_text": "🔴فوری-سفارت ایالات متحده در پی شیوع احتمالی طاعون ریوی، از تمامی آمریکایی‌های حاضر در روسیه خواست تا فوراً این کشور را ترک کنند. #کیان_ملی https://t.me/kianmeli1",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/kianmeli1/93057",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/jmBkCzvvWoeqr0Bq7vBw8PwrTg1jgEkmGbOlcH9QJoKAUE7yAeVgCQNrkZmSg4WRX5z6DwMTpF6s2zs8-1kcS6uhbXDB1tZvw4wiC3w-RBxaIbkDE_hO6dQJ4Y4kNVvqmX8qMJxY6wRCjOmMq_XSGWnZ9J34Rpyl2CdkjYpiNTK3imaHpZCcb-Cqo3eqHJPNdLE85Jhe7LSEsh1PHIILwotAyVAsllFLuMDUMaBDEXPsGzVsh0mEKbZOlLay04oOLspl7VRre4Zingq6t5_yzS-3UeQy-BYbmFlzMA43XBbEtRB1hvMUC5HPVxvUpjYcSzRR2FCuXXGqMY3Ysasy1Q.jpg",
-          "thumbnail_path": "channels/kianmeli1/media/131df75c73baf1fce99dd01a.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.7975000000000035
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤯",
-          "count": "574"
-        },
-        {
-          "emoji": "😁",
-          "count": "137"
-        },
-        {
-          "emoji": "👍",
-          "count": "107"
-        },
-        {
-          "emoji": "😨",
-          "count": "30"
-        },
-        {
-          "emoji": "👎",
-          "count": "14"
-        },
-        {
-          "emoji": "👀",
-          "count": "11"
-        },
-        {
-          "emoji": "🔥",
-          "count": "8"
-        },
-        {
-          "emoji": "🤷‍♀",
-          "count": "5"
-        },
-        {
-          "emoji": "😱",
-          "count": "5"
-        },
-        {
-          "emoji": "🙏",
-          "count": "2"
-        }
-      ],
-      "views_label": "86.6K",
-      "posted_at": "2026-10-07T11:36:57+00:00",
-      "edited": false,
-      "permalink": "https://t.me/kianmeli1/93057"
-    },
-    {
-      "id": "kianmeli1/93056",
-      "author_name": "کیان ملی 1",
-      "author_photo_url": "https://cdn4.telesco.pe/file/E2zCZx1RBu9VsBRqqcQXbzgpPSeCdUNd-qMbOxP9HIr_KDgRPIctUqXuG6p1TAHSof6L_1mywQ-eOk5tY-9nLhOhMVILkegtF8Sk1CEgAtKqA2yyrD-UgRBUj5EGQNgfPICT2p3CKcU1wZhhJlxOoluRd-UmIO7kF03-ECGFqM1bPruM8gyiJOB8qPuRgE5JHb58Q3VQxm6QerVp41-w4caYerctfDwCviGfzB0rhUD9vhdU7Qpvf8pNOiS1xxT1dXr7ju7TQsJ9_-lxZHpKo9_bFNe2GbZ4VnCXLXFcJiaU54pI1wrjEHXu5eEAPUM3II4eRFpTUO1ut7IdB1vWEQ.jpg",
-      "author_photo_path": "channels/kianmeli1/media/6b66c8134c098a32e1a2a5b5.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>تنش جنگی در تنگه هرمز بالاتر می رود</b><br><br><b>ایران اعلام کرد که به‌زودی مسیرهای کشتیرانی «غیرقانونی» در تنگه هرمز را مسدود خواهد کرد.</b><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
-      "plain_text": "🔴تنش جنگی در تنگه هرمز بالاتر می رود ایران اعلام کرد که به‌زودی مسیرهای کشتیرانی «غیرقانونی» در تنگه هرمز را مسدود خواهد کرد. https://t.me/kianmeli1",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/kianmeli1/93056",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/YJJFXH2-NKKb9gDolg2X_1hGMd6PLeclE-37bzrknhfo_miVpao_iSOrHuDuGLtBQN2LMp0a66GiRJ8SQGtPFWH7P215xi4s0lSKBMqnzQpzvN1Asw7d_VxxRWFYalPUwAEocqnzQoHsxNuVy14JeAEp8v8P7OHszr6P2G3I9bQsA9Ww-MI_tqLWIOItZLuYDkAD0O8CFbrjl-9rhbvxbKYOCMDRCXrSzsR8SViqjoJMl0jYegT7WZEu0Tkv_5twcMdp2uirtm7YtEmvuybkcSO7iBKM-uc2RzFOqO1ZLMXtStK9a4OlarIWJ3L0g3qt4o50s4oPyUhmuRe3NJc9Ig.jpg",
-          "thumbnail_path": "channels/kianmeli1/media/3d33d87121ca4c2b644c3caf.jpg",
-          "duration_label": null,
-          "aspect_ratio": 2.6315789473684212
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "😁",
-          "count": "572"
-        },
-        {
-          "emoji": "👍",
-          "count": "89"
-        },
-        {
-          "emoji": "😡",
-          "count": "33"
-        },
-        {
-          "emoji": "👎",
-          "count": "25"
-        },
-        {
-          "emoji": "🔥",
-          "count": "24"
-        },
-        {
-          "emoji": "🤷‍♀",
-          "count": "9"
-        },
-        {
-          "emoji": "😐",
-          "count": "6"
-        },
-        {
-          "emoji": "🤝",
-          "count": "6"
-        },
-        {
-          "emoji": "👀",
-          "count": "4"
-        }
-      ],
-      "views_label": "87K",
-      "posted_at": "2026-10-07T11:35:27+00:00",
-      "edited": false,
-      "permalink": "https://t.me/kianmeli1/93056"
-    },
-    {
-      "id": "kianmeli1/93055",
-      "author_name": "کیان ملی 1",
-      "author_photo_url": "https://cdn4.telesco.pe/file/E2zCZx1RBu9VsBRqqcQXbzgpPSeCdUNd-qMbOxP9HIr_KDgRPIctUqXuG6p1TAHSof6L_1mywQ-eOk5tY-9nLhOhMVILkegtF8Sk1CEgAtKqA2yyrD-UgRBUj5EGQNgfPICT2p3CKcU1wZhhJlxOoluRd-UmIO7kF03-ECGFqM1bPruM8gyiJOB8qPuRgE5JHb58Q3VQxm6QerVp41-w4caYerctfDwCviGfzB0rhUD9vhdU7Qpvf8pNOiS1xxT1dXr7ju7TQsJ9_-lxZHpKo9_bFNe2GbZ4VnCXLXFcJiaU54pI1wrjEHXu5eEAPUM3II4eRFpTUO1ut7IdB1vWEQ.jpg",
-      "author_photo_path": "channels/kianmeli1/media/6b66c8134c098a32e1a2a5b5.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>سخنگوی ارتش ایران:   </b><br><b>حمله پیشدستانه در دستور کار ماست</b><br><br><b>اعلام کرد که این کشور در صورت لزوم، برای جلوگیری از حملات احتمالی دشمنان در آینده، دست به حملات پیش‌دستانه خواهد زد.</b><br><a href=\"https://t.me/kianmeli1\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/kianmeli1</b></a>",
-      "plain_text": "🔴سخنگوی ارتش ایران: حمله پیشدستانه در دستور کار ماست اعلام کرد که این کشور در صورت لزوم، برای جلوگیری از حملات احتمالی دشمنان در آینده، دست به حملات پیش‌دستانه خواهد زد. https://t.me/kianmeli1",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/kianmeli1/93055",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/nlTjYmRlMKJdmwQGrvGcBLYLqm5K-eoihKv_oxZ1-_QilBBYJ4XvLFY1glPUI2KQIzW3H6ps9g_-L2lRUDMh8eB3KAOFcrQ_PVoTLequtUV48UG7DnX4H-uKwNiMOc9pxRlWKblOZ42AsvwkGLs4C6tlFGDObocIXu5WdUc_gY7L4A4aKwCS2nOo3CJEr1PIAYNHK2jENIixtKrUpexJ2zllL8vh9xBIQBqCKbZ-J07n0qiut0PAXsophaNPlNDP_C75_K4D9z0-NesU8NgviPLG5qtDMuo1GT2JL4LQqvX4pC_xZV8mpIs-nOoSyh7n7ZX1EN7ckdDgC9yJjvyk-A.jpg",
-          "thumbnail_path": "channels/kianmeli1/media/c916503579ef3845ed72e81d.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.5009380863039399
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "😁",
-          "count": "872"
-        },
-        {
-          "emoji": "👏",
-          "count": "162"
-        },
-        {
-          "emoji": "👎",
-          "count": "53"
-        },
-        {
-          "emoji": "🔥",
-          "count": "25"
-        },
-        {
-          "emoji": "😡",
-          "count": "24"
-        },
-        {
-          "emoji": "👀",
-          "count": "12"
-        },
-        {
-          "emoji": "😱",
-          "count": "7"
-        },
-        {
-          "emoji": "🏆",
-          "count": "7"
-        },
-        {
-          "emoji": "😐",
-          "count": "7"
-        },
-        {
-          "emoji": "🤷‍♂",
-          "count": "6"
-        }
-      ],
-      "views_label": "88.9K",
-      "posted_at": "2026-10-07T11:23:02+00:00",
-      "edited": false,
-      "permalink": "https://t.me/kianmeli1/93055"
     }
   ]
 }
