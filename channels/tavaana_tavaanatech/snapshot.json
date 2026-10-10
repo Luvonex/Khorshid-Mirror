@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-10T14:05:15.850Z",
+  "fetched_at": "2026-10-10T17:58:43.944Z",
   "channel": {
     "username": "tavaana_tavaanatech",
     "title": "آموزشکده توانا",
@@ -10,6 +10,35 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Tavaana_TavaanaTech/106701",
+      "author_name": "آموزشکده توانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OWGUpFMhPfyzkwf3wmvuYoGNqOiJnInMLL0GJnK8R7ZlgVFITgq3CRdCR04Ki56-tnY8Om91S7Qw9EIy3C8earWu7pvi3G17-555hkJom0LJghDvtjUXE3STnGobsLMkJBZ2lK-uDXBhiJIbCb1MIiA1SjpNaSLRh4dx1T2dRDxynBuKKVvNenkalZqpEaZopf_qVcSTkbSYzeymBbfm_jelf4wNZQkjZ0gkEtSoPCeb1QY5wQx-fR9PsCttuR9o6qXIUpeVoQG3XyQDbppj7Dc2vk5CSnGv7MNkyhnEVBEGQbcBgwQGj3HN_yBaLRR9oFypa1rVckJpEd3jhh-dSg.jpg",
+      "author_photo_path": "channels/tavaana_tavaanatech/media/b76379eaeec412760cc6cdb5.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5420323339723881652\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i></tg-emoji><b>هشدار سرقت حساب تلگرام با لینک مخرب؛ تلگرام دسکتاپ را فوری به‌روزرسانی کنید<br></b><br>اگر از تلگرام روی کامپیوتر استفاده می‌کنید، به‌روزرسانی را عقب نیندازید. بر اساس گزارش پژوهشگر امنیتی BeakSec، آسیب‌پذیری CVE-2026-107181 در تلگرام دسکتاپ تا نسخه ۷.۲.۸ می‌تواند با کلیک روی یک لینک مخرب و فراهم بودن شرایط حمله، به سرقت فایل‌های ورود و تصاحب حساب کاربری منجر شود. اجرای این حمله در ویندوز آزمایش و تایید شده است.<br><br>خطر فقط سرقت حساب نیست؛ این نقص امکان ارسال فایل‌های موجود روی کامپیوتر به گروه تحت کنترل مهاجم را هم فراهم می‌کند، بدون اینکه تلگرام برای ارسال آن‌ها تایید بگیرد. اگر برای تلگرام دسکتاپ رمز قفل محلی تعیین نکرده باشید، مهاجم می‌تواند از فایل‌های ورود سرقت‌شده برای دسترسی به حساب شما استفاده کند.<br><br>به گفته پژوهشگر، این آسیب‌پذیری در نسخه ۷.۲.۹، منتشرشده در ۱۷ سپتامبر ۲۰۲۶، برطرف شد؛ اما انتشار این اصلاح با هشدار امنیتی همراه نبود.<br><br> حتما آخرین نسخه تلگرام دسکتاپ را نصب کنید؛ نسخه شما باید دست‌کم ۷.۲.۹ باشد. محدود کردن دانلود خودکار فایل‌ها و تعیین رمز قفل محلی قوی، خطر را کاهش می‌دهد؛ اما جای به‌روزرسانی را نمی‌گیرد.<br><br><a href=\"https://desktop.telegram.org/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">لینک دانلود نسخه تلگرام برای دسکتاپ</a> <tg-emoji emoji-id=\"5330237710655306682\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji><br><br><br><tg-emoji emoji-id=\"5330237710655306682\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji> <a href=\"https://t.me/tavaanatech\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">tavaanatech</a>",
+      "plain_text": "⚠️هشدار سرقت حساب تلگرام با لینک مخرب؛ تلگرام دسکتاپ را فوری به‌روزرسانی کنید اگر از تلگرام روی کامپیوتر استفاده می‌کنید، به‌روزرسانی را عقب نیندازید. بر اساس گزارش پژوهشگر امنیتی BeakSec، آسیب‌پذیری CVE-2026-107181 در تلگرام دسکتاپ تا نسخه ۷.۲.۸ می‌تواند با کلیک روی یک لینک مخرب و فراهم بودن شرایط حمله، به سرقت فایل‌های ورود و تصاحب حساب کاربری منجر شود. اجرای این حمله در ویندوز آزمایش و تایید شده است. خطر فقط سرقت حساب نیست؛ این نقص امکان ارسال فایل‌های موجود روی کامپیوتر به گروه تحت کنترل مهاجم را هم فراهم می‌کند، بدون اینکه تلگرام برای ارسال آن‌ها تایید بگیرد. اگر برای تلگرام دسکتاپ رمز قفل محلی تعیین نکرده باشید، مهاجم می‌تواند از فایل‌های ورود سرقت‌شده برای دسترسی به حساب شما استفاده کند. به گفته پژوهشگر، این آسیب‌پذیری در نسخه ۷.۲.۹، منتشرشده در ۱۷ سپتامبر ۲۰۲۶، برطرف شد؛ اما انتشار این اصلاح با هشدار امنیتی همراه نبود. حتما آخرین نسخه تلگرام دسکتاپ را نصب کنید؛ نسخه شما باید دست‌کم ۷.۲.۹ باشد. محدود کردن دانلود خودکار فایل‌ها و تعیین رمز قفل محلی قوی، خطر را کاهش می‌دهد؛ اما جای به‌روزرسانی را نمی‌گیرد. لینک دانلود نسخه تلگرام برای دسکتاپ 📱 📱 tavaanatech",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Tavaana_TavaanaTech/106701",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/pdzLhGxOQgcjFMkhsktm-dpVveuE8de7ZgY201qNKNxyscp0RvRqrqNGSeFOBs1bhsxesKo-R_BglrtKT4RvtWdSeH-sF5E0fnp1xHQoivROcvSylBQd5XAZ3em-i-1EiLMp6HxkKxBLA_KvRs5oiJZ4uB0q0YkMFQ9MVDu2HxLag2ASSP9Pcrv6qqzZqz32Sd6xwBC3bhRWsVaBkKE2xDi_2s6t0B3_KTKKvxHMyrD_qk1XvSYCCzs78B-1QYzzF6KOgaRYMFJ4gznyBrQzBHwBF3SRdgOvtI2sR8TcprqEJ9hHhfcvN33K-HN-LWuJMH-gPL2ZsdlZsvAqBMg8iQ.jpg",
+          "thumbnail_path": "channels/tavaana_tavaanatech/media/0f34d489909476e42e305d5e.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "2"
+        }
+      ],
+      "views_label": "343",
+      "posted_at": "2026-10-10T17:20:07+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Tavaana_TavaanaTech/106701"
+    },
     {
       "id": "Tavaana_TavaanaTech/106700",
       "author_name": "آموزشکده توانا",
@@ -31,14 +60,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "8"
+          "count": "25"
         },
         {
           "emoji": "🕊",
-          "count": "3"
+          "count": "5"
         }
       ],
-      "views_label": "214",
+      "views_label": "898",
       "posted_at": "2026-10-10T13:38:44+00:00",
       "edited": true,
       "permalink": "https://t.me/Tavaana_TavaanaTech/106700"
@@ -64,14 +93,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "18"
+          "count": "31"
         },
         {
           "emoji": "❤",
-          "count": "8"
+          "count": "9"
         }
       ],
-      "views_label": "533",
+      "views_label": "1.17K",
       "posted_at": "2026-10-10T12:44:29+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/106699"
@@ -97,14 +126,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "9"
+          "count": "12"
         },
         {
           "emoji": "🕊",
-          "count": "7"
+          "count": "10"
         }
       ],
-      "views_label": "687",
+      "views_label": "1.08K",
       "posted_at": "2026-10-10T12:07:00+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/106698"
@@ -130,7 +159,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "16"
+          "count": "22"
         },
         {
           "emoji": "❤",
@@ -141,7 +170,7 @@
           "count": "2"
         }
       ],
-      "views_label": "926",
+      "views_label": "1.18K",
       "posted_at": "2026-10-10T11:01:16+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/106696"
@@ -167,14 +196,18 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "7"
+          "count": "8"
         },
         {
           "emoji": "❤",
           "count": "2"
+        },
+        {
+          "emoji": "🕊",
+          "count": "1"
         }
       ],
-      "views_label": "873",
+      "views_label": "1.02K",
       "posted_at": "2026-10-10T09:39:49+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/106695"
@@ -204,14 +237,14 @@
         },
         {
           "emoji": "🕊",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "💯",
           "count": "5"
         }
       ],
-      "views_label": "844",
+      "views_label": "993",
       "posted_at": "2026-10-10T09:08:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/106694"
@@ -237,7 +270,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "33"
+          "count": "37"
         },
         {
           "emoji": "🕊",
@@ -248,7 +281,7 @@
           "count": "1"
         }
       ],
-      "views_label": "897",
+      "views_label": "1.06K",
       "posted_at": "2026-10-10T08:39:07+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/106693"
@@ -285,7 +318,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.17K",
+      "views_label": "1.31K",
       "posted_at": "2026-10-10T05:07:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/106692"
@@ -322,7 +355,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.11K",
+      "views_label": "1.23K",
       "posted_at": "2026-10-10T04:27:29+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/106691"
@@ -348,18 +381,18 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "20"
+          "count": "21"
         },
         {
           "emoji": "👍",
-          "count": "2"
+          "count": "3"
         },
         {
           "emoji": "🕊",
           "count": "1"
         }
       ],
-      "views_label": "1.59K",
+      "views_label": "1.69K",
       "posted_at": "2026-10-09T20:21:12+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/106690"
@@ -376,8 +409,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/Tavaana_TavaanaTech/106689",
           "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/FNKLERK8B5FFgn4WPOMEY8EEdXdTf1s3VxUE22W1_HhrSSA9-3hg7qUJSW9_cMdiit0MQRxQ18l-mIqmYk_xDeioVtr7V8r8Do9Owca5HhD4BeuxKCbUgfBXzF5Y0OTT9-lYWWe-dZ4tSJwxicc__4aNr-iS877Hccr2KeUsCZQZjPjPlRZ1fOFwYa61-TBV5Kk7xZ68yEJFw5L4aNV56PRMihH9VC0e5PXhBLrvOYLezZExi6FI1FCVR1qGGBqZsDuU6XZ1VxkKcYjlmNxcL26muGXTb3J4A2NF6eoy2NwISuyalvC5s7davrbpIrZngxpMLU4SvjnxOxt0_kIreg.jpg",
-          "thumbnail_path": "channels/tavaana_tavaanatech/media/e1ff8974390fd685040136d3.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/ZEcaW7aASnGf8nClMPOBIIfQQ25e174r47QycZ1s_nKmFx7YMBxgNwmEWO_SoMAxkBk2DhGJFy-0CY3t0eMshD7cLvO7Si6_SyTramyvVywrGtfKPxjsMtS1XFe0Zp-O7EoBYdQShhT46tg80dlSBzKwbyaaxGc9W1fwJjAyrnFCY9dbjwvKLiPbHGuqSwhVrIda_Bu8YHZWitlDjXvs1uCKqG7e9G8K30ajqM0tqZsVHqxvFY45CgAReVIcYvnXtu32hB2t237GxhU8R52sdBlD3dUQvIFpoXaOhOSA0aC6YrO6MbwGQtsPbjySkw91d9MtYb29lpGWZ7j0hEFSHQ.jpg",
+          "thumbnail_path": "channels/tavaana_tavaanatech/media/99b85fd8b53a18ef532de85a.jpg",
           "duration_label": null,
           "aspect_ratio": 0.8
         }
@@ -396,7 +429,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.17K",
+      "views_label": "2.25K",
       "posted_at": "2026-10-09T16:52:09+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/106689"
@@ -413,8 +446,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/Tavaana_TavaanaTech/106687",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/T6VkN0rDF9T0G-ruRlIyr8m8vqsqEnkDUBCBHcMd_RsG6JeBd8hba79rNi1-uQ6cfV7chHcYqEARn1Xsi6kOzruULKnypE5OTqbGMb8h2QXi3Ng0gv4UQU-R8XPwgG_k-NQU3z224sPeSDq7S1lwYIIDt_I-zvUWK3fDZ3F7E8mtsztrhEXBH99f4Eyya_CKYdzKfNthBgwkBHSynxMo48ER-Q8HkyiRsvu_oFwjrW54uIScU-pBE28JlPusTFZv6N3jG4AqozyEZ6oDKDk2_i0Td2DNRAY3nnXAyz7PvS0R8Z2WQ5IFqzEXmXubJEnYn_Xg9e1kKmnZdnKFk4KVFQ.jpg",
-          "thumbnail_path": "channels/tavaana_tavaanatech/media/b61afe49a4f91941bf729a33.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/mnZYXxM_SzT4DfWFJIdUrEWtta67vpDRgHVIOTo1keeGv4gy3fr0OL2SBAGMavvCyKLwn5XPL4OCQ8mh3LUAu-MBPrUf0hxOJbIa-1NCa1RfTCzDXlHT3V2C5xa_uPLRA8u-gW3Fp17kYoSWGDiEuXxZ0XOcUavYN1MSqXgTIJIqfIbLI8kj7GMkoMH3AoRVA-LcV-5VYfEIoO_RqN3KsGq6vlsXjMV7n2p2IXKeBhDrnRhKmBCzqnqzX1IuqS2FbYDLDeGGBi19HZfKFqRduvNqF4ZyHVJYWMn68FybNK5ztGYQ71SUvAb6CSCFREMntAnLnkUT_qywsbpEUFu4Ag.jpg",
+          "thumbnail_path": "channels/tavaana_tavaanatech/media/8cb4310e340cc723ec5de4d9.jpg",
           "duration_label": null,
           "aspect_ratio": 0.7987500000000295
         }
@@ -433,7 +466,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.59K",
+      "views_label": "1.64K",
       "posted_at": "2026-10-09T15:05:33+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/106687"
@@ -450,8 +483,8 @@
           "kind": "video",
           "asset_url": "https://t.me/Tavaana_TavaanaTech/106686",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/bt5a73WsxdNa7lvI7YlcWxAlI7BTfVPFkCyH96oiTgWU266_I52WB327qyBHkFptA0F9gF4vVS_60B7Wpb-RzY3HsmjDj1LhEEBwqJAeRxe3V0H2KbRseYx8XcZdmOsXBpNL-BA9o6A_EeoPWBNpqiw34jTXcCs6NwJMURWVSRorjgWmi1quO33sWPe5aMD_NQXn2lu-i3ZKVXGAH7xde-O8KuTBfhZdQnNaBgkhgGG4454WmDF2AWXg9P71kFRgCCRiKmw9RPC0f_X6Vk-jQqfWl_-RfbOCdcaRBm8maXwJKxmSXn6DbnkWy2EiqOR2NxK76EjQKvavTJsltYZC6Q",
-          "thumbnail_path": "channels/tavaana_tavaanatech/media/eb10ea97740dbd10c55eecba.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/hnnh57G2FY6s9_2IPZl0hezUnKeS3aeuBTSyFhMl0rrHfaJzUJLEWMifPRhrFqr81S-eqwrULy9OXATXy3255b34KN76MJE_sN1s_HtXZrzReIHHF9_DteT1_mqUbK7uvkXNXLxHBkQYbsr3boZrwcFWUdCZieZ7hSwF4daU42x2lgplNvaEe9QtHn51osIK0yM-8hJ9vpweKDItsxMueRcIfAVoM9br3eOjvtaoWJM8LEE1Ha16KkZw-OPHs06EZHJ4TCfhn-lW_ntBFLh17KTDOAB7fs1a8vyZwDjSeeRxmskDquGyZi78VeBZE7prp8oFPM_iuhTDtjOOy-DGfg",
+          "thumbnail_path": "channels/tavaana_tavaanatech/media/8021a71784a4d173c53b8729.jpg",
           "duration_label": "1:02",
           "aspect_ratio": 0.7500000000000188
         }
@@ -459,7 +492,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "40"
+          "count": "41"
         },
         {
           "emoji": "❤",
@@ -470,7 +503,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.42K",
+      "views_label": "1.47K",
       "posted_at": "2026-10-09T15:05:26+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/106686"
@@ -499,7 +532,7 @@
           "count": "16"
         }
       ],
-      "views_label": "2.01K",
+      "views_label": "2.08K",
       "posted_at": "2026-10-09T07:55:35+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/106684"
@@ -540,7 +573,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.5K",
+      "views_label": "1.54K",
       "posted_at": "2026-10-09T07:04:00+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/106683"
@@ -566,7 +599,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "53"
+          "count": "54"
         },
         {
           "emoji": "🕊",
@@ -577,7 +610,7 @@
           "count": "3"
         }
       ],
-      "views_label": "2.09K",
+      "views_label": "2.13K",
       "posted_at": "2026-10-09T03:13:06+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/106682"
@@ -594,8 +627,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/Tavaana_TavaanaTech/106681",
           "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/Dd1nvQlYy8uz5dHqPz8x8d8IgsvJrtegUPEa2rlSRYAZ4ZYQAMmYDFSpzwHnXsnLjAEW56k8UvrUOTL-hUUQdm9QL0S_R2-Ig7EQVfep33xMskwAwebKJZ_IwGmCCv7JeGBSzFiEn9qK8o1eSsHs6ZXNRN1R2W0nXSR3sOItUE5AF3sxJ-YppJMxzeLg6vwjqqFnnKjMubshqpY6Dtx9sFrICnYI0CMRTzzWdISfyr1BNTPYMEVJbi1xv_5IA3dRBMPJ1EW_ifSdvYgNqHFTgigisjn-pSvTJgGXriQQ9offCkxMFAFGA5CiyvKsrTInnL78rwaCMrOutS1w9OEZjA.jpg",
-          "thumbnail_path": "channels/tavaana_tavaanatech/media/afc2f01ecfc4430de95e6465.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/Mck5SB0NX-iEtp_s1EXxkCB_FaZYJT5yelEJKWuRYXPfL9uLaboOhuAHI_AWHuQ7q-dhdfaYB-bS3B1-rK1Muc5UvMx06GgxOX9PCjnwSMT_5i5_BGqwd3Vk5NCS-8FU3x7WDORTmR6el7H5zRYVvlqEjr6NSEd-Wp0Pmy5dOFS2GPZX-2XcGH_Tvn_7TQ7RCsIe0SJEu9SkHv2qZIsA3Y5PfeXL1jsgsuTQMeBySfrunh6C3ByTmudBrmvQaOvR9LlJ00rr3Ua7HFAjZPZrTy1Ood6ayZXmZatlSqXHBdsBl0hNu60MHvfmRZ_F6xiY7F2uhkiJDpJwaDERham-bw.jpg",
+          "thumbnail_path": "channels/tavaana_tavaanatech/media/9154fafdf4d6e5df1e7849fc.jpg",
           "duration_label": null,
           "aspect_ratio": 0.8
         }
@@ -614,7 +647,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.78K",
+      "views_label": "1.79K",
       "posted_at": "2026-10-08T17:52:34+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/106681"
@@ -631,8 +664,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/Tavaana_TavaanaTech/106680",
           "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/Quy2ejJ6ws--GnP7DORhZMyVpav6Mp187L43XR-iwsHLyDMkbo9fqlARMWgBqoX2pxrP9WNddo-woEBbYDwH3QRSpbQ5jrR8R6i2P3N-v1Gd6DnL0XbI0HgF75OYe-U3Y1z6N81fcPpkBf2R1zcnXM-RX720gOiddgUhu9o7PY9PHHNdOlHBitRtZ0v6jAWFou4qtaNLPlqrahCGTdCkLoNPscMzmbxbOr7o4SwAFn4UXKBkiBLRKj5jmy77UkL8m0Sco0baMMACF0OpolQzkv2t-kKTxkeVXeLY-XjrRWg__LAjgpcWbR8CcXyDEdtqgUNLz5rSwVugmGcZg8eHVA.jpg",
-          "thumbnail_path": "channels/tavaana_tavaanatech/media/f6cbbd8d6be5567856615a49.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/JMk7ZnMbo_eQdqlUAO0GDsInpE183Vo6WXcnS-4HnTJaedFvFQgck184U_g_SihLMcrJKJIVUScsVXNey_9Pjq9LKnNf9wrx9C5B3o8SJgbvNl49rZnSxCPFktoub10fAmlYU59e2De_6_zxTGxGLjmdngaqflOH9sFxTMu5z3dr4EaIBvOesU5KCd_ME_sxDu6n8umEmKTsvpxoijgybuKG0clFSYZMDGbzathnavWvzlrm8TWbZ0Hdlgtktj4YCez4bBDdW2JvWc-3Xuob4h1CjmHb9_7HTagQSnagK7E-sgwpzVjv6PDzrNIz0yXnisgy6qXxVlWqldmVXDezrQ.jpg",
+          "thumbnail_path": "channels/tavaana_tavaanatech/media/1e4a1fa18e564d6327cb2960.jpg",
           "duration_label": null,
           "aspect_ratio": 0.8
         }
@@ -651,7 +684,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.55K",
+      "views_label": "1.57K",
       "posted_at": "2026-10-08T17:40:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/106680"
@@ -668,8 +701,8 @@
           "kind": "video",
           "asset_url": "https://t.me/Tavaana_TavaanaTech/106679",
           "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/qggNoBgas8ucKjGA3KARNZJLLNbQACX3HRg5HvmDet-jkcEOeAR7a3OW2MnFUH17AhUEiJJpdxsdVaxjewWqerlR0JyNG9TZo-DJaq7Y1odmsSJhqZcLPl6GSPIthFJeybtUqNc0n80FiZLEBudTR8bza1Mxq-AoXOKnIMBlmobH76KNhxQEZbTEIxc4OkEoRPN9yIS1Xac56tbhpXdy7SL_8HoENEjhGJXGAK1oFeHnQP4R8pWKMoepOWg6RAFwlvyv2SwsxG3zS6IDJXXOFncwZna40__tqxw4BTdpB2b6bqJ5rhJDhI9t2B6ft910c3lmwc4dkoADNfWvmbDZZQ",
-          "thumbnail_path": "channels/tavaana_tavaanatech/media/172cbe87f459fc2ec663f7fd.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/Fx4y-le8aRw-73EeXXvOO4KQWQwZ-YlU-a9aByTRCDGYIkPz4UoZav7jKXud-L_bFg_bCx0bW9aLqDe4kcPAmDYmVlr4O8M3V_I2wqbjXYsL--leLCY3YVb8cYLVE_1PXEMfSUBV-xrHYHEzYzCUsZvX9yyeiuDvo_vK-F-gRlp1KW5_qCJQFR4eU5nxcohEUZbQBu2UQrEClBWFVSnUrMuk8mEeoGl1V933sichuFn8KcS5ZeIilggW207D2xNhT_YHKgkx-lPCJ4jqcjSey5DOZ066cHZsHqGPrTVxpitQviYtVL05awGK9fgA7SF5c7zIEWjpMsaTqtrgI7iY6w",
+          "thumbnail_path": "channels/tavaana_tavaanatech/media/7b148e15d3f99ec31a423c10.jpg",
           "duration_label": "0:09",
           "aspect_ratio": 1
         }
@@ -692,7 +725,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.5K",
+      "views_label": "1.53K",
       "posted_at": "2026-10-08T17:23:12+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/106679"
@@ -3813,43 +3846,6 @@
       "posted_at": "2026-10-02T17:16:06+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/106558"
-    },
-    {
-      "id": "Tavaana_TavaanaTech/106557",
-      "author_name": "آموزشکده توانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/KI4T-3FuTIfxI57WfXJ3BR4S3XMDo3zFjH3KFQICPXKiEhnzFI7B5wy-KTCgkJe4tsjJw7TfAATcGAJKtZH3fhDHxxZ1SUDhwm5p1igqv0w0m1bVf-CS2r37QH_p5tvomYOQTdaz5g9wsjrYzU4LHhxd3nVqoYzF3IESuP9XOBQTSkDj5PwpsMTGaEP0crGqYoodmoF0fvIxpceF-4N4aijcWRCfxevP0mzL7DErBeB6874qh0CUxcuyqL6fXsH1V26KlwvRpfQKqaf01h-Jc-pAHBojcEtW-QSLLCbgG7Kl-9ii6c29Q3B_lj1VrHbMhgODeZNpzJ0Nia4tNrrIBQ.jpg",
-      "author_photo_path": "channels/tavaana_tavaanatech/media/d25262a1a4bfe88871b32c53.jpg",
-      "body_html": "‌<br>دوساله‌شدن مهفر لاله‌زاری در زندان؛ محرومیت از ملاقات با پدر و دسترسی به درمان<br><br>مهفر لاله‌زاری، کوچک‌ترین زندانی خیزش «زن، زندگی، آزادی»، در حالی دوساله می‌شود که همراه مادرش، رضوانه احمدخان‌بیگی، در بند زنان زندان اوین به‌سر می‌برد و پدرش، بهفر لاله‌زاری، نیز در بند هفت همین زندان محبوس است.<br><br>بر اساس اطلاعات رسیده به آموزشکده توانا، مهفر بیش از یک ماه از ابتلای مهفر به بیماری کرونا می‌گذرد؛ بیماری‌ای که در زندان شیوع پیدا کرده است. با این حال، از اعزام او به بیمارستان خودداری می‌شود.<br><br>در این گزارش آمده است که مهفر و مادرش بیش از دو نوبت، به بهانه شرکت در مراسم یادبود و سالگرد جنبش مهسا، از ملاقات با بهفر لاله‌زاری محروم شده‌اند. همچنین گفته شده است که مسئولان زندان با بهانه‌های واهی مانع انتقال مهفر به بیمارستان شده‌اند.<br><br>ادامه حبس این کودک در کنار مادرش، محرومیت او از ملاقات با پدر و جلوگیری از دسترسی‌اش به درمان، نگرانی‌ها درباره وضعیت سلامت و حقوق این خانواده را افزایش داده است.<br><br><a href=\"?q=%23%D9%85%D9%87%D9%81%D8%B1_%D9%84%D8%A7%D9%84%D9%87_%D8%B2%D8%A7%D8%B1%DB%8C\">#مهفر_لاله_زاری</a> <a href=\"?q=%23%D8%A8%D9%87%D9%81%D8%B1_%D9%84%D8%A7%D9%84%D9%87_%D8%B2%D8%A7%D8%B1%DB%8C\">#بهفر_لاله_زاری</a> <a href=\"?q=%23%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87_%D8%A7%D8%AD%D9%85%D8%AF%D8%AE%D8%A7%D9%86%D8%A8%DB%8C%DA%AF%DB%8C\">#رضوانه_احمدخانبیگی</a> <br><br><a href=\"https://t.me/Tavaana_TavaanaTech\" target=\"_blank\">@Tavaana_TavaanaTech</a>",
-      "plain_text": "‌ دوساله‌شدن مهفر لاله‌زاری در زندان؛ محرومیت از ملاقات با پدر و دسترسی به درمان مهفر لاله‌زاری، کوچک‌ترین زندانی خیزش «زن، زندگی، آزادی»، در حالی دوساله می‌شود که همراه مادرش، رضوانه احمدخان‌بیگی، در بند زنان زندان اوین به‌سر می‌برد و پدرش، بهفر لاله‌زاری، نیز در بند هفت همین زندان محبوس است. بر اساس اطلاعات رسیده به آموزشکده توانا، مهفر بیش از یک ماه از ابتلای مهفر به بیماری کرونا می‌گذرد؛ بیماری‌ای که در زندان شیوع پیدا کرده است. با این حال، از اعزام او به بیمارستان خودداری می‌شود. در این گزارش آمده است که مهفر و مادرش بیش از دو نوبت، به بهانه شرکت در مراسم یادبود و سالگرد جنبش مهسا، از ملاقات با بهفر لاله‌زاری محروم شده‌اند. همچنین گفته شده است که مسئولان زندان با بهانه‌های واهی مانع انتقال مهفر به بیمارستان شده‌اند. ادامه حبس این کودک در کنار مادرش، محرومیت او از ملاقات با پدر و جلوگیری از دسترسی‌اش به درمان، نگرانی‌ها درباره وضعیت سلامت و حقوق این خانواده را افزایش داده است. #مهفر_لاله_زاری #بهفر_لاله_زاری #رضوانه_احمدخانبیگی @Tavaana_TavaanaTech",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Tavaana_TavaanaTech/106557",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/ktwr9gtWtxsOtOF-VLDf6UvlmRmk5LL4rRUP_Qx3RLRhV1pu13Ci3OwpmIUztHcipKh-Cq1d1Zxux_pfuL1f6YES3nGR-2QyGQLPZsnHW0_kKo27D98Zf958qzQCIseiWtS8fEznRxasYskuj760wE2Yh7tGELO4_Va3MLFHvyVFi2bbSKA5UpHdtOZJ_MCubQ8OZ-IPI6rxOvLLFYSQf51y-Oejg5_SPkPwBgbcUQ3qlLqTS90LDdu9igwC-dfGCWUQdS9ZijVcxlMndSbJQ1TE8VmijPlqdt0y9KLfGPIiBcML1oSQBPFL0Ct3o_-7gQYPGuae5c_qqgkL3maX7Q.jpg",
-          "thumbnail_path": "channels/tavaana_tavaanatech/media/1a015aa3e30c2e3a1d4f5b96.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "💔",
-          "count": "33"
-        },
-        {
-          "emoji": "❤",
-          "count": "3"
-        },
-        {
-          "emoji": "🕊",
-          "count": "3"
-        }
-      ],
-      "views_label": "1.46K",
-      "posted_at": "2026-10-02T16:40:54+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Tavaana_TavaanaTech/106557"
     }
   ]
 }
