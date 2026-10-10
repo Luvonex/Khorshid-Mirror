@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-10T07:05:04.977Z",
+  "fetched_at": "2026-10-10T07:45:58.716Z",
   "channel": {
     "username": "manototv",
     "title": "تلویزیون منوتو",
@@ -10,6 +10,35 @@
     "subscriber_count": "378K"
   },
   "posts": [
+    {
+      "id": "ManotoTV/108291",
+      "author_name": "تلویزیون منوتو",
+      "author_photo_url": "https://cdn4.telesco.pe/file/r_G5wGiuSXRM52OSDfRuifRtMNrwSdwJcH9IUKK3l1LjXxlhk7WQ7fTbOyKQptwmUR9SO_ZgqZ05moKRPNTfVUQLdZSxer_azIIsZmpuOmh2cDm4JFhTkpSW_2L02gIji1zrUbNLhUDyjMMG57Lfepa1UHRxAUR_-wrYvwAgiYhQpMJCYjFUs7VkF0gYA0_8IxW3-TUz7Zff4XjC545lNL6UY0qvrbA9rMNh-DDSF_cTVfkpUF4TFd9e0oTbsw5ZVJytFHNkKnYVLEOFJy6PO2oOkXElSxWIRZ7WZvbREO8Nvas75V-1BF5JUinlBidtTJtaIYqpNpJ6HOwQFxrpYg.jpg",
+      "author_photo_path": "channels/manototv/media/1982ca3a7ccbf33ffce5e275.jpg",
+      "body_html": "در یک مجموعه شش‌قسمتی، چالش‌های مبارزه برای تغییر سیاسی در ایران را بررسی می‌کنیم.<br><br>آیا فراخوان یک رهبر شناخته‌شده برای شکل‌گیری حرکت جمعی کافی است؟ میلیون‌ها نفر می‌توانند یک پیام را بشنوند، اما شنیدن فراخوان، مشارکت و تداوم مبارزه، سه مرحله متفاوت‌اند.<br><br>در قسمت سوم، تفاوت بسیج و سازمان و مسئولیت رهبری را بررسی می‌کنیم و از ضرورت اعتماد، ائتلاف و سازماندهی می‌گوییم. چه چیزی یک جنبش را پابرجا نگه می‌دارد، حتی وقتی پیام بعدی نمی‌رسد؟",
+      "plain_text": "در یک مجموعه شش‌قسمتی، چالش‌های مبارزه برای تغییر سیاسی در ایران را بررسی می‌کنیم. آیا فراخوان یک رهبر شناخته‌شده برای شکل‌گیری حرکت جمعی کافی است؟ میلیون‌ها نفر می‌توانند یک پیام را بشنوند، اما شنیدن فراخوان، مشارکت و تداوم مبارزه، سه مرحله متفاوت‌اند. در قسمت سوم، تفاوت بسیج و سازمان و مسئولیت رهبری را بررسی می‌کنیم و از ضرورت اعتماد، ائتلاف و سازماندهی می‌گوییم. چه چیزی یک جنبش را پابرجا نگه می‌دارد، حتی وقتی پیام بعدی نمی‌رسد؟",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/ManotoTV/108291",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/EnYZQval_CFYybIcSDeGSEwIP_7jz6XzCFJ9dnfqGf4roAfYj5_WUQVUSEeG0clst-YZEh7SX2TFp8xxpSMwNWJc3Jum1Zd3BOwqWYmsYNMZvrn2UlXvsIni1rHI5ijTF1o77bOq24h3XFNDOdj73NgUluWXf2J2sW5Shhhw-d8AoMx-5LVLRhtKxPysgkll_878ho0TwWoVD3b5Lr6-Z2V55i3DuAfo-2nzQEkDmBW6T-rSX4VL0xBkuxhcUpmGHJkjm6ufRTiwccyn4zYR0JQBzKeHB7A-GwTGW7_ay3x5JUd6QwpEHt-4rahSNspBn0W7DZ_C1Gc_9xiurj08yg",
+          "thumbnail_path": "channels/manototv/media/e70b942afed3efbf03b67b8c.jpg",
+          "duration_label": "6:57",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "7"
+        }
+      ],
+      "views_label": "1.28K",
+      "posted_at": "2026-10-10T07:24:54+00:00",
+      "edited": false,
+      "permalink": "https://t.me/ManotoTV/108291"
+    },
     {
       "id": "ManotoTV/108290",
       "author_name": "تلویزیون منوتو",
@@ -31,14 +60,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "194"
+          "count": "207"
         },
         {
           "emoji": "❤",
-          "count": "13"
+          "count": "15"
         }
       ],
-      "views_label": "8.42K",
+      "views_label": "9.41K",
       "posted_at": "2026-10-09T23:59:21+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108290"
@@ -64,14 +93,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "249"
+          "count": "259"
         },
         {
           "emoji": "😢",
-          "count": "35"
+          "count": "37"
         }
       ],
-      "views_label": "10.7K",
+      "views_label": "11.4K",
       "posted_at": "2026-10-09T20:56:16+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108289"
@@ -97,14 +126,14 @@
       "reactions": [
         {
           "emoji": "❤‍🔥",
-          "count": "174"
+          "count": "182"
         },
         {
           "emoji": "😨",
-          "count": "8"
+          "count": "9"
         }
       ],
-      "views_label": "9.68K",
+      "views_label": "10.3K",
       "posted_at": "2026-10-09T20:56:08+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108288"
@@ -130,14 +159,14 @@
       "reactions": [
         {
           "emoji": "🤯",
-          "count": "132"
+          "count": "135"
         },
         {
           "emoji": "🕊",
           "count": "5"
         }
       ],
-      "views_label": "12.7K",
+      "views_label": "12.9K",
       "posted_at": "2026-10-09T18:06:09+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108287"
@@ -163,14 +192,14 @@
       "reactions": [
         {
           "emoji": "😨",
-          "count": "68"
+          "count": "71"
         },
         {
           "emoji": "😡",
-          "count": "38"
+          "count": "40"
         }
       ],
-      "views_label": "11K",
+      "views_label": "11.2K",
       "posted_at": "2026-10-09T18:06:01+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108286"
@@ -196,14 +225,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "126"
+          "count": "129"
         },
         {
           "emoji": "🤮",
           "count": "9"
         }
       ],
-      "views_label": "9.84K",
+      "views_label": "10K",
       "posted_at": "2026-10-09T18:05:47+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108285"
@@ -229,14 +258,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "211"
+          "count": "214"
         },
         {
           "emoji": "❤",
           "count": "21"
         }
       ],
-      "views_label": "10.4K",
+      "views_label": "10.6K",
       "posted_at": "2026-10-09T16:59:20+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108283"
@@ -262,14 +291,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "191"
+          "count": "193"
         },
         {
           "emoji": "❤‍🔥",
-          "count": "41"
+          "count": "43"
         }
       ],
-      "views_label": "10.4K",
+      "views_label": "10.6K",
       "posted_at": "2026-10-09T16:06:35+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108282"
@@ -295,14 +324,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "151"
+          "count": "154"
         },
         {
           "emoji": "🕊",
-          "count": "14"
+          "count": "15"
         }
       ],
-      "views_label": "9.22K",
+      "views_label": "9.34K",
       "posted_at": "2026-10-09T16:06:27+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108281"
@@ -409,14 +438,14 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "191"
+          "count": "196"
         },
         {
           "emoji": "❤",
           "count": "6"
         }
       ],
-      "views_label": "10.9K",
+      "views_label": "11.1K",
       "posted_at": "2026-10-09T14:09:16+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108271"
@@ -4428,39 +4457,6 @@
       "posted_at": "2026-10-02T09:03:37+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108060"
-    },
-    {
-      "id": "ManotoTV/108059",
-      "author_name": "تلویزیون منوتو",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Cs030aWzgXUZ6qjia3KpjyuV95KhtqTJq1uzx0IR9IlSQo0HZyDH7-RccDXYNjaCV0ntrd4XhrPDUCzDS75Lhm4Hg968LDemh2oCEGLHZAz190Vljs7Ac1X0Xd0wb9KNdFE607YdU4JZQlkCFlI_hleUGkHgYLAyAYxrNPEPIOxh1YuEqShXU4gyczTCI2fkRTcLEu_eKpPT6SvWvZ8TXj6hOPFEuHOKeURbwNKDUXnXOv0RsSQs7JCwoUN_7apUCD0wJXpDU5qqxRfC1fnwxLgnYQrWXFoPQqlAkEQyW4IaK1UIzRUgspc_VtcY8m27G_A3Ustg3kGoAK9AGMheXA.jpg",
-      "author_photo_path": "channels/manototv/media/66f121601d8a97e6cac0a9f3.jpg",
-      "body_html": "مرزی نزدیک به هزار کیلومتر ایران و افغانستان را از یکدیگر جدا می‌کند؛ اما تاریخ، زبان و زندگی میلیون‌ها انسان را نمی‌توان با یک خط روی نقشه از هم جدا کرد. حضور افغانستانی‌ها در ایران، در کنار پیوندهای تاریخی و انسانی، پرسش‌های واقعی درباره مهاجرت، کنترل مرزها، ظرفیت کشور و مسئولیت دولت نیز به همراه دارد. مسئله اما انتخاب میان «مرز» و «انسانیت» نیست؛ می‌توان مهاجرت را قانونمند کرد، بی‌آنکه مهاجر را تحقیر کرد؛ می‌توان مرز داشت، بی‌آنکه نفرت داشت.",
-      "plain_text": "مرزی نزدیک به هزار کیلومتر ایران و افغانستان را از یکدیگر جدا می‌کند؛ اما تاریخ، زبان و زندگی میلیون‌ها انسان را نمی‌توان با یک خط روی نقشه از هم جدا کرد. حضور افغانستانی‌ها در ایران، در کنار پیوندهای تاریخی و انسانی، پرسش‌های واقعی درباره مهاجرت، کنترل مرزها، ظرفیت کشور و مسئولیت دولت نیز به همراه دارد. مسئله اما انتخاب میان «مرز» و «انسانیت» نیست؛ می‌توان مهاجرت را قانونمند کرد، بی‌آنکه مهاجر را تحقیر کرد؛ می‌توان مرز داشت، بی‌آنکه نفرت داشت.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/ManotoTV/108059",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/l14-fcr4CG7a1g2Uu3vRh0nIOVdnWFnrcvq9crDLLWZ-djL2E7LczGWh9dSgzl2SfnltwL1Ezl7S-2nLZi1pt7ONss2Xwpag0B5d9r4frEcz8qPefj4vYHfDnuA5y5UGPUWock2wtPBIZs4IQYHQ8zGepa74k10NM3PX0dt4UKBGdPIh1Oj1_6OjQ_CaHE9a0k3S2hnveQcVWBWm87Y7aB5A5KSOBWB9wLbnKtz6uZmiIyPQHiTAhp159epYSqkWkRQTT3g-Y2cEc56vF4JMljPJtXJPAsnBzLl1vzEdQaxbpue-pvU23ErMyHFdiyCMJaVLhyZ-GM3-7h7xdejujA",
-          "thumbnail_path": "channels/manototv/media/ea5300515ce851510530e00b.jpg",
-          "duration_label": "5:29",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "83"
-        },
-        {
-          "emoji": "🖕",
-          "count": "30"
-        }
-      ],
-      "views_label": "7.36K",
-      "posted_at": "2026-10-02T07:36:05+00:00",
-      "edited": false,
-      "permalink": "https://t.me/ManotoTV/108059"
     }
   ]
 }
