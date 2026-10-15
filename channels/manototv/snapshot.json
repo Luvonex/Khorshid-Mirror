@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-15T16:19:10.313Z",
+  "fetched_at": "2026-10-15T18:30:38.926Z",
   "channel": {
     "username": "manototv",
     "title": "تلویزیون منوتو",
@@ -10,6 +10,39 @@
     "subscriber_count": "377K"
   },
   "posts": [
+    {
+      "id": "ManotoTV/108462",
+      "author_name": "تلویزیون منوتو",
+      "author_photo_url": "https://cdn4.telesco.pe/file/qzK2R9c5H5O1L6b0KqBkXV5QhtSV8RHqwZFPaQKEOIlJUPCOVxpnjrWVDEIaRVXi_t4h6PvADgfv6tmoHhBBfFbicoDbX84QAkrah1sRPMiAJK6ZT7BtZXlQvJAUR8Hw6VjbSmg-jlNqYj4I1c0SXR_B-uk9Jmzn_O4e6dfhZtTKJo-mtr5dROPVcbEYOR1qQQg7IfW-NtYfUhT902FPK-DEFZhMvgkmV6ZosyGTGhMKH7FeC41X3HUIga6wtGHiG4sWefdPms9nhQDWhd2bGTqg-AtcgI2V_5AWNK6FzCe4o8yu-XO6TE_HUT-HQjlpx5_RhaFBv69tACvJAxghtg.jpg",
+      "author_photo_path": "channels/manototv/media/5b3e3e9039d2f52b0c8bcd73.jpg",
+      "body_html": "فناوری ایرانی، قطعات چینی و تلاش برای تولید در یمن؛ وال‌استریت ژورنال از محموله‌های توقیفی پرده برداشته که سرنخ گسترش برنامه موشکی حوثی‌ها هستند.<br><br>قطعات اختصاصی، ماشین‌آلات و مواد اولیه، نشانه‌هایی از تلاش برای عبور از مونتاژ موشک‌های آماده به تولید بخش‌هایی از آن‌ها در خاک یمن‌اند؛ مسیری که می‌تواند مهار این برنامه را دشوارتر کند.<br><br>آیا حوثی‌ها در حال ساخت زنجیره‌ای برای تولید موشک‌اند که دیگر فقط به مسیر تأمین ایران وابسته نباشد؟",
+      "plain_text": "فناوری ایرانی، قطعات چینی و تلاش برای تولید در یمن؛ وال‌استریت ژورنال از محموله‌های توقیفی پرده برداشته که سرنخ گسترش برنامه موشکی حوثی‌ها هستند. قطعات اختصاصی، ماشین‌آلات و مواد اولیه، نشانه‌هایی از تلاش برای عبور از مونتاژ موشک‌های آماده به تولید بخش‌هایی از آن‌ها در خاک یمن‌اند؛ مسیری که می‌تواند مهار این برنامه را دشوارتر کند. آیا حوثی‌ها در حال ساخت زنجیره‌ای برای تولید موشک‌اند که دیگر فقط به مسیر تأمین ایران وابسته نباشد؟",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/ManotoTV/108462",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/T3TiDaUHt4k9FYkVhQ64zDJEp8AApqe0bJzGA1zY5GkCqSYPKJqagb-_WIzXgGYa81cA37gbh5DFViBq_yuJTHXRWPXE1qXHxSK7F_PWkZpep5IOmYFF0kSJYdZ_Qvr2ZHcWQ2vGXaQE_tAgtvkQCTkm-lQ91uSHN45_AMaRhzekbSZpSZOMRzovo7nHD0eCpayUj9CJb8tQJK0EAd-EHFMSFu96FIQ9a6XDNureyHzkvx4K0_X3sI5CAAf3WA0-pLyqHGMrGB05yqyPxVbLgfrzzpWHWBdXvINANpZ9QPEaSB6d2Apb3I0o2hkmlWmSTA2huwtnghCWh3MWaIfvCA",
+          "thumbnail_path": "channels/manototv/media/d2ed1ea0a40d651a6d12507f.jpg",
+          "duration_label": "2:18",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤬",
+          "count": "44"
+        },
+        {
+          "emoji": "😈",
+          "count": "4"
+        }
+      ],
+      "views_label": "3.08K",
+      "posted_at": "2026-10-15T17:21:56+00:00",
+      "edited": false,
+      "permalink": "https://t.me/ManotoTV/108462"
+    },
     {
       "id": "ManotoTV/108461",
       "author_name": "تلویزیون منوتو",
@@ -28,8 +61,17 @@
           "aspect_ratio": 0.7500000000000188
         }
       ],
-      "reactions": [],
-      "views_label": "32",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "54"
+        },
+        {
+          "emoji": "👨‍💻",
+          "count": "1"
+        }
+      ],
+      "views_label": "5.1K",
       "posted_at": "2026-10-15T16:18:51+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108461"
@@ -136,14 +178,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "70"
+          "count": "85"
         },
         {
           "emoji": "👏",
-          "count": "17"
+          "count": "20"
         }
       ],
-      "views_label": "5.4K",
+      "views_label": "8.49K",
       "posted_at": "2026-10-15T12:58:55+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108451"
@@ -169,14 +211,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "54"
+          "count": "72"
         },
         {
           "emoji": "✍",
           "count": "5"
         }
       ],
-      "views_label": "4.12K",
+      "views_label": "5.93K",
       "posted_at": "2026-10-15T12:58:48+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108450"
@@ -202,14 +244,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "65"
+          "count": "87"
         },
         {
           "emoji": "🕊",
-          "count": "16"
+          "count": "20"
         }
       ],
-      "views_label": "3.04K",
+      "views_label": "4.51K",
       "posted_at": "2026-10-15T12:58:40+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108449"
@@ -235,14 +277,14 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "56"
+          "count": "79"
         },
         {
           "emoji": "❤",
-          "count": "16"
+          "count": "21"
         }
       ],
-      "views_label": "3.11K",
+      "views_label": "4.32K",
       "posted_at": "2026-10-15T12:58:35+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108448"
@@ -268,14 +310,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "98"
+          "count": "115"
         },
         {
           "emoji": "❤",
           "count": "44"
         }
       ],
-      "views_label": "5.61K",
+      "views_label": "6.44K",
       "posted_at": "2026-10-15T10:49:25+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108447"
@@ -382,14 +424,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "41"
+          "count": "51"
         },
         {
           "emoji": "👍",
           "count": "13"
         }
       ],
-      "views_label": "5.01K",
+      "views_label": "5.79K",
       "posted_at": "2026-10-15T10:49:03+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108437"
@@ -4185,111 +4227,6 @@
       "posted_at": "2026-10-09T10:13:12+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108260"
-    },
-    {
-      "id": "ManotoTV/108251",
-      "author_name": "تلویزیون منوتو",
-      "author_photo_url": "https://cdn4.telesco.pe/file/SbAWJg27pC2uKKiDGbbRRNTKxJCeto4QJQUcsVPRHT1TuWAzZTblhuVBIViQH3tHf43w1CFIBOyy8TkCLdYRqrQuZDqpA7kjGgwoXrLF9p-8uvJrL1BPP6zp0w6kdO5IyUeQTcilfDhgWoBHOfEgc3YVeA3FDRQMlakPkAnh5Pm9YqmL3XBmH_Wh38vIewUqsVvWzGRWkyW-g97sXv85JqfyLLDG0OQSH_uiGAvRM9qXttqOJWU7kxpehDeJi2FhPLc7FPiB-_RpmQie0g7COWXQAlNFTYuaKit1NnS_7_TEbO1TI-KiSQayYxAqM-GavoHsPcV3bRGBfF2pH0RXwA.jpg",
-      "author_photo_path": "channels/manototv/media/b903fba11d7c5f0f31ba5ecf.jpg",
-      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">مارکو روبیو با یادآوری حمله خشایارشا به آتن، از میراث یونان و آینده قدرت غرب سخن گفت. بررسی روایتی که تاریخ باستان را به تقابل سیاسی امروز پیوند می‌زند.</div>",
-      "plain_text": "مارکو روبیو با یادآوری حمله خشایارشا به آتن، از میراث یونان و آینده قدرت غرب سخن گفت. بررسی روایتی که تاریخ باستان را به تقابل سیاسی امروز پیوند می‌زند.",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/ManotoTV/108251?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/rW-5v3hMt6hacqkEidPHZJZUrIbSDwn7akbc6ZJEGJhI8unHMrQdWCsddtkp6i33HMnnNYqzWseF4fWWRaLQq5fLw6V-aPDGEcIpckQ7J3F35-kZuEWcm40shtli25cIGOpz8w8NhLfzJCUQikHklvR3zC8XzlR291CmTXZfey1GbySBHPzKL0JN60dzTtRG73cmySzV1FsDofFWioVehSMGwa34hLjMyH2Up9e31-NKOYqTOtB9atnV3MuH-3h7e4R35TWJ2i5nI4vouKcH8X-V6JOTxkkfq2RW2HNFcdEqRjNaCHiIgjSw_TMCU_CaSLBe96vTVlwX3JAvanupZg.jpg",
-          "thumbnail_path": "channels/manototv/media/d42f84af0830a4511ed4d361.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.75
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/ManotoTV/108253?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ObS8_2lyEtqolhMhaVMu2ovLlzpVumCADkgXTEeW2hy5o2NiVv2vCNDr3B4dIweV8rieqFCTD7a535rmpqYAruM6lbvu-SVv-M-moLvYva11zoVwOu4XOeEdrePJAy5s8PSwrk5cBnFEuquDukT5mGtSkMujxgGXUx-_9akyxF8NqRPWuNtZ-8dVO7_xUdE6XU629Qi2ytwrQ4_AT_-NHcc05l-Wvw8v7UxRAdxRFS9tLo9zLVW2zFX3YRvkpMGuBxUt37xEpqmYCajQfdb4uG2dDhzbxTlEieZjcJZkT4WOoI-hG34x06Bnh6Amf7vY4e_rWW8-L8d6xLydZrzAyw.jpg",
-          "thumbnail_path": "channels/manototv/media/11a9b13ac69314809f650d6d.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.75
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/ManotoTV/108257?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/QkgwE_MtJmmxSD-Kxpu8KtVE8lOmWNPQLme7NQvYDflFxvakGsmtHoadaAoz_nCO6H972-_CzsTnK2U-66biVJIoRxgDcgFYLkef4GTLXu9VCLuB8iLdv8BTyiNWTivl_PFwDfvqIIkL0_Xir1zXvYdPRZqkoJYu8ZM7hQ0esoSsCZ3anIr5a2uQIEoSkOEAkk5ix1IA5d5UhmFjkFIeYUDqvnDDjhfCkJDcXgScVhRoV2kZC34aU7pNr_CALUH4iNwr-b35Bo7nFDv6k9A22hZbHQScpI9YqFtbQY25Gv8hMzhgIcbjKzkoAwRXvfQ8L4qn0PysOniVdoJI-FfrFg.jpg",
-          "thumbnail_path": "channels/manototv/media/53d9d5005349a17b49000fe7.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.75
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/ManotoTV/108259?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/eBPwxxTatYmqSZri6LN70Nm68tsBN--f-I8H7rp4M3_GcEtcxOyW-CJCkzOmNSNPfraiio9ZMkB29nheXXNGtb793sJKPxDWGzHetlJTJy0tlQQqlN8-HxEFPpLfkPgzfbaUVIVvusrAHlhk_PJylL7ARqYGV-6RbgzlIE1iYf8_pO2cas0P6mDPOVPttuO1txzZ3nZepSTaKLSCkhyyJ240wsQ0QdrdzR5BttOTsF0aViAWjByr7HcTGTT7gf-akqM4-1fw4wuJcyAoyfebYlayt6ThLrOUQJrMvW5Cbgx8VFB7jB6NlMjiin3u4ECZ0o3ew6-D0-zSZM6ULgu99w.jpg",
-          "thumbnail_path": "channels/manototv/media/c73237ae01b4dc9bfc79c1e9.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.75
-        },
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/ManotoTV/108252?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/DlkePpoKHB4b557wMh5SlE4SpKKTZWuOx5ByGGk5qWx-F46_otWUKh3_2IKDlFao3VSyOadQPHVOYdhqbUMAZXCb-yTfIbzCN0SInpeKDAdzvrAZuI54jQENq6uqL47WmxGIxyJmuvH4kbRMQ6JtR_mgzJME-Xw1p_pqAdMv4BMHU_HR_9feU2JrfR4taPVgyi4pEKjpeIIqApdEZK0SWpffPvlmMZxfe288t9GbugVsKC94-2SGDTUJ5uJAjplhsewEigyhz7EfxJ3jU7N5uztx78Ka0IGH7m2lmPOmZc8atqTe69VWaF--6WxTzq2aYAcleMgdOlxJYgV7BMjMMw",
-          "thumbnail_path": "channels/manototv/media/9dba503025d57fcaf8c7d569.jpg",
-          "duration_label": "0:52",
-          "aspect_ratio": null
-        },
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/ManotoTV/108254?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Blzob8u7FVjkSEsSYrfDJZWh82bUcLD2FAE71qJxNnSz3_AUt0gUtldMEd8PhIVk_-hsLw9Xds_MNHlnkawnxOSgFUQsPvu-bcYvK1eZZCZYXVtNT3Ls-Irxtmjvg2mZDPNiLy5wWhmM62ZfThWHNzeY0CXVQQ4d3t2AB96DC-5T1bw5WMa-wjKi-em4oDxWg-W7Yqj51SJv7WN8nWarNVom4uxV0FdOJrs8r50IFi4TBJDxwe6WrrIocEcuR0Qz_cccQqy-lPv_nFXOcGH7iQPSiHQ5c_vYPeKHuIQ8Q1CuVMLtCMjexMJgJhy33eOFZMNlIoQzXeLwJynSCQ3cUg",
-          "thumbnail_path": "channels/manototv/media/8b5bd3154cb5a52fdbde0e0e.jpg",
-          "duration_label": "0:52",
-          "aspect_ratio": null
-        },
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/ManotoTV/108255?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/kkVL0UkxjX7OFmwoMHkrLvAvLSETBDga0PgZitws5WFR2nn2WDAoNYHBxtvUy84tBE0atcW6wfAj0fPFSNgFpZWpI3TGEO4OKAAaealVYXBxpyKu0vvgSLgVN9uEsVysJJNgcHHV6h4arYjTcluF4kWAmeyUA9E6M9IkI-HnRPe7iY1r7-6ZWk553M0AvcBfXBbWZze-jwUklph3BUec3LQyFaAeCvEVgtBKW_xQa9VWG_zKFIzkiWKQzMi45tU4lcN_KxZRok7XRtvztefLalnIi4hVVUc7o4cJTHaa_K1AhNuunCXqV02oeAWpn7qdxsR5zOVdIJopDdEoE_vZhg",
-          "thumbnail_path": "channels/manototv/media/cd6921fdc4d64e4a82394939.jpg",
-          "duration_label": "0:21",
-          "aspect_ratio": null
-        },
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/ManotoTV/108256?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/acfNJ79VeIvciu5qWu4-kXLkhtem-XkUmJoZzth09tKxiWF-QIvUARAZquiGIMcBnj-VZJso_xYxTNm2_HAbwgYgcHL13DJwbOZFL0snFbNu8bJb4GggZTYXNLHf1zZv01pkJ6e5VqcDDdFQGvgvNP5N3XAEqIOgIWi812GAhxWum7iw3FEes3ppLz5vWEuBbcIolKIFHJZuWjKXku3jWoy2jsS8RVMEq0ujJE264nKNCbhmOlEOumDOEz-cRaEUvY76gh3il_Vr1jk82d6HDHAt1bDrTUe9EWKoLLnHlk6AyvGZpueXLFpvGKgqApuJH75yvNJVYw5sbQAQ6L07VQ",
-          "thumbnail_path": "channels/manototv/media/ac6df4292a37fde053345831.jpg",
-          "duration_label": "1:00",
-          "aspect_ratio": null
-        },
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/ManotoTV/108258?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/H8ashGgOq32IMQ5TAr3imoRMDxrH3rG8V2gjSLAB4G16nxvYHOBwxHNhx2HPyj0fQTPwvATrCndOSak_opq9iklPPIQ5JXjQ-2wRZ7ytN15Kmy5M4OZv6aApIA7fN3sf4f7iO6dADwyjcr4NmCfQe22c2hBDUDqsG29puY4s6LZAHQPVRn8vWvti4x_pAzGfJqxAxC1efh1rjFcQLPU8dmirHAAcICy3WDaakJ6Jt1Kb0PryhOoFoNBfTojao4mi5kArsyjzwR3E5JZq9Jsfd9Ju0sOqy5EwfGgfUdsC9pmzGvzXhhxVcc-traXpQKwduAfGR_TjReW80Y0zUYzlng",
-          "thumbnail_path": "channels/manototv/media/5bced80ae6ec5486e134c7d4.jpg",
-          "duration_label": "1:00",
-          "aspect_ratio": null
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤬",
-          "count": "118"
-        },
-        {
-          "emoji": "👍",
-          "count": "37"
-        }
-      ],
-      "views_label": "8.35K",
-      "posted_at": "2026-10-09T06:31:05+00:00",
-      "edited": false,
-      "permalink": "https://t.me/ManotoTV/108251"
     }
   ]
 }
