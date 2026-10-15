@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-15T14:23:19.030Z",
+  "fetched_at": "2026-10-15T16:19:10.313Z",
   "channel": {
     "username": "manototv",
     "title": "تلویزیون منوتو",
@@ -10,6 +10,30 @@
     "subscriber_count": "377K"
   },
   "posts": [
+    {
+      "id": "ManotoTV/108461",
+      "author_name": "تلویزیون منوتو",
+      "author_photo_url": "https://cdn4.telesco.pe/file/qzK2R9c5H5O1L6b0KqBkXV5QhtSV8RHqwZFPaQKEOIlJUPCOVxpnjrWVDEIaRVXi_t4h6PvADgfv6tmoHhBBfFbicoDbX84QAkrah1sRPMiAJK6ZT7BtZXlQvJAUR8Hw6VjbSmg-jlNqYj4I1c0SXR_B-uk9Jmzn_O4e6dfhZtTKJo-mtr5dROPVcbEYOR1qQQg7IfW-NtYfUhT902FPK-DEFZhMvgkmV6ZosyGTGhMKH7FeC41X3HUIga6wtGHiG4sWefdPms9nhQDWhd2bGTqg-AtcgI2V_5AWNK6FzCe4o8yu-XO6TE_HUT-HQjlpx5_RhaFBv69tACvJAxghtg.jpg",
+      "author_photo_path": "channels/manototv/media/5b3e3e9039d2f52b0c8bcd73.jpg",
+      "body_html": "روز دوم اعتراض چه می‌شود؟ آغاز یک حرکت جمعی، با ادامه‌دادن آن تفاوت دارد. در این پادکست، چالش دوام اعتصاب، فشار اقتصادی بر خانواده‌ها و نقش همبستگی را بررسی می‌کنیم. فشار جمعی چگونه می‌تواند محاسبات حامیان حکومت را تغییر دهد و هم‌زمان، زندگی مردم و نهادهای ضروری کشور را حفظ کند؟",
+      "plain_text": "روز دوم اعتراض چه می‌شود؟ آغاز یک حرکت جمعی، با ادامه‌دادن آن تفاوت دارد. در این پادکست، چالش دوام اعتصاب، فشار اقتصادی بر خانواده‌ها و نقش همبستگی را بررسی می‌کنیم. فشار جمعی چگونه می‌تواند محاسبات حامیان حکومت را تغییر دهد و هم‌زمان، زندگی مردم و نهادهای ضروری کشور را حفظ کند؟",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/ManotoTV/108461",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/HwB8xsNzupo6NRD3U13Xh4Efj_SmSlfjbk-g4D_PSQCxkxnIxnl2-GASNCS3DtO-pOaWGBjYk1a92HOtxFzQNTkpm_e2eV1izxoy7J5N6XEKtRIjbj609QMW2bl9AWmy_7_qB32zjhGSrRVNZ-0pPqyptDEjBiqpXt35ghVCLT2hxErVKx3ElhiwLjwO8W7oNWnt4pRgUT-NmHnTCmlG84qC_8s92aBXBNkikLXTDpVsBjRnMiuqtQOFiIdvnXe7lpZYn0c5NGek0O6Ql-HDjUTxXmj76Il9XPkpwTgWJlt5YpCs2BXLDY-w0AAtgqT-TJhPLtd0tPgWbwciNXiNqg",
+          "thumbnail_path": "channels/manototv/media/9e35f4fe4e087d8ad321ce44.jpg",
+          "duration_label": "5:58",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "32",
+      "posted_at": "2026-10-15T16:18:51+00:00",
+      "edited": false,
+      "permalink": "https://t.me/ManotoTV/108461"
+    },
     {
       "id": "ManotoTV/108451",
       "author_name": "تلویزیون منوتو",
@@ -112,14 +136,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "33"
+          "count": "70"
         },
         {
           "emoji": "👏",
-          "count": "8"
+          "count": "17"
         }
       ],
-      "views_label": "2.94K",
+      "views_label": "5.4K",
       "posted_at": "2026-10-15T12:58:55+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108451"
@@ -145,14 +169,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "20"
+          "count": "54"
         },
         {
           "emoji": "✍",
-          "count": "3"
+          "count": "5"
         }
       ],
-      "views_label": "2.31K",
+      "views_label": "4.12K",
       "posted_at": "2026-10-15T12:58:48+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108450"
@@ -178,14 +202,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "26"
+          "count": "65"
         },
         {
           "emoji": "🕊",
-          "count": "10"
+          "count": "16"
         }
       ],
-      "views_label": "1.72K",
+      "views_label": "3.04K",
       "posted_at": "2026-10-15T12:58:40+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108449"
@@ -211,14 +235,14 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "26"
+          "count": "56"
         },
         {
           "emoji": "❤",
-          "count": "11"
+          "count": "16"
         }
       ],
-      "views_label": "1.82K",
+      "views_label": "3.11K",
       "posted_at": "2026-10-15T12:58:35+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108448"
@@ -244,14 +268,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "80"
+          "count": "98"
         },
         {
           "emoji": "❤",
-          "count": "42"
+          "count": "44"
         }
       ],
-      "views_label": "4.8K",
+      "views_label": "5.61K",
       "posted_at": "2026-10-15T10:49:25+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108447"
@@ -358,14 +382,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "34"
+          "count": "41"
         },
         {
           "emoji": "👍",
-          "count": "9"
+          "count": "13"
         }
       ],
-      "views_label": "4.27K",
+      "views_label": "5.01K",
       "posted_at": "2026-10-15T10:49:03+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108437"
@@ -4266,39 +4290,6 @@
       "posted_at": "2026-10-09T06:31:05+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108251"
-    },
-    {
-      "id": "ManotoTV/108250",
-      "author_name": "تلویزیون منوتو",
-      "author_photo_url": "https://cdn4.telesco.pe/file/SbAWJg27pC2uKKiDGbbRRNTKxJCeto4QJQUcsVPRHT1TuWAzZTblhuVBIViQH3tHf43w1CFIBOyy8TkCLdYRqrQuZDqpA7kjGgwoXrLF9p-8uvJrL1BPP6zp0w6kdO5IyUeQTcilfDhgWoBHOfEgc3YVeA3FDRQMlakPkAnh5Pm9YqmL3XBmH_Wh38vIewUqsVvWzGRWkyW-g97sXv85JqfyLLDG0OQSH_uiGAvRM9qXttqOJWU7kxpehDeJi2FhPLc7FPiB-_RpmQie0g7COWXQAlNFTYuaKit1NnS_7_TEbO1TI-KiSQayYxAqM-GavoHsPcV3bRGBfF2pH0RXwA.jpg",
-      "author_photo_path": "channels/manototv/media/b903fba11d7c5f0f31ba5ecf.jpg",
-      "body_html": "در یک جامعه ناراضی، ممکن است میلیون‌ها نفر خواهان تغییر باشند، اما هرکدام منتظر بمانند تا دیگری قدم اول را بردارد. مسئله همیشه کمبود شجاعت نیست؛ گاهی مسئله، اعتماد، هماهنگی و اطمینان از این است که اگر حرکت کنیم، تنها نخواهیم ماند.<br><br>در این اپیزود به مسئله «کنش جمعی» می‌پردازیم؛ اینکه چرا نارضایتی گسترده لزوماً به اقدام جمعی تبدیل نمی‌شود و رهبری و سازمان‌یافتگی چگونه می‌توانند فاصله میان «من شروع می‌کنم» و «من هم می‌آیم» را کمتر کنند.",
-      "plain_text": "در یک جامعه ناراضی، ممکن است میلیون‌ها نفر خواهان تغییر باشند، اما هرکدام منتظر بمانند تا دیگری قدم اول را بردارد. مسئله همیشه کمبود شجاعت نیست؛ گاهی مسئله، اعتماد، هماهنگی و اطمینان از این است که اگر حرکت کنیم، تنها نخواهیم ماند. در این اپیزود به مسئله «کنش جمعی» می‌پردازیم؛ اینکه چرا نارضایتی گسترده لزوماً به اقدام جمعی تبدیل نمی‌شود و رهبری و سازمان‌یافتگی چگونه می‌توانند فاصله میان «من شروع می‌کنم» و «من هم می‌آیم» را کمتر کنند.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/ManotoTV/108250",
-          "asset_path": null,
-          "thumbnail_url": null,
-          "thumbnail_path": null,
-          "duration_label": "0:00",
-          "aspect_ratio": 1
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "222"
-        },
-        {
-          "emoji": "👀",
-          "count": "11"
-        }
-      ],
-      "views_label": "14.2K",
-      "posted_at": "2026-10-08T17:38:03+00:00",
-      "edited": false,
-      "permalink": "https://t.me/ManotoTV/108250"
     }
   ]
 }
