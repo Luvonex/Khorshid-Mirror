@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-14T23:48:06.799Z",
+  "fetched_at": "2026-10-15T00:10:36.293Z",
   "channel": {
     "username": "indypersian",
     "title": "IndyPersian",
@@ -10,6 +10,35 @@
     "subscriber_count": "73.6K"
   },
   "posts": [
+    {
+      "id": "Indypersian/180211",
+      "author_name": "IndyPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/rKhR0AxcSDpj8xOBixfynQTZ2Y6v-AWz5s-PWlfvWV2lVTFUF9v59L9yTwO2u2KXZNcs_ayF_Po-yHkl0hs3GB4N22_W_a38TlbPXkm9O0VR5NPNVRu_oAlCGGwkgqrvJQjLr9dUxpkaOhN8PzKdvkJNpOAroSixjPikvlWfGTlp0mw0xzlP5HW_Uawdpc9RJ7ThYkTKwcoCBvXw6Yd6wld65boh6UaNKoSqhNwgADj3kjLslrJfAbvN-KGY90beFM6k5039LT4zDq-DA4-ql-mcN6lbM2XZBE_y8zgpjNi4IvsKHjQMhzejKzwOYMjVin9cQYjoN3ffJlY-mDAO-g.jpg",
+      "author_photo_path": "channels/indypersian/media/db02053ae194bee0557edf06.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i>بارش شدید باران و وقوع سیلاب در استانبول ترکیه روز چهارشنبه ۲۲ مهر باعث آبگرفتگی گسترده خیابان‌ها، اختلال در رفت‌وآمد و گرفتار شدن شماری از شهروندان شد. خبرگزاری فرانسه تصاویر منتشرشده خودروهای نیمه‌غرق‌شده و مسافرانی را نشان می‌دهد که در یک اتوبوس گرفتار شده‌اند.<br>به گزارش خبرگزاری فرانسه، مقام‌های استانبول مدارس این شهر را برای روز پنجشنبه تعطیل کردند و اعلام کردند یک‌هزار و ۲۷۷ مورد آبگرفتگی و ۱۵ مورد رانش زمین ثبت شده است.<br>مرکز هماهنگی حوادث غیرمترقبه شهرداری استانبول اعلام کرد که در برخی مناطق شهر بین ۵۰ تا ۹۵ میلی‌متر باران باریده است. نوری اصلان، سرپرست شهرداری استانبول، نیز گفت که میزان بارندگی در بعضی مناطق طی ۱۲ ساعت به نزدیک ۱۰۰ میلی‌متر رسیده است.<br><br><br><a href=\"https://t.me/indypersian\" target=\"_blank\">@indypersian</a>",
+      "plain_text": "♦️بارش شدید باران و وقوع سیلاب در استانبول ترکیه روز چهارشنبه ۲۲ مهر باعث آبگرفتگی گسترده خیابان‌ها، اختلال در رفت‌وآمد و گرفتار شدن شماری از شهروندان شد. خبرگزاری فرانسه تصاویر منتشرشده خودروهای نیمه‌غرق‌شده و مسافرانی را نشان می‌دهد که در یک اتوبوس گرفتار شده‌اند. به گزارش خبرگزاری فرانسه، مقام‌های استانبول مدارس این شهر را برای روز پنجشنبه تعطیل کردند و اعلام کردند یک‌هزار و ۲۷۷ مورد آبگرفتگی و ۱۵ مورد رانش زمین ثبت شده است. مرکز هماهنگی حوادث غیرمترقبه شهرداری استانبول اعلام کرد که در برخی مناطق شهر بین ۵۰ تا ۹۵ میلی‌متر باران باریده است. نوری اصلان، سرپرست شهرداری استانبول، نیز گفت که میزان بارندگی در بعضی مناطق طی ۱۲ ساعت به نزدیک ۱۰۰ میلی‌متر رسیده است. @indypersian",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Indypersian/180211",
+          "asset_path": null,
+          "thumbnail_url": null,
+          "thumbnail_path": null,
+          "duration_label": "0:00",
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "😢",
+          "count": "1"
+        }
+      ],
+      "views_label": "156",
+      "posted_at": "2026-10-15T00:01:00+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Indypersian/180211"
+    },
     {
       "id": "Indypersian/180210",
       "author_name": "IndyPersian",
@@ -50,7 +79,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.05K",
+      "views_label": "1.21K",
       "posted_at": "2026-10-14T22:31:21+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/180210"
@@ -76,7 +105,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "24"
+          "count": "25"
         },
         {
           "emoji": "🥴",
@@ -95,7 +124,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.83K",
+      "views_label": "1.95K",
       "posted_at": "2026-10-14T21:40:55+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/180209"
@@ -136,7 +165,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.13K",
+      "views_label": "2.23K",
       "posted_at": "2026-10-14T21:15:00+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/180208"
@@ -177,7 +206,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.39K",
+      "views_label": "2.47K",
       "posted_at": "2026-10-14T20:51:27+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/180207"
@@ -222,7 +251,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.63K",
+      "views_label": "2.7K",
       "posted_at": "2026-10-14T20:26:47+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/180206"
@@ -256,7 +285,7 @@
         },
         {
           "emoji": "💔",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "🤔",
@@ -267,7 +296,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.91K",
+      "views_label": "2.96K",
       "posted_at": "2026-10-14T19:58:46+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/180205"
@@ -320,7 +349,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.95K",
+      "views_label": "3K",
       "posted_at": "2026-10-14T19:49:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/180204"
@@ -357,7 +386,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.03K",
+      "views_label": "3.07K",
       "posted_at": "2026-10-14T19:32:42+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/180203"
@@ -383,7 +412,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "18"
+          "count": "19"
         },
         {
           "emoji": "😡",
@@ -402,7 +431,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.1K",
+      "views_label": "3.14K",
       "posted_at": "2026-10-14T19:23:08+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/180202"
@@ -447,7 +476,7 @@
           "count": "2"
         }
       ],
-      "views_label": "3.23K",
+      "views_label": "3.27K",
       "posted_at": "2026-10-14T19:06:34+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/180201"
@@ -484,7 +513,7 @@
           "count": "2"
         }
       ],
-      "views_label": "3.71K",
+      "views_label": "3.75K",
       "posted_at": "2026-10-14T18:35:23+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/180200"
@@ -541,7 +570,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.35K",
+      "views_label": "3.39K",
       "posted_at": "2026-10-14T18:31:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/180199"
@@ -567,7 +596,7 @@
       "reactions": [
         {
           "emoji": "😢",
-          "count": "37"
+          "count": "39"
         },
         {
           "emoji": "❤",
@@ -582,7 +611,7 @@
           "count": "7"
         }
       ],
-      "views_label": "3.43K",
+      "views_label": "3.46K",
       "posted_at": "2026-10-14T18:22:48+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/180198"
@@ -617,7 +646,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.75K",
+      "views_label": "3.78K",
       "posted_at": "2026-10-14T17:57:46+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/180197"
@@ -643,7 +672,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "58"
+          "count": "59"
         },
         {
           "emoji": "😁",
@@ -678,7 +707,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.27K",
+      "views_label": "4.3K",
       "posted_at": "2026-10-14T17:40:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/180196"
@@ -719,7 +748,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.86K",
+      "views_label": "3.88K",
       "posted_at": "2026-10-14T17:25:29+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/180195"
@@ -745,7 +774,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "15"
+          "count": "16"
         },
         {
           "emoji": "🥴",
@@ -764,7 +793,7 @@
           "count": "2"
         }
       ],
-      "views_label": "3.64K",
+      "views_label": "3.65K",
       "posted_at": "2026-10-14T17:23:00+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/180194"
@@ -787,7 +816,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.67K",
+      "views_label": "3.69K",
       "posted_at": "2026-10-14T16:55:23+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/180193"
@@ -832,7 +861,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.38K",
+      "views_label": "3.4K",
       "posted_at": "2026-10-14T16:48:58+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/180192"
@@ -4104,43 +4133,6 @@
       "posted_at": "2026-10-13T15:19:51+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/180100"
-    },
-    {
-      "id": "Indypersian/180099",
-      "author_name": "IndyPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/qA57mJnq7E4KV0eEcMiwTqRF3zxG8BkEHXSBX3tbiYwA18Nmsd7ezD5GqG5h8KPfbR-vV-BQrp-ED50Vge-XEfSVRy4YR1TLtbI70mShAxxbxpq5_sQ1-on2LSpRvqvHOteN9zcQ32r0gWECOoggqq5159D1GmYXmqhQQSJZ6lwyFCu1qwjPYlawJ76cVcaQj95QPlsVbNJKoMmgbva5sLN9Sddnc_4iTA4iBOFnMbfmxbeJzz_mlSuJbN_NBV9QUr-88Crp6xJHLnxV9moHr5r7k2hzcEEW9Fa8nARNMsBgv1GEERp6L0QljOBZ_JCsgi4YoYPBWNTjAqSyOQUFuQ.jpg",
-      "author_photo_path": "channels/indypersian/media/e2c3af95c150a2ed31b2ef9b.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i>در جریان همایش بزرگ پیاده‌روی خانوادگی در کرمان، یکی از برندگان خودروی پژو ۲۰۷ پس از شنیدن نام خود در مراسم قرعه‌کشی، از شدت خوشحالی بیهوش شد. ویدیوی این اتفاق در شبکه‌های اجتماعی منتشر شده و توجه کاربران را به خود جلب کرده است.<br><br>بر اساس گزارش صفحه رسمی هیات ورزش‌های همگانی استان کرمان، این همایش روز یکشنبه ۱۹ مهرماه با حضور حدود ۲۳۰ هزار نفر برگزار شد. در جریان این مراسم، دو دستگاه خودروی پژو ۲۰۷ و ۱۰۰ دستگاه دوچرخه به قید قرعه به شرکت‌کنندگان اختصاص یافت.<br><br>ویدیویی که از این مراسم منتشر شده است، نشان می‌دهد یکی از برندگان جایزه خودروی پژو ۲۰۷، پس از اعلام نامش در مراسم قرعه‌کشی، از شدت خوشحالی بیهوش شد.<br><br> <br><a href=\"https://t.me/indypersian\" target=\"_blank\">@indypersian</a>",
-      "plain_text": "♦️در جریان همایش بزرگ پیاده‌روی خانوادگی در کرمان، یکی از برندگان خودروی پژو ۲۰۷ پس از شنیدن نام خود در مراسم قرعه‌کشی، از شدت خوشحالی بیهوش شد. ویدیوی این اتفاق در شبکه‌های اجتماعی منتشر شده و توجه کاربران را به خود جلب کرده است. بر اساس گزارش صفحه رسمی هیات ورزش‌های همگانی استان کرمان، این همایش روز یکشنبه ۱۹ مهرماه با حضور حدود ۲۳۰ هزار نفر برگزار شد. در جریان این مراسم، دو دستگاه خودروی پژو ۲۰۷ و ۱۰۰ دستگاه دوچرخه به قید قرعه به شرکت‌کنندگان اختصاص یافت. ویدیویی که از این مراسم منتشر شده است، نشان می‌دهد یکی از برندگان جایزه خودروی پژو ۲۰۷، پس از اعلام نامش در مراسم قرعه‌کشی، از شدت خوشحالی بیهوش شد. @indypersian",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Indypersian/180099",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/LFugh3fYQGdxWpi9ZylBoBnP7ouJ5Y7qFqKXIqwqG-2ZtuVBUL_phyKkLG_1DQ3V7OCiesnCQi630v7B9k5zRK-T1xFSDkwPM2AvT_DVtpxQe5GrjwT7qwai6tVLQELSxNDZNmDSoDrMHO2kJH25UQsY3Y6lYaIJkhlcTILNGMpHkbfQk35IeVTwRNSNAic0kA-RfE367WqmW8SQKmni1Ot0n-NLHZXrHOHqVFj9uk0fm3RhbTQQIWitqy8sT--O46Ip79TxzIbBgvM_wc3-5rgmr6OSByYWJ5e_RH46kXU0kb3jTYuxCm9kfn55PN0pjJikmWGUChPzzWo955VFDg",
-          "thumbnail_path": "channels/indypersian/media/77144c704a7a1e91ef4f6cfa.jpg",
-          "duration_label": "0:34",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "7"
-        },
-        {
-          "emoji": "😁",
-          "count": "3"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "2"
-        }
-      ],
-      "views_label": "746",
-      "posted_at": "2026-10-13T15:00:51+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Indypersian/180099"
     }
   ]
 }
