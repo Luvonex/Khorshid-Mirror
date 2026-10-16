@@ -1,15 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-16T14:15:06.949Z",
-  "succeeded": 33,
-  "failed": [
-    {
-      "username": "badnews_85",
-      "error": "fetch failed"
-    },
-    {
-      "username": "alonews",
-      "error": "fetch failed"
-    }
-  ]
+  "generated_at": "2026-10-16T17:50:58.133Z",
+  "succeeded": 35,
+  "failed": []
 }
