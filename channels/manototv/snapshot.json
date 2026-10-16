@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-16T13:54:38.661Z",
+  "fetched_at": "2026-10-16T14:14:57.564Z",
   "channel": {
     "username": "manototv",
     "title": "تلویزیون منوتو",
@@ -10,6 +10,35 @@
     "subscriber_count": "377K"
   },
   "posts": [
+    {
+      "id": "ManotoTV/108478",
+      "author_name": "تلویزیون منوتو",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Z0eeBXRS6Be6oWxnFV6rgD_beY66hpr_GmISHH0QPn_yIPG9TeGglAqAXKoeJnnKXGkzCCKCIaBG9C5LgtYhljD9facTmBsaJ8Vd6OHPMt_lw4rlv_yvUHJTAHvo0VJjFa9tXj5hllF04KN9MNj5vQx3UBdB43pefTxhKL5AAk0JAozbJbpSW408kmZXnauhtOrCNAXNHxO6wz4XjMSdfAzmBScV9hhghfsLdj829fzwwelb6Ce2bvKmJ-6tohu5WDZeOaMegQCNq5WJBnd7G0jHdb7IsL3saWnn-ZFEYOm56khRHn3lcDEc_fAhKodezuMHXM0BJUwKra6bP1Km1w.jpg",
+      "author_photo_path": "channels/manototv/media/e2afea2c7a9cb64bc493bfcb.jpg",
+      "body_html": "رویترز در تحقیقی گسترده، ابعاد ۱۳۵ حمله به ۸۴ تأسیسات حیاتی در هفت کشور منطقه را بررسی کرده است. یافته‌های این گزارش نشان می‌دهد چگونه هدف قرار دادن نقاط حساس زیرساخت‌های انرژی، صنعت و آب، به ابزاری برای فشار اقتصادی و سیاسی جمهوری اسلامی تبدیل شده و امنیت کشورهای خلیج فارس را با چالش‌های جدی مواجه کرده است.",
+      "plain_text": "رویترز در تحقیقی گسترده، ابعاد ۱۳۵ حمله به ۸۴ تأسیسات حیاتی در هفت کشور منطقه را بررسی کرده است. یافته‌های این گزارش نشان می‌دهد چگونه هدف قرار دادن نقاط حساس زیرساخت‌های انرژی، صنعت و آب، به ابزاری برای فشار اقتصادی و سیاسی جمهوری اسلامی تبدیل شده و امنیت کشورهای خلیج فارس را با چالش‌های جدی مواجه کرده است.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/ManotoTV/108478",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/C2wBOft-15jJbw9ZDkC1VFdXzdOkFRuPEjUMva3g-oAi1QPqPKpHprHzXYUTS4jR6NqhLP8llYQmY2Z_Oge21zZ5KU2AH83k_2G8b3e_mIjLHnNd3p9V6HLpUdd4LfCznJD0VNf7SpA5gq4z-hrdT0zzeWi7SJz1-iLNbFfveN4LmMybkkrZTCGZd_ZCxsEx7ebpb3tkOn2UKtPdBxN0Hc7pv3i_sasuQX-1Vtlg7G71pbKygOaAUrxpUFwCn-Rc-iuejFW6PNaB0-t9ZVU03O7jsQgZWQl1TQRbyMeO-L3MFYz1liDvDRHBUha7Ez0OqdoJu277ExE7aZVrioqVDw",
+          "thumbnail_path": "channels/manototv/media/72971b2ca345f190f5047309.jpg",
+          "duration_label": "4:01",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "1"
+        }
+      ],
+      "views_label": "707",
+      "posted_at": "2026-10-16T14:03:25+00:00",
+      "edited": false,
+      "permalink": "https://t.me/ManotoTV/108478"
+    },
     {
       "id": "ManotoTV/108477",
       "author_name": "تلویزیون منوتو",
@@ -31,14 +60,14 @@
       "reactions": [
         {
           "emoji": "😭",
-          "count": "98"
+          "count": "111"
         },
         {
           "emoji": "😢",
-          "count": "16"
+          "count": "17"
         }
       ],
-      "views_label": "3.04K",
+      "views_label": "3.74K",
       "posted_at": "2026-10-16T12:23:12+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108477"
@@ -64,14 +93,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "131"
+          "count": "137"
         },
         {
           "emoji": "🕊",
           "count": "10"
         }
       ],
-      "views_label": "4.86K",
+      "views_label": "5.34K",
       "posted_at": "2026-10-16T11:14:05+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108476"
@@ -169,14 +198,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "60"
+          "count": "61"
         },
         {
           "emoji": "👍",
           "count": "12"
         }
       ],
-      "views_label": "5.75K",
+      "views_label": "6.1K",
       "posted_at": "2026-10-16T10:01:33+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108467"
@@ -202,14 +231,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "103"
+          "count": "109"
         },
         {
           "emoji": "🔥",
           "count": "3"
         }
       ],
-      "views_label": "4.41K",
+      "views_label": "4.66K",
       "posted_at": "2026-10-16T10:00:38+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108465"
@@ -235,14 +264,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "100"
+          "count": "105"
         },
         {
           "emoji": "🔥",
           "count": "7"
         }
       ],
-      "views_label": "5.06K",
+      "views_label": "5.32K",
       "posted_at": "2026-10-16T10:00:38+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108466"
@@ -268,14 +297,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "79"
+          "count": "83"
         },
         {
           "emoji": "💔",
-          "count": "51"
+          "count": "53"
         }
       ],
-      "views_label": "5.59K",
+      "views_label": "5.84K",
       "posted_at": "2026-10-16T09:28:12+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108464"
@@ -305,10 +334,10 @@
         },
         {
           "emoji": "👍",
-          "count": "20"
+          "count": "21"
         }
       ],
-      "views_label": "7.88K",
+      "views_label": "8.07K",
       "posted_at": "2026-10-16T07:03:53+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108463"
@@ -341,7 +370,7 @@
           "count": "13"
         }
       ],
-      "views_label": "13.9K",
+      "views_label": "14K",
       "posted_at": "2026-10-15T17:21:56+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108462"
@@ -374,7 +403,7 @@
           "count": "1"
         }
       ],
-      "views_label": "13.4K",
+      "views_label": "13.5K",
       "posted_at": "2026-10-15T16:18:51+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108461"
@@ -4122,39 +4151,6 @@
       "posted_at": "2026-10-09T18:05:47+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108285"
-    },
-    {
-      "id": "ManotoTV/108283",
-      "author_name": "تلویزیون منوتو",
-      "author_photo_url": "https://cdn4.telesco.pe/file/r_G5wGiuSXRM52OSDfRuifRtMNrwSdwJcH9IUKK3l1LjXxlhk7WQ7fTbOyKQptwmUR9SO_ZgqZ05moKRPNTfVUQLdZSxer_azIIsZmpuOmh2cDm4JFhTkpSW_2L02gIji1zrUbNLhUDyjMMG57Lfepa1UHRxAUR_-wrYvwAgiYhQpMJCYjFUs7VkF0gYA0_8IxW3-TUz7Zff4XjC545lNL6UY0qvrbA9rMNh-DDSF_cTVfkpUF4TFd9e0oTbsw5ZVJytFHNkKnYVLEOFJy6PO2oOkXElSxWIRZ7WZvbREO8Nvas75V-1BF5JUinlBidtTJtaIYqpNpJ6HOwQFxrpYg.jpg",
-      "author_photo_path": "channels/manototv/media/1982ca3a7ccbf33ffce5e275.jpg",
-      "body_html": "جاویدنام مهدی شفیعی ۴۵ ساله، و پسرش جاویدنام مانی شفیعی، ۱۸ ساله، شامگاه ۱۹ دی ۱۴۰۴ در جریان اعتراضات شهرک قائمیه اسلامشهر با شلیک گلوله جنگی نیروهای حکومتی کشته شدند. مهدی اهل روستای چنار از توابع اسدآباد همدان بود و در یک پروژه ساختمانی کار می‌کرد. مانی دانشجوی حسابداری بود. مهدی برای شرکت در اعتراضات از خانه بیرون رفت و با اصابت گلوله به قلبش جان باخت. مانی نیز سر کوچه هدف شلیک قرار گرفت؛ گلوله به ناحیه کلیه‌اش اصابت کرد و او در آغوش مادربزرگش جان باخت.<br>به خانواده اجازه خاکسپاری آن‌ها در تهران داده نشد. پیکر جاویدنامان مهدی و مانی شفیعی روز ۲۱ دی ۱۴۰۴، در روستای چنار اسدآباد همدان به خاک سپرده شد.",
-      "plain_text": "جاویدنام مهدی شفیعی ۴۵ ساله، و پسرش جاویدنام مانی شفیعی، ۱۸ ساله، شامگاه ۱۹ دی ۱۴۰۴ در جریان اعتراضات شهرک قائمیه اسلامشهر با شلیک گلوله جنگی نیروهای حکومتی کشته شدند. مهدی اهل روستای چنار از توابع اسدآباد همدان بود و در یک پروژه ساختمانی کار می‌کرد. مانی دانشجوی حسابداری بود. مهدی برای شرکت در اعتراضات از خانه بیرون رفت و با اصابت گلوله به قلبش جان باخت. مانی نیز سر کوچه هدف شلیک قرار گرفت؛ گلوله به ناحیه کلیه‌اش اصابت کرد و او در آغوش مادربزرگش جان باخت. به خانواده اجازه خاکسپاری آن‌ها در تهران داده نشد. پیکر جاویدنامان مهدی و مانی شفیعی روز ۲۱ دی ۱۴۰۴، در روستای چنار اسدآباد همدان به خاک سپرده شد.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/ManotoTV/108283",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/mG3TRRMBUhviR4kto4qxIYiDoccPBY_fUmOdWn8dJHbja5bB7O-WaSSi9873_52706rd2EPCicV2MLHwj5gMdDX_A1hTMzZgUA6VIhUcmuiQVLgN6ipVP3UAgvotaJJwFeuhboDjTkOdXsZzQBamPjVqbRh7AkjcZYl6fU9f50TwGK6AkaBrBXPTTGIXZ2frpc6l1psuUp1SY985GVOIQN-LDaHs-i0ZDiBWRtV3lpdgzP8K2WhvBTQiFRt3dXiIHc3AtI7i2dqol6dzHOX4j_E-WoUhR8Fvagp9g9LSQ04thwZV3Eg6DTboYUfpgzSMviIYLKgLb5q2qQf3g__ZJA",
-          "thumbnail_path": "channels/manototv/media/536edf838b640b373b84377f.jpg",
-          "duration_label": "1:29",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "💔",
-          "count": "232"
-        },
-        {
-          "emoji": "❤",
-          "count": "23"
-        }
-      ],
-      "views_label": "11.6K",
-      "posted_at": "2026-10-09T16:59:20+00:00",
-      "edited": false,
-      "permalink": "https://t.me/ManotoTV/108283"
     }
   ]
 }
