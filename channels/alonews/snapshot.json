@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-16T09:39:25.280Z",
+  "fetched_at": "2026-10-16T13:54:26.029Z",
   "channel": {
     "username": "alonews",
     "title": "اخبار جنگ الونیوز AloNews",
@@ -10,6 +10,934 @@
     "subscriber_count": "1M"
   },
   "posts": [
+    {
+      "id": "alonews/152994",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kGj5ve64L02X_nPnvFBQp8ZoV8Jyop37ZrVsYT1Pe8alrm9IonbMBdCmPckcb5ijOjACkpgP6nXiGwShu0cduiLcD24yOu2orJLUxpq_7HbYtLKRBtwBAFU9Q2199XowTNlNuPJnKPWV3BGR_UAYaKBsx2JPzMPn8FjJQ1UHO8y9uIF7VmhOOMWQiMP43Vs-RHYWZD819J7VPxsKmCsSLwo_uMAVgZtRAmxyImFxM1auogtJkSUwHMupGqcKBGKAsLj_3XVGTAsZbNcmmt3VvoK7ZDJo4F6VyHZ1QMm6NjJwILYt31sFJ22ckA5C9dpE0FGMtoRf8hM-g0ODcsNSdQ.jpg",
+      "author_photo_path": "channels/alonews/media/2f66a4f78709eeb1ed521519.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji> <b>تصویری جالب از اعتراضات اخیر فرانسه</b> <br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈 تصویری جالب از اعتراضات اخیر فرانسه ✅ @AloNews",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/alonews/152994",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Ux4dVXguM_H3I4zI5UCgld1JDeWD7bixUJjjQx274zEN07kmcwBQrT4tNzviv1hAdfN1DRLgKg1K4lR9kHPCgyJDgVnNkpQ-27qd_w1Sl4FjJ_vUNw9OYcV9qhnp9yMCdSnVPJNeRb0gPVN4XHSlMgql3XJkEah16L9W27aKz2Bys9bcGm_LaredFM6rqGrx1saEa7lM2W_blbbcKUkyk1XaKwizhm9pnQv2QOwvwBRsU6vMMPqB-UR5sIkShEHvP_uW3zc9RKiaP1c7VFHUsXeJHOQXJaollor0AKSIA0kfh4u24xDaggmAzOgsnWqV26NCTaxn3Ta3T8VhveAZVA.jpg",
+          "thumbnail_path": "channels/alonews/media/c33144eefeca7049fc022565.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7649999999999766
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "7"
+        },
+        {
+          "emoji": "🤣",
+          "count": "7"
+        },
+        {
+          "emoji": "🍾",
+          "count": "1"
+        },
+        {
+          "emoji": "🗿",
+          "count": "1"
+        }
+      ],
+      "views_label": "16",
+      "posted_at": "2026-10-16T13:53:31+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/152994"
+    },
+    {
+      "id": "alonews/152993",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kGj5ve64L02X_nPnvFBQp8ZoV8Jyop37ZrVsYT1Pe8alrm9IonbMBdCmPckcb5ijOjACkpgP6nXiGwShu0cduiLcD24yOu2orJLUxpq_7HbYtLKRBtwBAFU9Q2199XowTNlNuPJnKPWV3BGR_UAYaKBsx2JPzMPn8FjJQ1UHO8y9uIF7VmhOOMWQiMP43Vs-RHYWZD819J7VPxsKmCsSLwo_uMAVgZtRAmxyImFxM1auogtJkSUwHMupGqcKBGKAsLj_3XVGTAsZbNcmmt3VvoK7ZDJo4F6VyHZ1QMm6NjJwILYt31sFJ22ckA5C9dpE0FGMtoRf8hM-g0ODcsNSdQ.jpg",
+      "author_photo_path": "channels/alonews/media/2f66a4f78709eeb1ed521519.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>سرقت گوشی و متواری شدن سارقان در کمتر از چند ثانیه<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈سرقت گوشی و متواری شدن سارقان در کمتر از چند ثانیه ✅ @AloNews",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/alonews/152993",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/br0QGp3Z5NARQIaVDPc2CZYVTFFEsYkuXJHt-PM1eeYF4gSPAPXb_oqDRa3XnvM_P79nd-NwoMsrj9XArtkDNftGz_Y0vCSPWTC35XlPsfv92LGkN4jbXRvtRk1fnJkHWHj_u0we3w91FLbVihrZbsyi_12cahuMyaDORhfwTnwlFTXzD8e3MtXV4vQ_ot76OwySeTl5oWh7D6_c148CnX0M9wZ56ZwPpJoGgEhnUu6Ky8FuOGgMsiUmI-7kwJaWrW-MsgIr3MXb9R9O7YJtjN4y6hB8_lpNw2Z8qkcPYlQlvf0yUhcejyLWhK8dRI9OkjI7rQlqSoutrP6zBsygFQ",
+          "thumbnail_path": "channels/alonews/media/f8927f6e2f76f0339ffd3e31.jpg",
+          "duration_label": "0:13",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤬",
+          "count": "136"
+        },
+        {
+          "emoji": "❤",
+          "count": "11"
+        },
+        {
+          "emoji": "🖕",
+          "count": "9"
+        },
+        {
+          "emoji": "👎",
+          "count": "4"
+        },
+        {
+          "emoji": "🤣",
+          "count": "4"
+        },
+        {
+          "emoji": "😐",
+          "count": "4"
+        },
+        {
+          "emoji": "🗿",
+          "count": "3"
+        },
+        {
+          "emoji": "💔",
+          "count": "2"
+        }
+      ],
+      "views_label": "10.2K",
+      "posted_at": "2026-10-16T13:41:18+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/152993"
+    },
+    {
+      "id": "alonews/152992",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kGj5ve64L02X_nPnvFBQp8ZoV8Jyop37ZrVsYT1Pe8alrm9IonbMBdCmPckcb5ijOjACkpgP6nXiGwShu0cduiLcD24yOu2orJLUxpq_7HbYtLKRBtwBAFU9Q2199XowTNlNuPJnKPWV3BGR_UAYaKBsx2JPzMPn8FjJQ1UHO8y9uIF7VmhOOMWQiMP43Vs-RHYWZD819J7VPxsKmCsSLwo_uMAVgZtRAmxyImFxM1auogtJkSUwHMupGqcKBGKAsLj_3XVGTAsZbNcmmt3VvoK7ZDJo4F6VyHZ1QMm6NjJwILYt31sFJ22ckA5C9dpE0FGMtoRf8hM-g0ODcsNSdQ.jpg",
+      "author_photo_path": "channels/alonews/media/2f66a4f78709eeb1ed521519.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>سخنگوی وزارت خارجه پاکستان: موضع ما در بحث یمن پایدار و اصولی است، ما خواستار بکارگیری دیپلماسی و مذاکره برای حل مسائل یمن هستیم <br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji> دولت و ملت ایران دیدگاه مثبت و برادرانه نسبت به تلاش‌های صلح جویانه پاکستان دارند<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈سخنگوی وزارت خارجه پاکستان: موضع ما در بحث یمن پایدار و اصولی است، ما خواستار بکارگیری دیپلماسی و مذاکره برای حل مسائل یمن هستیم 🔴 دولت و ملت ایران دیدگاه مثبت و برادرانه نسبت به تلاش‌های صلح جویانه پاکستان دارند ✅ @AloNews",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🖕",
+          "count": "54"
+        },
+        {
+          "emoji": "🤣",
+          "count": "23"
+        },
+        {
+          "emoji": "💩",
+          "count": "12"
+        },
+        {
+          "emoji": "❤",
+          "count": "9"
+        }
+      ],
+      "views_label": "11.2K",
+      "posted_at": "2026-10-16T13:38:30+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/152992"
+    },
+    {
+      "id": "alonews/152991",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kGj5ve64L02X_nPnvFBQp8ZoV8Jyop37ZrVsYT1Pe8alrm9IonbMBdCmPckcb5ijOjACkpgP6nXiGwShu0cduiLcD24yOu2orJLUxpq_7HbYtLKRBtwBAFU9Q2199XowTNlNuPJnKPWV3BGR_UAYaKBsx2JPzMPn8FjJQ1UHO8y9uIF7VmhOOMWQiMP43Vs-RHYWZD819J7VPxsKmCsSLwo_uMAVgZtRAmxyImFxM1auogtJkSUwHMupGqcKBGKAsLj_3XVGTAsZbNcmmt3VvoK7ZDJo4F6VyHZ1QMm6NjJwILYt31sFJ22ckA5C9dpE0FGMtoRf8hM-g0ODcsNSdQ.jpg",
+      "author_photo_path": "channels/alonews/media/2f66a4f78709eeb1ed521519.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>چین درخواست ترامپ برای پیوستن به مذاکرات خلع سلاح اتمی را رد کرد<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈چین درخواست ترامپ برای پیوستن به مذاکرات خلع سلاح اتمی را رد کرد ✅ @AloNews",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "185"
+        },
+        {
+          "emoji": "👍",
+          "count": "31"
+        },
+        {
+          "emoji": "🖕",
+          "count": "28"
+        },
+        {
+          "emoji": "❤",
+          "count": "7"
+        },
+        {
+          "emoji": "🔥",
+          "count": "5"
+        },
+        {
+          "emoji": "👎",
+          "count": "3"
+        }
+      ],
+      "views_label": "14.3K",
+      "posted_at": "2026-10-16T13:32:17+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/152991"
+    },
+    {
+      "id": "alonews/152990",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kGj5ve64L02X_nPnvFBQp8ZoV8Jyop37ZrVsYT1Pe8alrm9IonbMBdCmPckcb5ijOjACkpgP6nXiGwShu0cduiLcD24yOu2orJLUxpq_7HbYtLKRBtwBAFU9Q2199XowTNlNuPJnKPWV3BGR_UAYaKBsx2JPzMPn8FjJQ1UHO8y9uIF7VmhOOMWQiMP43Vs-RHYWZD819J7VPxsKmCsSLwo_uMAVgZtRAmxyImFxM1auogtJkSUwHMupGqcKBGKAsLj_3XVGTAsZbNcmmt3VvoK7ZDJo4F6VyHZ1QMm6NjJwILYt31sFJ22ckA5C9dpE0FGMtoRf8hM-g0ODcsNSdQ.jpg",
+      "author_photo_path": "channels/alonews/media/2f66a4f78709eeb1ed521519.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji><b> </b>آرایش کم‌سابقه ناوگان آمریکا؛ آمریکا ۵ ناو گروه در خاورمیانه مستقر خواهد کرد؟<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>در صورت رسیدن ناو هواپیمابر روزولت و ناو آبی-خاکی ماکین آیلند آرایش آمریکا به ۳ ناو هواپیمابر و ۲ ناو گروه آبی-خاکی می‌رسد.<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>این دو ناو به سمت خاورمیانه در حال حرکت هستند<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈 آرایش کم‌سابقه ناوگان آمریکا؛ آمریکا ۵ ناو گروه در خاورمیانه مستقر خواهد کرد؟ 🔴در صورت رسیدن ناو هواپیمابر روزولت و ناو آبی-خاکی ماکین آیلند آرایش آمریکا به ۳ ناو هواپیمابر و ۲ ناو گروه آبی-خاکی می‌رسد. 🔴این دو ناو به سمت خاورمیانه در حال حرکت هستند ✅ @AloNews",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/alonews/152990",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/MQdl_KrbzwOG4pffxu_IgHQlc7dqF1rfpsxZf-2nyCwGCNabG09wtSlGE0mxYcMfY8PqfJSlHamvklyQywZmbJkIgPthWYz-PNk4oDNNNshy71Kr8T5gUKInLO2tpqud7R7sa1Y1ow2RvCsTTCcNFc1fz8YsdJ3eQonMHwoU_0Qwk-76WfOyjk2vXdxCk-Mp87Ra9cYTZi68-m8dinizr4kMen8jpbY_GL5_3q34GeMkRxEtbUL5h9MO-SOBGCY3W4XLdWdFf9PqyHFPFrQTVmOMJLvZ3fsOQc2jAKMEwVJtWWNTNVd63sIJJ6WCfAvQxneTHNOWNtOTCAn0Gr31vQ.jpg",
+          "thumbnail_path": "channels/alonews/media/71853231afcb14e89afd57a1.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.78173719376392
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "181"
+        },
+        {
+          "emoji": "💩",
+          "count": "65"
+        },
+        {
+          "emoji": "🔥",
+          "count": "18"
+        },
+        {
+          "emoji": "🖕",
+          "count": "9"
+        },
+        {
+          "emoji": "🤣",
+          "count": "5"
+        },
+        {
+          "emoji": "💔",
+          "count": "3"
+        },
+        {
+          "emoji": "🤷‍♂",
+          "count": "2"
+        },
+        {
+          "emoji": "👍",
+          "count": "2"
+        },
+        {
+          "emoji": "🤬",
+          "count": "2"
+        }
+      ],
+      "views_label": "22.5K",
+      "posted_at": "2026-10-16T13:16:57+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/152990"
+    },
+    {
+      "id": "alonews/152989",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kGj5ve64L02X_nPnvFBQp8ZoV8Jyop37ZrVsYT1Pe8alrm9IonbMBdCmPckcb5ijOjACkpgP6nXiGwShu0cduiLcD24yOu2orJLUxpq_7HbYtLKRBtwBAFU9Q2199XowTNlNuPJnKPWV3BGR_UAYaKBsx2JPzMPn8FjJQ1UHO8y9uIF7VmhOOMWQiMP43Vs-RHYWZD819J7VPxsKmCsSLwo_uMAVgZtRAmxyImFxM1auogtJkSUwHMupGqcKBGKAsLj_3XVGTAsZbNcmmt3VvoK7ZDJo4F6VyHZ1QMm6NjJwILYt31sFJ22ckA5C9dpE0FGMtoRf8hM-g0ODcsNSdQ.jpg",
+      "author_photo_path": "channels/alonews/media/2f66a4f78709eeb1ed521519.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>رویترز: ایران دور زدن محاصره دریایی آمریکا را یاد‌گرفته و این دور زدن رو آغاز کرده است<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈رویترز: ایران دور زدن محاصره دریایی آمریکا را یاد‌گرفته و این دور زدن رو آغاز کرده است ✅ @AloNews",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "262"
+        },
+        {
+          "emoji": "👍",
+          "count": "79"
+        },
+        {
+          "emoji": "💩",
+          "count": "41"
+        },
+        {
+          "emoji": "❤",
+          "count": "15"
+        },
+        {
+          "emoji": "🖕",
+          "count": "4"
+        },
+        {
+          "emoji": "😐",
+          "count": "3"
+        },
+        {
+          "emoji": "👎",
+          "count": "2"
+        },
+        {
+          "emoji": "🤬",
+          "count": "1"
+        },
+        {
+          "emoji": "💔",
+          "count": "1"
+        }
+      ],
+      "views_label": "25.5K",
+      "posted_at": "2026-10-16T13:10:11+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/152989"
+    },
+    {
+      "id": "alonews/152988",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kGj5ve64L02X_nPnvFBQp8ZoV8Jyop37ZrVsYT1Pe8alrm9IonbMBdCmPckcb5ijOjACkpgP6nXiGwShu0cduiLcD24yOu2orJLUxpq_7HbYtLKRBtwBAFU9Q2199XowTNlNuPJnKPWV3BGR_UAYaKBsx2JPzMPn8FjJQ1UHO8y9uIF7VmhOOMWQiMP43Vs-RHYWZD819J7VPxsKmCsSLwo_uMAVgZtRAmxyImFxM1auogtJkSUwHMupGqcKBGKAsLj_3XVGTAsZbNcmmt3VvoK7ZDJo4F6VyHZ1QMm6NjJwILYt31sFJ22ckA5C9dpE0FGMtoRf8hM-g0ODcsNSdQ.jpg",
+      "author_photo_path": "channels/alonews/media/2f66a4f78709eeb1ed521519.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>پزشکیان: برای ایالات متحده بهتر است که به جای منطق زور، با ایران بر اساس منطق گفتگو رفتار کند.<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈پزشکیان: برای ایالات متحده بهتر است که به جای منطق زور، با ایران بر اساس منطق گفتگو رفتار کند. ✅ @AloNews",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "💩",
+          "count": "307"
+        },
+        {
+          "emoji": "❤",
+          "count": "47"
+        },
+        {
+          "emoji": "👍",
+          "count": "29"
+        },
+        {
+          "emoji": "🖕",
+          "count": "23"
+        },
+        {
+          "emoji": "🤣",
+          "count": "12"
+        },
+        {
+          "emoji": "🍌",
+          "count": "3"
+        }
+      ],
+      "views_label": "26.6K",
+      "posted_at": "2026-10-16T13:04:47+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/152988"
+    },
+    {
+      "id": "alonews/152987",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kGj5ve64L02X_nPnvFBQp8ZoV8Jyop37ZrVsYT1Pe8alrm9IonbMBdCmPckcb5ijOjACkpgP6nXiGwShu0cduiLcD24yOu2orJLUxpq_7HbYtLKRBtwBAFU9Q2199XowTNlNuPJnKPWV3BGR_UAYaKBsx2JPzMPn8FjJQ1UHO8y9uIF7VmhOOMWQiMP43Vs-RHYWZD819J7VPxsKmCsSLwo_uMAVgZtRAmxyImFxM1auogtJkSUwHMupGqcKBGKAsLj_3XVGTAsZbNcmmt3VvoK7ZDJo4F6VyHZ1QMm6NjJwILYt31sFJ22ckA5C9dpE0FGMtoRf8hM-g0ODcsNSdQ.jpg",
+      "author_photo_path": "channels/alonews/media/2f66a4f78709eeb1ed521519.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>وزیر امور خارجه آلمان: امتیاز دادن به پوتین متجاوز در شرایط فعلی دقیقاً پیام اشتباهی را ارسال می کند<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈وزیر امور خارجه آلمان: امتیاز دادن به پوتین متجاوز در شرایط فعلی دقیقاً پیام اشتباهی را ارسال می کند ✅ @AloNews",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "148"
+        },
+        {
+          "emoji": "💩",
+          "count": "30"
+        },
+        {
+          "emoji": "🤣",
+          "count": "18"
+        },
+        {
+          "emoji": "❤",
+          "count": "7"
+        },
+        {
+          "emoji": "🖕",
+          "count": "3"
+        },
+        {
+          "emoji": "😎",
+          "count": "2"
+        },
+        {
+          "emoji": "🤷‍♂",
+          "count": "1"
+        }
+      ],
+      "views_label": "28.6K",
+      "posted_at": "2026-10-16T12:58:05+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/152987"
+    },
+    {
+      "id": "alonews/152986",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kGj5ve64L02X_nPnvFBQp8ZoV8Jyop37ZrVsYT1Pe8alrm9IonbMBdCmPckcb5ijOjACkpgP6nXiGwShu0cduiLcD24yOu2orJLUxpq_7HbYtLKRBtwBAFU9Q2199XowTNlNuPJnKPWV3BGR_UAYaKBsx2JPzMPn8FjJQ1UHO8y9uIF7VmhOOMWQiMP43Vs-RHYWZD819J7VPxsKmCsSLwo_uMAVgZtRAmxyImFxM1auogtJkSUwHMupGqcKBGKAsLj_3XVGTAsZbNcmmt3VvoK7ZDJo4F6VyHZ1QMm6NjJwILYt31sFJ22ckA5C9dpE0FGMtoRf8hM-g0ODcsNSdQ.jpg",
+      "author_photo_path": "channels/alonews/media/2f66a4f78709eeb1ed521519.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>تست‌های پیش از تولید تسلا رودستر جدید<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈تست‌های پیش از تولید تسلا رودستر جدید ✅ @AloNews",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/alonews/152986",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/q7PMNXJHLTOYhwQSdSSihqCOPt3pDlxPu7TGsbI2ubZ_bPY9C3V97c3TYBabpIXBtWC6UZYucSJ44yUsnrzvIXmGftW69cC2GaKHry6lReBVoAuB5s4-0flXu2ciNbw9EBZ17dPFuekDLRwyaPTGtfilNMWeWiBGZn5Fy7orbS4-IaC6F4iH1HsaiWDYKgEnBAHMilYmSz_iIpvBJqIS65_t3WAv_WT6d7EB-9k6pR3dlvhBmvDIfJV5uwXOFX9kz83f7xsV4pdUyYrUJb5u7wDAYfD6WrriRsBJD8LPYIErhh0fG2vrimxCUobaVapwfHT-3ZmoZFEO6EWMDwFAfQ",
+          "thumbnail_path": "channels/alonews/media/7907bbe4e6a77ed3f90a5752.jpg",
+          "duration_label": "0:15",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "290"
+        },
+        {
+          "emoji": "❤",
+          "count": "33"
+        },
+        {
+          "emoji": "🤣",
+          "count": "18"
+        },
+        {
+          "emoji": "🤯",
+          "count": "12"
+        },
+        {
+          "emoji": "💩",
+          "count": "12"
+        },
+        {
+          "emoji": "🖕",
+          "count": "3"
+        },
+        {
+          "emoji": "👍",
+          "count": "2"
+        },
+        {
+          "emoji": "💔",
+          "count": "2"
+        }
+      ],
+      "views_label": "30.6K",
+      "posted_at": "2026-10-16T12:51:56+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/152986"
+    },
+    {
+      "id": "alonews/152985",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kGj5ve64L02X_nPnvFBQp8ZoV8Jyop37ZrVsYT1Pe8alrm9IonbMBdCmPckcb5ijOjACkpgP6nXiGwShu0cduiLcD24yOu2orJLUxpq_7HbYtLKRBtwBAFU9Q2199XowTNlNuPJnKPWV3BGR_UAYaKBsx2JPzMPn8FjJQ1UHO8y9uIF7VmhOOMWQiMP43Vs-RHYWZD819J7VPxsKmCsSLwo_uMAVgZtRAmxyImFxM1auogtJkSUwHMupGqcKBGKAsLj_3XVGTAsZbNcmmt3VvoK7ZDJo4F6VyHZ1QMm6NjJwILYt31sFJ22ckA5C9dpE0FGMtoRf8hM-g0ODcsNSdQ.jpg",
+      "author_photo_path": "channels/alonews/media/2f66a4f78709eeb1ed521519.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>یک مقام ارشد وزارت دفاع آمریکا گفت که ایالات متحده برای حمله گسترده علیه ایران کاملا آماده است<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈یک مقام ارشد وزارت دفاع آمریکا گفت که ایالات متحده برای حمله گسترده علیه ایران کاملا آماده است ✅ @AloNews",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "228"
+        },
+        {
+          "emoji": "💩",
+          "count": "93"
+        },
+        {
+          "emoji": "🖕",
+          "count": "15"
+        },
+        {
+          "emoji": "🤣",
+          "count": "13"
+        },
+        {
+          "emoji": "👍",
+          "count": "12"
+        },
+        {
+          "emoji": "🍾",
+          "count": "8"
+        },
+        {
+          "emoji": "🍌",
+          "count": "7"
+        },
+        {
+          "emoji": "🤯",
+          "count": "4"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        },
+        {
+          "emoji": "👎",
+          "count": "2"
+        }
+      ],
+      "views_label": "31.6K",
+      "posted_at": "2026-10-16T12:47:02+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/152985"
+    },
+    {
+      "id": "alonews/152984",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kGj5ve64L02X_nPnvFBQp8ZoV8Jyop37ZrVsYT1Pe8alrm9IonbMBdCmPckcb5ijOjACkpgP6nXiGwShu0cduiLcD24yOu2orJLUxpq_7HbYtLKRBtwBAFU9Q2199XowTNlNuPJnKPWV3BGR_UAYaKBsx2JPzMPn8FjJQ1UHO8y9uIF7VmhOOMWQiMP43Vs-RHYWZD819J7VPxsKmCsSLwo_uMAVgZtRAmxyImFxM1auogtJkSUwHMupGqcKBGKAsLj_3XVGTAsZbNcmmt3VvoK7ZDJo4F6VyHZ1QMm6NjJwILYt31sFJ22ckA5C9dpE0FGMtoRf8hM-g0ODcsNSdQ.jpg",
+      "author_photo_path": "channels/alonews/media/2f66a4f78709eeb1ed521519.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>فواد حسین،  وزیر خارجه عراق: جنگ آمریکا و ایران ۶۰ میلیارد دلار به عراق خسارت زده است<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈فواد حسین، وزیر خارجه عراق: جنگ آمریکا و ایران ۶۰ میلیارد دلار به عراق خسارت زده است ✅ @AloNews",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "223"
+        },
+        {
+          "emoji": "💩",
+          "count": "62"
+        },
+        {
+          "emoji": "❤",
+          "count": "7"
+        },
+        {
+          "emoji": "🔥",
+          "count": "7"
+        },
+        {
+          "emoji": "💔",
+          "count": "2"
+        },
+        {
+          "emoji": "😐",
+          "count": "1"
+        },
+        {
+          "emoji": "🖕",
+          "count": "1"
+        }
+      ],
+      "views_label": "32.7K",
+      "posted_at": "2026-10-16T12:41:43+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/152984"
+    },
+    {
+      "id": "alonews/152983",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kGj5ve64L02X_nPnvFBQp8ZoV8Jyop37ZrVsYT1Pe8alrm9IonbMBdCmPckcb5ijOjACkpgP6nXiGwShu0cduiLcD24yOu2orJLUxpq_7HbYtLKRBtwBAFU9Q2199XowTNlNuPJnKPWV3BGR_UAYaKBsx2JPzMPn8FjJQ1UHO8y9uIF7VmhOOMWQiMP43Vs-RHYWZD819J7VPxsKmCsSLwo_uMAVgZtRAmxyImFxM1auogtJkSUwHMupGqcKBGKAsLj_3XVGTAsZbNcmmt3VvoK7ZDJo4F6VyHZ1QMm6NjJwILYt31sFJ22ckA5C9dpE0FGMtoRf8hM-g0ODcsNSdQ.jpg",
+      "author_photo_path": "channels/alonews/media/2f66a4f78709eeb1ed521519.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>استرالیا توصیه سفر خود به عربستان سعودی را به «سفر نکنید» افزایش داده است<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈استرالیا توصیه سفر خود به عربستان سعودی را به «سفر نکنید» افزایش داده است ✅ @AloNews",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "100"
+        },
+        {
+          "emoji": "❤",
+          "count": "27"
+        },
+        {
+          "emoji": "👍",
+          "count": "13"
+        },
+        {
+          "emoji": "🗿",
+          "count": "6"
+        },
+        {
+          "emoji": "🖕",
+          "count": "4"
+        },
+        {
+          "emoji": "💩",
+          "count": "2"
+        },
+        {
+          "emoji": "😎",
+          "count": "1"
+        }
+      ],
+      "views_label": "35.7K",
+      "posted_at": "2026-10-16T12:30:01+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/152983"
+    },
+    {
+      "id": "alonews/152982",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kGj5ve64L02X_nPnvFBQp8ZoV8Jyop37ZrVsYT1Pe8alrm9IonbMBdCmPckcb5ijOjACkpgP6nXiGwShu0cduiLcD24yOu2orJLUxpq_7HbYtLKRBtwBAFU9Q2199XowTNlNuPJnKPWV3BGR_UAYaKBsx2JPzMPn8FjJQ1UHO8y9uIF7VmhOOMWQiMP43Vs-RHYWZD819J7VPxsKmCsSLwo_uMAVgZtRAmxyImFxM1auogtJkSUwHMupGqcKBGKAsLj_3XVGTAsZbNcmmt3VvoK7ZDJo4F6VyHZ1QMm6NjJwILYt31sFJ22ckA5C9dpE0FGMtoRf8hM-g0ODcsNSdQ.jpg",
+      "author_photo_path": "channels/alonews/media/2f66a4f78709eeb1ed521519.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>ناو هواپیمابر اتمی ایالات متحده USS Theodore Roosevelt (CVN-71) دقایقی پیش وارد پایگاه دریایی یوکوسوکا ژاپن شد. این ناو در تاریخ 27 سپتامبر 2026 بندر اصلی خود در سن دیگو را برای استقرار به منطقه خاورمیانه در دریای عرب ترک کرد<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈ناو هواپیمابر اتمی ایالات متحده USS Theodore Roosevelt (CVN-71) دقایقی پیش وارد پایگاه دریایی یوکوسوکا ژاپن شد. این ناو در تاریخ 27 سپتامبر 2026 بندر اصلی خود در سن دیگو را برای استقرار به منطقه خاورمیانه در دریای عرب ترک کرد ✅ @AloNews",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "144"
+        },
+        {
+          "emoji": "🖕",
+          "count": "47"
+        },
+        {
+          "emoji": "🔥",
+          "count": "30"
+        },
+        {
+          "emoji": "👍",
+          "count": "9"
+        },
+        {
+          "emoji": "🤯",
+          "count": "8"
+        },
+        {
+          "emoji": "💩",
+          "count": "6"
+        },
+        {
+          "emoji": "🍾",
+          "count": "1"
+        }
+      ],
+      "views_label": "37.7K",
+      "posted_at": "2026-10-16T12:25:01+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/152982"
+    },
+    {
+      "id": "alonews/152981",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kGj5ve64L02X_nPnvFBQp8ZoV8Jyop37ZrVsYT1Pe8alrm9IonbMBdCmPckcb5ijOjACkpgP6nXiGwShu0cduiLcD24yOu2orJLUxpq_7HbYtLKRBtwBAFU9Q2199XowTNlNuPJnKPWV3BGR_UAYaKBsx2JPzMPn8FjJQ1UHO8y9uIF7VmhOOMWQiMP43Vs-RHYWZD819J7VPxsKmCsSLwo_uMAVgZtRAmxyImFxM1auogtJkSUwHMupGqcKBGKAsLj_3XVGTAsZbNcmmt3VvoK7ZDJo4F6VyHZ1QMm6NjJwILYt31sFJ22ckA5C9dpE0FGMtoRf8hM-g0ODcsNSdQ.jpg",
+      "author_photo_path": "channels/alonews/media/2f66a4f78709eeb1ed521519.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>نتانیاهو: «مانع صلح، اسرائیل نیست؛ مبارزه ما برای برخورداری از حق موجودیت و داشتن کشور خودمان نیز مانع صلح نیست.<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>صلحی که بر پایه توهمات بنا شود، در برخورد با واقعیت‌های خاورمیانه فرو خواهد پاشید.<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>اسرائیل برای جلب رضایت کسانی که حاضر به پذیرش واقعیت‌های تاریخی و حق موجودیت ما نیستند یا می‌خواهند با تروریسم مماشات کنند، بقای خود را به خطر نخواهد انداخت.»<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈نتانیاهو: «مانع صلح، اسرائیل نیست؛ مبارزه ما برای برخورداری از حق موجودیت و داشتن کشور خودمان نیز مانع صلح نیست. 🔴صلحی که بر پایه توهمات بنا شود، در برخورد با واقعیت‌های خاورمیانه فرو خواهد پاشید. 🔴اسرائیل برای جلب رضایت کسانی که حاضر به پذیرش واقعیت‌های تاریخی و حق موجودیت ما نیستند یا می‌خواهند با تروریسم مماشات کنند، بقای خود را به خطر نخواهد انداخت.» ✅ @AloNews",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/alonews/152981",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Fv8mniZEgoyOYT9wUamKhVRPzZct_MKJEvNS7iVnON_CSfNPPnv3xr-6a1cDsywUbAnvX01QDQP9kwytY1YrYrmweIttcs2OROr5jP3aFMiSEPAPxuAJDfRsYF7KFv3wPtbqrl8e5voGuzrib3NGYDohDmnoqb58WZOeloTOXqvrgv7k2G2cushyM16pdQ8sN3yHFq_oL_YL4JQudsOg-ZbQK1Ef0E6UjcYK58kDabCFBI-GrZvQ1qrHKbvG7UprTvdvqQgjbI3MT2NWozvb4_3D4WCcPyD93eOQP_T0hj0eiLdvhwBViM-d2ZqXcDRaBOprwwgr7PJzs4BRAH9nhw",
+          "thumbnail_path": "channels/alonews/media/1f8ea1bd070c86a8614d4d23.jpg",
+          "duration_label": "0:42",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "273"
+        },
+        {
+          "emoji": "🖕",
+          "count": "229"
+        },
+        {
+          "emoji": "💩",
+          "count": "40"
+        },
+        {
+          "emoji": "👍",
+          "count": "11"
+        },
+        {
+          "emoji": "👎",
+          "count": "6"
+        },
+        {
+          "emoji": "🤣",
+          "count": "2"
+        }
+      ],
+      "views_label": "37.7K",
+      "posted_at": "2026-10-16T12:20:31+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/152981"
+    },
+    {
+      "id": "alonews/152980",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kGj5ve64L02X_nPnvFBQp8ZoV8Jyop37ZrVsYT1Pe8alrm9IonbMBdCmPckcb5ijOjACkpgP6nXiGwShu0cduiLcD24yOu2orJLUxpq_7HbYtLKRBtwBAFU9Q2199XowTNlNuPJnKPWV3BGR_UAYaKBsx2JPzMPn8FjJQ1UHO8y9uIF7VmhOOMWQiMP43Vs-RHYWZD819J7VPxsKmCsSLwo_uMAVgZtRAmxyImFxM1auogtJkSUwHMupGqcKBGKAsLj_3XVGTAsZbNcmmt3VvoK7ZDJo4F6VyHZ1QMm6NjJwILYt31sFJ22ckA5C9dpE0FGMtoRf8hM-g0ODcsNSdQ.jpg",
+      "author_photo_path": "channels/alonews/media/2f66a4f78709eeb1ed521519.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>عزیزی، نماینده مجلس: مادر نزاییده کسی بخواد بیاد با مادر بمب ها مارو بزنه<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈عزیزی، نماینده مجلس: مادر نزاییده کسی بخواد بیاد با مادر بمب ها مارو بزنه ✅ @AloNews",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "854"
+        },
+        {
+          "emoji": "🖕",
+          "count": "122"
+        },
+        {
+          "emoji": "💩",
+          "count": "92"
+        },
+        {
+          "emoji": "👍",
+          "count": "79"
+        },
+        {
+          "emoji": "❤",
+          "count": "11"
+        },
+        {
+          "emoji": "🔥",
+          "count": "11"
+        },
+        {
+          "emoji": "😎",
+          "count": "5"
+        },
+        {
+          "emoji": "🤯",
+          "count": "3"
+        },
+        {
+          "emoji": "🍌",
+          "count": "2"
+        },
+        {
+          "emoji": "🤬",
+          "count": "1"
+        }
+      ],
+      "views_label": "39.8K",
+      "posted_at": "2026-10-16T12:10:18+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/152980"
+    },
+    {
+      "id": "alonews/152979",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kGj5ve64L02X_nPnvFBQp8ZoV8Jyop37ZrVsYT1Pe8alrm9IonbMBdCmPckcb5ijOjACkpgP6nXiGwShu0cduiLcD24yOu2orJLUxpq_7HbYtLKRBtwBAFU9Q2199XowTNlNuPJnKPWV3BGR_UAYaKBsx2JPzMPn8FjJQ1UHO8y9uIF7VmhOOMWQiMP43Vs-RHYWZD819J7VPxsKmCsSLwo_uMAVgZtRAmxyImFxM1auogtJkSUwHMupGqcKBGKAsLj_3XVGTAsZbNcmmt3VvoK7ZDJo4F6VyHZ1QMm6NjJwILYt31sFJ22ckA5C9dpE0FGMtoRf8hM-g0ODcsNSdQ.jpg",
+      "author_photo_path": "channels/alonews/media/2f66a4f78709eeb1ed521519.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>زلنسکی، رئیس‌جمهور اوکراین: سؤال: آیا موشک‌های رهگیر PAC-2 و PAC-3 در اروپا به‌اندازه کافی وجود دارد تا اوکراین بتواند زمستان پیش‌رو را پشت سر بگذارد؟<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>پاسخ: بله<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈زلنسکی، رئیس‌جمهور اوکراین: سؤال: آیا موشک‌های رهگیر PAC-2 و PAC-3 در اروپا به‌اندازه کافی وجود دارد تا اوکراین بتواند زمستان پیش‌رو را پشت سر بگذارد؟ 🔴پاسخ: بله ✅ @AloNews",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/alonews/152979",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/XVvUO0Ng5yrsrhXPkm3RPbW_3Byx2xNkQ2s1lbSKun4Jx-0b6Y6hUmeS4Q6pAPSDXyHVHgXLD_-y8yttA2T-bVM1Au_CgNAyISufCwldqLegkuK0EYLRP9rh9oq-XuF43UFPZhH0Ro9q9I16Hqb0uw_Ei3MJTg6we8uigNois1b4S7KXuLcyUalTGupmQwDaPxIYy_GiKei1lH82XPsGS6_BDh41ORS2SUvSC-HrCA66TQ1TBW_MMd-kuSj_gqNUEOEfMMdTLwzSj7BPGdXlo1v5DuAJg0F0VBQFvTQ436Tu9_qyvg8GwU_1cjXgiTcYGLv7TgQaVTv_12WTpjwjRg",
+          "thumbnail_path": "channels/alonews/media/708919ceccedb88b60d9c1dc.jpg",
+          "duration_label": "0:34",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "161"
+        },
+        {
+          "emoji": "💩",
+          "count": "77"
+        },
+        {
+          "emoji": "❤",
+          "count": "23"
+        },
+        {
+          "emoji": "🤣",
+          "count": "23"
+        },
+        {
+          "emoji": "😐",
+          "count": "1"
+        }
+      ],
+      "views_label": "42.8K",
+      "posted_at": "2026-10-16T11:56:00+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/152979"
+    },
+    {
+      "id": "alonews/152978",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kGj5ve64L02X_nPnvFBQp8ZoV8Jyop37ZrVsYT1Pe8alrm9IonbMBdCmPckcb5ijOjACkpgP6nXiGwShu0cduiLcD24yOu2orJLUxpq_7HbYtLKRBtwBAFU9Q2199XowTNlNuPJnKPWV3BGR_UAYaKBsx2JPzMPn8FjJQ1UHO8y9uIF7VmhOOMWQiMP43Vs-RHYWZD819J7VPxsKmCsSLwo_uMAVgZtRAmxyImFxM1auogtJkSUwHMupGqcKBGKAsLj_3XVGTAsZbNcmmt3VvoK7ZDJo4F6VyHZ1QMm6NjJwILYt31sFJ22ckA5C9dpE0FGMtoRf8hM-g0ODcsNSdQ.jpg",
+      "author_photo_path": "channels/alonews/media/2f66a4f78709eeb1ed521519.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>پزشکیان:  ایران به دنبال سلاح هسته‌ای نیست و تبلیغات مخرب علیه کشورمان را دروغ می‌دانیم.<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>ما همیشه آماده گفت‌وگو بوده‌ایم<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>آنها فکر می‌کنند می‌توانند ما را تسلیم کنند اما ما زیر بار زور نخواهیم رفت<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈پزشکیان: ایران به دنبال سلاح هسته‌ای نیست و تبلیغات مخرب علیه کشورمان را دروغ می‌دانیم. 🔴ما همیشه آماده گفت‌وگو بوده‌ایم 🔴آنها فکر می‌کنند می‌توانند ما را تسلیم کنند اما ما زیر بار زور نخواهیم رفت ✅ @AloNews",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🖕",
+          "count": "359"
+        },
+        {
+          "emoji": "💩",
+          "count": "98"
+        },
+        {
+          "emoji": "❤",
+          "count": "67"
+        },
+        {
+          "emoji": "🤣",
+          "count": "30"
+        },
+        {
+          "emoji": "👍",
+          "count": "14"
+        },
+        {
+          "emoji": "🤬",
+          "count": "4"
+        }
+      ],
+      "views_label": "43.8K",
+      "posted_at": "2026-10-16T11:47:01+00:00",
+      "edited": true,
+      "permalink": "https://t.me/alonews/152978"
+    },
+    {
+      "id": "alonews/152977",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kGj5ve64L02X_nPnvFBQp8ZoV8Jyop37ZrVsYT1Pe8alrm9IonbMBdCmPckcb5ijOjACkpgP6nXiGwShu0cduiLcD24yOu2orJLUxpq_7HbYtLKRBtwBAFU9Q2199XowTNlNuPJnKPWV3BGR_UAYaKBsx2JPzMPn8FjJQ1UHO8y9uIF7VmhOOMWQiMP43Vs-RHYWZD819J7VPxsKmCsSLwo_uMAVgZtRAmxyImFxM1auogtJkSUwHMupGqcKBGKAsLj_3XVGTAsZbNcmmt3VvoK7ZDJo4F6VyHZ1QMm6NjJwILYt31sFJ22ckA5C9dpE0FGMtoRf8hM-g0ODcsNSdQ.jpg",
+      "author_photo_path": "channels/alonews/media/2f66a4f78709eeb1ed521519.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>ترامپ : «ما در حال رصد وضعیت کوه کلنگ هستیم. ممکن است مجبور شویم به آن سمت برویم. به سرعت به سمت آن شلیک خواهیم کرد و آن را نابود خواهیم کرد.»  <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B9.png')\"><b>💹</b></i>@shahab_gold_trading",
+      "plain_text": "🔴ترامپ : «ما در حال رصد وضعیت کوه کلنگ هستیم. ممکن است مجبور شویم به آن سمت برویم. به سرعت به سمت آن شلیک خواهیم کرد و آن را نابود خواهیم کرد.» 💹@shahab_gold_trading",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "881"
+        },
+        {
+          "emoji": "👎",
+          "count": "223"
+        },
+        {
+          "emoji": "🖕",
+          "count": "60"
+        },
+        {
+          "emoji": "💩",
+          "count": "17"
+        },
+        {
+          "emoji": "🤣",
+          "count": "17"
+        },
+        {
+          "emoji": "❤",
+          "count": "9"
+        },
+        {
+          "emoji": "🤷‍♂",
+          "count": "6"
+        },
+        {
+          "emoji": "🤬",
+          "count": "5"
+        },
+        {
+          "emoji": "💔",
+          "count": "5"
+        }
+      ],
+      "views_label": "43.8K",
+      "posted_at": "2026-10-16T11:44:37+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/152977"
+    },
+    {
+      "id": "alonews/152976",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kGj5ve64L02X_nPnvFBQp8ZoV8Jyop37ZrVsYT1Pe8alrm9IonbMBdCmPckcb5ijOjACkpgP6nXiGwShu0cduiLcD24yOu2orJLUxpq_7HbYtLKRBtwBAFU9Q2199XowTNlNuPJnKPWV3BGR_UAYaKBsx2JPzMPn8FjJQ1UHO8y9uIF7VmhOOMWQiMP43Vs-RHYWZD819J7VPxsKmCsSLwo_uMAVgZtRAmxyImFxM1auogtJkSUwHMupGqcKBGKAsLj_3XVGTAsZbNcmmt3VvoK7ZDJo4F6VyHZ1QMm6NjJwILYt31sFJ22ckA5C9dpE0FGMtoRf8hM-g0ODcsNSdQ.jpg",
+      "author_photo_path": "channels/alonews/media/2f66a4f78709eeb1ed521519.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>روسیه: بشار اسد را به مقامات سوریه تحویل نمی‌دهیم<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈روسیه: بشار اسد را به مقامات سوریه تحویل نمی‌دهیم ✅ @AloNews",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "363"
+        },
+        {
+          "emoji": "💩",
+          "count": "129"
+        },
+        {
+          "emoji": "👍",
+          "count": "89"
+        },
+        {
+          "emoji": "🖕",
+          "count": "52"
+        },
+        {
+          "emoji": "❤",
+          "count": "15"
+        },
+        {
+          "emoji": "🤬",
+          "count": "8"
+        },
+        {
+          "emoji": "🍌",
+          "count": "2"
+        }
+      ],
+      "views_label": "43.8K",
+      "posted_at": "2026-10-16T11:41:47+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/152976"
+    },
+    {
+      "id": "alonews/152975",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kGj5ve64L02X_nPnvFBQp8ZoV8Jyop37ZrVsYT1Pe8alrm9IonbMBdCmPckcb5ijOjACkpgP6nXiGwShu0cduiLcD24yOu2orJLUxpq_7HbYtLKRBtwBAFU9Q2199XowTNlNuPJnKPWV3BGR_UAYaKBsx2JPzMPn8FjJQ1UHO8y9uIF7VmhOOMWQiMP43Vs-RHYWZD819J7VPxsKmCsSLwo_uMAVgZtRAmxyImFxM1auogtJkSUwHMupGqcKBGKAsLj_3XVGTAsZbNcmmt3VvoK7ZDJo4F6VyHZ1QMm6NjJwILYt31sFJ22ckA5C9dpE0FGMtoRf8hM-g0ODcsNSdQ.jpg",
+      "author_photo_path": "channels/alonews/media/2f66a4f78709eeb1ed521519.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>به گفته برخی منابع جولانی و نتانیاهو امروز تلفنی صحبت کردند!<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈به گفته برخی منابع جولانی و نتانیاهو امروز تلفنی صحبت کردند! ✅ @AloNews",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "282"
+        },
+        {
+          "emoji": "💩",
+          "count": "94"
+        },
+        {
+          "emoji": "🖕",
+          "count": "30"
+        },
+        {
+          "emoji": "❤",
+          "count": "15"
+        },
+        {
+          "emoji": "🔥",
+          "count": "9"
+        },
+        {
+          "emoji": "🤷‍♂",
+          "count": "2"
+        },
+        {
+          "emoji": "🍾",
+          "count": "2"
+        }
+      ],
+      "views_label": "44.8K",
+      "posted_at": "2026-10-16T11:39:35+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/152975"
+    },
     {
       "id": "alonews/152950",
       "author_name": "اخبار جنگ الونیوز AloNews",
@@ -4157,961 +5085,6 @@
       "posted_at": "2026-10-15T16:11:11+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/152853"
-    },
-    {
-      "id": "alonews/152852",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/d5ZqA01l22fN_Hf2ahkpn_IRLvzmOo_DAe06TPkuYmPuQGbc4HrQKtqFt5vT0pauIOoXFy48iSDwF2g3UNIjttr0XmtsE14vZtX6DIVvQ3EiHPO9TM-Xz_pby2ym1NxPFtvuX_4kHy-tWDGtuBKYqJCjEyUWBaeHsSFprvzC9iL8byDCxp0xW_NyEqbRqnnliqgVI_72svO-qMVXH_P-jnD0CTxAUctJK14qh1bWtszUAORVVmrFdcwYhXDyGCdj9CbZxxVEuxQvZ4wyakkeTUMGnoi_UTyqyOMHheNoCLlP3GFxQtauS27eqj1xtiMl6tmbEKRVMdp56vjthQHGIQ.jpg",
-      "author_photo_path": "channels/alonews/media/fd04a289df10f38c30b4e6c2.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>بانک مرکزی لبنان مجوز فعالیت بانک صادرات ایران در بیروت را لغو کرده است<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈بانک مرکزی لبنان مجوز فعالیت بانک صادرات ایران در بیروت را لغو کرده است ✅ @AloNews",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "336"
-        },
-        {
-          "emoji": "👍",
-          "count": "60"
-        },
-        {
-          "emoji": "🖕",
-          "count": "39"
-        },
-        {
-          "emoji": "❤",
-          "count": "23"
-        },
-        {
-          "emoji": "🔥",
-          "count": "7"
-        },
-        {
-          "emoji": "🤬",
-          "count": "1"
-        }
-      ],
-      "views_label": "16.4K",
-      "posted_at": "2026-10-15T15:54:01+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/152852"
-    },
-    {
-      "id": "alonews/152851",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/d5ZqA01l22fN_Hf2ahkpn_IRLvzmOo_DAe06TPkuYmPuQGbc4HrQKtqFt5vT0pauIOoXFy48iSDwF2g3UNIjttr0XmtsE14vZtX6DIVvQ3EiHPO9TM-Xz_pby2ym1NxPFtvuX_4kHy-tWDGtuBKYqJCjEyUWBaeHsSFprvzC9iL8byDCxp0xW_NyEqbRqnnliqgVI_72svO-qMVXH_P-jnD0CTxAUctJK14qh1bWtszUAORVVmrFdcwYhXDyGCdj9CbZxxVEuxQvZ4wyakkeTUMGnoi_UTyqyOMHheNoCLlP3GFxQtauS27eqj1xtiMl6tmbEKRVMdp56vjthQHGIQ.jpg",
-      "author_photo_path": "channels/alonews/media/fd04a289df10f38c30b4e6c2.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>ترامپ درباره ایران: این موضوع کاملاً مربوط به سلاح هسته‌ای بود، و ما از قبل این کار را با بمب‌افکن‌های B-2 انجام داده‌ایم. آن‌ها هرگز به سلاح هسته‌ای دست نخواهند یافت<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈ترامپ درباره ایران: این موضوع کاملاً مربوط به سلاح هسته‌ای بود، و ما از قبل این کار را با بمب‌افکن‌های B-2 انجام داده‌ایم. آن‌ها هرگز به سلاح هسته‌ای دست نخواهند یافت ✅ @AloNews",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🖕",
-          "count": "115"
-        },
-        {
-          "emoji": "❤",
-          "count": "55"
-        },
-        {
-          "emoji": "💩",
-          "count": "10"
-        },
-        {
-          "emoji": "🤣",
-          "count": "8"
-        },
-        {
-          "emoji": "🤬",
-          "count": "7"
-        },
-        {
-          "emoji": "🔥",
-          "count": "4"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        }
-      ],
-      "views_label": "19.4K",
-      "posted_at": "2026-10-15T15:49:17+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/152851"
-    },
-    {
-      "id": "alonews/152850",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/d5ZqA01l22fN_Hf2ahkpn_IRLvzmOo_DAe06TPkuYmPuQGbc4HrQKtqFt5vT0pauIOoXFy48iSDwF2g3UNIjttr0XmtsE14vZtX6DIVvQ3EiHPO9TM-Xz_pby2ym1NxPFtvuX_4kHy-tWDGtuBKYqJCjEyUWBaeHsSFprvzC9iL8byDCxp0xW_NyEqbRqnnliqgVI_72svO-qMVXH_P-jnD0CTxAUctJK14qh1bWtszUAORVVmrFdcwYhXDyGCdj9CbZxxVEuxQvZ4wyakkeTUMGnoi_UTyqyOMHheNoCLlP3GFxQtauS27eqj1xtiMl6tmbEKRVMdp56vjthQHGIQ.jpg",
-      "author_photo_path": "channels/alonews/media/fd04a289df10f38c30b4e6c2.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>ترامپ: جنگ ایران خیلی زود به پایان خواهد رسید<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji> خیلی زود تمام خواهد شد.<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji> به‌محض اینکه بخواهم این جنگ تمام شود، تمام خواهد شد؛ اما این جنگ خیلی زود به پایان می‌رسد<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈ترامپ: جنگ ایران خیلی زود به پایان خواهد رسید 🔴 خیلی زود تمام خواهد شد. 🔴 به‌محض اینکه بخواهم این جنگ تمام شود، تمام خواهد شد؛ اما این جنگ خیلی زود به پایان می‌رسد ✅ @AloNews",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🖕",
-          "count": "189"
-        },
-        {
-          "emoji": "❤",
-          "count": "64"
-        },
-        {
-          "emoji": "💩",
-          "count": "41"
-        },
-        {
-          "emoji": "🤣",
-          "count": "16"
-        },
-        {
-          "emoji": "👍",
-          "count": "7"
-        },
-        {
-          "emoji": "🍌",
-          "count": "6"
-        },
-        {
-          "emoji": "🤯",
-          "count": "5"
-        }
-      ],
-      "views_label": "21.4K",
-      "posted_at": "2026-10-15T15:45:01+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/152850"
-    },
-    {
-      "id": "alonews/152849",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/d5ZqA01l22fN_Hf2ahkpn_IRLvzmOo_DAe06TPkuYmPuQGbc4HrQKtqFt5vT0pauIOoXFy48iSDwF2g3UNIjttr0XmtsE14vZtX6DIVvQ3EiHPO9TM-Xz_pby2ym1NxPFtvuX_4kHy-tWDGtuBKYqJCjEyUWBaeHsSFprvzC9iL8byDCxp0xW_NyEqbRqnnliqgVI_72svO-qMVXH_P-jnD0CTxAUctJK14qh1bWtszUAORVVmrFdcwYhXDyGCdj9CbZxxVEuxQvZ4wyakkeTUMGnoi_UTyqyOMHheNoCLlP3GFxQtauS27eqj1xtiMl6tmbEKRVMdp56vjthQHGIQ.jpg",
-      "author_photo_path": "channels/alonews/media/fd04a289df10f38c30b4e6c2.jpg",
-      "body_html": "<tg-emoji emoji-id=\"6244241334320762892\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i></tg-emoji><b>ارزان ترین نامحدود با کیفیت</b> <b>یخی</b> <br><br><br><tg-emoji emoji-id=\"5852526130648583603\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')\"><b>🔵</b></i></tg-emoji><b>نامحدود تک‌کاربره → 89 هزار تومان </b><br><tg-emoji emoji-id=\"5852526130648583603\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')\"><b>🔵</b></i></tg-emoji><b>نامحدود دوکاربره → 130</b> <b>هزار</b> <b>تومان </b><br><tg-emoji emoji-id=\"5852526130648583603\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')\"><b>🔵</b></i></tg-emoji> <b>نامحدود سه کاربر →160 هزار تومان</b><br><tg-emoji emoji-id=\"5852526130648583603\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')\"><b>🔵</b></i></tg-emoji> <b>نامحدود پنج کاربر →230 هزار تومان </b><br><br>  <a href=\"https://t.me/IceV2Bot\" target=\"_blank\"><b>@IceV2Bot</b></a><b>  : تست رایگان </b><b><tg-emoji emoji-id=\"5952046037634916629\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA496.png')\"><b>🤖</b></i></tg-emoji></b><br><tg-emoji emoji-id=\"5798532958604235302\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9982.png')\"><b>🙂</b></i></tg-emoji><b>پشتیبانی : </b><a href=\"https://t.me/Ice_poshtibani\" target=\"_blank\"><b>@Ice_poshtibani</b></a>",
-      "plain_text": "💎ارزان ترین نامحدود با کیفیت یخی 🔵نامحدود تک‌کاربره → 89 هزار تومان 🔵نامحدود دوکاربره → 130 هزار تومان 🔵 نامحدود سه کاربر →160 هزار تومان 🔵 نامحدود پنج کاربر →230 هزار تومان @IceV2Bot : تست رایگان 🤖 🙂پشتیبانی : @Ice_poshtibani",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/alonews/152849",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/oi24NyHTYx2_C4BgX7GOkNHoruY9xMeb6XPyOzoc1pWs7b_ARyrNxdY1SBi1904J6Sj6-zGAdJjYAfbEnN8TrgsFJKVUJ2_f4Z2TKhxCHpijFVUG5cMmH-rpUTMhi9ktp5Haz8lakW49yGvNuIRakXd2nV8LgaZhqimSS_CV90MBxVEglJbMeeRXOgTx6RFk5xYdc9Eyu7QGhpXWvIgzfCiRoOelMHkRh5zHXMl6FoE8UciPM1rSk5dEDIpbgPC8MvmM-5mMlNEG805H467Ib6Mv1ipeEc9FQmTeNoioCfRvYmy4tA3-JKY4FILRuQfaujKYwrIE8drJM3jK3U8YyA.jpg",
-          "thumbnail_path": "channels/alonews/media/adfd7656cb6c6e447e504f20.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.4981273408239701
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🖕",
-          "count": "11"
-        },
-        {
-          "emoji": "❤",
-          "count": "6"
-        }
-      ],
-      "views_label": "21.4K",
-      "posted_at": "2026-10-15T15:40:43+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/152849"
-    },
-    {
-      "id": "alonews/152848",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/d5ZqA01l22fN_Hf2ahkpn_IRLvzmOo_DAe06TPkuYmPuQGbc4HrQKtqFt5vT0pauIOoXFy48iSDwF2g3UNIjttr0XmtsE14vZtX6DIVvQ3EiHPO9TM-Xz_pby2ym1NxPFtvuX_4kHy-tWDGtuBKYqJCjEyUWBaeHsSFprvzC9iL8byDCxp0xW_NyEqbRqnnliqgVI_72svO-qMVXH_P-jnD0CTxAUctJK14qh1bWtszUAORVVmrFdcwYhXDyGCdj9CbZxxVEuxQvZ4wyakkeTUMGnoi_UTyqyOMHheNoCLlP3GFxQtauS27eqj1xtiMl6tmbEKRVMdp56vjthQHGIQ.jpg",
-      "author_photo_path": "channels/alonews/media/fd04a289df10f38c30b4e6c2.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>انتقال یک کانتینر پر از گوشی آیفون 18 توسط مردم محلی تنگه هرمز به ساحل<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈انتقال یک کانتینر پر از گوشی آیفون 18 توسط مردم محلی تنگه هرمز به ساحل ✅ @AloNews",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/alonews/152848",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/QoQG_WiuPyXeWl4UgK5o347_Sm22DuD66J8srxpm-e06VXVJpfEtvwIRzmnJtfPgvEGWSPhLytwbKoz-qgsEk19Jk8_2WYawijZTcTj_EPbL63BC5AcK5GVbVWbSJ3ZUS2CqdEYxygvUE-8BpEbdLHx8mNTLc-uGVeWDe429IQaPnPi9Hye68ZNBHMWSNTtiUm2lCGnn0fVE5VZskzFLb4ZgD0wmYin-BNenVRHvP2XgiC_nE-ntvtIWUVSgl25oZcRkUaGj-80bvRrOyeQyt_g_8gndhd_cqoGT3RatEZPly---TWL85ILTiLKdgKbBOThnHuTg5_UnM05kGvGIAg",
-          "thumbnail_path": "channels/alonews/media/7bdc51dfdf737c5b86879bce.jpg",
-          "duration_label": "0:06",
-          "aspect_ratio": 0.851063829787234
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "486"
-        },
-        {
-          "emoji": "❤",
-          "count": "148"
-        },
-        {
-          "emoji": "👍",
-          "count": "29"
-        },
-        {
-          "emoji": "🤬",
-          "count": "13"
-        },
-        {
-          "emoji": "🖕",
-          "count": "8"
-        },
-        {
-          "emoji": "💔",
-          "count": "4"
-        },
-        {
-          "emoji": "👎",
-          "count": "3"
-        }
-      ],
-      "views_label": "27.6K",
-      "posted_at": "2026-10-15T15:31:19+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/152848"
-    },
-    {
-      "id": "alonews/152847",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/d5ZqA01l22fN_Hf2ahkpn_IRLvzmOo_DAe06TPkuYmPuQGbc4HrQKtqFt5vT0pauIOoXFy48iSDwF2g3UNIjttr0XmtsE14vZtX6DIVvQ3EiHPO9TM-Xz_pby2ym1NxPFtvuX_4kHy-tWDGtuBKYqJCjEyUWBaeHsSFprvzC9iL8byDCxp0xW_NyEqbRqnnliqgVI_72svO-qMVXH_P-jnD0CTxAUctJK14qh1bWtszUAORVVmrFdcwYhXDyGCdj9CbZxxVEuxQvZ4wyakkeTUMGnoi_UTyqyOMHheNoCLlP3GFxQtauS27eqj1xtiMl6tmbEKRVMdp56vjthQHGIQ.jpg",
-      "author_photo_path": "channels/alonews/media/fd04a289df10f38c30b4e6c2.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>طبق گزارش های محلی هواپیماهای نظامی C-130 و F-5 متعلق به ارتش در حال جابجایی در سراسر ایران هستند<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈طبق گزارش های محلی هواپیماهای نظامی C-130 و F-5 متعلق به ارتش در حال جابجایی در سراسر ایران هستند ✅ @AloNews",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "211"
-        },
-        {
-          "emoji": "❤",
-          "count": "75"
-        },
-        {
-          "emoji": "💩",
-          "count": "16"
-        },
-        {
-          "emoji": "🔥",
-          "count": "7"
-        },
-        {
-          "emoji": "🖕",
-          "count": "5"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        },
-        {
-          "emoji": "🤬",
-          "count": "1"
-        },
-        {
-          "emoji": "😐",
-          "count": "1"
-        }
-      ],
-      "views_label": "27.6K",
-      "posted_at": "2026-10-15T15:28:01+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/152847"
-    },
-    {
-      "id": "alonews/152846",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/d5ZqA01l22fN_Hf2ahkpn_IRLvzmOo_DAe06TPkuYmPuQGbc4HrQKtqFt5vT0pauIOoXFy48iSDwF2g3UNIjttr0XmtsE14vZtX6DIVvQ3EiHPO9TM-Xz_pby2ym1NxPFtvuX_4kHy-tWDGtuBKYqJCjEyUWBaeHsSFprvzC9iL8byDCxp0xW_NyEqbRqnnliqgVI_72svO-qMVXH_P-jnD0CTxAUctJK14qh1bWtszUAORVVmrFdcwYhXDyGCdj9CbZxxVEuxQvZ4wyakkeTUMGnoi_UTyqyOMHheNoCLlP3GFxQtauS27eqj1xtiMl6tmbEKRVMdp56vjthQHGIQ.jpg",
-      "author_photo_path": "channels/alonews/media/fd04a289df10f38c30b4e6c2.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>انفجار در خط لوله گاز در سوریه<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>دفتر اطلاع‌رسانی شرکت نفت سوریه، از وقوع انفجار و آتش‌سوزی در یکی از خطوط اصلی انتقال گاز در حومه حسکه خبر داد.<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji> خط لوله صادرات گاز «الجپسه» در منطقه «العربيدی» واقع در حدود ۶۰ کیلومتری شهر «الشدادی» هدف حمله قرار گرفت<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈انفجار در خط لوله گاز در سوریه 🔴دفتر اطلاع‌رسانی شرکت نفت سوریه، از وقوع انفجار و آتش‌سوزی در یکی از خطوط اصلی انتقال گاز در حومه حسکه خبر داد. 🔴 خط لوله صادرات گاز «الجپسه» در منطقه «العربيدی» واقع در حدود ۶۰ کیلومتری شهر «الشدادی» هدف حمله قرار گرفت ✅ @AloNews",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "😎",
-          "count": "55"
-        },
-        {
-          "emoji": "❤",
-          "count": "16"
-        },
-        {
-          "emoji": "🤣",
-          "count": "8"
-        },
-        {
-          "emoji": "👍",
-          "count": "6"
-        },
-        {
-          "emoji": "🤬",
-          "count": "4"
-        }
-      ],
-      "views_label": "29.6K",
-      "posted_at": "2026-10-15T15:23:24+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/152846"
-    },
-    {
-      "id": "alonews/152845",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/d5ZqA01l22fN_Hf2ahkpn_IRLvzmOo_DAe06TPkuYmPuQGbc4HrQKtqFt5vT0pauIOoXFy48iSDwF2g3UNIjttr0XmtsE14vZtX6DIVvQ3EiHPO9TM-Xz_pby2ym1NxPFtvuX_4kHy-tWDGtuBKYqJCjEyUWBaeHsSFprvzC9iL8byDCxp0xW_NyEqbRqnnliqgVI_72svO-qMVXH_P-jnD0CTxAUctJK14qh1bWtszUAORVVmrFdcwYhXDyGCdj9CbZxxVEuxQvZ4wyakkeTUMGnoi_UTyqyOMHheNoCLlP3GFxQtauS27eqj1xtiMl6tmbEKRVMdp56vjthQHGIQ.jpg",
-      "author_photo_path": "channels/alonews/media/fd04a289df10f38c30b4e6c2.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>فرانس‌پرس: یمن درخواست عربستان برای مذاکره در عمان را رد کرد<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈فرانس‌پرس: یمن درخواست عربستان برای مذاکره در عمان را رد کرد ✅ @AloNews",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "226"
-        },
-        {
-          "emoji": "🔥",
-          "count": "61"
-        },
-        {
-          "emoji": "👍",
-          "count": "23"
-        },
-        {
-          "emoji": "❤",
-          "count": "13"
-        },
-        {
-          "emoji": "👎",
-          "count": "6"
-        },
-        {
-          "emoji": "😎",
-          "count": "5"
-        },
-        {
-          "emoji": "🖕",
-          "count": "4"
-        },
-        {
-          "emoji": "🫡",
-          "count": "3"
-        }
-      ],
-      "views_label": "31.6K",
-      "posted_at": "2026-10-15T15:14:41+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/152845"
-    },
-    {
-      "id": "alonews/152844",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/d5ZqA01l22fN_Hf2ahkpn_IRLvzmOo_DAe06TPkuYmPuQGbc4HrQKtqFt5vT0pauIOoXFy48iSDwF2g3UNIjttr0XmtsE14vZtX6DIVvQ3EiHPO9TM-Xz_pby2ym1NxPFtvuX_4kHy-tWDGtuBKYqJCjEyUWBaeHsSFprvzC9iL8byDCxp0xW_NyEqbRqnnliqgVI_72svO-qMVXH_P-jnD0CTxAUctJK14qh1bWtszUAORVVmrFdcwYhXDyGCdj9CbZxxVEuxQvZ4wyakkeTUMGnoi_UTyqyOMHheNoCLlP3GFxQtauS27eqj1xtiMl6tmbEKRVMdp56vjthQHGIQ.jpg",
-      "author_photo_path": "channels/alonews/media/fd04a289df10f38c30b4e6c2.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>ترامپ دنبال جانشین برای رئیس دفترش می‌گرده<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>ترامپ از نزدیکانش درباره سوزی وایلز نظر پرسیده. چند نفر مثل استیون میلر و کوین مک‌کارتی به عنوان گزینه مطرح شدن. اما ترامپ تو بیانیه‌ای گفته اعتماد کامل داره به وایلز.<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈ترامپ دنبال جانشین برای رئیس دفترش می‌گرده 🔴ترامپ از نزدیکانش درباره سوزی وایلز نظر پرسیده. چند نفر مثل استیون میلر و کوین مک‌کارتی به عنوان گزینه مطرح شدن. اما ترامپ تو بیانیه‌ای گفته اعتماد کامل داره به وایلز. ✅ @AloNews",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "53"
-        },
-        {
-          "emoji": "💩",
-          "count": "19"
-        },
-        {
-          "emoji": "❤",
-          "count": "13"
-        },
-        {
-          "emoji": "👍",
-          "count": "12"
-        },
-        {
-          "emoji": "🖕",
-          "count": "5"
-        }
-      ],
-      "views_label": "34.7K",
-      "posted_at": "2026-10-15T15:05:32+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/152844"
-    },
-    {
-      "id": "alonews/152843",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/d5ZqA01l22fN_Hf2ahkpn_IRLvzmOo_DAe06TPkuYmPuQGbc4HrQKtqFt5vT0pauIOoXFy48iSDwF2g3UNIjttr0XmtsE14vZtX6DIVvQ3EiHPO9TM-Xz_pby2ym1NxPFtvuX_4kHy-tWDGtuBKYqJCjEyUWBaeHsSFprvzC9iL8byDCxp0xW_NyEqbRqnnliqgVI_72svO-qMVXH_P-jnD0CTxAUctJK14qh1bWtszUAORVVmrFdcwYhXDyGCdj9CbZxxVEuxQvZ4wyakkeTUMGnoi_UTyqyOMHheNoCLlP3GFxQtauS27eqj1xtiMl6tmbEKRVMdp56vjthQHGIQ.jpg",
-      "author_photo_path": "channels/alonews/media/fd04a289df10f38c30b4e6c2.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>مایک هاکبی، سفیر آمریکا در اسرائیل، گزارش روزنامه «اسرائیل هیوم»  که مدعی بود دولت دونالد ترامپ برای تشکیل یک دولت وحدت ملی با مشارکت بنیامین نتانیاهو و گادی آیزنکوت تلاش می‌کند را تکذیب کرد<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈مایک هاکبی، سفیر آمریکا در اسرائیل، گزارش روزنامه «اسرائیل هیوم» که مدعی بود دولت دونالد ترامپ برای تشکیل یک دولت وحدت ملی با مشارکت بنیامین نتانیاهو و گادی آیزنکوت تلاش می‌کند را تکذیب کرد ✅ @AloNews",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "63"
-        },
-        {
-          "emoji": "❤",
-          "count": "19"
-        },
-        {
-          "emoji": "💩",
-          "count": "16"
-        },
-        {
-          "emoji": "🤣",
-          "count": "9"
-        },
-        {
-          "emoji": "👍",
-          "count": "7"
-        },
-        {
-          "emoji": "👎",
-          "count": "5"
-        }
-      ],
-      "views_label": "37.8K",
-      "posted_at": "2026-10-15T14:50:30+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/152843"
-    },
-    {
-      "id": "alonews/152842",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/d5ZqA01l22fN_Hf2ahkpn_IRLvzmOo_DAe06TPkuYmPuQGbc4HrQKtqFt5vT0pauIOoXFy48iSDwF2g3UNIjttr0XmtsE14vZtX6DIVvQ3EiHPO9TM-Xz_pby2ym1NxPFtvuX_4kHy-tWDGtuBKYqJCjEyUWBaeHsSFprvzC9iL8byDCxp0xW_NyEqbRqnnliqgVI_72svO-qMVXH_P-jnD0CTxAUctJK14qh1bWtszUAORVVmrFdcwYhXDyGCdj9CbZxxVEuxQvZ4wyakkeTUMGnoi_UTyqyOMHheNoCLlP3GFxQtauS27eqj1xtiMl6tmbEKRVMdp56vjthQHGIQ.jpg",
-      "author_photo_path": "channels/alonews/media/fd04a289df10f38c30b4e6c2.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji><b>سی‌ان‌ان: اوکراین دیگر موشک برای سامانه‌های دفاع هوایی پاتریوت ساخت آمریکا ندارد.</b><br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈سی‌ان‌ان: اوکراین دیگر موشک برای سامانه‌های دفاع هوایی پاتریوت ساخت آمریکا ندارد. ✅ @AloNews",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/alonews/152842",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/leT2JzvpS__b9gzMuAZMfgYDU7D-I4c6-CNNpmFSXOobxX5SSvZUoMSb5acPd3NqjOjMhGcSyCxarM9bBX7wwjOnPgE7ZoLDSm2mem0ZTY3WfIbOiZZWs9PZK6UhBw38i9PJU4w8Ch2l4eaUnG6auro0OOZCT4iG2CUeU2FItKv8rd8YS3pTZY-Tu_ilRYWusqldBdMwKIcVVYkuwZVExee0NhyzpvQAFDVEOAgoNfSHSOjeFzsErnCgno1tsIaSle_xCMLSXLgSMVN8Nka_STxVt-Jp4XNLY-sNI72Z8ZlUVJ83GrPFjB03V0Wtw5wdsx2Lc5AoVXLjoCKGk33iJg.jpg",
-          "thumbnail_path": "channels/alonews/media/12253aa8adfdbd63c4d92978.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.4981273408239701
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "225"
-        },
-        {
-          "emoji": "💔",
-          "count": "69"
-        },
-        {
-          "emoji": "👍",
-          "count": "18"
-        },
-        {
-          "emoji": "❤",
-          "count": "10"
-        },
-        {
-          "emoji": "👎",
-          "count": "8"
-        },
-        {
-          "emoji": "😐",
-          "count": "6"
-        },
-        {
-          "emoji": "🔥",
-          "count": "1"
-        },
-        {
-          "emoji": "🗿",
-          "count": "1"
-        },
-        {
-          "emoji": "😎",
-          "count": "1"
-        }
-      ],
-      "views_label": "38.8K",
-      "posted_at": "2026-10-15T14:46:02+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/152842"
-    },
-    {
-      "id": "alonews/152841",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/d5ZqA01l22fN_Hf2ahkpn_IRLvzmOo_DAe06TPkuYmPuQGbc4HrQKtqFt5vT0pauIOoXFy48iSDwF2g3UNIjttr0XmtsE14vZtX6DIVvQ3EiHPO9TM-Xz_pby2ym1NxPFtvuX_4kHy-tWDGtuBKYqJCjEyUWBaeHsSFprvzC9iL8byDCxp0xW_NyEqbRqnnliqgVI_72svO-qMVXH_P-jnD0CTxAUctJK14qh1bWtszUAORVVmrFdcwYhXDyGCdj9CbZxxVEuxQvZ4wyakkeTUMGnoi_UTyqyOMHheNoCLlP3GFxQtauS27eqj1xtiMl6tmbEKRVMdp56vjthQHGIQ.jpg",
-      "author_photo_path": "channels/alonews/media/fd04a289df10f38c30b4e6c2.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>کانال ۱۵ اسرائیل:<br>مسئولان دیپلماتیک در منطقه می‌گویند که ایران به حزب‌الله اطلاع داده است که برای یک جنگ احتمالی با آمریکا در منطقه آماده است<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈کانال ۱۵ اسرائیل: مسئولان دیپلماتیک در منطقه می‌گویند که ایران به حزب‌الله اطلاع داده است که برای یک جنگ احتمالی با آمریکا در منطقه آماده است ✅ @AloNews",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "179"
-        },
-        {
-          "emoji": "👍",
-          "count": "69"
-        },
-        {
-          "emoji": "🔥",
-          "count": "29"
-        },
-        {
-          "emoji": "🍌",
-          "count": "15"
-        },
-        {
-          "emoji": "❤",
-          "count": "11"
-        },
-        {
-          "emoji": "💩",
-          "count": "5"
-        },
-        {
-          "emoji": "🤬",
-          "count": "4"
-        },
-        {
-          "emoji": "😐",
-          "count": "4"
-        },
-        {
-          "emoji": "🤯",
-          "count": "1"
-        }
-      ],
-      "views_label": "39.8K",
-      "posted_at": "2026-10-15T14:36:01+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/152841"
-    },
-    {
-      "id": "alonews/152840",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/d5ZqA01l22fN_Hf2ahkpn_IRLvzmOo_DAe06TPkuYmPuQGbc4HrQKtqFt5vT0pauIOoXFy48iSDwF2g3UNIjttr0XmtsE14vZtX6DIVvQ3EiHPO9TM-Xz_pby2ym1NxPFtvuX_4kHy-tWDGtuBKYqJCjEyUWBaeHsSFprvzC9iL8byDCxp0xW_NyEqbRqnnliqgVI_72svO-qMVXH_P-jnD0CTxAUctJK14qh1bWtszUAORVVmrFdcwYhXDyGCdj9CbZxxVEuxQvZ4wyakkeTUMGnoi_UTyqyOMHheNoCLlP3GFxQtauS27eqj1xtiMl6tmbEKRVMdp56vjthQHGIQ.jpg",
-      "author_photo_path": "channels/alonews/media/fd04a289df10f38c30b4e6c2.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji><b>ترامپ: اعدام عامل تیراندازی فورت هود پخش زنده نخواهد شد</b><br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>دونالد ترامپ اعلام کرده است اعدام نضال حسن، عامل تیراندازی سال ۲۰۰۹ در پایگاه فورت هود، به‌صورت زنده پخش نخواهد شد. حسن به قتل ۱۳ نفر محکوم شده و قرار است در ماه دسامبر با جوخه آتش اعدام شود.<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>پیت هگست، وزیر دفاع آمریکا، پیش‌تر گفته بود این اعدام برای عموم پخش خواهد شد؛ طرحی که با انتقاد شماری از قانون‌گذاران و مقام‌ها روبه‌رو شده بود.<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈ترامپ: اعدام عامل تیراندازی فورت هود پخش زنده نخواهد شد 🔴دونالد ترامپ اعلام کرده است اعدام نضال حسن، عامل تیراندازی سال ۲۰۰۹ در پایگاه فورت هود، به‌صورت زنده پخش نخواهد شد. حسن به قتل ۱۳ نفر محکوم شده و قرار است در ماه دسامبر با جوخه آتش اعدام شود. 🔴پیت هگست، وزیر دفاع آمریکا، پیش‌تر گفته بود این اعدام برای عموم پخش خواهد شد؛ طرحی که با انتقاد شماری از قانون‌گذاران و مقام‌ها روبه‌رو شده بود. ✅ @AloNews",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/alonews/152840",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/j1T0sJbd8L1cIQXzjCOZNyIcU8_TOKrPtaC8Mts8Fm2EiHBsG2o4itVtKfqtQRcjAtLoTFwYtaIuWaa82FqXqkKuNB9UFlYO_7yV7TnWKO2B2MH73Q8Q4kkNZZtY4aEuPAzY-8_CE2NOuwOPAlcIEmbfxi5fUuii8C1P3RIJM2xLcmm-FxiOtHwn_GS4VZ0QX72x4lbHeM89BMHbIpZGn6B2rHq1uhdNmvs2jV3ddKQvka2iuUXdRAZUx653OXFLlOWMB_iCwIhOhqvSXhJMG1hiBf9-JkUxAuI-ntKj0wTOrjgv5d4c1GQxqCwg_alKSG0nh6pkPs2yW1t7MzbLNQ.jpg",
-          "thumbnail_path": "channels/alonews/media/ee5b26a3cd8e0e84a8780cae.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.922500000000001
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "162"
-        },
-        {
-          "emoji": "❤",
-          "count": "45"
-        },
-        {
-          "emoji": "🤣",
-          "count": "17"
-        },
-        {
-          "emoji": "🤬",
-          "count": "10"
-        },
-        {
-          "emoji": "💔",
-          "count": "10"
-        },
-        {
-          "emoji": "💩",
-          "count": "6"
-        },
-        {
-          "emoji": "🖕",
-          "count": "6"
-        },
-        {
-          "emoji": "👎",
-          "count": "5"
-        },
-        {
-          "emoji": "🔥",
-          "count": "1"
-        }
-      ],
-      "views_label": "43.9K",
-      "posted_at": "2026-10-15T14:22:32+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/152840"
-    },
-    {
-      "id": "alonews/152839",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/d5ZqA01l22fN_Hf2ahkpn_IRLvzmOo_DAe06TPkuYmPuQGbc4HrQKtqFt5vT0pauIOoXFy48iSDwF2g3UNIjttr0XmtsE14vZtX6DIVvQ3EiHPO9TM-Xz_pby2ym1NxPFtvuX_4kHy-tWDGtuBKYqJCjEyUWBaeHsSFprvzC9iL8byDCxp0xW_NyEqbRqnnliqgVI_72svO-qMVXH_P-jnD0CTxAUctJK14qh1bWtszUAORVVmrFdcwYhXDyGCdj9CbZxxVEuxQvZ4wyakkeTUMGnoi_UTyqyOMHheNoCLlP3GFxQtauS27eqj1xtiMl6tmbEKRVMdp56vjthQHGIQ.jpg",
-      "author_photo_path": "channels/alonews/media/fd04a289df10f38c30b4e6c2.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>یک مقام کاخ سفید: پرزیدنت ترامپ همه گزینه‌ها را روی میز نگه می‌دارد تا مطمئن شود ایران به سلاح هسته‌ای دست پیدا نمی‌کند<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈یک مقام کاخ سفید: پرزیدنت ترامپ همه گزینه‌ها را روی میز نگه می‌دارد تا مطمئن شود ایران به سلاح هسته‌ای دست پیدا نمی‌کند ✅ @AloNews",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🖕",
-          "count": "415"
-        },
-        {
-          "emoji": "❤",
-          "count": "161"
-        },
-        {
-          "emoji": "💩",
-          "count": "48"
-        },
-        {
-          "emoji": "🤣",
-          "count": "12"
-        },
-        {
-          "emoji": "👍",
-          "count": "10"
-        },
-        {
-          "emoji": "🤷‍♂",
-          "count": "3"
-        },
-        {
-          "emoji": "🤯",
-          "count": "2"
-        },
-        {
-          "emoji": "🤬",
-          "count": "1"
-        }
-      ],
-      "views_label": "45K",
-      "posted_at": "2026-10-15T14:06:48+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/152839"
-    },
-    {
-      "id": "alonews/152837",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/d5ZqA01l22fN_Hf2ahkpn_IRLvzmOo_DAe06TPkuYmPuQGbc4HrQKtqFt5vT0pauIOoXFy48iSDwF2g3UNIjttr0XmtsE14vZtX6DIVvQ3EiHPO9TM-Xz_pby2ym1NxPFtvuX_4kHy-tWDGtuBKYqJCjEyUWBaeHsSFprvzC9iL8byDCxp0xW_NyEqbRqnnliqgVI_72svO-qMVXH_P-jnD0CTxAUctJK14qh1bWtszUAORVVmrFdcwYhXDyGCdj9CbZxxVEuxQvZ4wyakkeTUMGnoi_UTyqyOMHheNoCLlP3GFxQtauS27eqj1xtiMl6tmbEKRVMdp56vjthQHGIQ.jpg",
-      "author_photo_path": "channels/alonews/media/fd04a289df10f38c30b4e6c2.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>تبلیغات فیلترشکن‌های وابسته به موساد به نفع جبهه پایداری<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈تبلیغات فیلترشکن‌های وابسته به موساد به نفع جبهه پایداری ✅ @AloNews",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/alonews/152837?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/qUw0Ozuz_0U61ttPYawXUSIcz-_taTe-dsH8MLrj0-N6PKb2tBJDQO0UQxB0atBLzH5iU6B_XImOzl5N4TH2B5l7pyTo5CApc4vflUzk0oN8TCRdBCr_hMQ4Aryg7J2xFdRGREJvwEDOd88cP1_60XgZrslJkFR00DNaluSX6lW3Zc5CozHBzMUp1LnXc0JiaUXSf7iZm3FStAIhV5etHzflsRcdfWsI3FsXzCY-g0PMfZ2nre93_KqdhPUPuKowh1bqLs8YolDk9nXO8jPt4iQK2od2CfdF0rtOkNGtf33z1wzW38bkme1uo6tQ1PARoxNQ3ZI-0mmKBt4TV_ja-w.jpg",
-          "thumbnail_path": "channels/alonews/media/1ddf9191cec78b3a8069d790.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.47375
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/alonews/152838?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/K1ouV33dUVv7WSN3-aPeIRg-1YbtlHwxeYx2gLFZVvxwfvWPEO1kgBGwczUn89-UPn2Knf5eMk-wfTsOdhiYnNXGb_0EQCD_RiVXENJD3T4SnVXg5mvnz9CYm3QqXhzvblJRipTbVmbpE4vzWe4aFidCwXM10E6FKW0Nlhn0hgIKO9X-g3N7PmHGadJWto7t9hcoklWFHmwxOdMyuKd5-KJYmggV8dNmFvT_cA7Ffw1ONVlq8F_kgvakyNd-ugt8iG1F3R3tSGn-lSfj22so9BNVL-IjQkT_CUWgHtCvgf45sE3BdEkBGtoewDnxh_S36Ppu5boraMnpDo4S3DYhWQ.jpg",
-          "thumbnail_path": "channels/alonews/media/ce6e73b960e1305bcfb74390.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.45
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "926"
-        },
-        {
-          "emoji": "🖕",
-          "count": "60"
-        },
-        {
-          "emoji": "👍",
-          "count": "31"
-        },
-        {
-          "emoji": "❤",
-          "count": "13"
-        },
-        {
-          "emoji": "💩",
-          "count": "10"
-        },
-        {
-          "emoji": "🗿",
-          "count": "7"
-        },
-        {
-          "emoji": "👎",
-          "count": "5"
-        },
-        {
-          "emoji": "😎",
-          "count": "2"
-        }
-      ],
-      "views_label": "48K",
-      "posted_at": "2026-10-15T13:49:26+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/152837"
-    },
-    {
-      "id": "alonews/152836",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/d5ZqA01l22fN_Hf2ahkpn_IRLvzmOo_DAe06TPkuYmPuQGbc4HrQKtqFt5vT0pauIOoXFy48iSDwF2g3UNIjttr0XmtsE14vZtX6DIVvQ3EiHPO9TM-Xz_pby2ym1NxPFtvuX_4kHy-tWDGtuBKYqJCjEyUWBaeHsSFprvzC9iL8byDCxp0xW_NyEqbRqnnliqgVI_72svO-qMVXH_P-jnD0CTxAUctJK14qh1bWtszUAORVVmrFdcwYhXDyGCdj9CbZxxVEuxQvZ4wyakkeTUMGnoi_UTyqyOMHheNoCLlP3GFxQtauS27eqj1xtiMl6tmbEKRVMdp56vjthQHGIQ.jpg",
-      "author_photo_path": "channels/alonews/media/fd04a289df10f38c30b4e6c2.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>رائفی پور: هرکی جز تفکر ما(جنگ طلبی) حرف بزنه کف روی آبه<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈رائفی پور: هرکی جز تفکر ما(جنگ طلبی) حرف بزنه کف روی آبه ✅ @AloNews",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/alonews/152836",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/bLaT2DkfQ7XhgPJ30Hmg_gcfENyBtwaPclB_wyK9iNpX8MyhN4KLFk40UKAmKTWzDTDn_zKykOqlUr0kIECckr4gmiKn9ZJrqFiL-2Kl3ujwfhszKI9jF_v-5k3H2u2UTqL2EIH94ZYnmoqOZDPzV9uO4WT9XKc-UZyOECmX2Xy8JFyUZbJS1p2lOZvUrjM0Ly8QKIEtcZItj9ERk2Sgx6nmljYvE6ImZtlyi64sckjFoYYteRRbIb-ZpnUi-CEbBqtNuSGtLyRgU0PHib62hEHEwAakUX2nPfGckw0LIuJz4KyWFCAIaMTE8j9NBMeQ9xA7APkAMHSZHM5z7V01WQ.jpg",
-          "thumbnail_path": "channels/alonews/media/9b4fe33ed1ee3bbf20bf1a69.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.7981770833333603
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "💩",
-          "count": "914"
-        },
-        {
-          "emoji": "🖕",
-          "count": "98"
-        },
-        {
-          "emoji": "❤",
-          "count": "63"
-        },
-        {
-          "emoji": "🤣",
-          "count": "61"
-        },
-        {
-          "emoji": "👍",
-          "count": "10"
-        },
-        {
-          "emoji": "🍌",
-          "count": "4"
-        },
-        {
-          "emoji": "👎",
-          "count": "2"
-        }
-      ],
-      "views_label": "49K",
-      "posted_at": "2026-10-15T13:37:32+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/152836"
-    },
-    {
-      "id": "alonews/152835",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/d5ZqA01l22fN_Hf2ahkpn_IRLvzmOo_DAe06TPkuYmPuQGbc4HrQKtqFt5vT0pauIOoXFy48iSDwF2g3UNIjttr0XmtsE14vZtX6DIVvQ3EiHPO9TM-Xz_pby2ym1NxPFtvuX_4kHy-tWDGtuBKYqJCjEyUWBaeHsSFprvzC9iL8byDCxp0xW_NyEqbRqnnliqgVI_72svO-qMVXH_P-jnD0CTxAUctJK14qh1bWtszUAORVVmrFdcwYhXDyGCdj9CbZxxVEuxQvZ4wyakkeTUMGnoi_UTyqyOMHheNoCLlP3GFxQtauS27eqj1xtiMl6tmbEKRVMdp56vjthQHGIQ.jpg",
-      "author_photo_path": "channels/alonews/media/fd04a289df10f38c30b4e6c2.jpg",
-      "body_html": "تصویری از بازی GTA VI تو فضای مجازی داره وایرال میشه که نشون میده ظاهراً این بازی شامل حرکات و صحنه‌های به‌شدت +18 هست که اصلاً نباید جلوی خانواده بازیش کنید :  [@AloTweet]",
-      "plain_text": "تصویری از بازی GTA VI تو فضای مجازی داره وایرال میشه که نشون میده ظاهراً این بازی شامل حرکات و صحنه‌های به‌شدت +18 هست که اصلاً نباید جلوی خانواده بازیش کنید : [@AloTweet]",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "94"
-        },
-        {
-          "emoji": "💩",
-          "count": "22"
-        },
-        {
-          "emoji": "🔥",
-          "count": "12"
-        },
-        {
-          "emoji": "👎",
-          "count": "9"
-        },
-        {
-          "emoji": "❤",
-          "count": "4"
-        },
-        {
-          "emoji": "😐",
-          "count": "4"
-        },
-        {
-          "emoji": "🖕",
-          "count": "2"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        }
-      ],
-      "views_label": "49K",
-      "posted_at": "2026-10-15T13:33:02+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/152835"
-    },
-    {
-      "id": "alonews/152834",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/d5ZqA01l22fN_Hf2ahkpn_IRLvzmOo_DAe06TPkuYmPuQGbc4HrQKtqFt5vT0pauIOoXFy48iSDwF2g3UNIjttr0XmtsE14vZtX6DIVvQ3EiHPO9TM-Xz_pby2ym1NxPFtvuX_4kHy-tWDGtuBKYqJCjEyUWBaeHsSFprvzC9iL8byDCxp0xW_NyEqbRqnnliqgVI_72svO-qMVXH_P-jnD0CTxAUctJK14qh1bWtszUAORVVmrFdcwYhXDyGCdj9CbZxxVEuxQvZ4wyakkeTUMGnoi_UTyqyOMHheNoCLlP3GFxQtauS27eqj1xtiMl6tmbEKRVMdp56vjthQHGIQ.jpg",
-      "author_photo_path": "channels/alonews/media/fd04a289df10f38c30b4e6c2.jpg",
-      "body_html": "آخرین تریلر بازی GTA VI منتشر شد.<br><br><blockquote> این بازی ۳۵ روز دیگه منتشر میشه</blockquote><br><br>[<a href=\"https://t.me/AloTweet\" target=\"_blank\">@AloTweet</a>]",
-      "plain_text": "آخرین تریلر بازی GTA VI منتشر شد. این بازی ۳۵ روز دیگه منتشر میشه [@AloTweet]",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/alonews/152834",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/YxTHB1zxZBjXx_0SYVRQIHC4WFaWh4bf_7yhcJs3UZjaAzbHIfsqVcIXma54zV9LTemoZ4nodGikrkuBETe04r-96wKZgMODuvowgcdZIdLUj4sFnd92enLWEnSz6g7_ljROxpY-yICv8LEEBvzpkF6OLcfvpT7ue9a9JxGHXLnAoyzl7ZVhuvsIYKzcGesENXkwqFyWwvp0OKKhygyN6rHoeB0cR9vp7q_NKYAWm5_Toq6D_LkprZbc01PmsRqIMMSVyyw7ZF5y7suSBJ0OURZuXndaIwj2okCbiLL8HZPLyW9gYbI6kpgBb1EjgX4k_PgUeIRT9iuetM9vhkmxEw",
-          "thumbnail_path": "channels/alonews/media/9cbfd2fd86d03f4139fed246.jpg",
-          "duration_label": "1:30",
-          "aspect_ratio": 1.7743732590529315
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "184"
-        },
-        {
-          "emoji": "🔥",
-          "count": "43"
-        },
-        {
-          "emoji": "🖕",
-          "count": "15"
-        },
-        {
-          "emoji": "😐",
-          "count": "14"
-        },
-        {
-          "emoji": "🤣",
-          "count": "11"
-        },
-        {
-          "emoji": "💔",
-          "count": "7"
-        },
-        {
-          "emoji": "🗿",
-          "count": "5"
-        },
-        {
-          "emoji": "👎",
-          "count": "3"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        }
-      ],
-      "views_label": "28.6K",
-      "posted_at": "2026-10-15T13:23:53+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/152834"
-    },
-    {
-      "id": "alonews/152833",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/d5ZqA01l22fN_Hf2ahkpn_IRLvzmOo_DAe06TPkuYmPuQGbc4HrQKtqFt5vT0pauIOoXFy48iSDwF2g3UNIjttr0XmtsE14vZtX6DIVvQ3EiHPO9TM-Xz_pby2ym1NxPFtvuX_4kHy-tWDGtuBKYqJCjEyUWBaeHsSFprvzC9iL8byDCxp0xW_NyEqbRqnnliqgVI_72svO-qMVXH_P-jnD0CTxAUctJK14qh1bWtszUAORVVmrFdcwYhXDyGCdj9CbZxxVEuxQvZ4wyakkeTUMGnoi_UTyqyOMHheNoCLlP3GFxQtauS27eqj1xtiMl6tmbEKRVMdp56vjthQHGIQ.jpg",
-      "author_photo_path": "channels/alonews/media/fd04a289df10f38c30b4e6c2.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>انفجار در تنگه هرمز<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈انفجار در تنگه هرمز ✅ @AloNews",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "89"
-        },
-        {
-          "emoji": "🔥",
-          "count": "49"
-        },
-        {
-          "emoji": "🤬",
-          "count": "14"
-        },
-        {
-          "emoji": "❤",
-          "count": "11"
-        },
-        {
-          "emoji": "💩",
-          "count": "7"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        },
-        {
-          "emoji": "😎",
-          "count": "1"
-        }
-      ],
-      "views_label": "32.7K",
-      "posted_at": "2026-10-15T13:13:43+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/152833"
-    },
-    {
-      "id": "alonews/152832",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/d5ZqA01l22fN_Hf2ahkpn_IRLvzmOo_DAe06TPkuYmPuQGbc4HrQKtqFt5vT0pauIOoXFy48iSDwF2g3UNIjttr0XmtsE14vZtX6DIVvQ3EiHPO9TM-Xz_pby2ym1NxPFtvuX_4kHy-tWDGtuBKYqJCjEyUWBaeHsSFprvzC9iL8byDCxp0xW_NyEqbRqnnliqgVI_72svO-qMVXH_P-jnD0CTxAUctJK14qh1bWtszUAORVVmrFdcwYhXDyGCdj9CbZxxVEuxQvZ4wyakkeTUMGnoi_UTyqyOMHheNoCLlP3GFxQtauS27eqj1xtiMl6tmbEKRVMdp56vjthQHGIQ.jpg",
-      "author_photo_path": "channels/alonews/media/fd04a289df10f38c30b4e6c2.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>براساس آخرین نظرسنجی‌ها در وبسایت پُلی‌مارکت (بزرگترین وبسایت شرط‌بندی جهان)، شانس بنیامین نتانیاهو با یک سقوط سنگین از 73% به 28% رسیده و گادی آیزنکوت با رشد به 48%، پیشتاز است.  <tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>تقریبا میتوان گفت اگر اتفاق خاصی رخ ندهد، گادی آیزنکوت را باید نخست وزیر آینده…",
-      "plain_text": "👈براساس آخرین نظرسنجی‌ها در وبسایت پُلی‌مارکت (بزرگترین وبسایت شرط‌بندی جهان)، شانس بنیامین نتانیاهو با یک سقوط سنگین از 73% به 28% رسیده و گادی آیزنکوت با رشد به 48%، پیشتاز است. 🔴تقریبا میتوان گفت اگر اتفاق خاصی رخ ندهد، گادی آیزنکوت را باید نخست وزیر آینده…",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "440"
-        },
-        {
-          "emoji": "🖕",
-          "count": "152"
-        },
-        {
-          "emoji": "🔥",
-          "count": "34"
-        },
-        {
-          "emoji": "🤣",
-          "count": "31"
-        },
-        {
-          "emoji": "💩",
-          "count": "15"
-        },
-        {
-          "emoji": "🤷‍♂",
-          "count": "9"
-        },
-        {
-          "emoji": "👍",
-          "count": "8"
-        },
-        {
-          "emoji": "👎",
-          "count": "4"
-        },
-        {
-          "emoji": "🤯",
-          "count": "4"
-        }
-      ],
-      "views_label": "35.8K",
-      "posted_at": "2026-10-15T13:01:26+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/152832"
     }
   ]
 }
