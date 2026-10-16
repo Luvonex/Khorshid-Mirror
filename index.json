@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-15T23:57:32.466Z",
+  "generated_at": "2026-10-16T00:48:01.573Z",
   "channels": [
     {
       "username": "alonews",
       "title": "اخبار جنگ الونیوز AloNews",
-      "last_fetched_at": "2026-10-15T23:57:13.837Z",
+      "last_fetched_at": "2026-10-16T00:47:43.838Z",
       "post_count": 100,
       "media_count": 37,
       "snapshot_path": "channels/alonews/snapshot.json",
@@ -15,7 +15,7 @@
     {
       "username": "badnews_85",
       "title": "BadNews85 | بدنیوز",
-      "last_fetched_at": "2026-10-15T23:57:13.894Z",
+      "last_fetched_at": "2026-10-16T00:47:43.938Z",
       "post_count": 100,
       "media_count": 105,
       "snapshot_path": "channels/badnews_85/snapshot.json",
@@ -25,7 +25,7 @@
     {
       "username": "bbcpersian",
       "title": "BBCPersian",
-      "last_fetched_at": "2026-10-15T23:57:13.925Z",
+      "last_fetched_at": "2026-10-16T00:47:43.888Z",
       "post_count": 100,
       "media_count": 56,
       "snapshot_path": "channels/bbcpersian/snapshot.json",
@@ -35,7 +35,7 @@
     {
       "username": "bidarzani",
       "title": "بيدارزنى",
-      "last_fetched_at": "2026-10-15T23:57:15.020Z",
+      "last_fetched_at": "2026-10-16T00:47:45.262Z",
       "post_count": 59,
       "media_count": 30,
       "snapshot_path": "channels/bidarzani/snapshot.json",
@@ -45,7 +45,7 @@
     {
       "username": "daadbaan2021",
       "title": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
-      "last_fetched_at": "2026-10-15T23:57:15.318Z",
+      "last_fetched_at": "2026-10-16T00:47:45.690Z",
       "post_count": 100,
       "media_count": 126,
       "snapshot_path": "channels/daadbaan2021/snapshot.json",
@@ -55,7 +55,7 @@
     {
       "username": "dejradio",
       "title": "DEJ",
-      "last_fetched_at": "2026-10-15T23:57:15.861Z",
+      "last_fetched_at": "2026-10-16T00:47:46.344Z",
       "post_count": 100,
       "media_count": 110,
       "snapshot_path": "channels/dejradio/snapshot.json",
@@ -65,7 +65,7 @@
     {
       "username": "drtel",
       "title": "𝐃𝐫 𝐓𝐞𝐥",
-      "last_fetched_at": "2026-10-15T23:57:16.514Z",
+      "last_fetched_at": "2026-10-16T00:47:46.560Z",
       "post_count": 100,
       "media_count": 132,
       "snapshot_path": "channels/drtel/snapshot.json",
@@ -75,7 +75,7 @@
     {
       "username": "farsi_iranwire",
       "title": "Iranwire",
-      "last_fetched_at": "2026-10-15T23:57:16.777Z",
+      "last_fetched_at": "2026-10-16T00:47:47.154Z",
       "post_count": 100,
       "media_count": 101,
       "snapshot_path": "channels/farsi_iranwire/snapshot.json",
@@ -85,9 +85,9 @@
     {
       "username": "farsivoa",
       "title": "Farsi VOA",
-      "last_fetched_at": "2026-10-15T23:57:17.603Z",
+      "last_fetched_at": "2026-10-16T00:47:47.623Z",
       "post_count": 100,
-      "media_count": 71,
+      "media_count": 72,
       "snapshot_path": "channels/farsivoa/snapshot.json",
       "avatar_url": "channels/farsivoa/media/17d67a28d166665b992b5257.jpg",
       "subscriber_count": "134K"
@@ -95,17 +95,17 @@
     {
       "username": "filter_watch",
       "title": "فیلتربان",
-      "last_fetched_at": "2026-10-15T23:57:18.037Z",
+      "last_fetched_at": "2026-10-16T00:47:48.303Z",
       "post_count": 73,
       "media_count": 68,
       "snapshot_path": "channels/filter_watch/snapshot.json",
-      "avatar_url": "channels/filter_watch/media/68103b26ee75a226f65028f5.jpg",
+      "avatar_url": "channels/filter_watch/media/0bc114b1aa7bc7d7ec7a51ba.jpg",
       "subscriber_count": "3.11K"
     },
     {
       "username": "followupiran",
       "title": "کمیته پیگیری وضعیت بازداشت‌شدگان",
-      "last_fetched_at": "2026-10-15T23:57:18.989Z",
+      "last_fetched_at": "2026-10-16T00:47:48.619Z",
       "post_count": 60,
       "media_count": 52,
       "snapshot_path": "channels/followupiran/snapshot.json",
@@ -115,7 +115,7 @@
     {
       "username": "futballi18",
       "title": "𝗙𝗨𝗧𝗕𝗔𝗟𝗟𝗜 𝟭𝟴+",
-      "last_fetched_at": "2026-10-15T23:57:19.331Z",
+      "last_fetched_at": "2026-10-16T00:47:49.240Z",
       "post_count": 100,
       "media_count": 90,
       "snapshot_path": "channels/futballi18/snapshot.json",
@@ -125,7 +125,7 @@
     {
       "username": "hranews",
       "title": "خبرگزاری هرانا",
-      "last_fetched_at": "2026-10-15T23:57:19.496Z",
+      "last_fetched_at": "2026-10-16T00:47:49.599Z",
       "post_count": 100,
       "media_count": 44,
       "snapshot_path": "channels/hranews/snapshot.json",
@@ -135,7 +135,7 @@
     {
       "username": "indypersian",
       "title": "IndyPersian",
-      "last_fetched_at": "2026-10-15T23:57:20.696Z",
+      "last_fetched_at": "2026-10-16T00:47:50.187Z",
       "post_count": 100,
       "media_count": 88,
       "snapshot_path": "channels/indypersian/snapshot.json",
@@ -145,9 +145,9 @@
     {
       "username": "iranianminds",
       "title": "Iranian Minds",
-      "last_fetched_at": "2026-10-15T23:57:21.152Z",
+      "last_fetched_at": "2026-10-16T00:47:50.306Z",
       "post_count": 100,
-      "media_count": 52,
+      "media_count": 53,
       "snapshot_path": "channels/iranianminds/snapshot.json",
       "avatar_url": "channels/iranianminds/media/481308dcc471a18af6a3b418.jpg",
       "subscriber_count": "235K"
@@ -155,9 +155,9 @@
     {
       "username": "iranintltv",
       "title": "Iran International ایران اینترنشنال",
-      "last_fetched_at": "2026-10-15T23:57:21.602Z",
+      "last_fetched_at": "2026-10-16T00:47:51.212Z",
       "post_count": 100,
-      "media_count": 93,
+      "media_count": 94,
       "snapshot_path": "channels/iranintltv/snapshot.json",
       "avatar_url": "channels/iranintltv/media/8c4aca5e08a7cf44672820f6.jpg",
       "subscriber_count": "1.36M"
@@ -165,7 +165,7 @@
     {
       "username": "iranlix",
       "title": "ایرانلیکس",
-      "last_fetched_at": "2026-10-15T23:57:22.769Z",
+      "last_fetched_at": "2026-10-16T00:47:52.020Z",
       "post_count": 100,
       "media_count": 107,
       "snapshot_path": "channels/iranlix/snapshot.json",
@@ -175,7 +175,7 @@
     {
       "username": "kianmeli1",
       "title": "کیان ملی 1",
-      "last_fetched_at": "2026-10-15T23:57:22.828Z",
+      "last_fetched_at": "2026-10-16T00:47:52.562Z",
       "post_count": 100,
       "media_count": 64,
       "snapshot_path": "channels/kianmeli1/snapshot.json",
@@ -185,7 +185,7 @@
     {
       "username": "mamlekate",
       "title": "مملکته",
-      "last_fetched_at": "2026-10-15T23:57:23.364Z",
+      "last_fetched_at": "2026-10-16T00:47:52.892Z",
       "post_count": 100,
       "media_count": 54,
       "snapshot_path": "channels/mamlekate/snapshot.json",
@@ -195,7 +195,7 @@
     {
       "username": "manototv",
       "title": "تلویزیون منوتو",
-      "last_fetched_at": "2026-10-15T23:57:23.948Z",
+      "last_fetched_at": "2026-10-16T00:47:53.306Z",
       "post_count": 100,
       "media_count": 202,
       "snapshot_path": "channels/manototv/snapshot.json",
@@ -205,7 +205,7 @@
     {
       "username": "media_hb",
       "title": "مدیا هاب | Media Hub",
-      "last_fetched_at": "2026-10-15T23:57:24.814Z",
+      "last_fetched_at": "2026-10-16T00:47:53.608Z",
       "post_count": 100,
       "media_count": 41,
       "snapshot_path": "channels/media_hb/snapshot.json",
@@ -215,7 +215,7 @@
     {
       "username": "mizangorup",
       "title": "💻 MIZAN | میزان 💻",
-      "last_fetched_at": "2026-10-15T23:57:24.997Z",
+      "last_fetched_at": "2026-10-16T00:47:54.457Z",
       "post_count": 100,
       "media_count": 51,
       "snapshot_path": "channels/mizangorup/snapshot.json",
@@ -225,7 +225,7 @@
     {
       "username": "mwarmonitor",
       "title": "نظامی - سیاسی",
-      "last_fetched_at": "2026-10-15T23:57:25.718Z",
+      "last_fetched_at": "2026-10-16T00:47:54.517Z",
       "post_count": 100,
       "media_count": 31,
       "snapshot_path": "channels/mwarmonitor/snapshot.json",
@@ -235,7 +235,7 @@
     {
       "username": "netblocks",
       "title": "NetBlocks",
-      "last_fetched_at": "2026-10-15T23:57:25.852Z",
+      "last_fetched_at": "2026-10-16T00:47:54.803Z",
       "post_count": 99,
       "media_count": 97,
       "snapshot_path": "channels/netblocks/snapshot.json",
@@ -245,7 +245,7 @@
     {
       "username": "officialrezapahlavi",
       "title": "Reza Pahlavi | رضا پهلوی",
-      "last_fetched_at": "2026-10-15T23:57:26.342Z",
+      "last_fetched_at": "2026-10-16T00:47:55.659Z",
       "post_count": 50,
       "media_count": 82,
       "snapshot_path": "channels/officialrezapahlavi/snapshot.json",
@@ -255,7 +255,7 @@
     {
       "username": "persian_trend_official",
       "title": "کانال رسمی پرشین ترند",
-      "last_fetched_at": "2026-10-15T23:57:26.824Z",
+      "last_fetched_at": "2026-10-16T00:47:55.866Z",
       "post_count": 100,
       "media_count": 96,
       "snapshot_path": "channels/persian_trend_official/snapshot.json",
@@ -265,7 +265,7 @@
     {
       "username": "persianvpnhub",
       "title": "VPNhub | فیلترشکن رایگان",
-      "last_fetched_at": "2026-10-15T23:57:27.441Z",
+      "last_fetched_at": "2026-10-16T00:47:56.271Z",
       "post_count": 100,
       "media_count": 0,
       "snapshot_path": "channels/persianvpnhub/snapshot.json",
@@ -275,7 +275,7 @@
     {
       "username": "pm_afshaa",
       "title": "PMTV NEWS 🦁☀️",
-      "last_fetched_at": "2026-10-15T23:57:28.054Z",
+      "last_fetched_at": "2026-10-16T00:47:56.920Z",
       "post_count": 100,
       "media_count": 14,
       "snapshot_path": "channels/pm_afshaa/snapshot.json",
@@ -285,7 +285,7 @@
     {
       "username": "radiofarda",
       "title": "RadioFarda",
-      "last_fetched_at": "2026-10-15T23:57:28.267Z",
+      "last_fetched_at": "2026-10-16T00:47:57.164Z",
       "post_count": 100,
       "media_count": 65,
       "snapshot_path": "channels/radiofarda/snapshot.json",
@@ -295,7 +295,7 @@
     {
       "username": "rodast_omiddana",
       "title": "omid dana امید دانا",
-      "last_fetched_at": "2026-10-15T23:57:28.995Z",
+      "last_fetched_at": "2026-10-16T00:47:57.345Z",
       "post_count": 100,
       "media_count": 54,
       "snapshot_path": "channels/rodast_omiddana/snapshot.json",
@@ -305,7 +305,7 @@
     {
       "username": "sahamnewsorg",
       "title": "سهام نیوز",
-      "last_fetched_at": "2026-10-15T23:57:29.326Z",
+      "last_fetched_at": "2026-10-16T00:47:58.093Z",
       "post_count": 100,
       "media_count": 62,
       "snapshot_path": "channels/sahamnewsorg/snapshot.json",
@@ -315,7 +315,7 @@
     {
       "username": "stop_qeshmm",
       "title": "STOP_QESHM",
-      "last_fetched_at": "2026-10-15T23:57:29.626Z",
+      "last_fetched_at": "2026-10-16T00:47:58.462Z",
       "post_count": 100,
       "media_count": 322,
       "snapshot_path": "channels/stop_qeshmm/snapshot.json",
@@ -325,7 +325,7 @@
     {
       "username": "tavaana_tavaanatech",
       "title": "آموزشکده توانا",
-      "last_fetched_at": "2026-10-15T23:57:30.785Z",
+      "last_fetched_at": "2026-10-16T00:47:58.879Z",
       "post_count": 100,
       "media_count": 122,
       "snapshot_path": "channels/tavaana_tavaanatech/snapshot.json",
@@ -335,7 +335,7 @@
     {
       "username": "vahidonline",
       "title": "Vahid Online وحید آنلاین",
-      "last_fetched_at": "2026-10-15T23:57:30.757Z",
+      "last_fetched_at": "2026-10-16T00:47:59.611Z",
       "post_count": 100,
       "media_count": 120,
       "snapshot_path": "channels/vahidonline/snapshot.json",
@@ -345,9 +345,9 @@
     {
       "username": "withyashar",
       "title": "WarRoom with YASHAR",
-      "last_fetched_at": "2026-10-15T23:57:31.051Z",
+      "last_fetched_at": "2026-10-16T00:48:00.052Z",
       "post_count": 100,
-      "media_count": 51,
+      "media_count": 52,
       "snapshot_path": "channels/withyashar/snapshot.json",
       "avatar_url": "channels/withyashar/media/b07be465a92c011bf9c56938.jpg",
       "subscriber_count": "502K"
