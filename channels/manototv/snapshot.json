@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-17T05:39:13.228Z",
+  "fetched_at": "2026-10-17T09:37:57.267Z",
   "channel": {
     "username": "manototv",
     "title": "تلویزیون منوتو",
@@ -10,6 +10,39 @@
     "subscriber_count": "377K"
   },
   "posts": [
+    {
+      "id": "ManotoTV/108495",
+      "author_name": "تلویزیون منوتو",
+      "author_photo_url": "https://cdn4.telesco.pe/file/V51DIbswz0ntOl_dZV8goyF5Fay-n5RQSmo4GHvy_LqjrWwNNbNcI-hb5bIVHQPdF5SnkmxUxeb9W4IciSe-nIVpwzf2LQGMjpP5B-oETGwC1LImg6biqRH5syFkXGqK7BJSGlPo5I4EgY1b35qsrZzVadiVPUENyCRVALDO-fq-ND8AvioLQr9xZsFa5jdWm7hmB5Uzzy7QO4kWW6-i0diyxOOzy_Fw48gK4tgxd0CDIBzpO3HvPtUMKbR9wbsJgeFg6gz_DFxS1z_HVboJlgn627fLFEyOUj2In5hrxI57WP-36lj5I_-b6Q8quuouyYbghc0JoFu5cdcE0IKsqA.jpg",
+      "author_photo_path": "channels/manototv/media/082174606eb0d8aecbeffdcd.jpg",
+      "body_html": "حکومت‌های اقتدارگرا صرفاً با افزایش نارضایتی پایان نمی‌یابند؛ زمانی آسیب‌پذیرتر می‌شوند که همکاری ستون‌های حامی‌شان و اجرای دستورها دیگر تضمین‌شده نباشد. این پادکست به فرسایش قدرت، تغییر وفاداری‌ها و نقش یک جایگزین سیاسی معتبر می‌پردازد؛ با این تأکید که سقوط یک حکومت، به‌خودی‌خود به معنای استقرار دموکراسی نیست.",
+      "plain_text": "حکومت‌های اقتدارگرا صرفاً با افزایش نارضایتی پایان نمی‌یابند؛ زمانی آسیب‌پذیرتر می‌شوند که همکاری ستون‌های حامی‌شان و اجرای دستورها دیگر تضمین‌شده نباشد. این پادکست به فرسایش قدرت، تغییر وفاداری‌ها و نقش یک جایگزین سیاسی معتبر می‌پردازد؛ با این تأکید که سقوط یک حکومت، به‌خودی‌خود به معنای استقرار دموکراسی نیست.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/ManotoTV/108495",
+          "asset_path": null,
+          "thumbnail_url": null,
+          "thumbnail_path": null,
+          "duration_label": "0:00",
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "46"
+        },
+        {
+          "emoji": "❤",
+          "count": "8"
+        }
+      ],
+      "views_label": "3.21K",
+      "posted_at": "2026-10-17T08:10:33+00:00",
+      "edited": false,
+      "permalink": "https://t.me/ManotoTV/108495"
+    },
     {
       "id": "ManotoTV/108494",
       "author_name": "تلویزیون منوتو",
@@ -31,14 +64,14 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "117"
+          "count": "141"
         },
         {
           "emoji": "❤",
-          "count": "6"
+          "count": "11"
         }
       ],
-      "views_label": "8.32K",
+      "views_label": "11.5K",
       "posted_at": "2026-10-16T20:06:44+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108494"
@@ -64,14 +97,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "129"
+          "count": "146"
         },
         {
           "emoji": "❤",
           "count": "25"
         }
       ],
-      "views_label": "10.8K",
+      "views_label": "12.9K",
       "posted_at": "2026-10-16T18:14:52+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108493"
@@ -178,14 +211,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "87"
+          "count": "93"
         },
         {
           "emoji": "😁",
-          "count": "11"
+          "count": "12"
         }
       ],
-      "views_label": "11.1K",
+      "views_label": "12.3K",
       "posted_at": "2026-10-16T17:05:12+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108483"
@@ -211,14 +244,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "112"
+          "count": "126"
         },
         {
           "emoji": "💔",
-          "count": "58"
+          "count": "65"
         }
       ],
-      "views_label": "7.93K",
+      "views_label": "8.82K",
       "posted_at": "2026-10-16T17:00:57+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108482"
@@ -244,14 +277,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "141"
+          "count": "160"
         },
         {
           "emoji": "❤",
           "count": "22"
         }
       ],
-      "views_label": "6.58K",
+      "views_label": "7.31K",
       "posted_at": "2026-10-16T17:00:25+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108480"
@@ -277,14 +310,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "151"
+          "count": "176"
         },
         {
           "emoji": "❤",
           "count": "16"
         }
       ],
-      "views_label": "7.32K",
+      "views_label": "8.15K",
       "posted_at": "2026-10-16T16:59:31+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108479"
@@ -310,14 +343,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "102"
+          "count": "110"
         },
         {
           "emoji": "👀",
           "count": "9"
         }
       ],
-      "views_label": "9.82K",
+      "views_label": "10.4K",
       "posted_at": "2026-10-16T14:03:25+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108478"
@@ -343,14 +376,14 @@
       "reactions": [
         {
           "emoji": "😭",
-          "count": "228"
+          "count": "240"
         },
         {
           "emoji": "😢",
-          "count": "28"
+          "count": "29"
         }
       ],
-      "views_label": "10.4K",
+      "views_label": "10.9K",
       "posted_at": "2026-10-16T12:23:12+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108477"
@@ -376,14 +409,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "233"
+          "count": "244"
         },
         {
           "emoji": "🕊",
           "count": "14"
         }
       ],
-      "views_label": "10.6K",
+      "views_label": "11K",
       "posted_at": "2026-10-16T11:14:05+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108476"
@@ -481,14 +514,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "86"
+          "count": "91"
         },
         {
           "emoji": "👍",
           "count": "24"
         }
       ],
-      "views_label": "10.4K",
+      "views_label": "10.8K",
       "posted_at": "2026-10-16T10:01:33+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108467"
@@ -4203,39 +4236,6 @@
       "posted_at": "2026-10-10T09:57:50+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108292"
-    },
-    {
-      "id": "ManotoTV/108291",
-      "author_name": "تلویزیون منوتو",
-      "author_photo_url": "https://cdn4.telesco.pe/file/r_G5wGiuSXRM52OSDfRuifRtMNrwSdwJcH9IUKK3l1LjXxlhk7WQ7fTbOyKQptwmUR9SO_ZgqZ05moKRPNTfVUQLdZSxer_azIIsZmpuOmh2cDm4JFhTkpSW_2L02gIji1zrUbNLhUDyjMMG57Lfepa1UHRxAUR_-wrYvwAgiYhQpMJCYjFUs7VkF0gYA0_8IxW3-TUz7Zff4XjC545lNL6UY0qvrbA9rMNh-DDSF_cTVfkpUF4TFd9e0oTbsw5ZVJytFHNkKnYVLEOFJy6PO2oOkXElSxWIRZ7WZvbREO8Nvas75V-1BF5JUinlBidtTJtaIYqpNpJ6HOwQFxrpYg.jpg",
-      "author_photo_path": "channels/manototv/media/1982ca3a7ccbf33ffce5e275.jpg",
-      "body_html": "در یک مجموعه شش‌قسمتی، چالش‌های مبارزه برای تغییر سیاسی در ایران را بررسی می‌کنیم.<br><br>آیا فراخوان یک رهبر شناخته‌شده برای شکل‌گیری حرکت جمعی کافی است؟ میلیون‌ها نفر می‌توانند یک پیام را بشنوند، اما شنیدن فراخوان، مشارکت و تداوم مبارزه، سه مرحله متفاوت‌اند.<br><br>در قسمت سوم، تفاوت بسیج و سازمان و مسئولیت رهبری را بررسی می‌کنیم و از ضرورت اعتماد، ائتلاف و سازماندهی می‌گوییم. چه چیزی یک جنبش را پابرجا نگه می‌دارد، حتی وقتی پیام بعدی نمی‌رسد؟",
-      "plain_text": "در یک مجموعه شش‌قسمتی، چالش‌های مبارزه برای تغییر سیاسی در ایران را بررسی می‌کنیم. آیا فراخوان یک رهبر شناخته‌شده برای شکل‌گیری حرکت جمعی کافی است؟ میلیون‌ها نفر می‌توانند یک پیام را بشنوند، اما شنیدن فراخوان، مشارکت و تداوم مبارزه، سه مرحله متفاوت‌اند. در قسمت سوم، تفاوت بسیج و سازمان و مسئولیت رهبری را بررسی می‌کنیم و از ضرورت اعتماد، ائتلاف و سازماندهی می‌گوییم. چه چیزی یک جنبش را پابرجا نگه می‌دارد، حتی وقتی پیام بعدی نمی‌رسد؟",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/ManotoTV/108291",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/EnYZQval_CFYybIcSDeGSEwIP_7jz6XzCFJ9dnfqGf4roAfYj5_WUQVUSEeG0clst-YZEh7SX2TFp8xxpSMwNWJc3Jum1Zd3BOwqWYmsYNMZvrn2UlXvsIni1rHI5ijTF1o77bOq24h3XFNDOdj73NgUluWXf2J2sW5Shhhw-d8AoMx-5LVLRhtKxPysgkll_878ho0TwWoVD3b5Lr6-Z2V55i3DuAfo-2nzQEkDmBW6T-rSX4VL0xBkuxhcUpmGHJkjm6ufRTiwccyn4zYR0JQBzKeHB7A-GwTGW7_ay3x5JUd6QwpEHt-4rahSNspBn0W7DZ_C1Gc_9xiurj08yg",
-          "thumbnail_path": "channels/manototv/media/e70b942afed3efbf03b67b8c.jpg",
-          "duration_label": "6:57",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👎",
-          "count": "322"
-        },
-        {
-          "emoji": "❤",
-          "count": "80"
-        }
-      ],
-      "views_label": "9.29K",
-      "posted_at": "2026-10-10T07:24:54+00:00",
-      "edited": false,
-      "permalink": "https://t.me/ManotoTV/108291"
     }
   ]
 }
