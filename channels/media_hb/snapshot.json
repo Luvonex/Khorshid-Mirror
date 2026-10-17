@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-17T13:17:08.013Z",
+  "fetched_at": "2026-10-17T16:24:36.845Z",
   "channel": {
     "username": "media_hb",
     "title": "مدیا هاب | Media Hub",
@@ -10,6 +10,321 @@
     "subscriber_count": "135K"
   },
   "posts": [
+    {
+      "id": "Media_HB/109091",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/C6N80akJ21uWmOr0zfJMJshM_cdkNfcFLHsTJMncz_d9JY_-QphZABSsd2Baw5-KeWsics5eyQOO8SUXvvexkW1Jq9AqUL9ChQn547eu0pW7XmuWEJVmwYm6y1ENb1POAeGQnH4eawGCMKmdM9uEeG7V0CfEbUBQ-eRRxU3NlTaIku3qrqsyc1daD4kMYg9jSnI3kjkeatLz-SOIaLgesP5rFoj8gbFO_x2w8GUxWYezXda8XAo0opsaKFZrumsosbbjgewO5wu5sqHErgedt-BTqiutpmlCNNccGbxqz9ougKs-rlbh60hmUhfb3soVA2eMkY7BM5wniR-vngRYbA.jpg",
+      "author_photo_path": "channels/media_hb/media/388cc83f6b1786d1232d731a.jpg",
+      "body_html": "<b>امشب یک ایرانی در سازمان UFC مبارزه می‌کنه. جواد محجوب قهرمان سابق جودوی آسیا اولین مبارزش رو امشب انجام میده</b><br><br><a href=\"?q=%23behdad\">#behdad</a>",
+      "plain_text": "امشب یک ایرانی در سازمان UFC مبارزه می‌کنه. جواد محجوب قهرمان سابق جودوی آسیا اولین مبارزش رو امشب انجام میده #behdad",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/109091",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/fOLGMkdn5fbUTCaK_YzG72qbAjMNYoo8pVs3pLnHl28ddlX-AxyY3QiHNFEWfyKIXV63e79P_JC1sX5qNqal0eQb_OiwrLVAEJkWMY1ZhEGl4C7IxIAaC0KHrj1DtzAKLQX_0nz_NpXJxBYxwC3nVZRh8FRwaRHP7eVo69IN8AdvCei7MNLB_COpLGD5Yfh3B5j_j2nPDXyc56ybIHa-JtE32wjeF0hz87mNbySE8e5VAM_B5r71OQfxxe9KnkW-KW3doOpvhpgy_d7fqs5RMX2ycFyr-GlzbAgBkz5UChk7z24gttn1WT6as0-4XM9CHyTIaJ8TQASp4WTR3DT_-A.jpg",
+          "thumbnail_path": "channels/media_hb/media/548877634c7f3fa8980a7453.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.0512483574244416
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "71"
+        },
+        {
+          "emoji": "🔥",
+          "count": "5"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
+        },
+        {
+          "emoji": "👎",
+          "count": "1"
+        },
+        {
+          "emoji": "🤣",
+          "count": "1"
+        },
+        {
+          "emoji": "🏆",
+          "count": "1"
+        }
+      ],
+      "views_label": "3.09K",
+      "posted_at": "2026-10-17T15:50:41+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/109091"
+    },
+    {
+      "id": "Media_HB/109090",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/C6N80akJ21uWmOr0zfJMJshM_cdkNfcFLHsTJMncz_d9JY_-QphZABSsd2Baw5-KeWsics5eyQOO8SUXvvexkW1Jq9AqUL9ChQn547eu0pW7XmuWEJVmwYm6y1ENb1POAeGQnH4eawGCMKmdM9uEeG7V0CfEbUBQ-eRRxU3NlTaIku3qrqsyc1daD4kMYg9jSnI3kjkeatLz-SOIaLgesP5rFoj8gbFO_x2w8GUxWYezXda8XAo0opsaKFZrumsosbbjgewO5wu5sqHErgedt-BTqiutpmlCNNccGbxqz9ougKs-rlbh60hmUhfb3soVA2eMkY7BM5wniR-vngRYbA.jpg",
+      "author_photo_path": "channels/media_hb/media/388cc83f6b1786d1232d731a.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i><b>انفجار در سیریک برای چندمین بار گزارش شد</b>",
+      "plain_text": "❗انفجار در سیریک برای چندمین بار گزارش شد",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "60"
+        },
+        {
+          "emoji": "👍",
+          "count": "2"
+        },
+        {
+          "emoji": "👎",
+          "count": "2"
+        },
+        {
+          "emoji": "🏆",
+          "count": "2"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        },
+        {
+          "emoji": "😍",
+          "count": "1"
+        }
+      ],
+      "views_label": "4.17K",
+      "posted_at": "2026-10-17T15:40:36+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/109090"
+    },
+    {
+      "id": "Media_HB/109089",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/C6N80akJ21uWmOr0zfJMJshM_cdkNfcFLHsTJMncz_d9JY_-QphZABSsd2Baw5-KeWsics5eyQOO8SUXvvexkW1Jq9AqUL9ChQn547eu0pW7XmuWEJVmwYm6y1ENb1POAeGQnH4eawGCMKmdM9uEeG7V0CfEbUBQ-eRRxU3NlTaIku3qrqsyc1daD4kMYg9jSnI3kjkeatLz-SOIaLgesP5rFoj8gbFO_x2w8GUxWYezXda8XAo0opsaKFZrumsosbbjgewO5wu5sqHErgedt-BTqiutpmlCNNccGbxqz9ougKs-rlbh60hmUhfb3soVA2eMkY7BM5wniR-vngRYbA.jpg",
+      "author_photo_path": "channels/media_hb/media/388cc83f6b1786d1232d731a.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i>از محل انفجار در پایتخت، بغداد.",
+      "plain_text": "❗از محل انفجار در پایتخت، بغداد.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "110"
+        },
+        {
+          "emoji": "🤡",
+          "count": "8"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        }
+      ],
+      "views_label": "4.45K",
+      "posted_at": "2026-10-17T15:36:11+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/109089"
+    },
+    {
+      "id": "Media_HB/109088",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/C6N80akJ21uWmOr0zfJMJshM_cdkNfcFLHsTJMncz_d9JY_-QphZABSsd2Baw5-KeWsics5eyQOO8SUXvvexkW1Jq9AqUL9ChQn547eu0pW7XmuWEJVmwYm6y1ENb1POAeGQnH4eawGCMKmdM9uEeG7V0CfEbUBQ-eRRxU3NlTaIku3qrqsyc1daD4kMYg9jSnI3kjkeatLz-SOIaLgesP5rFoj8gbFO_x2w8GUxWYezXda8XAo0opsaKFZrumsosbbjgewO5wu5sqHErgedt-BTqiutpmlCNNccGbxqz9ougKs-rlbh60hmUhfb3soVA2eMkY7BM5wniR-vngRYbA.jpg",
+      "author_photo_path": "channels/media_hb/media/388cc83f6b1786d1232d731a.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>حشد شعبی عراق از انفجار یک انبار مهمات فرسوده خبر داد و گفت بدون تلفات بوده</b>",
+      "plain_text": "🔴حشد شعبی عراق از انفجار یک انبار مهمات فرسوده خبر داد و گفت بدون تلفات بوده",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "83"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
+        },
+        {
+          "emoji": "🤡",
+          "count": "1"
+        }
+      ],
+      "views_label": "5.32K",
+      "posted_at": "2026-10-17T15:20:25+00:00",
+      "edited": true,
+      "permalink": "https://t.me/Media_HB/109088"
+    },
+    {
+      "id": "Media_HB/109087",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/C6N80akJ21uWmOr0zfJMJshM_cdkNfcFLHsTJMncz_d9JY_-QphZABSsd2Baw5-KeWsics5eyQOO8SUXvvexkW1Jq9AqUL9ChQn547eu0pW7XmuWEJVmwYm6y1ENb1POAeGQnH4eawGCMKmdM9uEeG7V0CfEbUBQ-eRRxU3NlTaIku3qrqsyc1daD4kMYg9jSnI3kjkeatLz-SOIaLgesP5rFoj8gbFO_x2w8GUxWYezXda8XAo0opsaKFZrumsosbbjgewO5wu5sqHErgedt-BTqiutpmlCNNccGbxqz9ougKs-rlbh60hmUhfb3soVA2eMkY7BM5wniR-vngRYbA.jpg",
+      "author_photo_path": "channels/media_hb/media/388cc83f6b1786d1232d731a.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i>منابع محلی از وقوع انفجار در نزدیکی یکی از ایست‌بازرسی‌های امنیتی نیروهای حشد شعبی در بغداد عراق خبر می‌دهند",
+      "plain_text": "🚨منابع محلی از وقوع انفجار در نزدیکی یکی از ایست‌بازرسی‌های امنیتی نیروهای حشد شعبی در بغداد عراق خبر می‌دهند",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/109087",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ruI5WLaqomsQF27hhh6W21L4_q43cqtVe2kpbQPnirr_k-eW3Wv-vBwEdUzpID61q6XkUzuOtS1OUHp9C4Cpvm_hgLHnEH79psgVesZTAxpwE2uHZpAACvd-vFta_XdWuHzRdD5Q7229xdNGAK-ZH5MMr6XVg45kFe68noTEebqGBZa24dzR5EQjUFeIZkjzAhLCVAo2s0OvG_zKIcq62QzZKKR0KPcWWDPrq_-qmHJ6qpBHoMXTQp_pbn8Z_8OMP9F8M0E2dlYOci7pucCsvhJmJ-ZJx1fEgggFp0AkZCQExwSGLJIyw8LanaXVtB1cygCxim_bgoiOQe7kINGNZg.jpg",
+          "thumbnail_path": "channels/media_hb/media/cdee9eab92c54a8adcf6ea52.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7612499999999979
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "83"
+        }
+      ],
+      "views_label": "5.92K",
+      "posted_at": "2026-10-17T15:13:37+00:00",
+      "edited": true,
+      "permalink": "https://t.me/Media_HB/109087"
+    },
+    {
+      "id": "Media_HB/109086",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/C6N80akJ21uWmOr0zfJMJshM_cdkNfcFLHsTJMncz_d9JY_-QphZABSsd2Baw5-KeWsics5eyQOO8SUXvvexkW1Jq9AqUL9ChQn547eu0pW7XmuWEJVmwYm6y1ENb1POAeGQnH4eawGCMKmdM9uEeG7V0CfEbUBQ-eRRxU3NlTaIku3qrqsyc1daD4kMYg9jSnI3kjkeatLz-SOIaLgesP5rFoj8gbFO_x2w8GUxWYezXda8XAo0opsaKFZrumsosbbjgewO5wu5sqHErgedt-BTqiutpmlCNNccGbxqz9ougKs-rlbh60hmUhfb3soVA2eMkY7BM5wniR-vngRYbA.jpg",
+      "author_photo_path": "channels/media_hb/media/388cc83f6b1786d1232d731a.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i>منابع محلی از وقوع انفجار در نزدیکی یکی از ایست‌بازرسی‌های امنیتی نیروهای حشد شعبی در بغداد عراق خبر می‌دهند</b>",
+      "plain_text": "🚨منابع محلی از وقوع انفجار در نزدیکی یکی از ایست‌بازرسی‌های امنیتی نیروهای حشد شعبی در بغداد عراق خبر می‌دهند",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/109086",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/mjfM74DEHWvIaDT24zSHfdQsHR8lqdAy5Nb8kOVXgxqHTYqn8eaniCgAK3H_lWY7XX2L724xOcHe4il9WzMOG_IJjIx6t6D1nlmhQxgE-YKkP1I6gasyL37tcOFThxIBmNTXIKE_850QILO7-nzkGXKUa8CSTT0cpXA8YOYTnXMsidskcJnkoqiliDSznLkXnYRMIpp0SQtAVR6GtTH-NLyAaW_BWnAMQWm_iH_M7eGM3QA42jrglxCMxgBnIaeegF6op3cExGe3JWVh6BVLOEjTaJoBf0rTqsogfxrnEoERsbfHIL9jkixwR-UW50HczqnNRzJe5gbKCc0LmDMOGQ.jpg",
+          "thumbnail_path": "channels/media_hb/media/2d7b4b285506ae03ddf5f59f.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.3333333333333333
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "96"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        },
+        {
+          "emoji": "👎",
+          "count": "2"
+        }
+      ],
+      "views_label": "6.21K",
+      "posted_at": "2026-10-17T15:09:28+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/109086"
+    },
+    {
+      "id": "Media_HB/109085",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/C6N80akJ21uWmOr0zfJMJshM_cdkNfcFLHsTJMncz_d9JY_-QphZABSsd2Baw5-KeWsics5eyQOO8SUXvvexkW1Jq9AqUL9ChQn547eu0pW7XmuWEJVmwYm6y1ENb1POAeGQnH4eawGCMKmdM9uEeG7V0CfEbUBQ-eRRxU3NlTaIku3qrqsyc1daD4kMYg9jSnI3kjkeatLz-SOIaLgesP5rFoj8gbFO_x2w8GUxWYezXda8XAo0opsaKFZrumsosbbjgewO5wu5sqHErgedt-BTqiutpmlCNNccGbxqz9ougKs-rlbh60hmUhfb3soVA2eMkY7BM5wniR-vngRYbA.jpg",
+      "author_photo_path": "channels/media_hb/media/388cc83f6b1786d1232d731a.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>وال استریت ژورنال:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>تهران تسلیحاتی را که در قایق‌های سنتی باری موسوم به «داو» پنهان شده بودند، به یمن ارسال کرده و نیروهایی از ایران و حزب‌الله را برای آموزش به این کشور فرستاده.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i> پس از مختل شدن انتقال تسلیحات با قایق بر اثر حملات آمریکا و اسرائیل در اوایل دهه جاری میلادی، ایران ارسال سلاح به یمن از طریق زیردریایی را آغاز کرد.</b>",
+      "plain_text": "🔴وال استریت ژورنال: 🔻تهران تسلیحاتی را که در قایق‌های سنتی باری موسوم به «داو» پنهان شده بودند، به یمن ارسال کرده و نیروهایی از ایران و حزب‌الله را برای آموزش به این کشور فرستاده. 🔻 پس از مختل شدن انتقال تسلیحات با قایق بر اثر حملات آمریکا و اسرائیل در اوایل دهه جاری میلادی، ایران ارسال سلاح به یمن از طریق زیردریایی را آغاز کرد.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "42"
+        },
+        {
+          "emoji": "🤣",
+          "count": "16"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        }
+      ],
+      "views_label": "6.37K",
+      "posted_at": "2026-10-17T15:00:58+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/109085"
+    },
+    {
+      "id": "Media_HB/109084",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/C6N80akJ21uWmOr0zfJMJshM_cdkNfcFLHsTJMncz_d9JY_-QphZABSsd2Baw5-KeWsics5eyQOO8SUXvvexkW1Jq9AqUL9ChQn547eu0pW7XmuWEJVmwYm6y1ENb1POAeGQnH4eawGCMKmdM9uEeG7V0CfEbUBQ-eRRxU3NlTaIku3qrqsyc1daD4kMYg9jSnI3kjkeatLz-SOIaLgesP5rFoj8gbFO_x2w8GUxWYezXda8XAo0opsaKFZrumsosbbjgewO5wu5sqHErgedt-BTqiutpmlCNNccGbxqz9ougKs-rlbh60hmUhfb3soVA2eMkY7BM5wniR-vngRYbA.jpg",
+      "author_photo_path": "channels/media_hb/media/388cc83f6b1786d1232d731a.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>خبرگزاری فارس:<br>یک ساعت پیش صدای انفجاری در کوهستک و سیریک شنیده شد.</b>",
+      "plain_text": "🔴خبرگزاری فارس: یک ساعت پیش صدای انفجاری در کوهستک و سیریک شنیده شد.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "77"
+        },
+        {
+          "emoji": "👍",
+          "count": "5"
+        },
+        {
+          "emoji": "😁",
+          "count": "4"
+        },
+        {
+          "emoji": "❤",
+          "count": "3"
+        }
+      ],
+      "views_label": "7K",
+      "posted_at": "2026-10-17T14:51:21+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/109084"
+    },
+    {
+      "id": "Media_HB/109083",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/C6N80akJ21uWmOr0zfJMJshM_cdkNfcFLHsTJMncz_d9JY_-QphZABSsd2Baw5-KeWsics5eyQOO8SUXvvexkW1Jq9AqUL9ChQn547eu0pW7XmuWEJVmwYm6y1ENb1POAeGQnH4eawGCMKmdM9uEeG7V0CfEbUBQ-eRRxU3NlTaIku3qrqsyc1daD4kMYg9jSnI3kjkeatLz-SOIaLgesP5rFoj8gbFO_x2w8GUxWYezXda8XAo0opsaKFZrumsosbbjgewO5wu5sqHErgedt-BTqiutpmlCNNccGbxqz9ougKs-rlbh60hmUhfb3soVA2eMkY7BM5wniR-vngRYbA.jpg",
+      "author_photo_path": "channels/media_hb/media/388cc83f6b1786d1232d731a.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>حمله به نفتکش LNG در سواحل یمن ناکام ماند<br>​<br></b><blockquote><b>سازمان عملیات تجارت دریایی بریتانیا (UKMTO) اعلام کرد یک قایق تندرو با ۷ سرنشین مسلح، نفتکش حامل گاز مایع (LNG) را در ۱۴۰ مایلی جنوب‌شرقی المکلا هدف تیراندازی قرار داد. با شلیک متقابل تیم حفاظت مسلح نفتکش، قایق مهاجم وادار به فرار و تغییر مسیر شد</b></blockquote>",
+      "plain_text": "🔴حمله به نفتکش LNG در سواحل یمن ناکام ماند ​ سازمان عملیات تجارت دریایی بریتانیا (UKMTO) اعلام کرد یک قایق تندرو با ۷ سرنشین مسلح، نفتکش حامل گاز مایع (LNG) را در ۱۴۰ مایلی جنوب‌شرقی المکلا هدف تیراندازی قرار داد. با شلیک متقابل تیم حفاظت مسلح نفتکش، قایق مهاجم وادار به فرار و تغییر مسیر شد",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/109083",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/u4OappMDfsHEeq3I4S57_tHXtBk5xvtg4R9J0-zRMPuYom4fnolJ7xfdgElVKNjTpSg_s4Aazcvq9ahJk-Z3xx6xrn9wVmgsowsbjSFqBvNF4SCtu8_9Rx96xQ8WkPuICOJd2Ox81Lzg8ZEK2jS-4RWX7Uclh8-AkF2B_K--P7QihuWQ82g5xCV8Q7rr0FuHn82NDUuSKuSpICFOb74GGhF0yzY8XZcfLgJcchOx2x5aIUvLnW1zEkpuIgqXlxKGW51yDIqrQ4TWJlNFKw0DnkzVMFfAKuxRH1ogq-mhNmJ1cRWsxuxmumPRd1mwrPPIepvvdOIsyr877UVyLJqs8Q.jpg",
+          "thumbnail_path": "channels/media_hb/media/72deff5759b21b5f000a6421.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "44"
+        },
+        {
+          "emoji": "❤",
+          "count": "4"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
+        },
+        {
+          "emoji": "🤣",
+          "count": "1"
+        }
+      ],
+      "views_label": "8.07K",
+      "posted_at": "2026-10-17T13:37:29+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/109083"
+    },
     {
       "id": "Media_HB/109082",
       "author_name": "مدیا هاب | Media Hub",
@@ -21,26 +336,30 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "153"
+          "count": "241"
         },
         {
           "emoji": "🤡",
-          "count": "10"
+          "count": "18"
         },
         {
           "emoji": "👍",
-          "count": "7"
+          "count": "8"
         },
         {
           "emoji": "🔥",
-          "count": "1"
+          "count": "3"
         },
         {
           "emoji": "😡",
-          "count": "1"
+          "count": "3"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
         }
       ],
-      "views_label": "4.38K",
+      "views_label": "9.6K",
       "posted_at": "2026-10-17T11:59:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109082"
@@ -66,22 +385,22 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "48"
+          "count": "57"
         },
         {
           "emoji": "💔",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "❤",
-          "count": "2"
+          "count": "4"
         },
         {
           "emoji": "👍",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "7.74K",
+      "views_label": "10.6K",
       "posted_at": "2026-10-17T08:48:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109081"
@@ -107,22 +426,22 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "58"
+          "count": "62"
+        },
+        {
+          "emoji": "❤",
+          "count": "5"
         },
         {
           "emoji": "😁",
           "count": "4"
         },
         {
-          "emoji": "❤",
-          "count": "3"
-        },
-        {
           "emoji": "🔥",
           "count": "2"
         }
       ],
-      "views_label": "8.13K",
+      "views_label": "10.6K",
       "posted_at": "2026-10-17T08:14:08+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109080"
@@ -138,18 +457,22 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "37"
+          "count": "45"
         },
         {
           "emoji": "🔥",
-          "count": "8"
+          "count": "9"
         },
         {
           "emoji": "👍",
-          "count": "2"
+          "count": "3"
+        },
+        {
+          "emoji": "👎",
+          "count": "1"
         }
       ],
-      "views_label": "7.75K",
+      "views_label": "9.79K",
       "posted_at": "2026-10-17T08:12:44+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109079"
@@ -186,7 +509,7 @@
           "count": "1"
         }
       ],
-      "views_label": "7.93K",
+      "views_label": "10.2K",
       "posted_at": "2026-10-17T08:12:09+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109077"
@@ -202,18 +525,18 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "4"
+          "count": "5"
+        },
+        {
+          "emoji": "😐",
+          "count": "2"
         },
         {
           "emoji": "❤",
           "count": "1"
-        },
-        {
-          "emoji": "😐",
-          "count": "1"
         }
       ],
-      "views_label": "7.7K",
+      "views_label": "9.78K",
       "posted_at": "2026-10-17T08:12:09+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109078"
@@ -229,15 +552,19 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "439"
+          "count": "454"
         },
         {
           "emoji": "👍",
-          "count": "15"
+          "count": "16"
         },
         {
           "emoji": "👎",
           "count": "7"
+        },
+        {
+          "emoji": "❤",
+          "count": "6"
         },
         {
           "emoji": "😁",
@@ -248,15 +575,11 @@
           "count": "6"
         },
         {
-          "emoji": "❤",
-          "count": "4"
-        },
-        {
           "emoji": "😍",
           "count": "2"
         }
       ],
-      "views_label": "10.2K",
+      "views_label": "11.3K",
       "posted_at": "2026-10-17T03:27:44+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/109076"
@@ -282,7 +605,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "443"
+          "count": "477"
         },
         {
           "emoji": "❤",
@@ -293,7 +616,7 @@
           "count": "3"
         }
       ],
-      "views_label": "11.1K",
+      "views_label": "12.5K",
       "posted_at": "2026-10-17T02:51:53+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109075"
@@ -309,7 +632,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "104"
+          "count": "108"
         },
         {
           "emoji": "👀",
@@ -328,7 +651,7 @@
           "count": "1"
         }
       ],
-      "views_label": "10.6K",
+      "views_label": "11.9K",
       "posted_at": "2026-10-17T02:25:21+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109074"
@@ -344,7 +667,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "347"
+          "count": "350"
         },
         {
           "emoji": "🤣",
@@ -371,7 +694,7 @@
           "count": "5"
         }
       ],
-      "views_label": "12.5K",
+      "views_label": "13.3K",
       "posted_at": "2026-10-16T20:44:34+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109073"
@@ -387,7 +710,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "345"
+          "count": "352"
         },
         {
           "emoji": "🤡",
@@ -410,7 +733,7 @@
           "count": "1"
         }
       ],
-      "views_label": "12.7K",
+      "views_label": "13.5K",
       "posted_at": "2026-10-16T20:28:34+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109072"
@@ -3275,343 +3598,6 @@
       "posted_at": "2026-10-14T18:23:55+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/108966"
-    },
-    {
-      "id": "Media_HB/108964",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eNcTqghA3_PPljhLQfZXJdI8LxQ-QRMsxZ8lExCIgLAbqm_BnY4Cj8tAbnRX99BLz3QFpA9OqyaJ_TomiArI5GrYZUF0GKRvISe7EloRwJ9Zpr317nX5bazo81pgjDh6CoVOvW4j_Ce7kv0T2tWqhJeOgdJFD3GmSz32V0z0BNx2F-GXoSO7Ba5zEtw-vKyiYOwq2Ilm4xfmHTJx-zbqirjvFxk2n_Eyq5dFeax8HjOiDbIlnxHNibmkxucBMfic5RJycW77Tb8oGkTlyoTJ2CmNCNJZLTFLho282ws0suLYa1r4GkLc83DmJbBdUeNhyQxMxfwut7hLjaRpav-2QQ.jpg",
-      "author_photo_path": "channels/media_hb/media/a9ba80ce3049dd4e9c6d9dbc.jpg",
-      "body_html": "<b>ایلیا فروردین یا اردیبهشت با فایت در مقابل پدی پیمبلت برمیگرده<br><br></b><a href=\"?q=%23behdad\"><b>#behdad</b></a>",
-      "plain_text": "ایلیا فروردین یا اردیبهشت با فایت در مقابل پدی پیمبلت برمیگرده #behdad",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/108964",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/KlOegbcmxKll5KybA_p51ShTxoRGxiEju5DCEtWVd75iILdNxkmhtpP2MY_I2lhUGQwdfkaxIVCbUZbCD-00Sl6qC6PZ1ySs4-7joaL6GxS6axRIL_m2OQt3CUX-ErrXahAyMBmjc4QHo7hPms1tZk5Q0OunCOvmWgBaAdwZI7O_JAPe-wNnFvP2L0U50Ch0iMwXaYXb1d--9FddkPUp2ocPjxjA_TH9ZCuyIN4P_-5NEWEPA_74UJb7xRZYsicxU-CcmX1L5KgTF1cy0_wCIdqa0Y47KbEWh92FiRpcr4zzq3-im9H8_20njJSuAPEMfexTjKq-CdHUKhEXr1-wzA.jpg",
-          "thumbnail_path": "channels/media_hb/media/2735f45c60ff6491f5e8809a.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.2565445026178064
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "61"
-        },
-        {
-          "emoji": "🔥",
-          "count": "11"
-        },
-        {
-          "emoji": "🤣",
-          "count": "5"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        },
-        {
-          "emoji": "👎",
-          "count": "1"
-        },
-        {
-          "emoji": "🤡",
-          "count": "1"
-        }
-      ],
-      "views_label": "7.08K",
-      "posted_at": "2026-10-14T18:13:31+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/108964"
-    },
-    {
-      "id": "Media_HB/108963",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eNcTqghA3_PPljhLQfZXJdI8LxQ-QRMsxZ8lExCIgLAbqm_BnY4Cj8tAbnRX99BLz3QFpA9OqyaJ_TomiArI5GrYZUF0GKRvISe7EloRwJ9Zpr317nX5bazo81pgjDh6CoVOvW4j_Ce7kv0T2tWqhJeOgdJFD3GmSz32V0z0BNx2F-GXoSO7Ba5zEtw-vKyiYOwq2Ilm4xfmHTJx-zbqirjvFxk2n_Eyq5dFeax8HjOiDbIlnxHNibmkxucBMfic5RJycW77Tb8oGkTlyoTJ2CmNCNJZLTFLho282ws0suLYa1r4GkLc83DmJbBdUeNhyQxMxfwut7hLjaRpav-2QQ.jpg",
-      "author_photo_path": "channels/media_hb/media/a9ba80ce3049dd4e9c6d9dbc.jpg",
-      "body_html": "<b>چطوری دلتون میاد به این گوگولیا انتقاد کنید اصلا<br><br></b><a href=\"?q=%23behdad\"><b>#behdad</b></a>",
-      "plain_text": "چطوری دلتون میاد به این گوگولیا انتقاد کنید اصلا #behdad",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/108963",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/r7qThNYdUnj0pw9qunDGYmkFJlto68WVXhQMQ26wubK23cIdXuC9EDYnfd3AojwLFV6nGCI4Ts08hJY2h150f77NDP_B7ewlULzrmRCE7OaPYQ1Ik2hzx-Fr_nozz0SrwcFMMEN8CHh5PqLjuy7_42E7U9O44uOAViv5DwAs8YPpjjA3a3pQD1_DvwXszO1_t9LuzIClOxm1rDIa4OKlXfs9nhizhA_usRhiWqiXD9mqhwQFWlDWcIAnO0WjH6Gwf-w2QzqLpqVnr8J2FITI-6MKYkzJg2aOMn1kzstAJl57V-X-livrRi09okbQ7IzX5MA7aTDDBajiRv7GaQEkhA.jpg",
-          "thumbnail_path": "channels/media_hb/media/ecbc9cd02f486c2d7b68b656.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.4981273408239701
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "358"
-        },
-        {
-          "emoji": "👎",
-          "count": "34"
-        },
-        {
-          "emoji": "🤣",
-          "count": "22"
-        },
-        {
-          "emoji": "👍",
-          "count": "14"
-        },
-        {
-          "emoji": "🤡",
-          "count": "10"
-        }
-      ],
-      "views_label": "7.52K",
-      "posted_at": "2026-10-14T17:46:30+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/108963"
-    },
-    {
-      "id": "Media_HB/108962",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eNcTqghA3_PPljhLQfZXJdI8LxQ-QRMsxZ8lExCIgLAbqm_BnY4Cj8tAbnRX99BLz3QFpA9OqyaJ_TomiArI5GrYZUF0GKRvISe7EloRwJ9Zpr317nX5bazo81pgjDh6CoVOvW4j_Ce7kv0T2tWqhJeOgdJFD3GmSz32V0z0BNx2F-GXoSO7Ba5zEtw-vKyiYOwq2Ilm4xfmHTJx-zbqirjvFxk2n_Eyq5dFeax8HjOiDbIlnxHNibmkxucBMfic5RJycW77Tb8oGkTlyoTJ2CmNCNJZLTFLho282ws0suLYa1r4GkLc83DmJbBdUeNhyQxMxfwut7hLjaRpav-2QQ.jpg",
-      "author_photo_path": "channels/media_hb/media/a9ba80ce3049dd4e9c6d9dbc.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><b>رویترز به نقل از منابع امنیتی دریایی:<br><br> کشتی فله‌بر، دومین کشتی تجاری است که طی ۲۴ ساعت گذشته در نزدیکی تنگه هرمز غرق می‌شود. این کشتی اواخر سپتامبر مورد اصابت قرار گرفته </b>بود",
-      "plain_text": "🚨رویترز به نقل از منابع امنیتی دریایی: کشتی فله‌بر، دومین کشتی تجاری است که طی ۲۴ ساعت گذشته در نزدیکی تنگه هرمز غرق می‌شود. این کشتی اواخر سپتامبر مورد اصابت قرار گرفته بود",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "30"
-        },
-        {
-          "emoji": "❤",
-          "count": "8"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        },
-        {
-          "emoji": "🔥",
-          "count": "1"
-        }
-      ],
-      "views_label": "4.29K",
-      "posted_at": "2026-10-14T16:56:31+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/108962"
-    },
-    {
-      "id": "Media_HB/108961",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eNcTqghA3_PPljhLQfZXJdI8LxQ-QRMsxZ8lExCIgLAbqm_BnY4Cj8tAbnRX99BLz3QFpA9OqyaJ_TomiArI5GrYZUF0GKRvISe7EloRwJ9Zpr317nX5bazo81pgjDh6CoVOvW4j_Ce7kv0T2tWqhJeOgdJFD3GmSz32V0z0BNx2F-GXoSO7Ba5zEtw-vKyiYOwq2Ilm4xfmHTJx-zbqirjvFxk2n_Eyq5dFeax8HjOiDbIlnxHNibmkxucBMfic5RJycW77Tb8oGkTlyoTJ2CmNCNJZLTFLho282ws0suLYa1r4GkLc83DmJbBdUeNhyQxMxfwut7hLjaRpav-2QQ.jpg",
-      "author_photo_path": "channels/media_hb/media/a9ba80ce3049dd4e9c6d9dbc.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> <b>دکتر</b> <b>مطهرنیا تحلیلگر سیاسی معروف:<br><br></b><blockquote><b>جنگ واقعی هنوز شروع نشده؛ اون جنگ‌های ۱۲ روزه و ۴۰ روزه بیشتر برای فشار دیپلماتیک بودن.</b></blockquote><b><br></b><blockquote><b>حماس و حزب‌الله که بازوی ایران حساب می‌شدن، از میدون خارج شدن؛ سوریه که ستون اصلی این ساختار بود، شکست خورد؛ یمن هم داره از دست می‌ره.<br></b></blockquote><blockquote><b>حشدالشعبی قلب این شبکه بود و حالا تفنگ رو گرفتن سمت مغز ایران: یا تسلیم می‌شی، یا نابودت می‌کنیم!</b></blockquote><b><br></b><blockquote><b>اگه جمهوری اسلامی از بین می‌رفت، دیگه کسی نمی‌موند که تنگه رو ببنده و آمریکا هم با همین بهونه می‌تونست کنترلش رو به دست بگیره.<br></b></blockquote><blockquote><b>جنگ بزرگ هنوز شروع نشده؛ تا الان بیشتر فشار دیپلماتیک و اقتصادی بوده، همراه با محاصرهٔ دریایی، هوایی و زمینی.</b></blockquote>",
-      "plain_text": "🔴 دکتر مطهرنیا تحلیلگر سیاسی معروف: جنگ واقعی هنوز شروع نشده؛ اون جنگ‌های ۱۲ روزه و ۴۰ روزه بیشتر برای فشار دیپلماتیک بودن. حماس و حزب‌الله که بازوی ایران حساب می‌شدن، از میدون خارج شدن؛ سوریه که ستون اصلی این ساختار بود، شکست خورد؛ یمن هم داره از دست می‌ره. حشدالشعبی قلب این شبکه بود و حالا تفنگ رو گرفتن سمت مغز ایران: یا تسلیم می‌شی، یا نابودت می‌کنیم! اگه جمهوری اسلامی از بین می‌رفت، دیگه کسی نمی‌موند که تنگه رو ببنده و آمریکا هم با همین بهونه می‌تونست کنترلش رو به دست بگیره. جنگ بزرگ هنوز شروع نشده؛ تا الان بیشتر فشار دیپلماتیک و اقتصادی بوده، همراه با محاصرهٔ دریایی، هوایی و زمینی.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Media_HB/108961",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/jBYB6-x6pos2JWiMQ78c1_DrOwq8stduBzP042ST6ArqRzseQoN0aEXqgwOotqCkWSORtiXxA8LpWIeCGiQzEPkXfUwTza97qtfqVNSOcxML9rfa-NJZF4rV6-74M_woCGye44LNtNplTz-6EIQ5dT13chxaTzRdCx9_3gZaT3cb7r-d9lCEI-IW9NJFvuGfWKp9l7eKRY7Rdzn2yzkrlLNg2qb6zCg611WqHqClP3IE4TR3AKT4TFhMGNIvjMxhlm1cuJbvm_VFRIJEWT7UgVJ8DUBWm55ZgqXNiUTLhAaDJfsRr0US0mQZKvrx7lMCoWQAtPmH-FPbdcqg9ygrcQ",
-          "thumbnail_path": "channels/media_hb/media/017dc6e0e6f198544712e2da.jpg",
-          "duration_label": "0:51",
-          "aspect_ratio": 0.9183673469387662
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "80"
-        },
-        {
-          "emoji": "❤",
-          "count": "8"
-        },
-        {
-          "emoji": "🤣",
-          "count": "7"
-        },
-        {
-          "emoji": "🤡",
-          "count": "2"
-        },
-        {
-          "emoji": "👎",
-          "count": "1"
-        }
-      ],
-      "views_label": "5.26K",
-      "posted_at": "2026-10-14T16:36:48+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Media_HB/108961"
-    },
-    {
-      "id": "Media_HB/108959",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eNcTqghA3_PPljhLQfZXJdI8LxQ-QRMsxZ8lExCIgLAbqm_BnY4Cj8tAbnRX99BLz3QFpA9OqyaJ_TomiArI5GrYZUF0GKRvISe7EloRwJ9Zpr317nX5bazo81pgjDh6CoVOvW4j_Ce7kv0T2tWqhJeOgdJFD3GmSz32V0z0BNx2F-GXoSO7Ba5zEtw-vKyiYOwq2Ilm4xfmHTJx-zbqirjvFxk2n_Eyq5dFeax8HjOiDbIlnxHNibmkxucBMfic5RJycW77Tb8oGkTlyoTJ2CmNCNJZLTFLho282ws0suLYa1r4GkLc83DmJbBdUeNhyQxMxfwut7hLjaRpav-2QQ.jpg",
-      "author_photo_path": "channels/media_hb/media/a9ba80ce3049dd4e9c6d9dbc.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5084922505991291559\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9388.png')\"><b>📈</b></i></tg-emoji> <b> 10٪ شارژ اضافه بر روی واریزی‌های ارز دیجیتال برای کاربران بری بت  </b><tg-emoji emoji-id=\"5897658922600240288\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD90.png')\"><b>⭐️</b></i></tg-emoji><tg-emoji emoji-id=\"5895708410447401643\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')\"><b>🌟</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5852609349934911278\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i></tg-emoji> <b>در سایت بری بت وارد حساب کاربری خود شوید.<br><br></b><b><tg-emoji emoji-id=\"5816492162488995555\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B8.png')\"><b>💸</b></i></tg-emoji></b><b> از روش ارز دیجیتال اقدام به شارژ نمایید.</b><b><tg-emoji emoji-id=\"5859219059790319302\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948B.png')\"><b>🔋</b></i></tg-emoji></b><b><br><br></b><b><tg-emoji emoji-id=\"6028306016653807599\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FAAA9.png')\"><b>🪩</b></i></tg-emoji></b><b> بر روی واریزی‌های ارز دیجیتال تا </b><b><tg-emoji emoji-id=\"5776134506587099400\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/30E283A3.png')\"><b>0️⃣</b></i></tg-emoji></b><b><tg-emoji emoji-id=\"5773934108942011966\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/31E283A3.png')\"><b>1️⃣</b></i></tg-emoji></b><b><tg-emoji emoji-id=\"5776368560829894277\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A3.png')\"><b>🔣</b></i></tg-emoji></b><b> شارژ اضافه دریافت نمایید.</b><b><tg-emoji emoji-id=\"5990147899403539264\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')\"><b>💰</b></i></tg-emoji></b><br><br><tg-emoji emoji-id=\"6030430277413638534\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> ورود به سایت:<tg-emoji emoji-id=\"5800879101669544181\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰</b></i>g22<br><tg-emoji emoji-id=\"5789894477996888286\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD90.png')\"><b>⭐</b></i></tg-emoji>  <a href=\"https://leworkcihsa.shop/fa/affiliates/?btag=914641_l303106\" target=\"_blank\" rel=\"noopener\">https://leworkcihsa.shop/fa/affiliates/?btag=914641_l303106</a><br><br><tg-emoji emoji-id=\"5848021027782661221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')\"><b>🌟</b></i></tg-emoji> کانال رسمی ما در تلگرام: <tg-emoji emoji-id=\"5800879101669544181\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji><br><tg-emoji emoji-id=\"5776144123018876205\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i></tg-emoji> <a href=\"https://t.me/BerryBetOfficial\" target=\"_blank\" rel=\"noopener\">https://t.me/BerryBetOfficial</a>",
-      "plain_text": "📈 10٪ شارژ اضافه بر روی واریزی‌های ارز دیجیتال برای کاربران بری بت ⭐️🌟 📢 در سایت بری بت وارد حساب کاربری خود شوید. 💸 از روش ارز دیجیتال اقدام به شارژ نمایید.🔋 🪩 بر روی واریزی‌های ارز دیجیتال تا 0️⃣1️⃣🔣 شارژ اضافه دریافت نمایید.💰 ✅ ورود به سایت:👇🅰g22 ⭐ https://leworkcihsa.shop/fa/affiliates/?btag=914641_l303106 🌟 کانال رسمی ما در تلگرام: 👇 🔗 https://t.me/BerryBetOfficial",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/108959",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/DeSBvjFXY2ufJgjp5ZulN9VuZqDy5CFXo0K1Bl8AlJjoKd6e5P1lPvgL9Hwl5SHFKhH0SVDk-DMFTQpMAu8tUcnOPr19kijjyzCdax1IC41e58xdI3_CGwn6Pq6op84oij8HG-ldmP8s1sHSg-R6Q5Ux8aVWTdWyG4lhNHXGJA8zc1FO4fTd5twQOAS6U8vzjKy1IpcXTqqYF-e1jAjzF4EPdlks-o9_luhgfYUvlrnXwlSNjhUid-m_xKtcaefKGC0HYOmQlRdAvdqpcFT-yKjnLpzY2lyQkBcVEcwG8tbNMSFnBkrSNNnbG5GcPNFjHUNAXxzuhvTQqWxEzLeEwQ.jpg",
-          "thumbnail_path": "channels/media_hb/media/b56467792b829be533013e3f.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "😭",
-          "count": "1"
-        }
-      ],
-      "views_label": "4.9K",
-      "posted_at": "2026-10-14T16:35:59+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/108959"
-    },
-    {
-      "id": "Media_HB/108960",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eNcTqghA3_PPljhLQfZXJdI8LxQ-QRMsxZ8lExCIgLAbqm_BnY4Cj8tAbnRX99BLz3QFpA9OqyaJ_TomiArI5GrYZUF0GKRvISe7EloRwJ9Zpr317nX5bazo81pgjDh6CoVOvW4j_Ce7kv0T2tWqhJeOgdJFD3GmSz32V0z0BNx2F-GXoSO7Ba5zEtw-vKyiYOwq2Ilm4xfmHTJx-zbqirjvFxk2n_Eyq5dFeax8HjOiDbIlnxHNibmkxucBMfic5RJycW77Tb8oGkTlyoTJ2CmNCNJZLTFLho282ws0suLYa1r4GkLc83DmJbBdUeNhyQxMxfwut7hLjaRpav-2QQ.jpg",
-      "author_photo_path": "channels/media_hb/media/a9ba80ce3049dd4e9c6d9dbc.jpg",
-      "body_html": "بری بت بهترین انتخاب برای شماست<tg-emoji emoji-id=\"5300815548295165085\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9186.png')\"><b>👆</b></i></tg-emoji>",
-      "plain_text": "بری بت بهترین انتخاب برای شماست👆",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤡",
-          "count": "5"
-        },
-        {
-          "emoji": "😭",
-          "count": "1"
-        }
-      ],
-      "views_label": "4.77K",
-      "posted_at": "2026-10-14T16:35:59+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/108960"
-    },
-    {
-      "id": "Media_HB/108958",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eNcTqghA3_PPljhLQfZXJdI8LxQ-QRMsxZ8lExCIgLAbqm_BnY4Cj8tAbnRX99BLz3QFpA9OqyaJ_TomiArI5GrYZUF0GKRvISe7EloRwJ9Zpr317nX5bazo81pgjDh6CoVOvW4j_Ce7kv0T2tWqhJeOgdJFD3GmSz32V0z0BNx2F-GXoSO7Ba5zEtw-vKyiYOwq2Ilm4xfmHTJx-zbqirjvFxk2n_Eyq5dFeax8HjOiDbIlnxHNibmkxucBMfic5RJycW77Tb8oGkTlyoTJ2CmNCNJZLTFLho282ws0suLYa1r4GkLc83DmJbBdUeNhyQxMxfwut7hLjaRpav-2QQ.jpg",
-      "author_photo_path": "channels/media_hb/media/a9ba80ce3049dd4e9c6d9dbc.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> <b>تورم آمریکا در سپتامبر به بالاترین حد خود در سال رسید: ۳.۷ درصد</b><br><br>-همتی نفهمه فقط، سی تا مصاحبه دیگه در مورد اقتصاد میکنه حالا",
-      "plain_text": "🔴 تورم آمریکا در سپتامبر به بالاترین حد خود در سال رسید: ۳.۷ درصد -همتی نفهمه فقط، سی تا مصاحبه دیگه در مورد اقتصاد میکنه حالا",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "136"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        },
-        {
-          "emoji": "💔",
-          "count": "1"
-        }
-      ],
-      "views_label": "5.64K",
-      "posted_at": "2026-10-14T16:05:58+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/108958"
-    },
-    {
-      "id": "Media_HB/108955",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eNcTqghA3_PPljhLQfZXJdI8LxQ-QRMsxZ8lExCIgLAbqm_BnY4Cj8tAbnRX99BLz3QFpA9OqyaJ_TomiArI5GrYZUF0GKRvISe7EloRwJ9Zpr317nX5bazo81pgjDh6CoVOvW4j_Ce7kv0T2tWqhJeOgdJFD3GmSz32V0z0BNx2F-GXoSO7Ba5zEtw-vKyiYOwq2Ilm4xfmHTJx-zbqirjvFxk2n_Eyq5dFeax8HjOiDbIlnxHNibmkxucBMfic5RJycW77Tb8oGkTlyoTJ2CmNCNJZLTFLho282ws0suLYa1r4GkLc83DmJbBdUeNhyQxMxfwut7hLjaRpav-2QQ.jpg",
-      "author_photo_path": "channels/media_hb/media/a9ba80ce3049dd4e9c6d9dbc.jpg",
-      "body_html": "<b>هوش مصنوعی برای انسان خیلی زود بود.<br>دلقک این چیه ساختی.</b>",
-      "plain_text": "هوش مصنوعی برای انسان خیلی زود بود. دلقک این چیه ساختی.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Media_HB/108955",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/vN_IzcM3odFB4pdl1IoYUQrk7vDiCpyDF1FK5XZwCG7CAAZx1uxdSeNoW497Ag8g8fNbHB7TTRyEl8AaLSMPQGvCpv5Tq9ztBTLY6GmxqoFZcBqEJz-v6G2JsCWkbmQtzPf5Xz1Wnfq9seEf9rW6FD70zNOXI2xLZjaRTz_OjGT8aPQRoTiV2CLPU2X7Q7jLR5_zBjUttHVbpOUA4Wjm_tJI6AZgJeXHpXYdPx4NU1u5-QjQP8ScJg1SBPzVhD_ILqik-TSzjLCICHcvZNcrCny4vywAo5QRnlbxvQCnJXoAI6nRcb59QHPau9VkTv-VQJQZ1qkvUq3ObdvejZYMOQ",
-          "thumbnail_path": "channels/media_hb/media/ace0363bece304680baba55d.jpg",
-          "duration_label": "0:22",
-          "aspect_ratio": 0.8324742268041093
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "169"
-        },
-        {
-          "emoji": "❤",
-          "count": "3"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        },
-        {
-          "emoji": "👎",
-          "count": "2"
-        }
-      ],
-      "views_label": "7.44K",
-      "posted_at": "2026-10-14T14:21:22+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/108955"
-    },
-    {
-      "id": "Media_HB/108954",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eNcTqghA3_PPljhLQfZXJdI8LxQ-QRMsxZ8lExCIgLAbqm_BnY4Cj8tAbnRX99BLz3QFpA9OqyaJ_TomiArI5GrYZUF0GKRvISe7EloRwJ9Zpr317nX5bazo81pgjDh6CoVOvW4j_Ce7kv0T2tWqhJeOgdJFD3GmSz32V0z0BNx2F-GXoSO7Ba5zEtw-vKyiYOwq2Ilm4xfmHTJx-zbqirjvFxk2n_Eyq5dFeax8HjOiDbIlnxHNibmkxucBMfic5RJycW77Tb8oGkTlyoTJ2CmNCNJZLTFLho282ws0suLYa1r4GkLc83DmJbBdUeNhyQxMxfwut7hLjaRpav-2QQ.jpg",
-      "author_photo_path": "channels/media_hb/media/a9ba80ce3049dd4e9c6d9dbc.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><b>احتمال گران شدن ۴۰ درصدی اینترنت از امشب<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>بر اساس اطلاعات دریافتی از سوی اپراتورها، تعرفه اینترنت از بامداد پنجشنبه، ۲۳ مهرماه، ۴۰ درصد افزایش خواهد یافت.</b>",
-      "plain_text": "🚨🚨احتمال گران شدن ۴۰ درصدی اینترنت از امشب 🔹بر اساس اطلاعات دریافتی از سوی اپراتورها، تعرفه اینترنت از بامداد پنجشنبه، ۲۳ مهرماه، ۴۰ درصد افزایش خواهد یافت.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "😡",
-          "count": "310"
-        },
-        {
-          "emoji": "😐",
-          "count": "14"
-        },
-        {
-          "emoji": "👎",
-          "count": "8"
-        },
-        {
-          "emoji": "🤣",
-          "count": "7"
-        },
-        {
-          "emoji": "💔",
-          "count": "3"
-        },
-        {
-          "emoji": "🤡",
-          "count": "2"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        }
-      ],
-      "views_label": "9.4K",
-      "posted_at": "2026-10-14T12:45:04+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/108954"
     }
   ]
 }
