@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-17T16:33:11.180Z",
+  "fetched_at": "2026-10-17T18:37:00.964Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,105 @@
     "subscriber_count": "14.2K"
   },
   "posts": [
+    {
+      "id": "DEJradio/8618",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/IJ3OruUS4HFmIYXW3lvJcgfjOYrWHXQ9wMFMcrD7qoWBFa7Sqcef-YN_6FciRgzBR2506RkqzfUHDWlDA7gNMJQPD3NpVC2q2Gw0hAQxPwdCUoeTgaDQY73OnuK_6xLatRvLHIJy2EHMfgFcMAPSMcIFBE_octYMH7IsdgKtom_Pm6rhQ3TkJZyDrTgyaE34sjK1L3dgtJdUZqgytiQZzrZvm-RHu6IXFiGplEdbCUrWYBIbFL3CZU8Wc2zk2JZdCkFksH2thA0f7-yM2156ZSyf79HippH_fiQsIfp9_66hxgBGc1uHklrlE0AUV3fLHp4NfXoBueCjfvNRJNE8bQ.jpg",
+      "author_photo_path": "channels/dejradio/media/2def67188c8a443d109974fb.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5949286409478082944\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9598.png')\"><b>🕘</b></i> خبر ۲۱<br>شنبه ۲۵ مهر ۱۴۰۵<br><br><a href=\"?q=%23%D8%AE%D8%A8%D8%B1%DB%B2%DB%B1\">#خبر۲۱</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "⭕️🕘 خبر ۲۱ شنبه ۲۵ مهر ۱۴۰۵ #خبر۲۱ @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/8618",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/GzxUySv2UkzsDJwVzqJF4mFMmXw8ksGTyhvckX9mUS4QAr8k6ZS4OtZY_KlUG7E29NZVDn3KLBiL_prpb0S6SNNBQFr9ClgmaJHGr095s-51-xD8jmn2DpOCEqpHxw_PZ9PP2VJxT0rHMsOpyRA300HQtRrB7zB_8AwV4E3gLmHXVqD-6ky-Gf5B7ruzClUB1cn1zj5sVMWW1EzUzFTzdI-qWtze38soiBs1zvA1o8UrDwDFxbIQbq2DNTLTsdhAACuSr0SBbjw0MSDdYLaH2W437RvmtDbMG5hYqQhV6iBKAY-Jelgsou5tlF6HsdJRYaIX_qLT6ekly6w04NL1jg",
+          "thumbnail_path": "channels/dejradio/media/d1be9b42138d4a344c8ce84f.jpg",
+          "duration_label": "3:19",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "3"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        }
+      ],
+      "views_label": "276",
+      "posted_at": "2026-10-17T18:19:10+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/8618"
+    },
+    {
+      "id": "DEJradio/8617",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/IJ3OruUS4HFmIYXW3lvJcgfjOYrWHXQ9wMFMcrD7qoWBFa7Sqcef-YN_6FciRgzBR2506RkqzfUHDWlDA7gNMJQPD3NpVC2q2Gw0hAQxPwdCUoeTgaDQY73OnuK_6xLatRvLHIJy2EHMfgFcMAPSMcIFBE_octYMH7IsdgKtom_Pm6rhQ3TkJZyDrTgyaE34sjK1L3dgtJdUZqgytiQZzrZvm-RHu6IXFiGplEdbCUrWYBIbFL3CZU8Wc2zk2JZdCkFksH2thA0f7-yM2156ZSyf79HippH_fiQsIfp9_66hxgBGc1uHklrlE0AUV3fLHp4NfXoBueCjfvNRJNE8bQ.jpg",
+      "author_photo_path": "channels/dejradio/media/2def67188c8a443d109974fb.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i> اداره‌کل اطلاعات استان ایلام از بازداشت ۱۱ تن در شهرستان ملکشاهی، در ارتباط با اعتراضات دی‌ماه ۱۴۰۴ خبر داد؛ بازداشت‌هایی که با طرح اتهامات سنگین امنیتی و بدون انتشار اسناد و مدارک قابل بررسی اعلام شده‌اند.<br><br>بر اساس اطلاعیه منتشرشده در روز شنبه ۲۵ مهرماه، وزارت اطلاعات جمهوری اسلامی مدعی شده که این افراد در قالب سه گروه جداگانه سازماندهی شده و در جریان اعتراضات دی‌ماه در تیراندازی به مراکز انتظامی، تخریب اموال عمومی و هدایت معترضان نقش داشته‌اند.<br><br>این بازداشت‌ها در حالی صورت گرفته که ملکشاهی در جریان اعتراضات دی‌ماه شاهد سرکوب خونین معترضان توسط نیروهای امنیتی جمهوری اسلامی بود.<br><br><a href=\"?q=%23%D8%AF%DB%8C%DB%B1%DB%B4%DB%B0%DB%B4\">#دی۱۴۰۴</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "🔺📢 اداره‌کل اطلاعات استان ایلام از بازداشت ۱۱ تن در شهرستان ملکشاهی، در ارتباط با اعتراضات دی‌ماه ۱۴۰۴ خبر داد؛ بازداشت‌هایی که با طرح اتهامات سنگین امنیتی و بدون انتشار اسناد و مدارک قابل بررسی اعلام شده‌اند. بر اساس اطلاعیه منتشرشده در روز شنبه ۲۵ مهرماه، وزارت اطلاعات جمهوری اسلامی مدعی شده که این افراد در قالب سه گروه جداگانه سازماندهی شده و در جریان اعتراضات دی‌ماه در تیراندازی به مراکز انتظامی، تخریب اموال عمومی و هدایت معترضان نقش داشته‌اند. این بازداشت‌ها در حالی صورت گرفته که ملکشاهی در جریان اعتراضات دی‌ماه شاهد سرکوب خونین معترضان توسط نیروهای امنیتی جمهوری اسلامی بود. #دی۱۴۰۴ @DEJradio",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/DEJradio/8617",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/eyCkkpdVPWvY4D8PVAv1YyupgNLcs4LpFuRTs6tF6nKIlLyvc0z8JQSpuJoj38XCRT7bXrqYxEzYpLYJpOyp_4qRrPpHbRhjraqJwgqbKHY0-bD1g-ULvLClpfmYOces_5crgQ-KBwfmiB4tDcbo_ZqU-qNqOhLW-cUATse9TvrDUIH4IqijbliEVQLNi6b0urGC24pBgGgttzSuSCjGHY2VkWvTlFYMLkjRtN4D3AcS-BVfr7ffQyMNv9mDoyuH0J7xdNw75qO7ZB6PTWBEyKBuKBhK0NU3WcaAjmgqvKDGqn2PkpdYZ4ZIgIsWvUSc6SmF2uFS1BaP_oF4YZS5Xg.jpg",
+          "thumbnail_path": "channels/dejradio/media/1c9c86ee150f86cf1cc6e790.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤬",
+          "count": "10"
+        },
+        {
+          "emoji": "🤮",
+          "count": "1"
+        },
+        {
+          "emoji": "🖕",
+          "count": "1"
+        }
+      ],
+      "views_label": "602",
+      "posted_at": "2026-10-17T17:49:54+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/8617"
+    },
+    {
+      "id": "DEJradio/8616",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/IJ3OruUS4HFmIYXW3lvJcgfjOYrWHXQ9wMFMcrD7qoWBFa7Sqcef-YN_6FciRgzBR2506RkqzfUHDWlDA7gNMJQPD3NpVC2q2Gw0hAQxPwdCUoeTgaDQY73OnuK_6xLatRvLHIJy2EHMfgFcMAPSMcIFBE_octYMH7IsdgKtom_Pm6rhQ3TkJZyDrTgyaE34sjK1L3dgtJdUZqgytiQZzrZvm-RHu6IXFiGplEdbCUrWYBIbFL3CZU8Wc2zk2JZdCkFksH2thA0f7-yM2156ZSyf79HippH_fiQsIfp9_66hxgBGc1uHklrlE0AUV3fLHp4NfXoBueCjfvNRJNE8bQ.jpg",
+      "author_photo_path": "channels/dejradio/media/2def67188c8a443d109974fb.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><tg-emoji emoji-id=\"5951842387465605469\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji> خبر؛<br>برگزاری کلاس‌های بصیرت‌افزایی برای کارکنان و خانواده‌های ارتشی<br><br><a href=\"?q=%23%D8%A7%D8%B1%D8%AA%D8%B4\">#ارتش</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "🔺⭕️ خبر؛ برگزاری کلاس‌های بصیرت‌افزایی برای کارکنان و خانواده‌های ارتشی #ارتش @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/8616",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/TXtQpzsYtcUwq3nbHB-Dses4EGENjt9_2mN06LL6k-dXVd4lxxp69lktdVtAoYIqdRsYYR8-DS3TmRmPYQpu4Qnqf0NVZu_OKSzX90HvGOae51UXKRafuZWSE7UQ7_S-ZkTE2ctbfRVh2z2fKRsg2MmNRaimwixES7u_YHIhp3PHYP8FdkmzSjVpmGpRgpfZPTlpCyKPxVdIAFpsqHX2nRIj80kFAdwgfC-ndbTo9TL0StKSwfpNu4noPffJQDh_Av1QEl6xJ3MCU-BdGaDpOpd5L7D4gbBgVG0fkcMYehK_yLrA4Dmo3v_uD6z-Auqoq32XYVVGNrZ8mfqWBZWwGQ",
+          "thumbnail_path": "channels/dejradio/media/23491905f4f03e95f89cd599.jpg",
+          "duration_label": "1:05",
+          "aspect_ratio": 1.7824267782426628
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "4"
+        }
+      ],
+      "views_label": "690",
+      "posted_at": "2026-10-17T17:37:37+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/8616"
+    },
     {
       "id": "DEJradio/8615",
       "author_name": "DEJ",
@@ -30,19 +129,23 @@
       ],
       "reactions": [
         {
-          "emoji": "🔥",
-          "count": "5"
+          "emoji": "👏",
+          "count": "20"
         },
         {
-          "emoji": "👏",
-          "count": "3"
+          "emoji": "🔥",
+          "count": "14"
         },
         {
           "emoji": "❤",
+          "count": "2"
+        },
+        {
+          "emoji": "🤝",
           "count": "1"
         }
       ],
-      "views_label": "306",
+      "views_label": "1.18K",
       "posted_at": "2026-10-17T16:21:29+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8615"
@@ -68,18 +171,22 @@
       "reactions": [
         {
           "emoji": "🤮",
-          "count": "27"
+          "count": "33"
         },
         {
           "emoji": "😁",
-          "count": "8"
+          "count": "9"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
         },
         {
           "emoji": "🔥",
           "count": "1"
         }
       ],
-      "views_label": "1.11K",
+      "views_label": "1.72K",
       "posted_at": "2026-10-17T14:50:54+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8614"
@@ -105,22 +212,26 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "32"
+          "count": "39"
         },
         {
           "emoji": "🫡",
-          "count": "16"
+          "count": "18"
         },
         {
           "emoji": "❤",
-          "count": "5"
+          "count": "8"
         },
         {
           "emoji": "🤝",
-          "count": "2"
+          "count": "3"
+        },
+        {
+          "emoji": "🤔",
+          "count": "1"
         }
       ],
-      "views_label": "1.28K",
+      "views_label": "1.71K",
       "posted_at": "2026-10-17T14:14:57+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8613"
@@ -146,7 +257,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "21"
+          "count": "25"
         },
         {
           "emoji": "🤯",
@@ -165,7 +276,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.52K",
+      "views_label": "1.78K",
       "posted_at": "2026-10-17T12:37:15+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/8612"
@@ -191,7 +302,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "13"
+          "count": "14"
         },
         {
           "emoji": "🔥",
@@ -206,7 +317,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.65K",
+      "views_label": "1.84K",
       "posted_at": "2026-10-17T10:12:08+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8611"
@@ -236,11 +347,15 @@
         },
         {
           "emoji": "👏",
-          "count": "15"
+          "count": "17"
         },
         {
           "emoji": "👍",
           "count": "6"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
         },
         {
           "emoji": "👎",
@@ -259,7 +374,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.81K",
+      "views_label": "1.98K",
       "posted_at": "2026-10-17T10:09:38+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8610"
@@ -300,7 +415,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.81K",
+      "views_label": "1.97K",
       "posted_at": "2026-10-17T09:31:07+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8609"
@@ -326,7 +441,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "53"
+          "count": "54"
         },
         {
           "emoji": "🖕",
@@ -345,7 +460,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.97K",
+      "views_label": "2.11K",
       "posted_at": "2026-10-17T07:35:57+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8608"
@@ -371,14 +486,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "17"
+          "count": "18"
         },
         {
           "emoji": "😡",
           "count": "8"
         }
       ],
-      "views_label": "1.85K",
+      "views_label": "1.97K",
       "posted_at": "2026-10-17T07:19:39+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8607"
@@ -419,7 +534,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.41K",
+      "views_label": "2.45K",
       "posted_at": "2026-10-16T19:27:47+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8606"
@@ -468,7 +583,7 @@
           "count": "2"
         }
       ],
-      "views_label": "2.43K",
+      "views_label": "2.47K",
       "posted_at": "2026-10-16T18:59:27+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8605"
@@ -485,8 +600,8 @@
           "kind": "video",
           "asset_url": "https://t.me/DEJradio/8604",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/jadytfV9unDtf8keaOi1cBe3f3aBycisX4kSLs8ZsWoBJNcY5bJ8kr2ky2ADFlUkAOfUByMfQIS0rmvHeCXCxywyjkhIFuuSTcyb3d5HRc7cWj3WtRT1JyW-j7lLXEix1gCwsOYDiJgQh9XeDg32AQu4Qij-FAGD4piaV9e6-r0i4enwB6eFElCathQX8fx5KjcrJ-EAXxG993ckQydg8F_UMwMuVf1xPQVuWrZ_6AJagG-qsN22X5nk5raot85j9hyOf0u_loUC5LjvnNRebvNSuylEOTpsHY05MFanrrwY-VT2dh528kZe9TMOGQ04QM2jzr-MRXxE1IcpMXARhg",
-          "thumbnail_path": "channels/dejradio/media/eb853f3ca3fdf4dba2907045.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/A1VCeSwnB2N2Y3efbNzLs_ViqhiLhOMQi-lRJ6KNw4CWud6PseJENFcE8OiUs2tS9KcwzRyVqD_YuerztICNGmZvCkEWNRIUtvug5F746_B0aP_Qw3DJ3EQXqsimm0coyl8a4YpUkI23NiaIXpDfjeDm-iDGqLvx38hXwwEh5IAgSrn-cc5wDfU_0SM0EOHrYLWzgomi1a2x1IXRrJPkEGE0HLxrRsW8NSdMbz8HugxEsDLOSCPoG2dpcLnxQ0mL60EGS88uK3ph1KIrXjO7FYJcV7fJNBz-uSX0PTUPxe44mYGGYF5SP0UZmke9HyygkHo5gMqIaYPvRAgZhwds5Q",
+          "thumbnail_path": "channels/dejradio/media/e0af237557dbd636d6c94aaa.jpg",
           "duration_label": "0:14",
           "aspect_ratio": 0.7500000000000188
         }
@@ -505,7 +620,7 @@
           "count": "4"
         }
       ],
-      "views_label": "2.22K",
+      "views_label": "2.27K",
       "posted_at": "2026-10-16T18:42:39+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8604"
@@ -522,8 +637,8 @@
           "kind": "video",
           "asset_url": "https://t.me/DEJradio/8603",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/LyqmmEY7St7_uoSsXhyEsUqR8FOa798GLX9noPi96sv4dStX-rac1TduiiXCbbP92hnFXTRPWalcA4MEq-1QQbG3ZgSxP7F5xUkd1uKnyvv9wLPgOj1to9syR0pUIXdxy3jFzk-YcFPV-nVpYkx0PUBCUbBI82zPPLdDXMPU2JViyeb0cRQ4h42T6-6lz_Zo_a-fdY2V5DwRs7TcQbUITEHDaO30n6npeng-dj_Eq9GVxFlDi0yB-41iLTh0tnlh3mhYNSm9FN-iR2kv_n-xiWAYZWzvvzkH5FclgyFKqEA7a1iWmTTxIhFbge10vIhrWBxz2I9V_E6ndbypX_qKKg",
-          "thumbnail_path": "channels/dejradio/media/a8476b6e8c7bb9a410b2da65.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qdLNEEU-6sKkl0Em_vnpRK48ToZ0X1WxGcerD7kfb-_YUvHRCJooyW2uR_7R1qw948_jcrX29u1i8dZUReDsMrfPo3yNicsjO0aoXmCcpoOaouuAV3kR1fG2gfaZJ1m7tGNo6-vbNbR1HDT_LDdMJnnn7kg9pmgB7NP0fhi2gR6baqAuOc22tUxH2D2qB5y0_sE1f6BZjuTEOFCuUP5U78Fm5WshqaP_JIBygwwkxmwui5huZP_903gLZJieTRg52gJZN0MG1ajzg-Kn3m6BOq1lK0kROICFOBYe111_8gWi5r4yfV18bhlyGZl_SF1UmVyxwKaTARZ1GY7dJvqfQw",
+          "thumbnail_path": "channels/dejradio/media/17f2aeb1f62568dec5bfefb7.jpg",
           "duration_label": "3:12",
           "aspect_ratio": 1.7777777777777777
         }
@@ -542,7 +657,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.02K",
+      "views_label": "2.1K",
       "posted_at": "2026-10-16T18:27:37+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8603"
@@ -569,7 +684,7 @@
           "count": "4"
         }
       ],
-      "views_label": "2.16K",
+      "views_label": "2.2K",
       "posted_at": "2026-10-16T14:36:59+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/8602"
@@ -614,7 +729,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.56K",
+      "views_label": "1.59K",
       "posted_at": "2026-10-16T14:29:22+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8601"
@@ -655,7 +770,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.91K",
+      "views_label": "1.94K",
       "posted_at": "2026-10-16T14:25:28+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8600"
@@ -700,7 +815,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.19K",
+      "views_label": "1.2K",
       "posted_at": "2026-10-16T14:11:13+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8599"
@@ -3988,129 +4103,6 @@
       "posted_at": "2026-10-13T05:50:23+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8508"
-    },
-    {
-      "id": "DEJradio/8507",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/B5sc1Po_VYGRBZ3pvU-fm23LkcIFsIU6qfhtLXKgj0BTatqpSsLjXOYhNKtex4YGT28588bBNQT0ai2LQlYXO4icZzGL69_B62K1anFso7PQuNsm_8u6YQMCkN0URRQaBVQe7x5unhuI19exn7QWAbzGfSPKhLJzY_Jxj5Y_sk9AlbpLhLrBh47smvwxYxJqm17NKtqPL4-4PSVL8LP26WE_WuXDlpnzyp8XK4V9lWlsvY5EIxnoo1uPHCyiTzEnUiRKvsW-qoJhmgQLW4DNwtBXegUV7TsqXK_XfUROmlIby_CMYbURSc8FavobxM3xPzgxZni0CmpFWA-HbKtSuw.jpg",
-      "author_photo_path": "channels/dejradio/media/fbfbad530e4fd76a0a71244c.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5949286409478082944\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9598.png')\"><b>🕘</b></i> خبر ۲۱<br>دوشنبه ۲۰ مهرماه ۱۴۰۵<br><br><a href=\"?q=%23%D8%AE%D8%A8%D8%B1%DB%B2%DB%B1\">#خبر۲۱</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "⭕️🕘 خبر ۲۱ دوشنبه ۲۰ مهرماه ۱۴۰۵ #خبر۲۱ @DEJradio",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/DEJradio/8507",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ol12Pfza2V6LeaD5rnx6DqAhch10kD9R4pi2Se99Z1mBB41dk3xo0ZxjTyXTKVjtmeET85lx9Rtwd1YSDhabQ58GQUYywH5Csn_5y0tAnhao08I-7JnuqeVppKtO6MGIvyM6ka6Sgc4Kba-O5jT4aE4WINjVr6LxOBP395I4jqfy1WsOrR_Uwd1oeZn41LbGq4DQ3ZB5-tabhMu6M414CYOb44UAlAa8azSmjj-DqS19Edbhkpfu9-0QiV_bnskOsnYadCmDBxL1SiYgXOD1dsy8QKxf890JC2b-4YsLkr4JeHAa8OXMTqgSjWFlrfl4OlGyeUL6DpXcMeAMc-8Bdg",
-          "thumbnail_path": "channels/dejradio/media/4f5736bc1a435f9e51d9beb0.jpg",
-          "duration_label": "2:26",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "6"
-        }
-      ],
-      "views_label": "900",
-      "posted_at": "2026-10-13T05:05:21+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/8507"
-    },
-    {
-      "id": "DEJradio/8506",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/B5sc1Po_VYGRBZ3pvU-fm23LkcIFsIU6qfhtLXKgj0BTatqpSsLjXOYhNKtex4YGT28588bBNQT0ai2LQlYXO4icZzGL69_B62K1anFso7PQuNsm_8u6YQMCkN0URRQaBVQe7x5unhuI19exn7QWAbzGfSPKhLJzY_Jxj5Y_sk9AlbpLhLrBh47smvwxYxJqm17NKtqPL4-4PSVL8LP26WE_WuXDlpnzyp8XK4V9lWlsvY5EIxnoo1uPHCyiTzEnUiRKvsW-qoJhmgQLW4DNwtBXegUV7TsqXK_XfUROmlIby_CMYbURSc8FavobxM3xPzgxZni0CmpFWA-HbKtSuw.jpg",
-      "author_photo_path": "channels/dejradio/media/fbfbad530e4fd76a0a71244c.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')\"><b>🎥</b></i> رنگ‌های عجیب و غریب پهپادهای سپاه در تجمعات شبانه سوژه یکی از شهروندان در خرم‌آباد شد، \"آبی، صورتی و چریکی\" که برای جلب توجه و تبلیغات خیابان به خیابان گردانده می‌شود.<br><br><a href=\"?q=%23IRGCterrorists\">#IRGCterrorists</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "🔺🎥 رنگ‌های عجیب و غریب پهپادهای سپاه در تجمعات شبانه سوژه یکی از شهروندان در خرم‌آباد شد، \"آبی، صورتی و چریکی\" که برای جلب توجه و تبلیغات خیابان به خیابان گردانده می‌شود. #IRGCterrorists @DEJradio",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/DEJradio/8506",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/YDWgkzB8Z4c2iGK0J9uLDy5cfePlmgrY3TPhvkwt4qjm7epYkeCPMG_2Ky6AMMkejtPreEtenqAo_3B5M3CClpPY9WQriP3mTTyeSO8gCfIJNqgv36c4X_4fgNQZSQymQa7rAB4p-Nvg3s4MfpHpWtkuZoS4s8KsZA8AW0ID8b3PO8gFPX-UlJn7tYE4eLotuAoCIgC_po4snsDLXQRe3dc_K6HZs9AkrTif3iIUA7uyIp7Oimzzk-5nfD0Z_b7WPkH6p7w_dtbirYsU5fpbhPvaNcgDbIgFoDgOLNd07qKJQNAI3bHC5k3UlXEEWrYDU56KmrndI3C7VQopqMEPIA",
-          "thumbnail_path": "channels/dejradio/media/10641b8f0efce71eac2465b5.jpg",
-          "duration_label": "0:24",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤮",
-          "count": "57"
-        },
-        {
-          "emoji": "😁",
-          "count": "6"
-        },
-        {
-          "emoji": "👀",
-          "count": "4"
-        },
-        {
-          "emoji": "😐",
-          "count": "3"
-        },
-        {
-          "emoji": "🖕",
-          "count": "1"
-        }
-      ],
-      "views_label": "1.77K",
-      "posted_at": "2026-10-12T20:26:03+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/8506"
-    },
-    {
-      "id": "DEJradio/8505",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/B5sc1Po_VYGRBZ3pvU-fm23LkcIFsIU6qfhtLXKgj0BTatqpSsLjXOYhNKtex4YGT28588bBNQT0ai2LQlYXO4icZzGL69_B62K1anFso7PQuNsm_8u6YQMCkN0URRQaBVQe7x5unhuI19exn7QWAbzGfSPKhLJzY_Jxj5Y_sk9AlbpLhLrBh47smvwxYxJqm17NKtqPL4-4PSVL8LP26WE_WuXDlpnzyp8XK4V9lWlsvY5EIxnoo1uPHCyiTzEnUiRKvsW-qoJhmgQLW4DNwtBXegUV7TsqXK_XfUROmlIby_CMYbURSc8FavobxM3xPzgxZni0CmpFWA-HbKtSuw.jpg",
-      "author_photo_path": "channels/dejradio/media/fbfbad530e4fd76a0a71244c.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A1.png')\"><b>🤡</b></i><tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji> آرزوی یک حکومتی:<br>انشالله حیفا و تل‌آویو را با خاک یکسان کنیم!<br><br><a href=\"?q=%23%D8%AD%DA%A9%D9%88%D9%85%D8%AA%DB%8C\">#حکومتی</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "🤡🔺 آرزوی یک حکومتی: انشالله حیفا و تل‌آویو را با خاک یکسان کنیم! #حکومتی @DEJradio",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/DEJradio/8505",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ADDRvqbutGWNz2zR8mEw5dO3vCbcxXZsQiwD_-1mVkGMd9iUkU4-5-z-G6qKBhpJHr9Eb8-BvCqi_1Oj6m7IArPlvKKhfgqG-yXZ6nabD3P8w1hnBHFBw_Dbe4RyvpdnvVTqcT9yuvYzwmjsRVjCu5TXIQYoBGnzhZDx1CPmW95oDRBtNo1N2VPy1oSo7asYG2Fk396c9iYn6L5SB-cykGfVqlcViATHi1gfwJQBlwhjlBuIz-VpgUZVPZUIdoJH6jT-lplxhSBPOuNW3Gr7GkSQMQz-Doyxw5s9zKY_ETjN9KxDXlmngCV1crPkvYThBNJj9DOsLrc9TSnyYvSDWw",
-          "thumbnail_path": "channels/dejradio/media/f35f63d49271c8cfbec80e89.jpg",
-          "duration_label": "0:13",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "😁",
-          "count": "54"
-        },
-        {
-          "emoji": "🖕",
-          "count": "47"
-        },
-        {
-          "emoji": "🤮",
-          "count": "15"
-        },
-        {
-          "emoji": "🤬",
-          "count": "8"
-        },
-        {
-          "emoji": "🤔",
-          "count": "2"
-        },
-        {
-          "emoji": "🔥",
-          "count": "1"
-        }
-      ],
-      "views_label": "2.02K",
-      "posted_at": "2026-10-12T17:36:25+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/8505"
     }
   ]
 }
