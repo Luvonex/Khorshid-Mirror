@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-20T18:04:00.692Z",
+  "fetched_at": "2026-10-20T18:45:54.951Z",
   "channel": {
     "username": "bbcpersian",
     "title": "BBCPersian",
@@ -11,6 +11,30 @@
   },
   "posts": [
     {
+      "id": "bbcpersian/293699",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/IbSnOxlP8nOJu8LE6Iai5MAXAiJUj8tMpfR5Pn4-bYzFh3vQbvN_WBFn6_2IlThk2v4mL2VcDFwBKLTprPSYSDY6dieLyhYSbpKXrPOl9jm0Z6KVFOea_XhqaB0WCUOnM1B2B85p4Nr512XdI8pTpHLjvpMADfTvgeOe0UAEJt6mFpmFXRNf7_I7etWTwcFfr4bscgSZ39mXZSYSM9x4PodIJCKL3Wh73mPh_HHKvlwNT0j2QiutL8nmCXwAY45bxqC0LOXo43teT6u4tUqolFEvujP4FkzUQMh12YeqsnYBp9-aZ8CeRhaBsQMxirubn43AH57K9kY0Rsubehby0Q.jpg",
+      "author_photo_path": "channels/bbcpersian/media/725047de0d13b6f3666f9888.jpg",
+      "body_html": "در جریان اعتراضات گسترده‌ در فرانسه، تصاویری در شبکه‌های اجتماعی منتشر شده که نشان می‌دهد ظاهرا فردی با لباس پلنگ صورتی در حال تخریب دوربین‌های امنیتی است، تفنگ در دست دارد و هنجارشکنی می‌کند.<br> <br>بخش راستی‌آزمایی بی‌بی‌سی این تصاویر را بررسی کرده‌اند. این ویدیو را ببینید.<br><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "در جریان اعتراضات گسترده‌ در فرانسه، تصاویری در شبکه‌های اجتماعی منتشر شده که نشان می‌دهد ظاهرا فردی با لباس پلنگ صورتی در حال تخریب دوربین‌های امنیتی است، تفنگ در دست دارد و هنجارشکنی می‌کند. بخش راستی‌آزمایی بی‌بی‌سی این تصاویر را بررسی کرده‌اند. این ویدیو را ببینید. @BBCPersian",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/bbcpersian/293699",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/JbkYa32oY-cJxc6mHy-pf-b_kmAK8OO2CnDcsjXs8hg-oTdWvnkCji6RxKzfwfg3tCOUkzuFSYMH-KvvgmzTXgwngKAiKuCIKiOidQuMvZCOGIk_uWHRyWXvJD3kq5IO0LM7PK7qLamrT14gyfPmkTYoPiegQGQQjkHJ8hqKcU4CfYAMqaDfdWPAcJ1mrkiWDZUyGHwktJj4JZXHlI_1dNRRaUYwPFrkUQEBCWCSXUjff2mX_DscVKcH_AhHwR1mk6p6Wfrxcc9IPz9oyjcGJp3R8i8X0xZpAQmNSaS4mopm51MV2qSxRfjwfhavc_mX_REPOrPKEU0r3n6ywiMl-g",
+          "thumbnail_path": "channels/bbcpersian/media/2dfa299ad3c75fc4b9383cd1.jpg",
+          "duration_label": "1:33",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "12K",
+      "posted_at": "2026-10-20T18:13:32+00:00",
+      "edited": true,
+      "permalink": "https://t.me/bbcpersian/293699"
+    },
+    {
       "id": "bbcpersian/293698",
       "author_name": "BBCPersian",
       "author_photo_url": "https://cdn4.telesco.pe/file/IbSnOxlP8nOJu8LE6Iai5MAXAiJUj8tMpfR5Pn4-bYzFh3vQbvN_WBFn6_2IlThk2v4mL2VcDFwBKLTprPSYSDY6dieLyhYSbpKXrPOl9jm0Z6KVFOea_XhqaB0WCUOnM1B2B85p4Nr512XdI8pTpHLjvpMADfTvgeOe0UAEJt6mFpmFXRNf7_I7etWTwcFfr4bscgSZ39mXZSYSM9x4PodIJCKL3Wh73mPh_HHKvlwNT0j2QiutL8nmCXwAY45bxqC0LOXo43teT6u4tUqolFEvujP4FkzUQMh12YeqsnYBp9-aZ8CeRhaBsQMxirubn43AH57K9kY0Rsubehby0Q.jpg",
@@ -19,7 +43,7 @@
       "plain_text": "📻پادکست برنامه جام جهان‌نما، ۲۸ مهر ۱۴۰۵ @BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "3.57K",
+      "views_label": "16.5K",
       "posted_at": "2026-10-20T17:53:55+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/293698"
@@ -43,7 +67,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "12.4K",
+      "views_label": "22.4K",
       "posted_at": "2026-10-20T17:29:08+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/293697"
@@ -67,7 +91,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.9K",
+      "views_label": "20.7K",
       "posted_at": "2026-10-20T17:26:03+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/293696"
@@ -81,7 +105,7 @@
       "plain_text": "📻 تازه‌ترین خبرهای جهان سه‌شنبه ۲۸ مهر ۱۴۰۵ از رادیو بی‌بی‌سی در لندن @BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "21.1K",
+      "views_label": "27.6K",
       "posted_at": "2026-10-20T16:25:16+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/293695"
@@ -105,7 +129,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.4K",
+      "views_label": "43.3K",
       "posted_at": "2026-10-20T13:33:56+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/293694"
@@ -129,7 +153,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "40.6K",
+      "views_label": "43.8K",
       "posted_at": "2026-10-20T13:22:47+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/293693"
@@ -153,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33K",
+      "views_label": "36.2K",
       "posted_at": "2026-10-20T13:22:34+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/293692"
@@ -167,7 +191,7 @@
       "plain_text": "🔻 وزارت دفاع بریتانیا می‌گوید با توجه به تشدید حملات حوثی‌ها پشتیبانی نظامی بیشتری از عربستان سعودی خواهد کرد. در بیانیه این وزارتخانه آمده که نیروی هوایی سلطنتی بریتانیا فقط برای امور دفاعی، کمک‌های زیر را به عربستان خواهد کرد: • استفاده از جنگنده‌های تایفون برای ماموریت‌های پدافند هوایی برای حفاظت از شهرها و زیرساخت‌های عربستان سعودی • ارسال یک هواپیمای ترابری ای۴۰۰ام برای جابجایی تجهیزات نظامی • اعزام مشاوران و مستشاران نظامی ارتش بریتانیا برای پشتیبانی از نیروهای سعودی در این بیانیه آمده که این کمک شامل گسترش پشتیبانی سوخت‌رسانی هوایی برای تضعیف حملات حوثی‌ها به عربستان خواهد بود. دولت بریتانیا در این بیانیه «تلاش‌ حوثی‌ها برای بی‌ثبات کردن منطقه و تضعیف امنیت و ثبات خاورمیانه» را غیرقابل قبول دانست. بیشتر بخوانید: https://bbc.in/47tQ3mQ @BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "32.4K",
+      "views_label": "35.3K",
       "posted_at": "2026-10-20T13:17:28+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/293691"
@@ -205,7 +229,7 @@
       "plain_text": "🔻 نشست نخست‌وزیران و مقامات ارشد کشورهای عضو سازمان همکاری شانگهای امروز در شهر دوشنبه، پایتخت تاجیکستان، برگزار شد. این بیست‌وپنجمین نشست «شورای نخست‌وزیران» این سازمان است. از ایران محمدرضا عارف معاون اول رئیس‌جمهور شرکت کرد. آقای عارف با تشریح ابعاد حمله آمریکا و اسرائیل به غیرنظامیان و زیرساخت‌ها گفت: «آنچه که در چهل روز تجاوز نظامی ظالمانه علیه ایران رخ داد، صرفاً حمله به جمهوری اسلامی ایران نبود، بلکه حمله‌ای مستقیم به بنیان‌های نظم حقوقی بین‌المللی و اصل برابری حاکمیت دولت‌ها بود.» آقای عارف همچنین عصر دیروز با امامعلی رحمان، رئیس‌جمهور تاجیکستان، درباره همکاری‌های اقتصادی و تجاری میان دو کشور گفت‌وگو کرد. بیشتر بخوانید: https://bbc.in/4zJttT7 @BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "37.3K",
+      "views_label": "39.3K",
       "posted_at": "2026-10-20T12:09:05+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/293689"
@@ -229,7 +253,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.5K",
+      "views_label": "38.8K",
       "posted_at": "2026-10-20T12:05:52+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/293688"
@@ -243,7 +267,7 @@
       "plain_text": "🔻سپاه پاسداران می‌گوید که دو نفتکش «متخلف» در تنگه هرمز بر اثر انفجار مین «به آتش کشیده و متوقف شده‌اند.» در بیانیه سپاه آمده است که این کشتی‌ها با مین‌هایی برخورد کرده‌اند که نیروی دریایی سپاه در «معبر غیرقانونی» جنوب تنگه هرمز کار گذاشته است. نیروی دریایی سپاه هشدار داد که «عبور از مسیر مین‌گذاری شده، غیرقانونی و نتیجه‌ای جز به آتش کشیده شدن سرمایه‌های متخلفان نخواهد داشت.» نهادهایی مانند سازمان عملیات تجارت دریایی بریتانیا که بر امنیت کشتیرانی نظارت دارند، هنوز به‌طور مستقل این انفجارها را تایید نکرده‌‌اند. همزمان عربستان سعودی از رهگیری و انهدام یک موشک بالستیک انصار‌الله یمن (حوثی‌ها) خبر داده است. ترکی مالکی، سخنگوی ائتلاف نظامی تحت رهبری عربستان، گفت که این موشک به سمت ریاض، پایتخت، شلیک شده بود. تشدید درگیری انصارالله یمن و عربستان و ادامه حملات به کشتی‌ها در تنگه هرمز باعث افزایش قیمت نفت شده است. قیمت هر بشکه نفت برنت در معاملات اولیه امروز، برای نخستین بار در پنج ماه اخیر به بالای ۱۱۱ دلار رسید. @BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "40.7K",
+      "views_label": "42.4K",
       "posted_at": "2026-10-20T11:24:11+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/293687"
@@ -267,7 +291,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.2K",
+      "views_label": "41.1K",
       "posted_at": "2026-10-20T11:21:36+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/293686"
@@ -291,7 +315,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38.3K",
+      "views_label": "40.2K",
       "posted_at": "2026-10-20T11:12:59+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/293685"
@@ -315,7 +339,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "40.1K",
+      "views_label": "41.4K",
       "posted_at": "2026-10-20T10:47:14+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/293684"
@@ -329,7 +353,7 @@
       "plain_text": "🔻 قوه قضائیه ایران می‌گوید که ۱۵۰ شخص حقیقی و ۲۵ شخص حقوقی در ارتباط با پرونده «تراستی‌ها» که مربوط به فروش نفت ایران با دور زدن تحریمهاست، تحت تعقیبند. علی کاظمی، سخنگوی قوه قضائیه ایران، در نشست خبری هفتگی گفت که برخی متهمان همکاری کرده‌اند و برای بازگرداندن افرادی که در خارج از کشور حضور دارند هم اقداماتی صورت گرفته است، از جمله «صدور اعلان قرمز از طریق پلیس بین‌الملل» و «پیگیری استرداد مجرمان از سوی معاونت بین‌الملل قوه قضائیه و توقیف اموال متهمان.» امنا یا تراستی‌ها افراد یا نهادهایی هستند که به صورت قانونی به عنوان مالک دارایی‌ها شناخته می‌شوند، اما در واقع به نمایندگی از ذی‌نفع واقعی عمل می‌کنند. بیشتر بخوانید: https://bbc.in/3VV2564 @BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "39.6K",
+      "views_label": "41.6K",
       "posted_at": "2026-10-20T10:45:29+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/293683"
@@ -353,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "45.4K",
+      "views_label": "47.1K",
       "posted_at": "2026-10-20T09:58:48+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/293682"
@@ -377,7 +401,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47.3K",
+      "views_label": "48.6K",
       "posted_at": "2026-10-20T09:16:35+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/293681"
@@ -391,7 +415,7 @@
       "plain_text": "🖊سام فرزانه، بی‌بی‌سی فارسی 🔻 تا چند هفته دیگر، انتخابات در اسرائیل و سپس در آمریکا برگزار می‌شود؛ دو انتخاباتی که نتیجه آنها ترکیب مجالس دو کشور را تعیین خواهد کرد. به نظر می‌رسد هر دو رقابت انتخاباتی تحت تاثیر جنگ با ایران قرار گرفته‌اند. جنگی که اسرائیل و آمریکا علیه ایران آغاز کردند، باعث افزایش بهای انرژی در بازارهای جهانی شده و نشانه‌ای از پایان قریب‌الوقوع آن نیز دیده نمی‌شود. در چنین شرایطی، وزیر دفاع دولت نخست دونالد ترامپ در گفت‌وگویی اعلام کرده است که بهترین سیاست آمریکا در قبال ایران، ادامه محاصره دریایی این کشور است. مارک اسپر در گفت‌وگو با شبکه فاکس‌نیوز گفت محاصره دریایی به‌مراتب بهتر از «حمله زمینی است که هیچ‌کس خواهان آن نیست.» بیشتر بخوانید: https://bbc.in/485DU7E @BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "49.1K",
+      "views_label": "50.3K",
       "posted_at": "2026-10-20T08:05:27+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/293680"
@@ -415,7 +439,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "50.9K",
+      "views_label": "51.9K",
       "posted_at": "2026-10-20T07:03:45+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/293679"
@@ -1956,30 +1980,6 @@
       "posted_at": "2026-10-18T21:46:34+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/293589"
-    },
-    {
-      "id": "bbcpersian/293588",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/LOFXYneGc1VxNYjgCq23-uDncXmrP4cG-fds3dxQEIFEkb0JMXAxqfy6UGIJs4x6oKk0hNYClKWEeApcroxyMeVWmuJyDzlY5qAvG2PkRwEw82_u6lXt-UO6CgL7OOSjbzuITme5AKYCElyxd-rPoTQnMU0k8da_iwkQnovO_tfMgzWDzqA8hcFV9Px-2OZhuWlLbtE24otw02sgMS4rmnkh46jInbMF1SVOcpeyOUfXVRBAZh_vKkw5sImRJYvC_zAgc4nFzZjYdnNPiQaBbybJsLfVcJ6dUQ8k15-BE_T_w8pnTi8NX2wrvHwRO9IDNUk_alOlTUOb1-FrSFn6tA.jpg",
-      "author_photo_path": "channels/bbcpersian/media/b1eee961ade571d2c4ffc787.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>حمله به نفتکش‌ها و شناورهای تجاری در تنگه هرمز در هفته‌های اخیر افزایشی چشمگیر یافته است. از طرف دیگر، سطح تهدیدهای آمریکا هم بالاتر رفته است. رئیس جمهوری آمریکا در آستانه انتخابات میان دوره‌ای کنگره همچنان از جنگ با ایران دفاع می‌کند. او از بنیامین نتانیاهو، نخست‌وزیر اسرائیل سرسختانه دفاع کرد. وضعیت دولت نتانیاهو در اسرائیل هم کمتر از ۱۰ روز دیگر در انتخاباتی سرنوشت‌ساز روشن می‌شود. در این شرایط، اوضاع ایران و منطقه به کدام طرف می‌رود؟<br>&nbsp;<br>گفت‌گو با احمد خزاعی، کارشناس امور راهبردی و روابط بین‌الملل<br><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
-      "plain_text": "🔻حمله به نفتکش‌ها و شناورهای تجاری در تنگه هرمز در هفته‌های اخیر افزایشی چشمگیر یافته است. از طرف دیگر، سطح تهدیدهای آمریکا هم بالاتر رفته است. رئیس جمهوری آمریکا در آستانه انتخابات میان دوره‌ای کنگره همچنان از جنگ با ایران دفاع می‌کند. او از بنیامین نتانیاهو، نخست‌وزیر اسرائیل سرسختانه دفاع کرد. وضعیت دولت نتانیاهو در اسرائیل هم کمتر از ۱۰ روز دیگر در انتخاباتی سرنوشت‌ساز روشن می‌شود. در این شرایط، اوضاع ایران و منطقه به کدام طرف می‌رود؟ گفت‌گو با احمد خزاعی، کارشناس امور راهبردی و روابط بین‌الملل @BBCPersian",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/bbcpersian/293588",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/IHtCFJ91LvWCP8aDMwtiNaKehSBP-5DB5TFoZ5rM0I2eZC78KgWA_4NxOK2ylSLpVngh6nv0DhrNbTakNpTiQqO40BRgxDi92Us7raYn4m1cUZfvA14w7Xw7LYH8meX-4zQj8rF26AllZkPT47iwQvQczZfdjKy1RvlvR33hP9PY_lj41fzzHokEM9kCsmApMUEJQFiMIDYoXYgopMBs3LVjWTkAGj84nfjLMdxfEPVjQjXAQg90CzaHmVu-XRhV_6PVCYbNbmHQmbj_2A7ZN-JTwkYRSzhv_yc7KbyWHGY5IghMEl1U4ykGLbP06X0K7Exku8MNptdFx7GK47J3fQ",
-          "thumbnail_path": "channels/bbcpersian/media/df201a069d0fb15c83e11c67.jpg",
-          "duration_label": "5:21",
-          "aspect_ratio": 1.8275862068965676
-        }
-      ],
-      "reactions": [],
-      "views_label": "38.6K",
-      "posted_at": "2026-10-18T21:33:33+00:00",
-      "edited": false,
-      "permalink": "https://t.me/bbcpersian/293588"
     }
   ]
 }
