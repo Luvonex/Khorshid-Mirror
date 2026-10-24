@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-24T13:05:21.091Z",
+  "fetched_at": "2026-10-24T14:14:51.441Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,105 @@
     "subscriber_count": "14.2K"
   },
   "posts": [
+    {
+      "id": "DEJradio/8753",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/jhvBuN6MlAcR-lq1NukCvlcXQTnvL0fj6GzwxldFZNuCcI21hJfOn3063bmVCd-vFChwhpF3z4pIZglPJlpHMesjoy_NCqvO_eMKae0FIMhSC337jEQFoAwq5Z6Tt7DA9wo5r38GuZk3dO3hpxwUL8R67eiSHcPN0ow4YFkps-_fO3yrfJwQ9Yb9W1Th-6KRxDqwvGQ6GMGtKXKyampH2vuYLKZyqPqQeQC-PCm2VKm2U3H3hWIZTQRFZhozY4RLYilOG03Y1bVUs7vo-c0lbrS3KAxhDbTgVaOFR9Mdo4YYJlwZ_g53SSU-FtKeA6N8GqVljMeUL00N6sKqB0DP4g.jpg",
+      "author_photo_path": "channels/dejradio/media/831e4da82e80690b138094b4.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5213419616725903784\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')\"><b>🎥</b></i>‌پرواز جنگنده نهاجا بر فراز مشهد.<br><br><a href=\"?q=%23%D9%85%D8%B4%D9%87%D8%AF\">#مشهد</a> <br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "🚨🎥‌پرواز جنگنده نهاجا بر فراز مشهد. #مشهد @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/8753",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/f6IVZoZjqeyhA17mYfEAqw57OCcQY0mz8pKB18xiWs-SNh_hdaeOGhaL9yDqGFVBBgnAL84CHOH_QxfiOX4ZaeUQY4GDn4edy3Ve6zQWdiNBbrABYh85O-Uml7AH2y9dBe4vHkwVW47khHcZDDIVeTriEeUGjUDvBN9xHpcphKB0qwa3mx71P28P9vmcw9Rq28dieq6qUITs-4P_6ce8VPjVWp4yXXesZaQiX5NxMu4aYjesqT4jG2zZW4FhyzJ3MX8FJM7jsgBNlyhZFste0bQwzPBdpASBxhBT-J4wHzu49mQM4pNuXvrDk98b5gON3ejPAdp0J0yQVHtKnPuGIQ",
+          "thumbnail_path": "channels/dejradio/media/30af4e718ef75bbf10395af8.jpg",
+          "duration_label": "0:14",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "😁",
+          "count": "4"
+        },
+        {
+          "emoji": "🖕",
+          "count": "3"
+        },
+        {
+          "emoji": "🤮",
+          "count": "2"
+        }
+      ],
+      "views_label": "182",
+      "posted_at": "2026-10-24T14:06:28+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/8753"
+    },
+    {
+      "id": "DEJradio/8752",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/jhvBuN6MlAcR-lq1NukCvlcXQTnvL0fj6GzwxldFZNuCcI21hJfOn3063bmVCd-vFChwhpF3z4pIZglPJlpHMesjoy_NCqvO_eMKae0FIMhSC337jEQFoAwq5Z6Tt7DA9wo5r38GuZk3dO3hpxwUL8R67eiSHcPN0ow4YFkps-_fO3yrfJwQ9Yb9W1Th-6KRxDqwvGQ6GMGtKXKyampH2vuYLKZyqPqQeQC-PCm2VKm2U3H3hWIZTQRFZhozY4RLYilOG03Y1bVUs7vo-c0lbrS3KAxhDbTgVaOFR9Mdo4YYJlwZ_g53SSU-FtKeA6N8GqVljMeUL00N6sKqB0DP4g.jpg",
+      "author_photo_path": "channels/dejradio/media/831e4da82e80690b138094b4.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i> ‌عبدالحمید شرفی فرماندار بهارستان، شنبه دوم آبان ۱۴۰۵، به خبرگزاری صدا و سیمای جمهوری اسلامی گفت که یک گلوله توپ جنگی که همراه ضایعات فلزی از یکی از مناطق جنگی خریداری شده بود، هنگام پرس در بازار ضایعات نسیم‌شهر منفجر شد. <br><br>او گفته ترکش این گلوله به دیوار یک مدرسه برخورد کرده است.<br><br><a href=\"?q=%23%D8%A8%D9%87%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86\">#بهارستان</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "🔺📢 ‌عبدالحمید شرفی فرماندار بهارستان، شنبه دوم آبان ۱۴۰۵، به خبرگزاری صدا و سیمای جمهوری اسلامی گفت که یک گلوله توپ جنگی که همراه ضایعات فلزی از یکی از مناطق جنگی خریداری شده بود، هنگام پرس در بازار ضایعات نسیم‌شهر منفجر شد. او گفته ترکش این گلوله به دیوار یک مدرسه برخورد کرده است. #بهارستان @DEJradio",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/DEJradio/8752",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/biwC7B4PlMw6yNlOZBo1KOMMbJlBuoYoK6vhgSBNzzxBX6TSRSB6sXxIWaImpc4t8es5wynfYmvqn2nAJFfWtPldaaBc3bv5rFxCvLP8ojapJzwBqGUY5XkRJW9HCqP5_7oW8vs_AEtkTsuv-LpoulBwBBlfB8-rKvYTYgS5CSOuIzuyXiyDZYsBtaDGKHeAFIVOjtwXBgZFDmPAUGkQ-zFjFHJtNRhaKDyUem7cwlsuuN0O7d3nPBYjtlFR18x7rB_EBhih1ENq5KTXWwjmG8QNH72Z-SO6fQYpjC2a4qiSAKY0Kk8miWkgz_7wszKts0JC5k3Ks6RzzBqSQr2csw.jpg",
+          "thumbnail_path": "channels/dejradio/media/0fa777e7338d9d11c9cfabed.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "😡",
+          "count": "3"
+        }
+      ],
+      "views_label": "291",
+      "posted_at": "2026-10-24T13:56:44+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/8752"
+    },
+    {
+      "id": "DEJradio/8751",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/jhvBuN6MlAcR-lq1NukCvlcXQTnvL0fj6GzwxldFZNuCcI21hJfOn3063bmVCd-vFChwhpF3z4pIZglPJlpHMesjoy_NCqvO_eMKae0FIMhSC337jEQFoAwq5Z6Tt7DA9wo5r38GuZk3dO3hpxwUL8R67eiSHcPN0ow4YFkps-_fO3yrfJwQ9Yb9W1Th-6KRxDqwvGQ6GMGtKXKyampH2vuYLKZyqPqQeQC-PCm2VKm2U3H3hWIZTQRFZhozY4RLYilOG03Y1bVUs7vo-c0lbrS3KAxhDbTgVaOFR9Mdo4YYJlwZ_g53SSU-FtKeA6N8GqVljMeUL00N6sKqB0DP4g.jpg",
+      "author_photo_path": "channels/dejradio/media/831e4da82e80690b138094b4.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i> ‌سعید قاسمی‌‌نژاد، مدیر پروژه شکوفایی ایران، در حاشیه نشست سالانه «جبهه هفت آبان» که شنبه دوم آبان ۱۴۰۵ در بروکسل برگزار شد، تأکید کرد که ایرانی‌ها نشان دادند برای آینده ایران «رهبر» دارند، اسم شاهزاده رضا پهلوی را صدا زدند.<br><br>او گفت برای مدت‌ها دولت‌های خارجی ادعا کردند اپوزیسیون برنامه و سازماندهی ندارد که اکنون می‌بینند اینها همه وجود دارد و دیگر بهانه‌ای برای عدم حمایت از «انقلاب ملی» ایران ندارند.<br><br><a href=\"?q=%23%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8_%D9%85%D9%84%DB%8C\">#انقلاب_ملی</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "🔺📢 ‌سعید قاسمی‌‌نژاد، مدیر پروژه شکوفایی ایران، در حاشیه نشست سالانه «جبهه هفت آبان» که شنبه دوم آبان ۱۴۰۵ در بروکسل برگزار شد، تأکید کرد که ایرانی‌ها نشان دادند برای آینده ایران «رهبر» دارند، اسم شاهزاده رضا پهلوی را صدا زدند. او گفت برای مدت‌ها دولت‌های خارجی ادعا کردند اپوزیسیون برنامه و سازماندهی ندارد که اکنون می‌بینند اینها همه وجود دارد و دیگر بهانه‌ای برای عدم حمایت از «انقلاب ملی» ایران ندارند. #انقلاب_ملی @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/8751",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/G-jR0n-vkwTMzPU4ATptr8csXR4VHYqfcginI14XXexrz3CoqczlldrHFFy2Ms_e_nb-Ps7gXwfKk5t-l-qRW6E_GF8Q3IAhhJxyPvRzvxfCUI06U8SR4pdjwUH90vQKaYKZgb7k9PRGuku3576wv3xG2mo5gxMicodtWZ3DICK2wPABpf9GaV9DoWPClMoMQTnuF_H-_JKHmUFiL2WhJrWtrwYG9ivd4klYwrMxbOs7Xj6kMRg0srmXvS0zaBFQcL5m3bkEiO4r4bOR8kEBJWjAjPPQbhNqil9Qz3Cimv9hIqyjehnK7xvGZ2uxwv5myXK4NosV9cEyO7yUNtWS0g",
+          "thumbnail_path": "channels/dejradio/media/ddffc1c047bb3e6ab723237c.jpg",
+          "duration_label": "3:58",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "9"
+        },
+        {
+          "emoji": "👍",
+          "count": "3"
+        }
+      ],
+      "views_label": "360",
+      "posted_at": "2026-10-24T13:47:58+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/8751"
+    },
     {
       "id": "DEJradio/8750",
       "author_name": "DEJ",
@@ -31,22 +130,22 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "8"
+          "count": "10"
         },
         {
           "emoji": "👏",
+          "count": "3"
+        },
+        {
+          "emoji": "🔥",
           "count": "2"
         },
         {
           "emoji": "🖕",
           "count": "2"
-        },
-        {
-          "emoji": "🔥",
-          "count": "1"
         }
       ],
-      "views_label": "580",
+      "views_label": "930",
       "posted_at": "2026-10-24T11:42:33+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8750"
@@ -72,14 +171,14 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "11"
+          "count": "19"
         },
         {
           "emoji": "🖕",
-          "count": "9"
+          "count": "15"
         }
       ],
-      "views_label": "607",
+      "views_label": "905",
       "posted_at": "2026-10-24T11:38:29+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8749"
@@ -105,14 +204,14 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "13"
+          "count": "17"
         },
         {
           "emoji": "🖕",
-          "count": "3"
+          "count": "8"
         }
       ],
-      "views_label": "715",
+      "views_label": "960",
       "posted_at": "2026-10-24T11:28:49+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8748"
@@ -138,7 +237,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "34"
+          "count": "37"
         },
         {
           "emoji": "👏",
@@ -146,10 +245,10 @@
         },
         {
           "emoji": "❤",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "1.12K",
+      "views_label": "1.27K",
       "posted_at": "2026-10-24T09:12:16+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8747"
@@ -175,7 +274,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "26"
+          "count": "28"
         },
         {
           "emoji": "👍",
@@ -186,7 +285,7 @@
           "count": "3"
         }
       ],
-      "views_label": "1.26K",
+      "views_label": "1.37K",
       "posted_at": "2026-10-24T08:19:33+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8746"
@@ -227,7 +326,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.26K",
+      "views_label": "1.35K",
       "posted_at": "2026-10-24T07:41:53+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8745"
@@ -260,7 +359,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.24K",
+      "views_label": "1.33K",
       "posted_at": "2026-10-24T07:36:43+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8744"
@@ -286,7 +385,7 @@
       "reactions": [
         {
           "emoji": "🤮",
-          "count": "21"
+          "count": "22"
         },
         {
           "emoji": "😁",
@@ -305,7 +404,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.17K",
+      "views_label": "1.25K",
       "posted_at": "2026-10-24T07:30:51+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/8743"
@@ -342,7 +441,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.15K",
+      "views_label": "1.24K",
       "posted_at": "2026-10-24T07:26:23+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8742"
@@ -368,7 +467,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "29"
+          "count": "30"
         },
         {
           "emoji": "👍",
@@ -380,14 +479,14 @@
         },
         {
           "emoji": "👏",
-          "count": "1"
+          "count": "2"
         },
         {
           "emoji": "😢",
           "count": "1"
         }
       ],
-      "views_label": "1.22K",
+      "views_label": "1.35K",
       "posted_at": "2026-10-24T07:19:18+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8741"
@@ -420,19 +519,19 @@
           "count": "3"
         },
         {
-          "emoji": "🤬",
+          "emoji": "👍",
           "count": "2"
         },
         {
-          "emoji": "👍",
-          "count": "1"
+          "emoji": "🤬",
+          "count": "2"
         },
         {
           "emoji": "😢",
           "count": "1"
         }
       ],
-      "views_label": "1.28K",
+      "views_label": "1.41K",
       "posted_at": "2026-10-24T07:14:03+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8740"
@@ -473,7 +572,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.88K",
+      "views_label": "1.95K",
       "posted_at": "2026-10-23T18:24:58+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8739"
@@ -514,7 +613,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.94K",
+      "views_label": "1.98K",
       "posted_at": "2026-10-23T18:13:42+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8738"
@@ -555,7 +654,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2K",
+      "views_label": "2.02K",
       "posted_at": "2026-10-23T16:23:54+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8737"
@@ -596,7 +695,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.97K",
+      "views_label": "1.99K",
       "posted_at": "2026-10-23T15:16:45+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8736"
@@ -613,8 +712,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/DEJradio/8735",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/tDJI6VIw07VxRgvVH5QI1Sds_NpU09uXpAfIrZKJ8wAt2MryMDOLQLOnLltLpUJHMc5cEgaOXD3PqS2RWk3yYXoYVEXXmssx0zaV-TIRGB3jnPJSky1XWU-tweFYVmuBofkbk8XtHCZsXjVVI9KgZlQzpxxsM5Eh3-wQHeCInUmpayivva8oJsVk9X5kH-_TMOB_8bgW__DB3vuxzN6bP26qtEnytDSbB-PElK6sojzawSfw-OWiYSNb_j-SAWBV3PjLX1JAqvGyXtIY0mbxb_VI6pxetNrURfFm5wYox4E1IJ_GB3tDRdGkbKxG4Gx4MEpH_oPhRkcCMpjBrbDmgQ.jpg",
-          "thumbnail_path": "channels/dejradio/media/2437858120550037d7cb29db.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qbwAPkXkISMGHaSCi7tnIL-9BUwV-GP4Ix22rl_9wC43ejfkAxp-2RiVW_qjGyDvutCniKAiyEx_JLNzpWkDqqUtNmp_dKMQ7tU87i0g86aIVxFkHQJdi7kvAefdHlU7WCeXRgtlXCZ9ymCRdl0MIeb3CPDrwW5O4IrZsmCKJvuszwtKeRiSVOjruZRoYp8wqEdsqVsuZ3tZKG_kTY9Lx3w9haQeOrHHb26GVXuFRsIPj5ZC0Vdis1PVofQYUy0GpWe313zBFR46XHvBlHFui5t9tNNoB9TjFQNc7gxz_otAWa9Zrnf2u7-q8YKuAnLouuhqOq8ebv7lVVOrdMl0EA.jpg",
+          "thumbnail_path": "channels/dejradio/media/f6822f28baf8bb2bdf5bf77e.jpg",
           "duration_label": null,
           "aspect_ratio": 0.8
         }
@@ -633,7 +732,7 @@
           "count": "3"
         }
       ],
-      "views_label": "2.08K",
+      "views_label": "2.1K",
       "posted_at": "2026-10-23T14:18:59+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8735"
@@ -650,8 +749,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/DEJradio/8734",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/D9EPDBu2V4Q-e76wGbovQ2cZX3tJ7Ah_GssulNqOztLoQPIlLokFtnJNb6m_7dz5vCtHkAfY852QV7kPpEPVSIkwQbqJrQf1tHIpOBVxkfyjs45kligctM9Ja3vl4htr0DpWN4pb2T-bik9Yc8I4UQgLizTlv2hlPXL8qN8LvHLdue_0U87aZINL9Nwe5ZxR6HOK0n1UPjjZ-q5ZQuUMcUXfCMfsRj9K6y_-dYGRDz_KJ6lJE7Ri-xzFsCAgcjBNMQMez6_PcTGaykVXJn97gW39fMgUl21MJv5thG0TPVC8WL87ZtVFFa6FTPAUlX83mOD1a773qApTQGTV7xfAVQ.jpg",
-          "thumbnail_path": "channels/dejradio/media/5b84bc454a53fe663f600b5b.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/bbuYeivs6NiKOpUXjPAlNBY4Cd3LpKG4g0FbQvuVwIeDZ5tu3zj1-VLKP80MWW3eqJGrnZrBgrEXxTowpTnbvD8nyEcJEeGHMz4mG5iedqy1edyA6nydN2D6bm3xU9ujQjfG54-8cHYm5dmRCJ2IDJE8a6v1Eh99DAY18TXk0pZMhpjVxUU7q3iwIwnSSmc300DP9Em2h7HibmK5knDU4-BNLhX4pR8Z5tpZw3WnfQIhPfhQXyZmmLagSyghKYvofjF6KMrfrX2tBy2FT19hwuOrzVj7ndFXVl2NljKJRfJxq-L49HiIzKcArIpRu4Dir0gO3zxPWGudoIOtDWh93w.jpg",
+          "thumbnail_path": "channels/dejradio/media/4edc17aaa185c7934046f227.jpg",
           "duration_label": null,
           "aspect_ratio": 0.8
         }
@@ -686,7 +785,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.79K",
+      "views_label": "1.81K",
       "posted_at": "2026-10-23T13:55:36+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8734"
@@ -3960,129 +4059,6 @@
       "posted_at": "2026-10-19T12:09:30+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/8647"
-    },
-    {
-      "id": "DEJradio/8646",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/OLomR2j5K_X7b95kA6EeI9H3XdvDsaCXIqQnimNEmu7YU90I52YTNbu3MMUhFmhHNEQVmWaYHQT9-F-LoKpg4AJuWEAr3PhOaSY7h5q30REXYEXD9Ziv4gp1kAztAT5lkLRAJ8p-8EG6HCXOer_X_gLC62mzCOUZnWvBGHqWHxMosGm5mjdPvwTOR1kpdZrwj-oiYdy_YavSoxHvmeMLBNZTqHcUGuKc8amtKUiD9hXB1UkTaP9dBsfJ-JTiuEoxn_N7wZcffS3FYPqhjp_qG0ly0ytMY3NXheXKq4DI9c149U1IGhBV8jA1QseHVoWjCkj9KhyRE1-G7oyF6MQMCg.jpg",
-      "author_photo_path": "channels/dejradio/media/698b8b267afbb77f42ef1287.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')\"><b>🎥</b></i><tg-emoji emoji-id=\"5807857736330778237\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA4.png')\"><b>🎤</b></i></tg-emoji><b> پس از جمهوری اسلامی؛ دادخواهی با عدالت یا انتقام؟</b><br><br>زهره میزراحی،حقوقدان و استاد دانشگاه،در گفت‌وگو با دژ به چگونگی محاکمۀ سران و عوامل جمهوری اسلامی پس از سرنگونی رژیم می‌پردازد.<br>او با تأکید بر استقلال دستگاه قضایی،رعایت اصول حقوق بشر و ضرورت پاسخ‌گویی آمران و عاملان جنایت،از چالش بزرگ ایران آینده می‌گوید:چگونه می‌توان خشم قربانیان و مطالبۀ دادخواهی را به اجرای عدالت تبدیل کرد،بی‌آنکه عدالت قربانی انتقام شود؟<br><br><a href=\"?q=%23%DA%AF%D9%81%D8%AA%DA%AF%D9%88\">#گفتگو</a> <a href=\"?q=%23%D8%B9%D8%AF%D8%A7%D9%84%D8%AA\">#عدالت</a> <br><br> ویدئوی کامل این گفتگو را می‌توانید در کانال یوتیوب مجموعه دژ مشاهده فرمایید.<br><a href=\"https://www.youtube.com/watch?v=tRa0qMDsqIo\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=tRa0qMDsqIo</a><br><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "🎥🎤 پس از جمهوری اسلامی؛ دادخواهی با عدالت یا انتقام؟ زهره میزراحی،حقوقدان و استاد دانشگاه،در گفت‌وگو با دژ به چگونگی محاکمۀ سران و عوامل جمهوری اسلامی پس از سرنگونی رژیم می‌پردازد. او با تأکید بر استقلال دستگاه قضایی،رعایت اصول حقوق بشر و ضرورت پاسخ‌گویی آمران و عاملان جنایت،از چالش بزرگ ایران آینده می‌گوید:چگونه می‌توان خشم قربانیان و مطالبۀ دادخواهی را به اجرای عدالت تبدیل کرد،بی‌آنکه عدالت قربانی انتقام شود؟ #گفتگو #عدالت ویدئوی کامل این گفتگو را می‌توانید در کانال یوتیوب مجموعه دژ مشاهده فرمایید. https://www.youtube.com/watch?v=tRa0qMDsqIo @DEJradio",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/DEJradio/8646",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/JlnjxDJ2F01hyq5ORY9zm8clLpVvdnRPYuHUA9dvp8gA808kJldKbL2JUUDLk0vKqB1yCKtE9J1OrppAGWulivsGcoX4gKEeknU39B5JjDzs0Tnfw42ifMP3TlDmjlYzl1Y1EnKeJxTegPmjUut6BbcwZptI8B-186-cabwiKdnrAD0hTbgCy97Al7nNTNKEbuWR297Q-HZl2msIXgzcKv6EId7_BgBPNvq_TUcMqwtUNd6O56IZABlozCHXXIfbAm6hhVIKU2AFfsu3_RnqxabyrGXsg2mVl1L_8Kt9ZRCliQUcmix8TtUtrxuWsD95lItQjSBnaEQQTh6dIp6QFA",
-          "thumbnail_path": "channels/dejradio/media/c1619b92f5cf0a6090d812cf.jpg",
-          "duration_label": "4:24",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "21"
-        },
-        {
-          "emoji": "👎",
-          "count": "3"
-        },
-        {
-          "emoji": "❤",
-          "count": "2"
-        }
-      ],
-      "views_label": "1.91K",
-      "posted_at": "2026-10-19T11:46:46+00:00",
-      "edited": true,
-      "permalink": "https://t.me/DEJradio/8646"
-    },
-    {
-      "id": "DEJradio/8645",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/OLomR2j5K_X7b95kA6EeI9H3XdvDsaCXIqQnimNEmu7YU90I52YTNbu3MMUhFmhHNEQVmWaYHQT9-F-LoKpg4AJuWEAr3PhOaSY7h5q30REXYEXD9Ziv4gp1kAztAT5lkLRAJ8p-8EG6HCXOer_X_gLC62mzCOUZnWvBGHqWHxMosGm5mjdPvwTOR1kpdZrwj-oiYdy_YavSoxHvmeMLBNZTqHcUGuKc8amtKUiD9hXB1UkTaP9dBsfJ-JTiuEoxn_N7wZcffS3FYPqhjp_qG0ly0ytMY3NXheXKq4DI9c149U1IGhBV8jA1QseHVoWjCkj9KhyRE1-G7oyF6MQMCg.jpg",
-      "author_photo_path": "channels/dejradio/media/698b8b267afbb77f42ef1287.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i> منابع اختصاصی دژ گزارش دادند حوالی ساعت ۰۱:۰۰ بامداد ۲۷ مهرماه، پایگاه نیروی دریایی ارتش با دو موشک سبک هدف قرار گرفت. <br><br>در این حمله دو نفر از پرسنل نیروی دریایی ارتش زخمی شدند.<br><br><a href=\"?q=%23%DA%A9%D9%86%D8%A7%D8%B1%DA%A9\">#کنارک</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "🔺📢 منابع اختصاصی دژ گزارش دادند حوالی ساعت ۰۱:۰۰ بامداد ۲۷ مهرماه، پایگاه نیروی دریایی ارتش با دو موشک سبک هدف قرار گرفت. در این حمله دو نفر از پرسنل نیروی دریایی ارتش زخمی شدند. #کنارک @DEJradio",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/8645",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/gBLO1fZGvD8zX62iTTryKWsfdNgMZZkqeN6LB_FkJQn0sFnpIdXxf_3mcSUP4jrx5a0GICFGzUswFUxL3mmJM_1G3NShFtsiKvfmFWdiXQKMyEP9k7rxiYlnu8-9ZWqVOjC86GS1A_mjKslNsrvPcGv09wIjm_jKuMNqPKWEZkY8rFUY06F7Ke-pA53Y5G-LT_eKK1bjTlzFH-d6b9nmi1Tcvpaq3FC9O3OZgWr3teJ0jn14lKci28dT_elxTDmZKPEXhKtTeEaO_qBDH8KgxzBOcK0-Ly9k5zMerPMpMxbJE9UcQvWlHar1-r8kJ3XSpvxrZoils3ADpSxjqFAh-A.jpg",
-          "thumbnail_path": "channels/dejradio/media/6049c1b0f1e1f1386ab343e8.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "21"
-        },
-        {
-          "emoji": "👍",
-          "count": "10"
-        },
-        {
-          "emoji": "👏",
-          "count": "5"
-        },
-        {
-          "emoji": "🔥",
-          "count": "4"
-        },
-        {
-          "emoji": "😁",
-          "count": "2"
-        }
-      ],
-      "views_label": "1.96K",
-      "posted_at": "2026-10-19T11:09:32+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/8645"
-    },
-    {
-      "id": "DEJradio/8644",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/OLomR2j5K_X7b95kA6EeI9H3XdvDsaCXIqQnimNEmu7YU90I52YTNbu3MMUhFmhHNEQVmWaYHQT9-F-LoKpg4AJuWEAr3PhOaSY7h5q30REXYEXD9Ziv4gp1kAztAT5lkLRAJ8p-8EG6HCXOer_X_gLC62mzCOUZnWvBGHqWHxMosGm5mjdPvwTOR1kpdZrwj-oiYdy_YavSoxHvmeMLBNZTqHcUGuKc8amtKUiD9hXB1UkTaP9dBsfJ-JTiuEoxn_N7wZcffS3FYPqhjp_qG0ly0ytMY3NXheXKq4DI9c149U1IGhBV8jA1QseHVoWjCkj9KhyRE1-G7oyF6MQMCg.jpg",
-      "author_photo_path": "channels/dejradio/media/698b8b267afbb77f42ef1287.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5213419616725903784\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></tg-emoji><tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji> <b>هشدار امنیتی آمریکا درباره احتمال گسترش حملات جمهوری اسلامی و گروه‌های وابسته به آن در سراسر جهان</b><br><br>وزارت امور خارجۀ ایالات متحده با انتشار هشداری امنیتی،از شهروندان آمریکایی حاضر در خاورمیانه خواست به‌دلیل شرایط پیچیدۀ امنیتی منطقه،هوشیاری خود را افزایش دهند و برای احتمال لغو پروازها،بسته‌شدن حریم هوایی و اختلال در سفرها آماده باشند.<br>در این هشدار که از طریق حساب رسمی امور کنسولی وزارت خارجۀ آمریکا منتشر شده،به حملات حوثی‌های مورد حمایت جمهوری اسلامی علیه عربستان سعودی،از جمله حمله به فرودگاه‌های غیرنظامی و زیرساخت‌های حیاتی،اشاره شده است؛ حملاتی که به کشته‌شدن غیرنظامیان و اختلال شدید در سفرها منجر شده‌اند.<br>وزارت خارجۀ آمریکا هشدار داد که درگیری‌های کنونی ممکن است به‌سرعت از محدودۀ جغرافیایی فعلی فراتر بروند و به مناطق دیگر گسترش پیدا کنند.<br>در بخش دیگری از این هشدار تأکید شده است که جمهوری اسلامی و گروه‌های حامی آن ممکن است منافع آمریکا در خارج از کشور و همچنین مراکز مرتبط با ایالات متحده و شهروندان آمریکایی را در سراسر جهان،از جمله شرکت‌ها و مؤسسات آمریکایی،هدف قرار دهند.<br>وزارت خارجۀ آمریکا همچنین از شهروندانی که قصد سفر به خاورمیانه یا خروج از این منطقه را دارند خواست وضعیت فرودگاه‌ها و شرکت‌های هواپیمایی را پیگیری کرده و از پیش برای شرایط اضطراری برنامه‌ریزی کنند.<br><br><a href=\"?q=%23%D9%87%D8%B4%D8%AF%D8%A7%D8%B1\">#هشدار</a> <a href=\"?q=%23%D8%AE%D8%A7%D9%88%D8%B1%D9%85%DB%8C%D8%A7%D9%86%D9%87\">#خاورمیانه</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "🚨🔺 هشدار امنیتی آمریکا درباره احتمال گسترش حملات جمهوری اسلامی و گروه‌های وابسته به آن در سراسر جهان وزارت امور خارجۀ ایالات متحده با انتشار هشداری امنیتی،از شهروندان آمریکایی حاضر در خاورمیانه خواست به‌دلیل شرایط پیچیدۀ امنیتی منطقه،هوشیاری خود را افزایش دهند و برای احتمال لغو پروازها،بسته‌شدن حریم هوایی و اختلال در سفرها آماده باشند. در این هشدار که از طریق حساب رسمی امور کنسولی وزارت خارجۀ آمریکا منتشر شده،به حملات حوثی‌های مورد حمایت جمهوری اسلامی علیه عربستان سعودی،از جمله حمله به فرودگاه‌های غیرنظامی و زیرساخت‌های حیاتی،اشاره شده است؛ حملاتی که به کشته‌شدن غیرنظامیان و اختلال شدید در سفرها منجر شده‌اند. وزارت خارجۀ آمریکا هشدار داد که درگیری‌های کنونی ممکن است به‌سرعت از محدودۀ جغرافیایی فعلی فراتر بروند و به مناطق دیگر گسترش پیدا کنند. در بخش دیگری از این هشدار تأکید شده است که جمهوری اسلامی و گروه‌های حامی آن ممکن است منافع آمریکا در خارج از کشور و همچنین مراکز مرتبط با ایالات متحده و شهروندان آمریکایی را در سراسر جهان،از جمله شرکت‌ها و مؤسسات آمریکایی،هدف قرار دهند. وزارت خارجۀ آمریکا همچنین از شهروندانی که قصد سفر به خاورمیانه یا خروج از این منطقه را دارند خواست وضعیت فرودگاه‌ها و شرکت‌های هواپیمایی را پیگیری کرده و از پیش برای شرایط اضطراری برنامه‌ریزی کنند. #هشدار #خاورمیانه @DEJradio",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/8644",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/YxGV7WDjXwvmBUivLPdXfRQgb7np10ffQPra0mlDshCLXfh0m0T9pwgSJViZyzVi3JsqRAvJzdZHJMesjaONqepWmdKVHvEePrhjsvthbUjZaCkZqW1sKboW2sPCsbpJXvTujMbHCL-RUBLlMOS6wN65P-auJRgTf75XWmyqcj6rOGfqPyyRzlWkhg1Wwg9vAZQQtfJgFUY7MfEY3X_ikuEYnKevgy8UTx1SvWPa3ZsGR7CtWlueItk1JAmGt96Svv1tPqno1hsx9XuHwxcIiWIBkiN862uT-2nmyP9hL_2VSNYX437AVwvTUO89WgvA6TZ6Sk4FmwYZXb9-wcq_Xg.jpg",
-          "thumbnail_path": "channels/dejradio/media/14a9202366f4cf88c2f66648.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "32"
-        },
-        {
-          "emoji": "❤",
-          "count": "6"
-        },
-        {
-          "emoji": "🔥",
-          "count": "2"
-        },
-        {
-          "emoji": "🤔",
-          "count": "1"
-        }
-      ],
-      "views_label": "2.17K",
-      "posted_at": "2026-10-19T08:52:38+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/8644"
     }
   ]
 }

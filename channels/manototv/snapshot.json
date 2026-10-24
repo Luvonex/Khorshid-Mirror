@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-24T13:05:30.281Z",
+  "fetched_at": "2026-10-24T14:15:00.092Z",
   "channel": {
     "username": "manototv",
     "title": "تلویزیون منوتو",
@@ -10,6 +10,39 @@
     "subscriber_count": "375K"
   },
   "posts": [
+    {
+      "id": "ManotoTV/108739",
+      "author_name": "تلویزیون منوتو",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Ic4PGx0yCUyILVaKPIj7U7CrL_PPMvcVT9CqwoneoHhiLLbt5vdfk7eCycl7W0H1_i-W7tyQmz6cbgt-KwoHdkOD0uoxdrtmoRsVVQVsfi03HTQlmwu-lswV1pa0oDKrQz64-H9bpQGjfJ4zKmXIl06Nz8OjkRx1Ta81pQQxUtvIBhtp6RnNmrmcHiAZUbLbGuF5u7yk-SfuaS7hr3ONSbwXILDHB6LCypS3O5KE2W4PqmrF8HLxxck_4L5ONpiVsX8QLz8r0MZLAT_66SegEjoIiDjFDjmsE6RNyOsthPdxYPYsdm1oXQn7jrVw5OHvQgVZrzos2v08a4ll5yvKrg.jpg",
+      "author_photo_path": "channels/manototv/media/d54dc0ea1ba9e8ac192b553e.jpg",
+      "body_html": "محاصره اقتصادی، بمباران یا تلاش برای سرنگونی؟<br><br>در این اپیزود، دو رویکرد واشنگتن و تل‌آویو در قبال جمهوری اسلامی و احتمال ترکیب فشار اقتصادی با حملات نظامی را بررسی می‌کنیم؛ راهبردی با یک ابهام اساسی: آیا فرسایش اقتصادی و تخریب توان نظامی، الزاماً به نتیجه سیاسی مطلوب طراحان آن می‌انجامد؟ از محاسبات تهران و خطر گسترش جنگ تا هزینه‌های انسانی و آسیب به زیرساخت‌های ایران، پرسش اصلی این است که اگر فشار بیشتر به توافق یا سقوط حکومت منجر نشود، قدم بعدی چیست؟",
+      "plain_text": "محاصره اقتصادی، بمباران یا تلاش برای سرنگونی؟ در این اپیزود، دو رویکرد واشنگتن و تل‌آویو در قبال جمهوری اسلامی و احتمال ترکیب فشار اقتصادی با حملات نظامی را بررسی می‌کنیم؛ راهبردی با یک ابهام اساسی: آیا فرسایش اقتصادی و تخریب توان نظامی، الزاماً به نتیجه سیاسی مطلوب طراحان آن می‌انجامد؟ از محاسبات تهران و خطر گسترش جنگ تا هزینه‌های انسانی و آسیب به زیرساخت‌های ایران، پرسش اصلی این است که اگر فشار بیشتر به توافق یا سقوط حکومت منجر نشود، قدم بعدی چیست؟",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/ManotoTV/108739",
+          "asset_path": null,
+          "thumbnail_url": null,
+          "thumbnail_path": null,
+          "duration_label": "0:00",
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "27"
+        },
+        {
+          "emoji": "❤",
+          "count": "6"
+        }
+      ],
+      "views_label": "2.63K",
+      "posted_at": "2026-10-24T13:16:19+00:00",
+      "edited": false,
+      "permalink": "https://t.me/ManotoTV/108739"
+    },
     {
       "id": "ManotoTV/108730",
       "author_name": "تلویزیون منوتو",
@@ -103,14 +136,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "46"
+          "count": "53"
         },
         {
           "emoji": "👍",
-          "count": "5"
+          "count": "6"
         }
       ],
-      "views_label": "4.4K",
+      "views_label": "6.24K",
       "posted_at": "2026-10-24T10:37:08+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108730"
@@ -136,14 +169,14 @@
       "reactions": [
         {
           "emoji": "👎",
-          "count": "101"
+          "count": "105"
         },
         {
           "emoji": "❤",
-          "count": "34"
+          "count": "36"
         }
       ],
-      "views_label": "9.31K",
+      "views_label": "10.3K",
       "posted_at": "2026-10-24T06:39:51+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108729"
@@ -169,14 +202,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "217"
+          "count": "225"
         },
         {
           "emoji": "❤‍🔥",
-          "count": "55"
+          "count": "56"
         }
       ],
-      "views_label": "13.4K",
+      "views_label": "13.9K",
       "posted_at": "2026-10-23T21:16:16+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108728"
@@ -202,14 +235,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "135"
+          "count": "138"
         },
         {
           "emoji": "💔",
-          "count": "97"
+          "count": "100"
         }
       ],
-      "views_label": "11.9K",
+      "views_label": "12.4K",
       "posted_at": "2026-10-23T21:16:08+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108727"
@@ -316,14 +349,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "155"
+          "count": "156"
         },
         {
           "emoji": "👎",
           "count": "8"
         }
       ],
-      "views_label": "13.5K",
+      "views_label": "13.7K",
       "posted_at": "2026-10-23T18:13:41+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108717"
@@ -4815,39 +4848,6 @@
       "posted_at": "2026-10-16T10:00:38+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108465"
-    },
-    {
-      "id": "ManotoTV/108466",
-      "author_name": "تلویزیون منوتو",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Z0eeBXRS6Be6oWxnFV6rgD_beY66hpr_GmISHH0QPn_yIPG9TeGglAqAXKoeJnnKXGkzCCKCIaBG9C5LgtYhljD9facTmBsaJ8Vd6OHPMt_lw4rlv_yvUHJTAHvo0VJjFa9tXj5hllF04KN9MNj5vQx3UBdB43pefTxhKL5AAk0JAozbJbpSW408kmZXnauhtOrCNAXNHxO6wz4XjMSdfAzmBScV9hhghfsLdj829fzwwelb6Ce2bvKmJ-6tohu5WDZeOaMegQCNq5WJBnd7G0jHdb7IsL3saWnn-ZFEYOm56khRHn3lcDEc_fAhKodezuMHXM0BJUwKra6bP1Km1w.jpg",
-      "author_photo_path": "channels/manototv/media/e2afea2c7a9cb64bc493bfcb.jpg",
-      "body_html": "جاویدنام محمد رادمان‌نیا  ۲۸ ساله‌، ورزشکار و بدن‌ساز، اصالتاً اهل اراک و ساکن تهران بود. او شامگاه ۱۹ دی‌ماه ۱۴۰۴ در جریان اعتراضات در خیابان طاووسیِ محلهٔ نظام‌آباد تهران هدف شلیک نیروهای حکومتی قرار گرفت.<br>بر اساس گزارش‌ها، مأموران ابتدا به او ساچمه شلیک کردند و سپس از پشت با گلولهٔ جنگی هدفش قرار دادند. محمد پس از انتقال به بیمارستان الغدیر، در ساعات اولیهٔ روز ۲۰ دی‌ماه بر اثر شدت جراحات جان باخت.<br>تحویل پیکر محمد به خانواده مشروط به خاک‌سپاری خارج از تهران شد. پیکر او در آرامستان رباط‌میل شهرستان اراک به خاک سپرده شد.",
-      "plain_text": "جاویدنام محمد رادمان‌نیا ۲۸ ساله‌، ورزشکار و بدن‌ساز، اصالتاً اهل اراک و ساکن تهران بود. او شامگاه ۱۹ دی‌ماه ۱۴۰۴ در جریان اعتراضات در خیابان طاووسیِ محلهٔ نظام‌آباد تهران هدف شلیک نیروهای حکومتی قرار گرفت. بر اساس گزارش‌ها، مأموران ابتدا به او ساچمه شلیک کردند و سپس از پشت با گلولهٔ جنگی هدفش قرار دادند. محمد پس از انتقال به بیمارستان الغدیر، در ساعات اولیهٔ روز ۲۰ دی‌ماه بر اثر شدت جراحات جان باخت. تحویل پیکر محمد به خانواده مشروط به خاک‌سپاری خارج از تهران شد. پیکر او در آرامستان رباط‌میل شهرستان اراک به خاک سپرده شد.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/ManotoTV/108466",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/G51YlCdWExfsJ0uELlY6aY0HhAKifGE1G-UWOdDgwVYkz_WmHVFHMoV9uDPnLMLNNg9ZNCCcafW_tWpvVW5AFtsnBgFihb_8lwiZzucHXmZ23LzO7pj0XfRcz7JTB07TkBRpXdKWb12rsu_yG0fM0MYpvg2Nz8BM3qyCsxC77EYk9sRkZr6j03OUfXB2oBSviyPsmnsyUnNs6884bKzhFA-p4Z0W7GiLlCfiAUNyNQ_OdtaoNRzDcBw8KKSAg-vxMgr3_hLQglrV89EMfKfW9CL5dUXL2TA4C40f-SsPmyiZ74A7Tt4yRSbvl7jPCK8fGgoAb1qdMMxNvqfOIkZEsQ",
-          "thumbnail_path": "channels/manototv/media/a43ecf54800a169d7d788561.jpg",
-          "duration_label": "1:15",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "💔",
-          "count": "105"
-        },
-        {
-          "emoji": "🔥",
-          "count": "7"
-        }
-      ],
-      "views_label": "5.32K",
-      "posted_at": "2026-10-16T10:00:38+00:00",
-      "edited": false,
-      "permalink": "https://t.me/ManotoTV/108466"
     }
   ]
 }
