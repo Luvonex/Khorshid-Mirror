@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-24T14:15:00.092Z",
+  "fetched_at": "2026-10-24T16:32:51.526Z",
   "channel": {
     "username": "manototv",
     "title": "تلویزیون منوتو",
@@ -10,6 +10,39 @@
     "subscriber_count": "375K"
   },
   "posts": [
+    {
+      "id": "ManotoTV/108740",
+      "author_name": "تلویزیون منوتو",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Ic4PGx0yCUyILVaKPIj7U7CrL_PPMvcVT9CqwoneoHhiLLbt5vdfk7eCycl7W0H1_i-W7tyQmz6cbgt-KwoHdkOD0uoxdrtmoRsVVQVsfi03HTQlmwu-lswV1pa0oDKrQz64-H9bpQGjfJ4zKmXIl06Nz8OjkRx1Ta81pQQxUtvIBhtp6RnNmrmcHiAZUbLbGuF5u7yk-SfuaS7hr3ONSbwXILDHB6LCypS3O5KE2W4PqmrF8HLxxck_4L5ONpiVsX8QLz8r0MZLAT_66SegEjoIiDjFDjmsE6RNyOsthPdxYPYsdm1oXQn7jrVw5OHvQgVZrzos2v08a4ll5yvKrg.jpg",
+      "author_photo_path": "channels/manototv/media/d54dc0ea1ba9e8ac192b553e.jpg",
+      "body_html": "تام باراک، سفیر آمریکا در ترکیه، در گفت‌وگو با ماریو نوفل، مجری و فعال رسانه‌ای لبنانی‌ـ‌استرالیایی، احتمال حمله در آخر هفته را رد نکرد و گفت دونالد ترامپ همچنان آماده توافق با ایران است، اما ادامهٔ تهدید جهان، متحدان آمریکا و منطقهٔ خلیج فارس پیامد خواهد داشت.<br><br>باراک با تفکیک مردم و تمدن ایران از سپاه پاسداران، سپاه را طرف تقابل آمریکا خواند و درباره مذاکرات گفت: «راه گفت‌وگو باز است؛ مشکل این است که با چه کسی باید گفت‌وگو کرد؟»<br><br>او تأکید کرد که هدف ترامپ «تغییر رژیم» نیست، بلکه برقراری دوباره توازن و پایان دادن به تهدیدها و گروگان‌گیری است. باراک چالش همیشگی تغییر رژیم را این پرسش دانست: «روز بعد چه اتفاقی می‌افتد؟»",
+      "plain_text": "تام باراک، سفیر آمریکا در ترکیه، در گفت‌وگو با ماریو نوفل، مجری و فعال رسانه‌ای لبنانی‌ـ‌استرالیایی، احتمال حمله در آخر هفته را رد نکرد و گفت دونالد ترامپ همچنان آماده توافق با ایران است، اما ادامهٔ تهدید جهان، متحدان آمریکا و منطقهٔ خلیج فارس پیامد خواهد داشت. باراک با تفکیک مردم و تمدن ایران از سپاه پاسداران، سپاه را طرف تقابل آمریکا خواند و درباره مذاکرات گفت: «راه گفت‌وگو باز است؛ مشکل این است که با چه کسی باید گفت‌وگو کرد؟» او تأکید کرد که هدف ترامپ «تغییر رژیم» نیست، بلکه برقراری دوباره توازن و پایان دادن به تهدیدها و گروگان‌گیری است. باراک چالش همیشگی تغییر رژیم را این پرسش دانست: «روز بعد چه اتفاقی می‌افتد؟»",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/ManotoTV/108740",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Bmcy7ikA73NjhH9keuBSCCrFUOsaAAnCRzAP9F0zR1zyGSIZJvmIecrziLJWu0NcEo7RWHtLVkTjufQvHNlOtqiVff9dmwFfzZbpvPpW8xOlwUnHdqdGB6eIwH2e7VuK5LcrP9frsh52fF5Z0eiVWgjCgoNHYQm9h29TOwuM-4haL0uq071TomvG2PJFFGTSwA8eVGjy9FmbuYMppFzb_ePF5KvwxD_6tDEfI5z_oCEThasUtUWhIWGGByAIdtQB6aUspuAmagaOKYcb4y20aaCWEA62j2jAVjf86xGbBlF8Fb6ib2m_N1BIGedIxIS6UUWOTs5XfLjdV5PHlYAIGg",
+          "thumbnail_path": "channels/manototv/media/5e240ed992604fc6c9f346a6.jpg",
+          "duration_label": "4:05",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "25"
+        },
+        {
+          "emoji": "👎",
+          "count": "17"
+        }
+      ],
+      "views_label": "3.38K",
+      "posted_at": "2026-10-24T15:22:06+00:00",
+      "edited": false,
+      "permalink": "https://t.me/ManotoTV/108740"
+    },
     {
       "id": "ManotoTV/108739",
       "author_name": "تلویزیون منوتو",
@@ -31,14 +64,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "27"
+          "count": "52"
         },
         {
           "emoji": "❤",
-          "count": "6"
+          "count": "14"
         }
       ],
-      "views_label": "2.63K",
+      "views_label": "6.45K",
       "posted_at": "2026-10-24T13:16:19+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108739"
@@ -136,14 +169,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "53"
+          "count": "60"
         },
         {
           "emoji": "👍",
-          "count": "6"
+          "count": "9"
         }
       ],
-      "views_label": "6.24K",
+      "views_label": "8.73K",
       "posted_at": "2026-10-24T10:37:08+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108730"
@@ -169,14 +202,14 @@
       "reactions": [
         {
           "emoji": "👎",
-          "count": "105"
+          "count": "109"
         },
         {
           "emoji": "❤",
-          "count": "36"
+          "count": "37"
         }
       ],
-      "views_label": "10.3K",
+      "views_label": "11.8K",
       "posted_at": "2026-10-24T06:39:51+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108729"
@@ -202,14 +235,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "225"
+          "count": "234"
         },
         {
           "emoji": "❤‍🔥",
           "count": "56"
         }
       ],
-      "views_label": "13.9K",
+      "views_label": "14.7K",
       "posted_at": "2026-10-23T21:16:16+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108728"
@@ -235,14 +268,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "138"
+          "count": "147"
         },
         {
           "emoji": "💔",
-          "count": "100"
+          "count": "104"
         }
       ],
-      "views_label": "12.4K",
+      "views_label": "13.1K",
       "posted_at": "2026-10-23T21:16:08+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108727"
@@ -349,14 +382,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "156"
+          "count": "158"
         },
         {
           "emoji": "👎",
           "count": "8"
         }
       ],
-      "views_label": "13.7K",
+      "views_label": "14K",
       "posted_at": "2026-10-23T18:13:41+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108717"
@@ -4815,39 +4848,6 @@
       "posted_at": "2026-10-16T10:01:33+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108467"
-    },
-    {
-      "id": "ManotoTV/108465",
-      "author_name": "تلویزیون منوتو",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Z0eeBXRS6Be6oWxnFV6rgD_beY66hpr_GmISHH0QPn_yIPG9TeGglAqAXKoeJnnKXGkzCCKCIaBG9C5LgtYhljD9facTmBsaJ8Vd6OHPMt_lw4rlv_yvUHJTAHvo0VJjFa9tXj5hllF04KN9MNj5vQx3UBdB43pefTxhKL5AAk0JAozbJbpSW408kmZXnauhtOrCNAXNHxO6wz4XjMSdfAzmBScV9hhghfsLdj829fzwwelb6Ce2bvKmJ-6tohu5WDZeOaMegQCNq5WJBnd7G0jHdb7IsL3saWnn-ZFEYOm56khRHn3lcDEc_fAhKodezuMHXM0BJUwKra6bP1Km1w.jpg",
-      "author_photo_path": "channels/manototv/media/e2afea2c7a9cb64bc493bfcb.jpg",
-      "body_html": "جاویدنام ثمین رستمی، ۴۲ ساله، مادر دو پسر و پرستار بیمارستان آرام کرج بود. او شامگاه ۱۸ دی‌ماه ۱۴۰۴ در جریان اعتراضات در منطقهٔ مهرویلای کرج، با شلیک نیروهای حکومتی جان باخت.<br>به روایت شاهدان، ثمین با دیدن ضرب‌وشتم یک دختر جوان توسط مأموران، برای کمک به او پیش رفت که از پشت هدف گلولهٔ جنگی قرار گرفت. گلوله به ناحیهٔ طحال او اصابت کرد و جانش را گرفت.<br>بنا بر روایت خانواده، خواهران ثمین نیز هنگامی که خود را به محل رساندند، مورد حملهٔ نیروهای حکومتی قرار گرفتند؛ دست‌هایشان شکست و با پنجه‌بوکس به صورتشان ضربه زدند.<br>پیکر ثمین چهار روز بعد به خانواده‌اش تحویل داده شد و در آرامستان کرج به خاک سپرده شد.",
-      "plain_text": "جاویدنام ثمین رستمی، ۴۲ ساله، مادر دو پسر و پرستار بیمارستان آرام کرج بود. او شامگاه ۱۸ دی‌ماه ۱۴۰۴ در جریان اعتراضات در منطقهٔ مهرویلای کرج، با شلیک نیروهای حکومتی جان باخت. به روایت شاهدان، ثمین با دیدن ضرب‌وشتم یک دختر جوان توسط مأموران، برای کمک به او پیش رفت که از پشت هدف گلولهٔ جنگی قرار گرفت. گلوله به ناحیهٔ طحال او اصابت کرد و جانش را گرفت. بنا بر روایت خانواده، خواهران ثمین نیز هنگامی که خود را به محل رساندند، مورد حملهٔ نیروهای حکومتی قرار گرفتند؛ دست‌هایشان شکست و با پنجه‌بوکس به صورتشان ضربه زدند. پیکر ثمین چهار روز بعد به خانواده‌اش تحویل داده شد و در آرامستان کرج به خاک سپرده شد.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/ManotoTV/108465",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/o4DJ9aIqDNxIVkF1qf8fxX4bkU3udbIX4Fnm6y9azZu3NJ1clhM6l3YkFtiis7Jlb3UrzrnTXG4OG8--WrWJ0aLkOLt98zKUafJr70KNbyCXOMnAtUlgFhnsN96UB6VumayglHuR7zZOmtNk8QC362f1TAmS0DoVtttvWN2jTjjozmHRv4iEQt6ZK05KuAOuekK3-ys9ciAPk0qkvY6hysBI8BJhj0LWTc6YQE_q86_LrvcewXl4FaO9zUZTs8_grJ9X5G1kWCxxKr_kVm0yhoB-5sRxlftDusuhTQfDpy8uUQXVfglrH4yuHscNxsZswUyp6R8XY3LQ5l68aIzitA",
-          "thumbnail_path": "channels/manototv/media/078a4ec3a3cf3f3bf2469410.jpg",
-          "duration_label": "0:45",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "💔",
-          "count": "109"
-        },
-        {
-          "emoji": "🔥",
-          "count": "3"
-        }
-      ],
-      "views_label": "4.66K",
-      "posted_at": "2026-10-16T10:00:38+00:00",
-      "edited": false,
-      "permalink": "https://t.me/ManotoTV/108465"
     }
   ]
 }
