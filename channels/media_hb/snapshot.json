@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-24T17:32:05.723Z",
+  "fetched_at": "2026-10-24T18:59:07.034Z",
   "channel": {
     "username": "media_hb",
     "title": "مدیا هاب | اخبار جنگ",
@@ -10,6 +10,39 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "Media_HB/109469",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/XfMU4Q1WBBgkYpl5QWLvCLGdchqDD1ozKJZ5in1byqLJCw-pOq50t68kC-LEBe5AZWGjX1uPIDY3a36DwEd-Wf0ztldyU_ijTTbu_XcU_qmm_e_sXxWMq2zaTeAhIjzuUUn0krG3n_zFwGxD48WcEOxH6QbYGfjcP-7WKvQVFS6zfrPQJESssiGNhYgxtd-D3-xPpMudsW2Ng1ygMtr3FMoTWsMICQqpguqmdfATRI56U2gaTyLedM_3e_9qRpIHOrPcmHdroDJvg1lzkLTbFN2fatUWd6Ja8FDf5kr1_wVoX8p51Y4HwiRXVDSVsxl8D6onQIju5tQaTJY2zV8JNw.jpg",
+      "author_photo_path": "channels/media_hb/media/c31a44812de13087ef8df167.jpg",
+      "body_html": "<b>امروز اعتراضات فرانسه از کنترل خارج شده بود که پلیس فرانسه با ذکر خلوت کنید آقای خمسه‌س اومد تا معترضارو جمع کنه.<br>البته چون بارون باریده این صحنه‌ها کمدی خالصه و دو طرف موقع دوییدن پشت هم میخورن زمین.</b>",
+      "plain_text": "امروز اعتراضات فرانسه از کنترل خارج شده بود که پلیس فرانسه با ذکر خلوت کنید آقای خمسه‌س اومد تا معترضارو جمع کنه. البته چون بارون باریده این صحنه‌ها کمدی خالصه و دو طرف موقع دوییدن پشت هم میخورن زمین.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Media_HB/109469",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/WQUKWb3NmPEa7YgFvPCSzsi_62J6t488E6C-jWN4ddpSLTOYog3sRbQznSt7a8EDtR3F8ZIZCcXwyvpznyJKADKcN3EqxNcDyvcsZds7Oo_B0f-z4Y3eNRHyqZqqw6RXAmL1MpnIJNzeAfLkASUUqZ4xtkQvXt0CF5VHyk84DRhO-UcEC2pfX531VWLmPcIZ4ewPga0RTqJPZCNGFrZdFcUNiwXXAH2WtOEdrv3rtGfG5N9Afn3Cpp82sLwPSacDWk94F24DYaF7I5mUJ655ahf8P8e_etA7-Oxs6znQhyaU_pkk_45PEsLho25BRpoYxgCLc_K2B-Y0fqFuXoY7OQ",
+          "thumbnail_path": "channels/media_hb/media/635f2a172b3e6c556facb2d5.jpg",
+          "duration_label": "0:29",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "92"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        }
+      ],
+      "views_label": "4.22K",
+      "posted_at": "2026-10-24T18:13:22+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/109469"
+    },
     {
       "id": "Media_HB/109468",
       "author_name": "مدیا هاب | اخبار جنگ",
@@ -21,30 +54,30 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "67"
+          "count": "79"
         },
         {
           "emoji": "🤣",
-          "count": "16"
+          "count": "19"
+        },
+        {
+          "emoji": "👀",
+          "count": "5"
+        },
+        {
+          "emoji": "👍",
+          "count": "4"
         },
         {
           "emoji": "🔥",
           "count": "4"
         },
         {
-          "emoji": "👀",
-          "count": "4"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        },
-        {
           "emoji": "💔",
           "count": "1"
         }
       ],
-      "views_label": "5.79K",
+      "views_label": "8.18K",
       "posted_at": "2026-10-24T15:24:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109468"
@@ -60,10 +93,14 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "73"
+          "count": "80"
         },
         {
           "emoji": "❤",
+          "count": "3"
+        },
+        {
+          "emoji": "🤣",
           "count": "3"
         },
         {
@@ -71,19 +108,15 @@
           "count": "2"
         },
         {
-          "emoji": "🤣",
-          "count": "2"
-        },
-        {
           "emoji": "👎",
-          "count": "1"
+          "count": "2"
         },
         {
           "emoji": "💔",
           "count": "1"
         }
       ],
-      "views_label": "7.42K",
+      "views_label": "9.09K",
       "posted_at": "2026-10-24T14:07:20+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109467"
@@ -99,7 +132,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "82"
+          "count": "86"
         },
         {
           "emoji": "❤",
@@ -114,7 +147,7 @@
           "count": "2"
         }
       ],
-      "views_label": "9.03K",
+      "views_label": "10.3K",
       "posted_at": "2026-10-24T12:24:12+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109466"
@@ -140,22 +173,22 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "78"
+          "count": "82"
         },
         {
           "emoji": "👍",
           "count": "2"
         },
         {
-          "emoji": "👎",
-          "count": "1"
+          "emoji": "🤡",
+          "count": "2"
         },
         {
-          "emoji": "🤡",
+          "emoji": "👎",
           "count": "1"
         }
       ],
-      "views_label": "9.53K",
+      "views_label": "10.6K",
       "posted_at": "2026-10-24T11:42:23+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109465"
@@ -181,7 +214,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "86"
+          "count": "87"
         },
         {
           "emoji": "❤",
@@ -194,9 +227,13 @@
         {
           "emoji": "👎",
           "count": "3"
+        },
+        {
+          "emoji": "🤣",
+          "count": "1"
         }
       ],
-      "views_label": "11.3K",
+      "views_label": "11.9K",
       "posted_at": "2026-10-24T06:10:43+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/109464"
@@ -229,7 +266,7 @@
           "count": "1"
         }
       ],
-      "views_label": "11K",
+      "views_label": "11.6K",
       "posted_at": "2026-10-24T06:10:27+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109462"
@@ -260,7 +297,7 @@
           "count": "1"
         }
       ],
-      "views_label": "10.7K",
+      "views_label": "11.1K",
       "posted_at": "2026-10-24T06:10:27+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109463"
@@ -334,7 +371,7 @@
           "count": "4"
         }
       ],
-      "views_label": "13.9K",
+      "views_label": "14.1K",
       "posted_at": "2026-10-23T21:49:10+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109460"
@@ -354,7 +391,7 @@
         },
         {
           "emoji": "🤣",
-          "count": "342"
+          "count": "343"
         },
         {
           "emoji": "❤",
@@ -381,7 +418,7 @@
           "count": "2"
         }
       ],
-      "views_label": "14.4K",
+      "views_label": "14.6K",
       "posted_at": "2026-10-23T20:48:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109459"
@@ -424,7 +461,7 @@
           "count": "2"
         }
       ],
-      "views_label": "14.7K",
+      "views_label": "14.9K",
       "posted_at": "2026-10-23T20:36:11+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109458"
@@ -461,15 +498,15 @@
           "count": "2"
         },
         {
-          "emoji": "👍",
-          "count": "1"
+          "emoji": "💔",
+          "count": "2"
         },
         {
-          "emoji": "💔",
+          "emoji": "👍",
           "count": "1"
         }
       ],
-      "views_label": "14.7K",
+      "views_label": "14.9K",
       "posted_at": "2026-10-23T20:36:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109457"
@@ -522,7 +559,7 @@
           "count": "2"
         }
       ],
-      "views_label": "14.2K",
+      "views_label": "14.4K",
       "posted_at": "2026-10-23T19:47:21+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109455"
@@ -557,7 +594,7 @@
           "count": "1"
         }
       ],
-      "views_label": "14.4K",
+      "views_label": "14.6K",
       "posted_at": "2026-10-23T18:08:58+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109454"
@@ -596,7 +633,7 @@
           "count": "2"
         }
       ],
-      "views_label": "13.9K",
+      "views_label": "14K",
       "posted_at": "2026-10-23T18:06:53+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109453"
@@ -653,7 +690,7 @@
         },
         {
           "emoji": "❤",
-          "count": "8"
+          "count": "9"
         },
         {
           "emoji": "👍",
@@ -672,7 +709,7 @@
           "count": "1"
         }
       ],
-      "views_label": "13.8K",
+      "views_label": "14K",
       "posted_at": "2026-10-23T17:46:35+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109449"
@@ -725,7 +762,7 @@
           "count": "1"
         }
       ],
-      "views_label": "13.6K",
+      "views_label": "13.7K",
       "posted_at": "2026-10-23T17:08:48+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/109448"
@@ -3778,33 +3815,6 @@
       "posted_at": "2026-10-21T19:53:06+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109364"
-    },
-    {
-      "id": "Media_HB/109363",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/RRx-DH-tcrykEy40FvFXJzSC5cKePQskZ88iDHrv0XV7fkSuOvZDgEc3l09Ls0eCKvMFkW50HnGfda-699K51u_5v-Y9iZ2mXSsfgDHGjpsiwGVkxNlsuXtkal_r2r4pKMCcGIja_lB3KArA-Tzf1wM7_cugQzJRnT2CbeFMygXGlZy2qb2hEWfRHn31XQgJ50GTtf0i6FdPRgZKtZjacyAK7wUDnp4ICvCYZk2ZSwWlc67Z5wZN9qIETsG04EVumtW_DTYDj4KonZrUPolNUIgUOnCnlEwzKTucP7EHJRUNHnXwGY-2FNOVhleYaKPzAdZEG1Xr_0lW_EB7xluQQw.jpg",
-      "author_photo_path": "channels/media_hb/media/3863f079eba5009d51d8319b.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> سخنگوی وزارت امور خارجه آمریکا :  وزارت امور خارجه ایالات متحده دستور خروج اجباری برای کارمندان غیرضروری دولت آمریکا و اعضای خانواده‌های آن‌ها صرفاً در کشور عربستان سعودی صادر کرده است.",
-      "plain_text": "🔴 سخنگوی وزارت امور خارجه آمریکا : وزارت امور خارجه ایالات متحده دستور خروج اجباری برای کارمندان غیرضروری دولت آمریکا و اعضای خانواده‌های آن‌ها صرفاً در کشور عربستان سعودی صادر کرده است.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "61"
-        },
-        {
-          "emoji": "👎",
-          "count": "3"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        }
-      ],
-      "views_label": "11.8K",
-      "posted_at": "2026-10-21T19:52:57+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Media_HB/109363"
     }
   ]
 }
