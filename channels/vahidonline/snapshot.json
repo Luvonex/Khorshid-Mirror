@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-24T23:20:34.794Z",
+  "fetched_at": "2026-10-25T00:19:02.117Z",
   "channel": {
     "username": "vahidonline",
     "title": "Vahid Online وحید آنلاین",
@@ -20,34 +20,25 @@
       "media": [
         {
           "kind": "photo",
-          "asset_url": "https://t.me/VahidOnline/78831?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/ALTJHKh8X4975KfCboKmW0pNnOZfv22XrScou3TBmBVypOsUrP1NWpMbdeaueH4wr71RDaaXbHMNSZD6UET1_8rS_vfJNuVr4344ABk7yvf3m2ptjJUVbxqy4Bhnrttr6mn4DaFyqrVflOzpPMvXmKQe71TNrbuSicFTmGItnna4U6we2Tuo7Lr3wnbF63EAfkpqB7Gn5rqRujXSVhkocBYG-y_y1RWCEJd9R2gzFAVmAH-3O4MHoByCFcir_xwfImwIerggFJJLqv9EaEmZH2V9sIrbgJZ2yt5TR5cI7LxGM7AXOxwIIpp-XSHwPsuRWF3lcIRGFjvWnihmrqcasA.jpg",
-          "thumbnail_path": "channels/vahidonline/media/e1dfb7a5b0b7d0231617f640.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/VahidOnline/78832?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/ULtodX7GZdVDY1Y8M-7ib06HJXO-TglLNGsdB4OmWJE3zEFYOT4LKwjpoYq3PyasUKrvwVJQ3HEPV9bVj8k_FayNmEdGzF254fjgMHXIb-SwNk1KOKK-qCsUNtVAIQrwe2Eu-YcLbpmXA5nJ6ri4DHRQvPuYCan8asa8oFzZmFTYo3dtaBRSZybMNFl6G5OAo_rEJmI2jqAlmbv5w31c58TbuMxVLKvtbwRmv1fv3fO3DWFVXBQ32D5BdQBS4Xzl0oPSYf1ONFxLBm1zPdUF53nuXNKx1iYhNFCSf6Tf0dD238UEH1c6i-OzhNtepQOVEqniWweu3dtKtCZYKIDm1Q.jpg",
-          "thumbnail_path": "channels/vahidonline/media/faa1776e3fab9cfcc5f4f07e.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
           "asset_url": "https://t.me/VahidOnline/78833?single",
           "asset_path": null,
           "thumbnail_url": "https://cdn1.telesco.pe/file/SZMKgmG7eky3L41LQ9uozp50wBR9bhrkMtWXL8M3fqivIBUQS-CUpUD8Ri0UHKQrB4D5RxNX9LjhmzS5HsaAKjjpVgV5C_Asui1uhDrZ9-EU-6r3TeOBtujbF_nijkiRyOFT2UnV9tgI9motFF0JsCo4oCXSvdEri_FOobD57qMyTE_E2F27-xzR5MWUHlU94jEh5QUzb7xtHm_32ARNDFbT8Ivoe8aboOOmNUBGohMU1FTfnKZS0KUeJtCn7Jfi5oeNGF5yFLJrZcUzrYyoAFEwq7td8bK247lJxMn2XA1AC4HYYfUPVcsUBpyQYn6bHH6iDhpkKSn4--SLz53DTg.jpg",
           "thumbnail_path": "channels/vahidonline/media/be65e1aca58ddb8063df012c.jpg",
           "duration_label": null,
           "aspect_ratio": 0.8
+        },
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/VahidOnline/78831?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/cCWlRAyAfYbMqcZZY2_Da4T7wat_BuieCmPbrv11Z_FsUJeE3WnandfQKerB-vbXRkzGUTHPavxq65zf-DdQ9Jbp3vOCx1uCry7jcnk45iwsbiDK9FVavxGDKSQproIKO6Hcm1skxfsVgODo-5Im3nrFBnmskiswyjua03A8Vd5tnDQ6IdFzV_quTdVUw290zr3H1EkJtZ1G_zd5YSGTtr-7JdP68qm8oLOKu71G03rER-G5_5qi6CDsqYR5oNYaPHr8kFbV2SGjN9y0FVl9_WDzmRPqrH8LWfkJ8L5P1ab0LOCEG5xkZuXi2To6T3-TNMlfB27oXEhrByX8Rmc22Q",
+          "thumbnail_path": "channels/vahidonline/media/46b5fc095dbb8d08096e0ba9.jpg",
+          "duration_label": "2:00",
+          "aspect_ratio": null
         }
       ],
       "reactions": [],
-      "views_label": "45K",
+      "views_label": "63.6K",
       "posted_at": "2026-10-24T22:28:05+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78831"
@@ -71,7 +62,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "237K",
+      "views_label": "245K",
       "posted_at": "2026-10-24T17:19:04+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78830"
@@ -95,7 +86,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "301K",
+      "views_label": "305K",
       "posted_at": "2026-10-24T12:00:44+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78829"
@@ -119,7 +110,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "272K",
+      "views_label": "275K",
       "posted_at": "2026-10-24T11:57:10+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78828"
@@ -152,7 +143,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "253K",
+      "views_label": "256K",
       "posted_at": "2026-10-24T11:56:07+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78826"
@@ -176,7 +167,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "258K",
+      "views_label": "261K",
       "posted_at": "2026-10-24T11:53:57+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78825"
@@ -200,7 +191,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "354K",
+      "views_label": "356K",
       "posted_at": "2026-10-24T01:59:39+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78824"
@@ -238,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "387K",
+      "views_label": "388K",
       "posted_at": "2026-10-23T20:08:01+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78822"
@@ -262,7 +253,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "353K",
+      "views_label": "354K",
       "posted_at": "2026-10-23T20:07:23+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78821"
@@ -343,7 +334,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "296K",
+      "views_label": "297K",
       "posted_at": "2026-10-23T15:38:39+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78817"
@@ -391,7 +382,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "265K",
+      "views_label": "266K",
       "posted_at": "2026-10-23T13:09:37+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78815"
@@ -415,7 +406,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "270K",
+      "views_label": "271K",
       "posted_at": "2026-10-23T13:08:12+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78814"
@@ -439,7 +430,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "268K",
+      "views_label": "270K",
       "posted_at": "2026-10-23T13:06:22+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78813"
