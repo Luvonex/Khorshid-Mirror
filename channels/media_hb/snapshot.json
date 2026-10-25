@@ -1,42 +1,370 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-25T09:46:45.493Z",
+  "fetched_at": "2026-10-25T11:17:11.546Z",
   "channel": {
     "username": "media_hb",
     "title": "مدیا هاب | اخبار جنگ",
     "description_html": "برای تبلیغات و همکاری پیوی پیام بدید<br><br><a href=\"https://t.me/Behdad_ps\" target=\"_blank\">@Behdad_ps</a>",
-    "photo_url": "https://cdn4.telesco.pe/file/XfMU4Q1WBBgkYpl5QWLvCLGdchqDD1ozKJZ5in1byqLJCw-pOq50t68kC-LEBe5AZWGjX1uPIDY3a36DwEd-Wf0ztldyU_ijTTbu_XcU_qmm_e_sXxWMq2zaTeAhIjzuUUn0krG3n_zFwGxD48WcEOxH6QbYGfjcP-7WKvQVFS6zfrPQJESssiGNhYgxtd-D3-xPpMudsW2Ng1ygMtr3FMoTWsMICQqpguqmdfATRI56U2gaTyLedM_3e_9qRpIHOrPcmHdroDJvg1lzkLTbFN2fatUWd6Ja8FDf5kr1_wVoX8p51Y4HwiRXVDSVsxl8D6onQIju5tQaTJY2zV8JNw.jpg",
-    "photo_path": "channels/media_hb/media/c31a44812de13087ef8df167.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/WtWnXPLLQ2Dd4XS6mGpT1fDUN8uQr-PP5fzrNlUIunJssFkPOlNmnqg-EmZ1xQK0_C3yckotBOkWD28em267gtKrZYA1uk8Jaj8pNObWipk_P_o5EjElniHUw-oVIoTDDZqbYJA0Od5LLi-iQJbieTN7mCC-PZ1rtff-B5oC9EPA6il7V7Z89a94GF8DOUYpQUM6Y1P41EjfNaAdRpso7RNaKzWYTyf7EoNVirwOZnfhvZDPvgpuD0gx5_pN-RZLjkmZVZBJTkRW92-vx-Uek8HNTR_S69F329335nE6aCZwtgyQUS2n9BZygQ0EC0ixGyojOIeMwSLVFmu0W-Wg3g.jpg",
+    "photo_path": "channels/media_hb/media/2723e9186307e5d58e46c8b2.jpg",
     "subscriber_count": "133K"
   },
   "posts": [
     {
-      "id": "Media_HB/109502",
+      "id": "Media_HB/109515",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/XfMU4Q1WBBgkYpl5QWLvCLGdchqDD1ozKJZ5in1byqLJCw-pOq50t68kC-LEBe5AZWGjX1uPIDY3a36DwEd-Wf0ztldyU_ijTTbu_XcU_qmm_e_sXxWMq2zaTeAhIjzuUUn0krG3n_zFwGxD48WcEOxH6QbYGfjcP-7WKvQVFS6zfrPQJESssiGNhYgxtd-D3-xPpMudsW2Ng1ygMtr3FMoTWsMICQqpguqmdfATRI56U2gaTyLedM_3e_9qRpIHOrPcmHdroDJvg1lzkLTbFN2fatUWd6Ja8FDf5kr1_wVoX8p51Y4HwiRXVDSVsxl8D6onQIju5tQaTJY2zV8JNw.jpg",
-      "author_photo_path": "channels/media_hb/media/c31a44812de13087ef8df167.jpg",
-      "body_html": "<b>۲ روز تا انتخابات اسرائیل<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i> <br>۹ روز تا انتخابات میان دوره آمریکا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></b>",
-      "plain_text": "۲ روز تا انتخابات اسرائیل🔥 ۹ روز تا انتخابات میان دوره آمریکا🔥",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WtWnXPLLQ2Dd4XS6mGpT1fDUN8uQr-PP5fzrNlUIunJssFkPOlNmnqg-EmZ1xQK0_C3yckotBOkWD28em267gtKrZYA1uk8Jaj8pNObWipk_P_o5EjElniHUw-oVIoTDDZqbYJA0Od5LLi-iQJbieTN7mCC-PZ1rtff-B5oC9EPA6il7V7Z89a94GF8DOUYpQUM6Y1P41EjfNaAdRpso7RNaKzWYTyf7EoNVirwOZnfhvZDPvgpuD0gx5_pN-RZLjkmZVZBJTkRW92-vx-Uek8HNTR_S69F329335nE6aCZwtgyQUS2n9BZygQ0EC0ixGyojOIeMwSLVFmu0W-Wg3g.jpg",
+      "author_photo_path": "channels/media_hb/media/2723e9186307e5d58e46c8b2.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i><b>املاک و سهام ساعدی‌نیا در نهایت و با رای دادگاه توقیف شد<br><br>دادستان قم از توقیف کامل بخش قابل‌توجهی از دارایی‌های صادق ساعدی‌نیا، شامل املاک در تهران، سهام شرکت‌ها در قم و سایر اموال منقول و غیرمنقول خبر داد؛ ارزش نهایی این دارایی‌ها پس از اعلام نظر کارشناسان مشخص می‌شود.</b>",
+      "plain_text": "❗املاک و سهام ساعدی‌نیا در نهایت و با رای دادگاه توقیف شد دادستان قم از توقیف کامل بخش قابل‌توجهی از دارایی‌های صادق ساعدی‌نیا، شامل املاک در تهران، سهام شرکت‌ها در قم و سایر اموال منقول و غیرمنقول خبر داد؛ ارزش نهایی این دارایی‌ها پس از اعلام نظر کارشناسان مشخص می‌شود.",
       "media": [],
       "reactions": [
         {
-          "emoji": "❤",
-          "count": "65"
+          "emoji": "💔",
+          "count": "54"
+        },
+        {
+          "emoji": "😡",
+          "count": "4"
         },
         {
           "emoji": "🔥",
-          "count": "26"
+          "count": "2"
         },
         {
           "emoji": "🤣",
-          "count": "11"
+          "count": "1"
+        }
+      ],
+      "views_label": "1.23K",
+      "posted_at": "2026-10-25T11:10:58+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/109515"
+    },
+    {
+      "id": "Media_HB/109512",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WtWnXPLLQ2Dd4XS6mGpT1fDUN8uQr-PP5fzrNlUIunJssFkPOlNmnqg-EmZ1xQK0_C3yckotBOkWD28em267gtKrZYA1uk8Jaj8pNObWipk_P_o5EjElniHUw-oVIoTDDZqbYJA0Od5LLi-iQJbieTN7mCC-PZ1rtff-B5oC9EPA6il7V7Z89a94GF8DOUYpQUM6Y1P41EjfNaAdRpso7RNaKzWYTyf7EoNVirwOZnfhvZDPvgpuD0gx5_pN-RZLjkmZVZBJTkRW92-vx-Uek8HNTR_S69F329335nE6aCZwtgyQUS2n9BZygQ0EC0ixGyojOIeMwSLVFmu0W-Wg3g.jpg",
+      "author_photo_path": "channels/media_hb/media/2723e9186307e5d58e46c8b2.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i> بری بت | BerryBet</b><br><br><tg-emoji emoji-id=\"5375452661036358740\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></tg-emoji> <b>مسابقات امروز </b><tg-emoji emoji-id=\"5458485283790004353\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918D.png')\"><b>👍</b></i></tg-emoji><b> </b><br><br><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i>   بارسلونا - رئال مادرید<br><tg-emoji emoji-id=\"5992127827787388962\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C8E.png')\"><b>🌎</b></i></tg-emoji> ساعت ۲۳:۳۰<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i> لیورپول - برایتون<br><tg-emoji emoji-id=\"5992127827787388962\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C8E.png')\"><b>🌎</b></i></tg-emoji> ساعت ۱۷:۳۰<br></blockquote>﻿<br><tg-emoji emoji-id=\"5447458260200214425\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B8.png')\"><b>💸</b></i></tg-emoji> <b>ضرایب ویژه و رقابتی<br></b><b><tg-emoji emoji-id=\"5411590687663608498\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i></tg-emoji></b><b> پیش‌بینی سریع، تسویه آسان و پخش زنده مسابقات</b><br><br><tg-emoji emoji-id=\"5310278924616356636\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EAF.png')\"><b>🎯</b></i></tg-emoji> <b>همین حالا شانس خودت رو امتحان کن و هیجان فوتبال رو چند برابر کن!</b><br><br> <tg-emoji emoji-id=\"6034905633336070030\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji><a href=\"https://t.me/BerryBetOfficial\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>۱۰٪ شارژ بیشتر برای روش‌های رمزارز</b></a><br><tg-emoji emoji-id=\"5258337316715373336\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA499.png')\"><b>🤙</b></i></tg-emoji> <b>ورود سریع | شارژ آنی | پشتیبانی ۲۴ ساعت</b><br><br>کانال سایت:<br><b> </b><tg-emoji emoji-id=\"5429501538806548545\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/BerryBetOfficial\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/BerryBetOfficial</b></a><br>آدرس سایت:<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰</b></i>r3<br><b>  </b><tg-emoji emoji-id=\"5271604874419647061\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i></tg-emoji> <a href=\"https://rwqteyxoof.shop/fa/affiliates/?btag=914641_l303106\" target=\"_blank\" rel=\"noopener\"><b>https://rwqteyxoof.shop/fa/affiliates/?btag=914641_l303106</b></a>",
+      "plain_text": "⚡ بری بت | BerryBet 🔥 مسابقات امروز 👍 ⚽️ بارسلونا - رئال مادرید 🌎 ساعت ۲۳:۳۰ ⚽️ لیورپول - برایتون 🌎 ساعت ۱۷:۳۰ 💸 ضرایب ویژه و رقابتی ⚡ پیش‌بینی سریع، تسویه آسان و پخش زنده مسابقات 🎯 همین حالا شانس خودت رو امتحان کن و هیجان فوتبال رو چند برابر کن! ✅۱۰٪ شارژ بیشتر برای روش‌های رمزارز 🤙 ورود سریع | شارژ آنی | پشتیبانی ۲۴ ساعت کانال سایت: ✅ https://t.me/BerryBetOfficial آدرس سایت:🅰r3 🔗 https://rwqteyxoof.shop/fa/affiliates/?btag=914641_l303106",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/109512",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/SokMjRjZV9hOcGqX9-ztwxz7l-jiDN-Yf7GMsK_394XBrB-I4wUTPvsakBWlleg3JF4OAqjgzQurDucyUtDFK4BGLesPdYcYRlT77f0wSCeHVbQxqvd-QXvGM74geGdYkJ9scJ_npSoL0fPxXINfkuAJD00h2GWTR0fbbICC8X2jMPJcekniq6fsI6yGYOJVI2kRxhs_jn85uRWqZI1wlkY3kS5MK_dVNRQBlavGPxnQM9-abcpWgIIQqYYSsVQTj32wyCjEp3dc-qQwFRSRiGmz8fLOLBksaYr9oEo9fpEfFHuw6WLDR7ETY1iJt7jQKAA5F0LhKrJesXdA5I0SIA.jpg",
+          "thumbnail_path": "channels/media_hb/media/643ead24e639d670a8b401a2.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "😭",
+          "count": "3"
         },
         {
           "emoji": "🤡",
           "count": "1"
         }
       ],
-      "views_label": "2.77K",
+      "views_label": "1.85K",
+      "posted_at": "2026-10-25T11:04:26+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/109512"
+    },
+    {
+      "id": "Media_HB/109513",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WtWnXPLLQ2Dd4XS6mGpT1fDUN8uQr-PP5fzrNlUIunJssFkPOlNmnqg-EmZ1xQK0_C3yckotBOkWD28em267gtKrZYA1uk8Jaj8pNObWipk_P_o5EjElniHUw-oVIoTDDZqbYJA0Od5LLi-iQJbieTN7mCC-PZ1rtff-B5oC9EPA6il7V7Z89a94GF8DOUYpQUM6Y1P41EjfNaAdRpso7RNaKzWYTyf7EoNVirwOZnfhvZDPvgpuD0gx5_pN-RZLjkmZVZBJTkRW92-vx-Uek8HNTR_S69F329335nE6aCZwtgyQUS2n9BZygQ0EC0ixGyojOIeMwSLVFmu0W-Wg3g.jpg",
+      "author_photo_path": "channels/media_hb/media/2723e9186307e5d58e46c8b2.jpg",
+      "body_html": "<b>همین حالا ثبت‌ نام کنید و از بونوس های جدید ما لذت ببرید</b><b><tg-emoji emoji-id=\"6035277294036061660\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B5.png')\"><b>💵</b></i></tg-emoji></b><tg-emoji emoji-id=\"5780560530515171033\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B8D.png')\"><b>🛍</b></i></tg-emoji><tg-emoji emoji-id=\"5300815548295165085\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9186.png')\"><b>👆</b></i></tg-emoji>",
+      "plain_text": "همین حالا ثبت‌ نام کنید و از بونوس های جدید ما لذت ببرید💵🛍👆",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤡",
+          "count": "2"
+        }
+      ],
+      "views_label": "1.85K",
+      "posted_at": "2026-10-25T11:04:26+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/109513"
+    },
+    {
+      "id": "Media_HB/109511",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WtWnXPLLQ2Dd4XS6mGpT1fDUN8uQr-PP5fzrNlUIunJssFkPOlNmnqg-EmZ1xQK0_C3yckotBOkWD28em267gtKrZYA1uk8Jaj8pNObWipk_P_o5EjElniHUw-oVIoTDDZqbYJA0Od5LLi-iQJbieTN7mCC-PZ1rtff-B5oC9EPA6il7V7Z89a94GF8DOUYpQUM6Y1P41EjfNaAdRpso7RNaKzWYTyf7EoNVirwOZnfhvZDPvgpuD0gx5_pN-RZLjkmZVZBJTkRW92-vx-Uek8HNTR_S69F329335nE6aCZwtgyQUS2n9BZygQ0EC0ixGyojOIeMwSLVFmu0W-Wg3g.jpg",
+      "author_photo_path": "channels/media_hb/media/2723e9186307e5d58e46c8b2.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> سپاه تهران:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i> انهدام پنج مهمات عمل نکرده در شهرستان پاکدشت طی روز جاری<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i> احتمال شنیده شدن صدای انفجار از ساعت ۱۵ تا ۱۸</b>",
+      "plain_text": "🔴 سپاه تهران: 🔻 انهدام پنج مهمات عمل نکرده در شهرستان پاکدشت طی روز جاری 🔻 احتمال شنیده شدن صدای انفجار از ساعت ۱۵ تا ۱۸",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "41"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        },
+        {
+          "emoji": "😭",
+          "count": "1"
+        }
+      ],
+      "views_label": "3.07K",
+      "posted_at": "2026-10-25T10:54:54+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/109511"
+    },
+    {
+      "id": "Media_HB/109509",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WtWnXPLLQ2Dd4XS6mGpT1fDUN8uQr-PP5fzrNlUIunJssFkPOlNmnqg-EmZ1xQK0_C3yckotBOkWD28em267gtKrZYA1uk8Jaj8pNObWipk_P_o5EjElniHUw-oVIoTDDZqbYJA0Od5LLi-iQJbieTN7mCC-PZ1rtff-B5oC9EPA6il7V7Z89a94GF8DOUYpQUM6Y1P41EjfNaAdRpso7RNaKzWYTyf7EoNVirwOZnfhvZDPvgpuD0gx5_pN-RZLjkmZVZBJTkRW92-vx-Uek8HNTR_S69F329335nE6aCZwtgyQUS2n9BZygQ0EC0ixGyojOIeMwSLVFmu0W-Wg3g.jpg",
+      "author_photo_path": "channels/media_hb/media/2723e9186307e5d58e46c8b2.jpg",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> <b>گزارش هایی از انفجار در تبریز. <br>احتمالا همون خنثی سازی مهمات باشه</b>.</div>",
+      "plain_text": "🔴 گزارش هایی از انفجار در تبریز. احتمالا همون خنثی سازی مهمات باشه.",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/109509?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/GGNJ5YwRAXFNclaLcaYukeG-N6wlmFM3QiSDdkGeEBRojxWEUijHbEp6EgDvOWD5S8PHK9f7djSb1joZfcf3AejYLwXmH9_ZwGaAZep9378ggLCTDb6f7quO3E5a3zwfiNONqhlNF6DwMr9HFVBvg-q1V070My6iUIWFpu3jZo8fomhp-MgCT4PoxXsa0JMlKAZxuhKt_bYNJwkzouAQTKb-ZUEHP2fES2ovJiGgQBbwlRRxoR9kw-4ojUtgyF-gGQbRDQhzsgDV_kO87r9vXeq5JMj4-m0WHzYrkUk3bIKdm2yM20bIMXYIcVQpNrTmHPaqfbUK46P_FHKOrpLOOQ.jpg",
+          "thumbnail_path": "channels/media_hb/media/1a751b3cc5729d1dc7e812f5.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7738359201774
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/109510?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/uNAI_OZn4PtmBAyZzzzeH_HS44mpJUnYstGNI8hEfNoqFebALD6iH6b3W3RzdPfp_F3XBNK_K84IolBwnZLs3cHVmEYJnGRVog--ywvalSJUBFLns6R8IO52lcU3Djhw5qp23ySIOkWaaPxgBXs-EpsHdyM8tm3-lw84v0pSLr6h9U-olyBL78xAhPcyiK-pgss_KrI7l5tvPaNHHrHpUEsxjKVwcZNUuRJQbKG3LFCDNIBqXUY0hueEa2NVRc134G_53lG6uxRFxv3sDFvMz-oDG3xp9lBDVU6YTV9jXonktDt0zCeuZN8yDBWnxi_FRgSxbUjX4vrM6Ki1XRaf-A.jpg",
+          "thumbnail_path": "channels/media_hb/media/decb9633b9439d5cad8c4d70.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.75
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "65"
+        },
+        {
+          "emoji": "🔥",
+          "count": "2"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        }
+      ],
+      "views_label": "3.64K",
+      "posted_at": "2026-10-25T10:49:26+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/109509"
+    },
+    {
+      "id": "Media_HB/109508",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WtWnXPLLQ2Dd4XS6mGpT1fDUN8uQr-PP5fzrNlUIunJssFkPOlNmnqg-EmZ1xQK0_C3yckotBOkWD28em267gtKrZYA1uk8Jaj8pNObWipk_P_o5EjElniHUw-oVIoTDDZqbYJA0Od5LLi-iQJbieTN7mCC-PZ1rtff-B5oC9EPA6il7V7Z89a94GF8DOUYpQUM6Y1P41EjfNaAdRpso7RNaKzWYTyf7EoNVirwOZnfhvZDPvgpuD0gx5_pN-RZLjkmZVZBJTkRW92-vx-Uek8HNTR_S69F329335nE6aCZwtgyQUS2n9BZygQ0EC0ixGyojOIeMwSLVFmu0W-Wg3g.jpg",
+      "author_photo_path": "channels/media_hb/media/2723e9186307e5d58e46c8b2.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> تیبو کورتوا الکلاسیکو رو به دلیل آنفولانزا از دست داد.",
+      "plain_text": "🔴 تیبو کورتوا الکلاسیکو رو به دلیل آنفولانزا از دست داد.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "52"
+        }
+      ],
+      "views_label": "4.5K",
+      "posted_at": "2026-10-25T10:43:07+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/109508"
+    },
+    {
+      "id": "Media_HB/109507",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WtWnXPLLQ2Dd4XS6mGpT1fDUN8uQr-PP5fzrNlUIunJssFkPOlNmnqg-EmZ1xQK0_C3yckotBOkWD28em267gtKrZYA1uk8Jaj8pNObWipk_P_o5EjElniHUw-oVIoTDDZqbYJA0Od5LLi-iQJbieTN7mCC-PZ1rtff-B5oC9EPA6il7V7Z89a94GF8DOUYpQUM6Y1P41EjfNaAdRpso7RNaKzWYTyf7EoNVirwOZnfhvZDPvgpuD0gx5_pN-RZLjkmZVZBJTkRW92-vx-Uek8HNTR_S69F329335nE6aCZwtgyQUS2n9BZygQ0EC0ixGyojOIeMwSLVFmu0W-Wg3g.jpg",
+      "author_photo_path": "channels/media_hb/media/2723e9186307e5d58e46c8b2.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> تیبو کورتوا الکلاسیکو رو به دلیل آنفولانزا از دست داد.",
+      "plain_text": "🔴 تیبو کورتوا الکلاسیکو رو به دلیل آنفولانزا از دست داد.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "144"
+        },
+        {
+          "emoji": "😭",
+          "count": "6"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        },
+        {
+          "emoji": "🤡",
+          "count": "1"
+        }
+      ],
+      "views_label": "6.01K",
+      "posted_at": "2026-10-25T10:05:18+00:00",
+      "edited": true,
+      "permalink": "https://t.me/Media_HB/109507"
+    },
+    {
+      "id": "Media_HB/109506",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WtWnXPLLQ2Dd4XS6mGpT1fDUN8uQr-PP5fzrNlUIunJssFkPOlNmnqg-EmZ1xQK0_C3yckotBOkWD28em267gtKrZYA1uk8Jaj8pNObWipk_P_o5EjElniHUw-oVIoTDDZqbYJA0Od5LLi-iQJbieTN7mCC-PZ1rtff-B5oC9EPA6il7V7Z89a94GF8DOUYpQUM6Y1P41EjfNaAdRpso7RNaKzWYTyf7EoNVirwOZnfhvZDPvgpuD0gx5_pN-RZLjkmZVZBJTkRW92-vx-Uek8HNTR_S69F329335nE6aCZwtgyQUS2n9BZygQ0EC0ixGyojOIeMwSLVFmu0W-Wg3g.jpg",
+      "author_photo_path": "channels/media_hb/media/2723e9186307e5d58e46c8b2.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> تیبو کورتوا الکلاسیکو رو به دلیل آنفولانزا از دست داد.",
+      "plain_text": "🔴 تیبو کورتوا الکلاسیکو رو به دلیل آنفولانزا از دست داد.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "106"
+        },
+        {
+          "emoji": "💔",
+          "count": "1"
+        }
+      ],
+      "views_label": "6.33K",
+      "posted_at": "2026-10-25T10:01:58+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/109506"
+    },
+    {
+      "id": "Media_HB/109505",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WtWnXPLLQ2Dd4XS6mGpT1fDUN8uQr-PP5fzrNlUIunJssFkPOlNmnqg-EmZ1xQK0_C3yckotBOkWD28em267gtKrZYA1uk8Jaj8pNObWipk_P_o5EjElniHUw-oVIoTDDZqbYJA0Od5LLi-iQJbieTN7mCC-PZ1rtff-B5oC9EPA6il7V7Z89a94GF8DOUYpQUM6Y1P41EjfNaAdRpso7RNaKzWYTyf7EoNVirwOZnfhvZDPvgpuD0gx5_pN-RZLjkmZVZBJTkRW92-vx-Uek8HNTR_S69F329335nE6aCZwtgyQUS2n9BZygQ0EC0ixGyojOIeMwSLVFmu0W-Wg3g.jpg",
+      "author_photo_path": "channels/media_hb/media/2723e9186307e5d58e46c8b2.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> تیبو کورتوا الکلاسیکو رو به دلیل آنفولانزا از دست داد.",
+      "plain_text": "🔴 تیبو کورتوا الکلاسیکو رو به دلیل آنفولانزا از دست داد.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "89"
+        },
+        {
+          "emoji": "💔",
+          "count": "6"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        },
+        {
+          "emoji": "👍",
+          "count": "2"
+        }
+      ],
+      "views_label": "6.35K",
+      "posted_at": "2026-10-25T10:01:16+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/109505"
+    },
+    {
+      "id": "Media_HB/109504",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WtWnXPLLQ2Dd4XS6mGpT1fDUN8uQr-PP5fzrNlUIunJssFkPOlNmnqg-EmZ1xQK0_C3yckotBOkWD28em267gtKrZYA1uk8Jaj8pNObWipk_P_o5EjElniHUw-oVIoTDDZqbYJA0Od5LLi-iQJbieTN7mCC-PZ1rtff-B5oC9EPA6il7V7Z89a94GF8DOUYpQUM6Y1P41EjfNaAdRpso7RNaKzWYTyf7EoNVirwOZnfhvZDPvgpuD0gx5_pN-RZLjkmZVZBJTkRW92-vx-Uek8HNTR_S69F329335nE6aCZwtgyQUS2n9BZygQ0EC0ixGyojOIeMwSLVFmu0W-Wg3g.jpg",
+      "author_photo_path": "channels/media_hb/media/2723e9186307e5d58e46c8b2.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i>به مناسبت الکلاسیکوی حساس امشب، بریم نگاهی داشته باشیم به نکات و حواشی این بازی:  ۱. در دیدار های گذشته ۱۰۶ برد سهم رئال مادرید و ۱۰۶ برد هم سهم بارسلونا بوده.  ۲. در ده بازی اخیر این دو تیم، بارسلونا ۷ بار برنده بازی بوده.  ۳. از بارسلونا، کونده، کریستنسن،…",
+      "plain_text": "🔴⚽️به مناسبت الکلاسیکوی حساس امشب، بریم نگاهی داشته باشیم به نکات و حواشی این بازی: ۱. در دیدار های گذشته ۱۰۶ برد سهم رئال مادرید و ۱۰۶ برد هم سهم بارسلونا بوده. ۲. در ده بازی اخیر این دو تیم، بارسلونا ۷ بار برنده بازی بوده. ۳. از بارسلونا، کونده، کریستنسن،…",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "98"
+        },
+        {
+          "emoji": "💔",
+          "count": "18"
+        },
+        {
+          "emoji": "😐",
+          "count": "11"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        }
+      ],
+      "views_label": "6.55K",
+      "posted_at": "2026-10-25T10:00:27+00:00",
+      "edited": true,
+      "permalink": "https://t.me/Media_HB/109504"
+    },
+    {
+      "id": "Media_HB/109503",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WtWnXPLLQ2Dd4XS6mGpT1fDUN8uQr-PP5fzrNlUIunJssFkPOlNmnqg-EmZ1xQK0_C3yckotBOkWD28em267gtKrZYA1uk8Jaj8pNObWipk_P_o5EjElniHUw-oVIoTDDZqbYJA0Od5LLi-iQJbieTN7mCC-PZ1rtff-B5oC9EPA6il7V7Z89a94GF8DOUYpQUM6Y1P41EjfNaAdRpso7RNaKzWYTyf7EoNVirwOZnfhvZDPvgpuD0gx5_pN-RZLjkmZVZBJTkRW92-vx-Uek8HNTR_S69F329335nE6aCZwtgyQUS2n9BZygQ0EC0ixGyojOIeMwSLVFmu0W-Wg3g.jpg",
+      "author_photo_path": "channels/media_hb/media/2723e9186307e5d58e46c8b2.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i>به مناسبت الکلاسیکوی حساس امشب، بریم نگاهی داشته باشیم به نکات و حواشی این بازی:<br><br>۱. در دیدار های گذشته ۱۰۶ برد سهم رئال مادرید و ۱۰۶ برد هم سهم بارسلونا بوده.<br><br>۲. در ده بازی اخیر این دو تیم، بارسلونا ۷ بار برنده بازی بوده.<br><br>۳. از بارسلونا، کونده، کریستنسن، اریک گارسیا و دنی اولمو به دلیل مصدومیت و از رئال کورتوآ به دلیل مصدومیت و وینیسیوس به دلیل محرومیت، در بازی حضور ندارند.<br><br>۴. داور بازی مارتینز مونوئرا هست که در ۴ تا الکلاسیکویی که داوری کرده، ۳ برد برای رئال مادرید و ۱ برد برای بارسلونا به دست اومده.<br><br>۵. بارسلونا در صورت بردن رئال مادرید میتونه به رکورد ۱۰ برد در ۱۰ بازی ابتدایی لیگ برسه.<br><br>۶. تلویزیون باشگاه رئال مادرید هم شروع کرده به حاشیه سازی و گفته که از نظر فوتبالی رئال مادرید تیم بهتری از بارسلونا هست در حال حاضر ولی داوری خیلی در نتایجی که رقم خوردن تاثیر داشته و خلاصه گفته بارسلونا توی الکلاسیکو امشب با کمک داور نتیجه میگیره. در آخر هم گفته بارسلونا ۱۱ ساله برنده چمپیونزلیگ نشده.<br><br>۷. به طور کلی کفه ی ترازو به شدت به سمت بارسلونا سنگینی میکنه و رئال مادرید احتمالا شب سختی در نیوکمپ خواهد داشت.</b>",
+      "plain_text": "🔴⚽️به مناسبت الکلاسیکوی حساس امشب، بریم نگاهی داشته باشیم به نکات و حواشی این بازی: ۱. در دیدار های گذشته ۱۰۶ برد سهم رئال مادرید و ۱۰۶ برد هم سهم بارسلونا بوده. ۲. در ده بازی اخیر این دو تیم، بارسلونا ۷ بار برنده بازی بوده. ۳. از بارسلونا، کونده، کریستنسن، اریک گارسیا و دنی اولمو به دلیل مصدومیت و از رئال کورتوآ به دلیل مصدومیت و وینیسیوس به دلیل محرومیت، در بازی حضور ندارند. ۴. داور بازی مارتینز مونوئرا هست که در ۴ تا الکلاسیکویی که داوری کرده، ۳ برد برای رئال مادرید و ۱ برد برای بارسلونا به دست اومده. ۵. بارسلونا در صورت بردن رئال مادرید میتونه به رکورد ۱۰ برد در ۱۰ بازی ابتدایی لیگ برسه. ۶. تلویزیون باشگاه رئال مادرید هم شروع کرده به حاشیه سازی و گفته که از نظر فوتبالی رئال مادرید تیم بهتری از بارسلونا هست در حال حاضر ولی داوری خیلی در نتایجی که رقم خوردن تاثیر داشته و خلاصه گفته بارسلونا توی الکلاسیکو امشب با کمک داور نتیجه میگیره. در آخر هم گفته بارسلونا ۱۱ ساله برنده چمپیونزلیگ نشده. ۷. به طور کلی کفه ی ترازو به شدت به سمت بارسلونا سنگینی میکنه و رئال مادرید احتمالا شب سختی در نیوکمپ خواهد داشت.",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/109503",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/YVvwcud0jV5gqLJkif2t_KQT5uJM0vpoeAy9J8mRD-vQcrU0PYdRMdSIEQ5t10bhD1V6zU_BuIhzaKbsgZsY2cGEeLpga1aXyqzsed8CoAXArmoIDuFY2l6voNQ92_uYRrL0OlCPbxY2XpC5Nbkg2NTohDu0W5aJbvS1eevRoi67LJu3JgiSjlEtqDW-z-8rNQFHMLq1bkt3dvNJhlW9n4XigyIa8oW5cNOD-n2idoBghwBLs9E4kEtJm3R547MJWB47aHfs-QWUiFmXSZL7Bh4b7NBDgur3J6y7ZfYA97tTTNV7i-0MX91rffstLzYN_SFQ_uwPrKf7qqKvaFeIIA.jpg",
+          "thumbnail_path": "channels/media_hb/media/a122377f8e335da8e2f0f92a.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.1157601115760112
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "37"
+        },
+        {
+          "emoji": "🤡",
+          "count": "7"
+        }
+      ],
+      "views_label": "6.57K",
+      "posted_at": "2026-10-25T09:50:55+00:00",
+      "edited": true,
+      "permalink": "https://t.me/Media_HB/109503"
+    },
+    {
+      "id": "Media_HB/109502",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WtWnXPLLQ2Dd4XS6mGpT1fDUN8uQr-PP5fzrNlUIunJssFkPOlNmnqg-EmZ1xQK0_C3yckotBOkWD28em267gtKrZYA1uk8Jaj8pNObWipk_P_o5EjElniHUw-oVIoTDDZqbYJA0Od5LLi-iQJbieTN7mCC-PZ1rtff-B5oC9EPA6il7V7Z89a94GF8DOUYpQUM6Y1P41EjfNaAdRpso7RNaKzWYTyf7EoNVirwOZnfhvZDPvgpuD0gx5_pN-RZLjkmZVZBJTkRW92-vx-Uek8HNTR_S69F329335nE6aCZwtgyQUS2n9BZygQ0EC0ixGyojOIeMwSLVFmu0W-Wg3g.jpg",
+      "author_photo_path": "channels/media_hb/media/2723e9186307e5d58e46c8b2.jpg",
+      "body_html": "<b>۲ روز تا انتخابات اسرائیل<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i> <br>۹ روز تا انتخابات میان دوره آمریکا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></b>",
+      "plain_text": "۲ روز تا انتخابات اسرائیل🔥 ۹ روز تا انتخابات میان دوره آمریکا🔥",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "124"
+        },
+        {
+          "emoji": "🔥",
+          "count": "38"
+        },
+        {
+          "emoji": "🤣",
+          "count": "13"
+        },
+        {
+          "emoji": "🤡",
+          "count": "3"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
+        }
+      ],
+      "views_label": "7.12K",
       "posted_at": "2026-10-25T09:22:51+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109502"
@@ -44,22 +372,22 @@
     {
       "id": "Media_HB/109497",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/XfMU4Q1WBBgkYpl5QWLvCLGdchqDD1ozKJZ5in1byqLJCw-pOq50t68kC-LEBe5AZWGjX1uPIDY3a36DwEd-Wf0ztldyU_ijTTbu_XcU_qmm_e_sXxWMq2zaTeAhIjzuUUn0krG3n_zFwGxD48WcEOxH6QbYGfjcP-7WKvQVFS6zfrPQJESssiGNhYgxtd-D3-xPpMudsW2Ng1ygMtr3FMoTWsMICQqpguqmdfATRI56U2gaTyLedM_3e_9qRpIHOrPcmHdroDJvg1lzkLTbFN2fatUWd6Ja8FDf5kr1_wVoX8p51Y4HwiRXVDSVsxl8D6onQIju5tQaTJY2zV8JNw.jpg",
-      "author_photo_path": "channels/media_hb/media/c31a44812de13087ef8df167.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WtWnXPLLQ2Dd4XS6mGpT1fDUN8uQr-PP5fzrNlUIunJssFkPOlNmnqg-EmZ1xQK0_C3yckotBOkWD28em267gtKrZYA1uk8Jaj8pNObWipk_P_o5EjElniHUw-oVIoTDDZqbYJA0Od5LLi-iQJbieTN7mCC-PZ1rtff-B5oC9EPA6il7V7Z89a94GF8DOUYpQUM6Y1P41EjfNaAdRpso7RNaKzWYTyf7EoNVirwOZnfhvZDPvgpuD0gx5_pN-RZLjkmZVZBJTkRW92-vx-Uek8HNTR_S69F329335nE6aCZwtgyQUS2n9BZygQ0EC0ixGyojOIeMwSLVFmu0W-Wg3g.jpg",
+      "author_photo_path": "channels/media_hb/media/2723e9186307e5d58e46c8b2.jpg",
       "body_html": "مگه تو جنگ جهانی دوم بودیم که انقد مهمات فعال نشده داریم",
       "plain_text": "مگه تو جنگ جهانی دوم بودیم که انقد مهمات فعال نشده داریم",
       "media": [],
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "181"
+          "count": "233"
         },
         {
           "emoji": "❤",
           "count": "2"
         }
       ],
-      "views_label": "5.78K",
+      "views_label": "8.81K",
       "posted_at": "2026-10-25T08:47:10+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109497"
@@ -67,15 +395,15 @@
     {
       "id": "Media_HB/109495",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/XfMU4Q1WBBgkYpl5QWLvCLGdchqDD1ozKJZ5in1byqLJCw-pOq50t68kC-LEBe5AZWGjX1uPIDY3a36DwEd-Wf0ztldyU_ijTTbu_XcU_qmm_e_sXxWMq2zaTeAhIjzuUUn0krG3n_zFwGxD48WcEOxH6QbYGfjcP-7WKvQVFS6zfrPQJESssiGNhYgxtd-D3-xPpMudsW2Ng1ygMtr3FMoTWsMICQqpguqmdfATRI56U2gaTyLedM_3e_9qRpIHOrPcmHdroDJvg1lzkLTbFN2fatUWd6Ja8FDf5kr1_wVoX8p51Y4HwiRXVDSVsxl8D6onQIju5tQaTJY2zV8JNw.jpg",
-      "author_photo_path": "channels/media_hb/media/c31a44812de13087ef8df167.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WtWnXPLLQ2Dd4XS6mGpT1fDUN8uQr-PP5fzrNlUIunJssFkPOlNmnqg-EmZ1xQK0_C3yckotBOkWD28em267gtKrZYA1uk8Jaj8pNObWipk_P_o5EjElniHUw-oVIoTDDZqbYJA0Od5LLi-iQJbieTN7mCC-PZ1rtff-B5oC9EPA6il7V7Z89a94GF8DOUYpQUM6Y1P41EjfNaAdRpso7RNaKzWYTyf7EoNVirwOZnfhvZDPvgpuD0gx5_pN-RZLjkmZVZBJTkRW92-vx-Uek8HNTR_S69F329335nE6aCZwtgyQUS2n9BZygQ0EC0ixGyojOIeMwSLVFmu0W-Wg3g.jpg",
+      "author_photo_path": "channels/media_hb/media/2723e9186307e5d58e46c8b2.jpg",
       "body_html": "<b>شین | <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i>صدای انفجار در اهواز، حوالی محله چهارشیر</b>",
       "plain_text": "شین | 🚨صدای انفجار در اهواز، حوالی محله چهارشیر",
       "media": [],
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "65"
+          "count": "73"
         },
         {
           "emoji": "👍",
@@ -84,9 +412,13 @@
         {
           "emoji": "❤",
           "count": "1"
+        },
+        {
+          "emoji": "👎",
+          "count": "1"
         }
       ],
-      "views_label": "6.18K",
+      "views_label": "8.85K",
       "posted_at": "2026-10-25T08:43:50+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/109495"
@@ -94,8 +426,8 @@
     {
       "id": "Media_HB/109490",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/XfMU4Q1WBBgkYpl5QWLvCLGdchqDD1ozKJZ5in1byqLJCw-pOq50t68kC-LEBe5AZWGjX1uPIDY3a36DwEd-Wf0ztldyU_ijTTbu_XcU_qmm_e_sXxWMq2zaTeAhIjzuUUn0krG3n_zFwGxD48WcEOxH6QbYGfjcP-7WKvQVFS6zfrPQJESssiGNhYgxtd-D3-xPpMudsW2Ng1ygMtr3FMoTWsMICQqpguqmdfATRI56U2gaTyLedM_3e_9qRpIHOrPcmHdroDJvg1lzkLTbFN2fatUWd6Ja8FDf5kr1_wVoX8p51Y4HwiRXVDSVsxl8D6onQIju5tQaTJY2zV8JNw.jpg",
-      "author_photo_path": "channels/media_hb/media/c31a44812de13087ef8df167.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WtWnXPLLQ2Dd4XS6mGpT1fDUN8uQr-PP5fzrNlUIunJssFkPOlNmnqg-EmZ1xQK0_C3yckotBOkWD28em267gtKrZYA1uk8Jaj8pNObWipk_P_o5EjElniHUw-oVIoTDDZqbYJA0Od5LLi-iQJbieTN7mCC-PZ1rtff-B5oC9EPA6il7V7Z89a94GF8DOUYpQUM6Y1P41EjfNaAdRpso7RNaKzWYTyf7EoNVirwOZnfhvZDPvgpuD0gx5_pN-RZLjkmZVZBJTkRW92-vx-Uek8HNTR_S69F329335nE6aCZwtgyQUS2n9BZygQ0EC0ixGyojOIeMwSLVFmu0W-Wg3g.jpg",
+      "author_photo_path": "channels/media_hb/media/2723e9186307e5d58e46c8b2.jpg",
       "body_html": "اهواز ترکیده؟<br>ممبرا تایید؟",
       "plain_text": "اهواز ترکیده؟ ممبرا تایید؟",
       "media": [],
@@ -106,7 +438,7 @@
         },
         {
           "emoji": "👍",
-          "count": "75"
+          "count": "86"
         },
         {
           "emoji": "👎",
@@ -125,7 +457,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.72K",
+      "views_label": "9.08K",
       "posted_at": "2026-10-25T08:33:27+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/109490"
@@ -133,15 +465,15 @@
     {
       "id": "Media_HB/109489",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/XfMU4Q1WBBgkYpl5QWLvCLGdchqDD1ozKJZ5in1byqLJCw-pOq50t68kC-LEBe5AZWGjX1uPIDY3a36DwEd-Wf0ztldyU_ijTTbu_XcU_qmm_e_sXxWMq2zaTeAhIjzuUUn0krG3n_zFwGxD48WcEOxH6QbYGfjcP-7WKvQVFS6zfrPQJESssiGNhYgxtd-D3-xPpMudsW2Ng1ygMtr3FMoTWsMICQqpguqmdfATRI56U2gaTyLedM_3e_9qRpIHOrPcmHdroDJvg1lzkLTbFN2fatUWd6Ja8FDf5kr1_wVoX8p51Y4HwiRXVDSVsxl8D6onQIju5tQaTJY2zV8JNw.jpg",
-      "author_photo_path": "channels/media_hb/media/c31a44812de13087ef8df167.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WtWnXPLLQ2Dd4XS6mGpT1fDUN8uQr-PP5fzrNlUIunJssFkPOlNmnqg-EmZ1xQK0_C3yckotBOkWD28em267gtKrZYA1uk8Jaj8pNObWipk_P_o5EjElniHUw-oVIoTDDZqbYJA0Od5LLi-iQJbieTN7mCC-PZ1rtff-B5oC9EPA6il7V7Z89a94GF8DOUYpQUM6Y1P41EjfNaAdRpso7RNaKzWYTyf7EoNVirwOZnfhvZDPvgpuD0gx5_pN-RZLjkmZVZBJTkRW92-vx-Uek8HNTR_S69F329335nE6aCZwtgyQUS2n9BZygQ0EC0ixGyojOIeMwSLVFmu0W-Wg3g.jpg",
+      "author_photo_path": "channels/media_hb/media/2723e9186307e5d58e46c8b2.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i><b>پرس‌تی‌وی:<br><br>انصارالله حمله‌ای پهپادی به ریاض، پایتخت عربستان سعودی، انجام دادند.</b>",
       "plain_text": "❗️پرس‌تی‌وی: انصارالله حمله‌ای پهپادی به ریاض، پایتخت عربستان سعودی، انجام دادند.",
       "media": [],
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "40"
+          "count": "50"
         },
         {
           "emoji": "❤",
@@ -156,7 +488,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.66K",
+      "views_label": "8.94K",
       "posted_at": "2026-10-25T08:30:19+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109489"
@@ -164,8 +496,8 @@
     {
       "id": "Media_HB/109488",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/XfMU4Q1WBBgkYpl5QWLvCLGdchqDD1ozKJZ5in1byqLJCw-pOq50t68kC-LEBe5AZWGjX1uPIDY3a36DwEd-Wf0ztldyU_ijTTbu_XcU_qmm_e_sXxWMq2zaTeAhIjzuUUn0krG3n_zFwGxD48WcEOxH6QbYGfjcP-7WKvQVFS6zfrPQJESssiGNhYgxtd-D3-xPpMudsW2Ng1ygMtr3FMoTWsMICQqpguqmdfATRI56U2gaTyLedM_3e_9qRpIHOrPcmHdroDJvg1lzkLTbFN2fatUWd6Ja8FDf5kr1_wVoX8p51Y4HwiRXVDSVsxl8D6onQIju5tQaTJY2zV8JNw.jpg",
-      "author_photo_path": "channels/media_hb/media/c31a44812de13087ef8df167.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WtWnXPLLQ2Dd4XS6mGpT1fDUN8uQr-PP5fzrNlUIunJssFkPOlNmnqg-EmZ1xQK0_C3yckotBOkWD28em267gtKrZYA1uk8Jaj8pNObWipk_P_o5EjElniHUw-oVIoTDDZqbYJA0Od5LLi-iQJbieTN7mCC-PZ1rtff-B5oC9EPA6il7V7Z89a94GF8DOUYpQUM6Y1P41EjfNaAdRpso7RNaKzWYTyf7EoNVirwOZnfhvZDPvgpuD0gx5_pN-RZLjkmZVZBJTkRW92-vx-Uek8HNTR_S69F329335nE6aCZwtgyQUS2n9BZygQ0EC0ixGyojOIeMwSLVFmu0W-Wg3g.jpg",
+      "author_photo_path": "channels/media_hb/media/2723e9186307e5d58e46c8b2.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i>اوباما:  ایران هسته ای نشد چون من نذاشتم. بدون شلیک یک موشک و فقط با قدرت دیپلماسی",
       "plain_text": "❗اوباما: ایران هسته ای نشد چون من نذاشتم. بدون شلیک یک موشک و فقط با قدرت دیپلماسی",
       "media": [
@@ -182,18 +514,18 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "118"
+          "count": "144"
         },
         {
           "emoji": "🤣",
-          "count": "13"
+          "count": "14"
         },
         {
           "emoji": "🤡",
-          "count": "4"
+          "count": "7"
         }
       ],
-      "views_label": "8.07K",
+      "views_label": "9.87K",
       "posted_at": "2026-10-25T07:20:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109488"
@@ -201,19 +533,19 @@
     {
       "id": "Media_HB/109487",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/XfMU4Q1WBBgkYpl5QWLvCLGdchqDD1ozKJZ5in1byqLJCw-pOq50t68kC-LEBe5AZWGjX1uPIDY3a36DwEd-Wf0ztldyU_ijTTbu_XcU_qmm_e_sXxWMq2zaTeAhIjzuUUn0krG3n_zFwGxD48WcEOxH6QbYGfjcP-7WKvQVFS6zfrPQJESssiGNhYgxtd-D3-xPpMudsW2Ng1ygMtr3FMoTWsMICQqpguqmdfATRI56U2gaTyLedM_3e_9qRpIHOrPcmHdroDJvg1lzkLTbFN2fatUWd6Ja8FDf5kr1_wVoX8p51Y4HwiRXVDSVsxl8D6onQIju5tQaTJY2zV8JNw.jpg",
-      "author_photo_path": "channels/media_hb/media/c31a44812de13087ef8df167.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WtWnXPLLQ2Dd4XS6mGpT1fDUN8uQr-PP5fzrNlUIunJssFkPOlNmnqg-EmZ1xQK0_C3yckotBOkWD28em267gtKrZYA1uk8Jaj8pNObWipk_P_o5EjElniHUw-oVIoTDDZqbYJA0Od5LLi-iQJbieTN7mCC-PZ1rtff-B5oC9EPA6il7V7Z89a94GF8DOUYpQUM6Y1P41EjfNaAdRpso7RNaKzWYTyf7EoNVirwOZnfhvZDPvgpuD0gx5_pN-RZLjkmZVZBJTkRW92-vx-Uek8HNTR_S69F329335nE6aCZwtgyQUS2n9BZygQ0EC0ixGyojOIeMwSLVFmu0W-Wg3g.jpg",
+      "author_photo_path": "channels/media_hb/media/2723e9186307e5d58e46c8b2.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i>اوباما:  ایران هسته ای نشد چون من نذاشتم. بدون شلیک یک موشک و فقط با قدرت دیپلماسی",
       "plain_text": "❗اوباما: ایران هسته ای نشد چون من نذاشتم. بدون شلیک یک موشک و فقط با قدرت دیپلماسی",
       "media": [],
       "reactions": [
         {
           "emoji": "🤡",
-          "count": "113"
+          "count": "136"
         },
         {
           "emoji": "👍",
-          "count": "17"
+          "count": "20"
         },
         {
           "emoji": "👎",
@@ -221,14 +553,14 @@
         },
         {
           "emoji": "❤",
-          "count": "3"
+          "count": "5"
         },
         {
           "emoji": "🤣",
           "count": "2"
         }
       ],
-      "views_label": "7.86K",
+      "views_label": "9.39K",
       "posted_at": "2026-10-25T07:04:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109487"
@@ -236,15 +568,15 @@
     {
       "id": "Media_HB/109486",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/XfMU4Q1WBBgkYpl5QWLvCLGdchqDD1ozKJZ5in1byqLJCw-pOq50t68kC-LEBe5AZWGjX1uPIDY3a36DwEd-Wf0ztldyU_ijTTbu_XcU_qmm_e_sXxWMq2zaTeAhIjzuUUn0krG3n_zFwGxD48WcEOxH6QbYGfjcP-7WKvQVFS6zfrPQJESssiGNhYgxtd-D3-xPpMudsW2Ng1ygMtr3FMoTWsMICQqpguqmdfATRI56U2gaTyLedM_3e_9qRpIHOrPcmHdroDJvg1lzkLTbFN2fatUWd6Ja8FDf5kr1_wVoX8p51Y4HwiRXVDSVsxl8D6onQIju5tQaTJY2zV8JNw.jpg",
-      "author_photo_path": "channels/media_hb/media/c31a44812de13087ef8df167.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WtWnXPLLQ2Dd4XS6mGpT1fDUN8uQr-PP5fzrNlUIunJssFkPOlNmnqg-EmZ1xQK0_C3yckotBOkWD28em267gtKrZYA1uk8Jaj8pNObWipk_P_o5EjElniHUw-oVIoTDDZqbYJA0Od5LLi-iQJbieTN7mCC-PZ1rtff-B5oC9EPA6il7V7Z89a94GF8DOUYpQUM6Y1P41EjfNaAdRpso7RNaKzWYTyf7EoNVirwOZnfhvZDPvgpuD0gx5_pN-RZLjkmZVZBJTkRW92-vx-Uek8HNTR_S69F329335nE6aCZwtgyQUS2n9BZygQ0EC0ixGyojOIeMwSLVFmu0W-Wg3g.jpg",
+      "author_photo_path": "channels/media_hb/media/2723e9186307e5d58e46c8b2.jpg",
       "body_html": "نترسید تست گازه<br><br><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>فرمانداری دزفول:<br><br>تا ساعت ۱۱ امروز احتمال شنیدن صدای انفجار ناشی‌از امحای مهمات وجود دارد</b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i>",
       "plain_text": "نترسید تست گازه 🔴فرمانداری دزفول: تا ساعت ۱۱ امروز احتمال شنیدن صدای انفجار ناشی‌از امحای مهمات وجود دارد‼️",
       "media": [],
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "88"
+          "count": "100"
         },
         {
           "emoji": "❤",
@@ -259,7 +591,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.3K",
+      "views_label": "10.3K",
       "posted_at": "2026-10-25T06:10:52+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/109486"
@@ -3348,473 +3680,6 @@
       "posted_at": "2026-10-22T17:32:33+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/109399"
-    },
-    {
-      "id": "Media_HB/109398",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aWMGpsTWwa2qH4zLOD17110IV68TSgK8hD_0MjQlCO_Goey7SwSgXu_uzWqs7hqTC1MHGOBN2qdiqMiulk2njH0ZGtRpIyWDPIMaIqP2EiKgoVpmBKorWXitfm-K9mtnLsZ-f2hfOWYjFRXpMtCzcjfO567k803vRTSejGlUE_Sk3n6DXxBK0zug_ODxvxjRj69gsj9PdJUSlzsNQBKdhm77Hx1VszRFEmEv3ZHBwFP259RMbOpNLh-ownRqPOsuE9nbzQwxVHCydsgNkGqn987w-BE4xYOwMPNU0ZSeppbLvkxAqvdYz8awQHTmUA51T-XAYyoYipRdrEtwX6Lvjg.jpg",
-      "author_photo_path": "channels/media_hb/media/915b1ef791d0bdaa310acddb.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><b>کانال 15 عبری به نقل از دو منبع دیپلماتیک منطقه ای:<br><br>تخلیه گسترده اعضای خانواده دیپلمات‌های آمریکایی از همه کشورهای خاورمیانه</b>",
-      "plain_text": "🚨کانال 15 عبری به نقل از دو منبع دیپلماتیک منطقه ای: تخلیه گسترده اعضای خانواده دیپلمات‌های آمریکایی از همه کشورهای خاورمیانه",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "82"
-        },
-        {
-          "emoji": "🔥",
-          "count": "8"
-        },
-        {
-          "emoji": "👍",
-          "count": "3"
-        },
-        {
-          "emoji": "👎",
-          "count": "2"
-        },
-        {
-          "emoji": "💔",
-          "count": "1"
-        }
-      ],
-      "views_label": "10.4K",
-      "posted_at": "2026-10-22T17:19:56+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/109398"
-    },
-    {
-      "id": "Media_HB/109397",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aWMGpsTWwa2qH4zLOD17110IV68TSgK8hD_0MjQlCO_Goey7SwSgXu_uzWqs7hqTC1MHGOBN2qdiqMiulk2njH0ZGtRpIyWDPIMaIqP2EiKgoVpmBKorWXitfm-K9mtnLsZ-f2hfOWYjFRXpMtCzcjfO567k803vRTSejGlUE_Sk3n6DXxBK0zug_ODxvxjRj69gsj9PdJUSlzsNQBKdhm77Hx1VszRFEmEv3ZHBwFP259RMbOpNLh-ownRqPOsuE9nbzQwxVHCydsgNkGqn987w-BE4xYOwMPNU0ZSeppbLvkxAqvdYz8awQHTmUA51T-XAYyoYipRdrEtwX6Lvjg.jpg",
-      "author_photo_path": "channels/media_hb/media/915b1ef791d0bdaa310acddb.jpg",
-      "body_html": "شانس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/30E283A3.png')\"><b>0️⃣</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/30E283A3.png')\"><b>0️⃣</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/31E283A3.png')\"><b>1️⃣</b></i>میلیون تومانی خود را در بری بت از دست ندهید<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F988E.png')\"><b>😎</b></i>",
-      "plain_text": "شانس 0️⃣0️⃣1️⃣میلیون تومانی خود را در بری بت از دست ندهید🔥😎",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👎",
-          "count": "8"
-        },
-        {
-          "emoji": "🤡",
-          "count": "3"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        },
-        {
-          "emoji": "😭",
-          "count": "1"
-        }
-      ],
-      "views_label": "7.67K",
-      "posted_at": "2026-10-22T17:19:33+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/109397"
-    },
-    {
-      "id": "Media_HB/109396",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aWMGpsTWwa2qH4zLOD17110IV68TSgK8hD_0MjQlCO_Goey7SwSgXu_uzWqs7hqTC1MHGOBN2qdiqMiulk2njH0ZGtRpIyWDPIMaIqP2EiKgoVpmBKorWXitfm-K9mtnLsZ-f2hfOWYjFRXpMtCzcjfO567k803vRTSejGlUE_Sk3n6DXxBK0zug_ODxvxjRj69gsj9PdJUSlzsNQBKdhm77Hx1VszRFEmEv3ZHBwFP259RMbOpNLh-ownRqPOsuE9nbzQwxVHCydsgNkGqn987w-BE4xYOwMPNU0ZSeppbLvkxAqvdYz8awQHTmUA51T-XAYyoYipRdrEtwX6Lvjg.jpg",
-      "author_photo_path": "channels/media_hb/media/915b1ef791d0bdaa310acddb.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F988E.png')\"><b>😎</b></i> <b>۱۰۰,۰۰۰,۰۰۰ تومان!</b> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')\"><b>🎁</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FABB0.png')\"><b>🫰</b></i><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')\"><b>💰</b></i>فقط با یک ثبت‌نام ساده در <b>BerryBet</b> می‌تونی وارد این آفر بشی! <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')\"><b>💰</b></i><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i> <b>شرط رایگان دریافت کن</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AF.png')\"><b>💯</b></i> کد طرح تشویقی: <b>888</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B8.png')\"><b>💸</b></i> شانس برد تا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A2.png')\"><b>🔢</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A2.png')\"><b>🔢</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A2.png')\"><b>🔢</b></i><b> میلیون تومان</b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B8.png')\"><b>💸</b></i><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9594.png')\"><b>🕔</b></i> همین حالا ثبت‌نام کن<br>G30<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B92.png')\"><b>🛒</b></i> ورود به سایت <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i> <a href=\"https://rwqteyxoof.shop/fa/affiliates/?btag=914641_l303106\" target=\"_blank\" rel=\"noopener\">https://rwqteyxoof.shop/fa/affiliates/?btag=914641_l303106</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i> کانال رسمی ما در تلگرام <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i> <a href=\"https://t.me/BerryBetOfficial\" target=\"_blank\" rel=\"noopener\">https://t.me/BerryBetOfficial</a>",
-      "plain_text": "😎 ۱۰۰,۰۰۰,۰۰۰ تومان! 🎁🫰 💰فقط با یک ثبت‌نام ساده در BerryBet می‌تونی وارد این آفر بشی! 💰 ✅ شرط رایگان دریافت کن 💯 کد طرح تشویقی: 888 💸 شانس برد تا 🔢🔢🔢 میلیون تومان💸 🕔 همین حالا ثبت‌نام کن G30🅰 🛒 ورود به سایت 👇 ✅ https://rwqteyxoof.shop/fa/affiliates/?btag=914641_l303106 ⚡️ کانال رسمی ما در تلگرام 👇 ✅ https://t.me/BerryBetOfficial",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/109396",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/LL-hlZecdhanvX-E2JwRzoaxFue9g0jXuVl48MeCtgAFzzUo40Gi400-2jhlOnXw46DCiToL4XIUVChKHrDKzNISG--RO95qN2v49UiogMm9i1RBcJ15GQaJADR5JDVS_zKrVOhCqw7iMnk4u1JF7x5pRBrTgxpW1Vq7bJFkPvjwncCGydOR7MBWAdjCg9zy0kZE8zWJ2kWGxmCKSseaH5LOdWTPZ3DydYDgu6B1WmAqqj44_YX6OqWgHH2fX217Uth2Blcwu26vMtLcn6MAkW7q-l35_4lMlgNBRKyQOOoj0K9Xa9aMvGYWcMUu2vb0kNfChm1eL_NkH9o5_-mhYg.jpg",
-          "thumbnail_path": "channels/media_hb/media/6fea77eb21c7feefadb82019.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👎",
-          "count": "6"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        },
-        {
-          "emoji": "🤡",
-          "count": "1"
-        },
-        {
-          "emoji": "😭",
-          "count": "1"
-        }
-      ],
-      "views_label": "7.65K",
-      "posted_at": "2026-10-22T17:19:32+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/109396"
-    },
-    {
-      "id": "Media_HB/109395",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aWMGpsTWwa2qH4zLOD17110IV68TSgK8hD_0MjQlCO_Goey7SwSgXu_uzWqs7hqTC1MHGOBN2qdiqMiulk2njH0ZGtRpIyWDPIMaIqP2EiKgoVpmBKorWXitfm-K9mtnLsZ-f2hfOWYjFRXpMtCzcjfO567k803vRTSejGlUE_Sk3n6DXxBK0zug_ODxvxjRj69gsj9PdJUSlzsNQBKdhm77Hx1VszRFEmEv3ZHBwFP259RMbOpNLh-ownRqPOsuE9nbzQwxVHCydsgNkGqn987w-BE4xYOwMPNU0ZSeppbLvkxAqvdYz8awQHTmUA51T-XAYyoYipRdrEtwX6Lvjg.jpg",
-      "author_photo_path": "channels/media_hb/media/915b1ef791d0bdaa310acddb.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>ترامپ:<br><br>ایران هر کاری از دستش برمی‌آید انجام می‌دهد تا پیش از انتخابات میان‌دوره‌ای آمریکا قیمت نفت را بالا ببرد. آن‌ها حتی حملات، مین‌ها و هر چیز دیگری را جعل می‌کنند، زیرا اکنون نفت بیشتری نسبت به حتی پیش از آغاز درگیری از تنگه هرمز عبور می‌کند. آن‌ها همچنان معترضان و هر کس دیگری را که سر راهشان قرار بگیرد، می‌کشند. این واقعاً یک رژیم شرور است و من فقط می‌توانم امیدوار باشم که مردم آمریکا و جهان بفهمند آن‌ها تا چه اندازه شرورند! در کمتر از هفت ماه، ۷۵ هزار معترض کشته شده‌اند. تکان‌دهنده است که جهان و حزب کودن‌کرات‌ها ظاهراً اهمیتی نمی‌دهند. ایران هرگز نمی‌تواند سلاح هسته‌ای داشته باشد و هرگز سلاح هسته‌ای نخواهد داشت! رئیس جمهور دونالد جی. ترامپ</b>",
-      "plain_text": "🔴ترامپ: ایران هر کاری از دستش برمی‌آید انجام می‌دهد تا پیش از انتخابات میان‌دوره‌ای آمریکا قیمت نفت را بالا ببرد. آن‌ها حتی حملات، مین‌ها و هر چیز دیگری را جعل می‌کنند، زیرا اکنون نفت بیشتری نسبت به حتی پیش از آغاز درگیری از تنگه هرمز عبور می‌کند. آن‌ها همچنان معترضان و هر کس دیگری را که سر راهشان قرار بگیرد، می‌کشند. این واقعاً یک رژیم شرور است و من فقط می‌توانم امیدوار باشم که مردم آمریکا و جهان بفهمند آن‌ها تا چه اندازه شرورند! در کمتر از هفت ماه، ۷۵ هزار معترض کشته شده‌اند. تکان‌دهنده است که جهان و حزب کودن‌کرات‌ها ظاهراً اهمیتی نمی‌دهند. ایران هرگز نمی‌تواند سلاح هسته‌ای داشته باشد و هرگز سلاح هسته‌ای نخواهد داشت! رئیس جمهور دونالد جی. ترامپ",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/109395",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/rZ5IjE6SA6aQ6z9f-X20WJDmPQMA0MTBhd2ilop-6Bq3bfTGRdp1PS2ycnZ22lQQPjcyf6g2HV7RCreamDAc5xdL94aYAvONnEkXQ4F6ZkgsFwtg0WbFc1TaG4R_3RGZlaSlqLix3AxD-mz4OZItscr6O1ckzZOGO8w_5ZjP6ESUIsS4IQkP9vYQktGK0iNPkareCRvpGmBN6JfXuzp9JqXyLIBZwAnht68-OSH_1HFsXMeTINq9aNPLo6snB4pByZFc5B-ziz17sYQuFGQvYuDm6hhpxQjixdXiCG3i78wwSxKsUn9izj1O0CkbLW0Uwc7DpWKlVEEZhvhv7uHvVg.jpg",
-          "thumbnail_path": "channels/media_hb/media/b894ccc274443183655952dd.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.5151515151515151
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "142"
-        },
-        {
-          "emoji": "🤡",
-          "count": "18"
-        },
-        {
-          "emoji": "🔥",
-          "count": "3"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        },
-        {
-          "emoji": "🤣",
-          "count": "2"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "1"
-        },
-        {
-          "emoji": "😡",
-          "count": "1"
-        }
-      ],
-      "views_label": "8.51K",
-      "posted_at": "2026-10-22T15:53:44+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/109395"
-    },
-    {
-      "id": "Media_HB/109394",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aWMGpsTWwa2qH4zLOD17110IV68TSgK8hD_0MjQlCO_Goey7SwSgXu_uzWqs7hqTC1MHGOBN2qdiqMiulk2njH0ZGtRpIyWDPIMaIqP2EiKgoVpmBKorWXitfm-K9mtnLsZ-f2hfOWYjFRXpMtCzcjfO567k803vRTSejGlUE_Sk3n6DXxBK0zug_ODxvxjRj69gsj9PdJUSlzsNQBKdhm77Hx1VszRFEmEv3ZHBwFP259RMbOpNLh-ownRqPOsuE9nbzQwxVHCydsgNkGqn987w-BE4xYOwMPNU0ZSeppbLvkxAqvdYz8awQHTmUA51T-XAYyoYipRdrEtwX6Lvjg.jpg",
-      "author_photo_path": "channels/media_hb/media/915b1ef791d0bdaa310acddb.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i>یه تحلیل جدی حالا بکنیم  درحال حاضر شروع جنگ به طور قطع به نفع نتانیاهو هستش و حتی تا یه حدودی به نفع جمهوری خواهان که به بهانه جنگ انتخابات رو توی فضای امنیتی و نظامی برگزار کنند و حتی با دستاوردی مثل نابودی کوه کلنگ!. از اون طرف نتانیاهو چندین بار گفته…",
-      "plain_text": "❗یه تحلیل جدی حالا بکنیم درحال حاضر شروع جنگ به طور قطع به نفع نتانیاهو هستش و حتی تا یه حدودی به نفع جمهوری خواهان که به بهانه جنگ انتخابات رو توی فضای امنیتی و نظامی برگزار کنند و حتی با دستاوردی مثل نابودی کوه کلنگ!. از اون طرف نتانیاهو چندین بار گفته…",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/109394",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/IyU3N5efqj2o_eZs4QXGWV332f2QGcoINDPuEEuzUN8S2oIA1VRYxS2UhyOhuVlj8Innl4UK4y6DWsmvOKe7beDYI1q0FJ-s04vSiFXfMl9GqYwjE0rQo7z4jgdIuiMTTbuuUX7ezHlYrDzY1djjPMGpTz9H60BGFerOjYmJKinSCPdcycIsHVLPJDxrN_QM3ZhEXG46p0Ub97kdbx06i3lGlPlRVLUTJy3zhQRcxAKnW9qyoF6XcEgzkZh8bmLKaXucd_7Iw_l6O7Tgo5k46gxBw6MFdCKPPY4znF4no8HAbou76O5xIu39j2EPR-HZYd-2o-xEFGNFUOkNm4uKaQ.jpg",
-          "thumbnail_path": "channels/media_hb/media/b150ab622351e74b6db7cbf2.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "200"
-        },
-        {
-          "emoji": "❤",
-          "count": "5"
-        },
-        {
-          "emoji": "🤡",
-          "count": "2"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        }
-      ],
-      "views_label": "8.86K",
-      "posted_at": "2026-10-22T15:08:20+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/109394"
-    },
-    {
-      "id": "Media_HB/109393",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aWMGpsTWwa2qH4zLOD17110IV68TSgK8hD_0MjQlCO_Goey7SwSgXu_uzWqs7hqTC1MHGOBN2qdiqMiulk2njH0ZGtRpIyWDPIMaIqP2EiKgoVpmBKorWXitfm-K9mtnLsZ-f2hfOWYjFRXpMtCzcjfO567k803vRTSejGlUE_Sk3n6DXxBK0zug_ODxvxjRj69gsj9PdJUSlzsNQBKdhm77Hx1VszRFEmEv3ZHBwFP259RMbOpNLh-ownRqPOsuE9nbzQwxVHCydsgNkGqn987w-BE4xYOwMPNU0ZSeppbLvkxAqvdYz8awQHTmUA51T-XAYyoYipRdrEtwX6Lvjg.jpg",
-      "author_photo_path": "channels/media_hb/media/915b1ef791d0bdaa310acddb.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i><b>سیمایی، وزیر علوم:<br><br>من به عنوان وزیرعلومِ جمهوری اسلامی ایران، به دخترانِ محجبه آذربایجانی که به خاطر حجاب از تحصیل منع شدن اعلام میکنم که میتونید بیاید ایران و ادامه تحصیل بدید. ما میزبان‌های خوبی هستیم</b>",
-      "plain_text": "❗سیمایی، وزیر علوم: من به عنوان وزیرعلومِ جمهوری اسلامی ایران، به دخترانِ محجبه آذربایجانی که به خاطر حجاب از تحصیل منع شدن اعلام میکنم که میتونید بیاید ایران و ادامه تحصیل بدید. ما میزبان‌های خوبی هستیم",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Media_HB/109393",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/rJyA4KsdgqWokb1AZ8cw5eawECBNBGtoRAIImUaAh2XBcAMR9s2F8MOhcS5ijdMNp4CHhBK-9FIt-pjSXY7EpGck_8eebmQUNP8E4cobSYBmI8fbZ63FwrhCCFfbzkccsyDlCLHZSABtPQD9J8DqBSOmL_CJbJHGk3d_JDa0QPyE-21d3DqRW3YcjP_iV6iVgX7k_tc8AKZ-iPYMJDyOjFrXdvNoH-55ARdFao2gcfYfPKUDWfPWErjwPE6Vb37hwpMX3UlaLJ8HteAMh2vdJOssEml3Vby029IbeGSBfnMxGs1llPrZDBV0xkFK6ZWzKl1d0Ibi8ov67wd7kSvWlg",
-          "thumbnail_path": "channels/media_hb/media/594cd15838a1359d26e4664b.jpg",
-          "duration_label": "0:20",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "275"
-        },
-        {
-          "emoji": "🤡",
-          "count": "28"
-        },
-        {
-          "emoji": "👎",
-          "count": "16"
-        },
-        {
-          "emoji": "❤",
-          "count": "13"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "2"
-        }
-      ],
-      "views_label": "9.25K",
-      "posted_at": "2026-10-22T13:54:50+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Media_HB/109393"
-    },
-    {
-      "id": "Media_HB/109392",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aWMGpsTWwa2qH4zLOD17110IV68TSgK8hD_0MjQlCO_Goey7SwSgXu_uzWqs7hqTC1MHGOBN2qdiqMiulk2njH0ZGtRpIyWDPIMaIqP2EiKgoVpmBKorWXitfm-K9mtnLsZ-f2hfOWYjFRXpMtCzcjfO567k803vRTSejGlUE_Sk3n6DXxBK0zug_ODxvxjRj69gsj9PdJUSlzsNQBKdhm77Hx1VszRFEmEv3ZHBwFP259RMbOpNLh-ownRqPOsuE9nbzQwxVHCydsgNkGqn987w-BE4xYOwMPNU0ZSeppbLvkxAqvdYz8awQHTmUA51T-XAYyoYipRdrEtwX6Lvjg.jpg",
-      "author_photo_path": "channels/media_hb/media/915b1ef791d0bdaa310acddb.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')\"><b>🎉</b></i> به مناسبت افتتاح ربات MVN VPN<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i> ۱۰۰ گیگابایت کانفیگ فقط ۹۹ هزار تومان!<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i> اول تست بگیر، بعد دریافت کن <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F988D.png')\"><b>😍</b></i><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187F09F8FBB.png')\"><b>👇🏻</b></i> برای تهیه سرویس، از دکمه زیر اقدام کنید <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA48D.png')\"><b>🤍</b></i>",
-      "plain_text": "🎉 به مناسبت افتتاح ربات MVN VPN 🔥 ۱۰۰ گیگابایت کانفیگ فقط ۹۹ هزار تومان! ✅ اول تست بگیر، بعد دریافت کن 😍 👇🏻 برای تهیه سرویس، از دکمه زیر اقدام کنید 🤍",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/109392",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/EWdNLmn5kDCq4Xr2q2gqIMKoVbfVIhqB9eKRRywKqo-4RA8W0r42HAFC7hLuLuDS38tyuHjjpKwNmzmQ2463SlYUYtG0Jh5iXzFEerVLkIsO_n_SLX2XtMoVx9uAH7f9viJpALX5uGPN702xmE8PwfiUBJ9vHjIWfeV3XFCvWAuhVhTW0m7ezFtPP7zOlFlyyObCQzIu-nGAcQ78Tcxm6LUO5mvXDejsniQr2TbincNAWf7EL0SVKuurqrdVYB-QQTwkdbRAaDLkgLKHN6TtrI29NhxMARxZbyXVaM3eeA_Cied_C_zw92hUavZojb-uVyK_pG3FbrAYft-77A7v8w.jpg",
-          "thumbnail_path": "channels/media_hb/media/a1c64c6086b0317441d0471d.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.5009380863039399
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤‍🔥",
-          "count": "6"
-        },
-        {
-          "emoji": "❤",
-          "count": "4"
-        },
-        {
-          "emoji": "👎",
-          "count": "3"
-        },
-        {
-          "emoji": "🤡",
-          "count": "3"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        }
-      ],
-      "views_label": "8.87K",
-      "posted_at": "2026-10-22T13:49:59+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/109392"
-    },
-    {
-      "id": "Media_HB/109391",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aWMGpsTWwa2qH4zLOD17110IV68TSgK8hD_0MjQlCO_Goey7SwSgXu_uzWqs7hqTC1MHGOBN2qdiqMiulk2njH0ZGtRpIyWDPIMaIqP2EiKgoVpmBKorWXitfm-K9mtnLsZ-f2hfOWYjFRXpMtCzcjfO567k803vRTSejGlUE_Sk3n6DXxBK0zug_ODxvxjRj69gsj9PdJUSlzsNQBKdhm77Hx1VszRFEmEv3ZHBwFP259RMbOpNLh-ownRqPOsuE9nbzQwxVHCydsgNkGqn987w-BE4xYOwMPNU0ZSeppbLvkxAqvdYz8awQHTmUA51T-XAYyoYipRdrEtwX6Lvjg.jpg",
-      "author_photo_path": "channels/media_hb/media/915b1ef791d0bdaa310acddb.jpg",
-      "body_html": "<b>قیمت نفت ۱۱۲ دلار، قیمت دلار ۲۷۳ هزار تومن<br><br>- همه چیز نشون دهنده جنگ در روز های آینده است.</b>",
-      "plain_text": "قیمت نفت ۱۱۲ دلار، قیمت دلار ۲۷۳ هزار تومن - همه چیز نشون دهنده جنگ در روز های آینده است.",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/109391",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/srYPFLM-V7hcc-q-4s1C0T2K9d9d_e-WJu12LVyO_l81uKq6SXbkLUUT6X3yQmWokdwlpzGw6Cbvq5Cd29lOqfCJsUjEJGPUF3KxvtP3c5DXstsA9jW9SUFNUJiwuE_jxobCYr1_czYvIp0lIZsdXdnjSR3l16gVjiIq8aQv2sn9mpZpN7pw5hDxGn_NBsmhGHZeretufWVLDtA6XF2SO6eesWDF-TdC05baEkAejXx82otfme1tOvhrbI9v9ft32ysvB1d6JBRTNT7aCG63Le1CFLVejoNEvLyDC9yq-Yrk4GpwsMeH2QWVdOwpFSYHpzb5P_cIskB1QZtIDWFSqQ.jpg",
-          "thumbnail_path": "channels/media_hb/media/5e119486606712d8ad8d0d7c.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "132"
-        },
-        {
-          "emoji": "🤣",
-          "count": "15"
-        },
-        {
-          "emoji": "👎",
-          "count": "9"
-        },
-        {
-          "emoji": "❤",
-          "count": "5"
-        },
-        {
-          "emoji": "💔",
-          "count": "3"
-        },
-        {
-          "emoji": "🔥",
-          "count": "1"
-        }
-      ],
-      "views_label": "9.17K",
-      "posted_at": "2026-10-22T13:13:00+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/109391"
-    },
-    {
-      "id": "Media_HB/109390",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aWMGpsTWwa2qH4zLOD17110IV68TSgK8hD_0MjQlCO_Goey7SwSgXu_uzWqs7hqTC1MHGOBN2qdiqMiulk2njH0ZGtRpIyWDPIMaIqP2EiKgoVpmBKorWXitfm-K9mtnLsZ-f2hfOWYjFRXpMtCzcjfO567k803vRTSejGlUE_Sk3n6DXxBK0zug_ODxvxjRj69gsj9PdJUSlzsNQBKdhm77Hx1VszRFEmEv3ZHBwFP259RMbOpNLh-ownRqPOsuE9nbzQwxVHCydsgNkGqn987w-BE4xYOwMPNU0ZSeppbLvkxAqvdYz8awQHTmUA51T-XAYyoYipRdrEtwX6Lvjg.jpg",
-      "author_photo_path": "channels/media_hb/media/915b1ef791d0bdaa310acddb.jpg",
-      "body_html": "عمو بگامون ندی<br><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> ایلان ماسک:<br></b><blockquote><b>فکر میکنم دست‌کم یه درصدی احتمال وجود داره که هوش مصنوعی به تهدیدی برای بقای بشر تبدیل بشه؛ اما من هیچ کاری نمیتونم برای متوقف کردنش انجام بدم.<br></b></blockquote><blockquote><b>برای همین تصمیم گرفتم مشارکت کنم شاید بتونم مسیرش رو در جهت خوبی تغییر بدم</b>.</blockquote>",
-      "plain_text": "عمو بگامون ندی 🔴 ایلان ماسک: فکر میکنم دست‌کم یه درصدی احتمال وجود داره که هوش مصنوعی به تهدیدی برای بقای بشر تبدیل بشه؛ اما من هیچ کاری نمیتونم برای متوقف کردنش انجام بدم. برای همین تصمیم گرفتم مشارکت کنم شاید بتونم مسیرش رو در جهت خوبی تغییر بدم.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Media_HB/109390",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/B4uZ4rD2EBc9X7jW2kdInOJk2lf1AiyPsxNdORjYeF9PSAH1kjdhf5f94B6A91BVP_f1F--9hJFyD77nrIuy4Mgd52IijKDx9aFjD5cJ4NHHqQD2YXjEnrbCM09M8t2gsmaYt8_yADpv76Ko5bCyo5p-oj_f6psXRJ8CV8p1jcaIDGCDkQbKbzv3e2xZ3OjIx3-PTqs9Hjzd0TUdZafY_XK7r20zGJMYmDPZrnDCbOIgNUV9BWFMiGfKNyvCWeqxBwpAWnQm4ePy92ZKOEkEZBQBR4hOnDJBtc1BFFOPirbb5wbouayWMj1BOkCg8wYscz0kCNsi-ea38W2ZMAeAEQ",
-          "thumbnail_path": "channels/media_hb/media/1bc7c617acaf3e3963e45121.jpg",
-          "duration_label": "0:24",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "124"
-        },
-        {
-          "emoji": "🤣",
-          "count": "19"
-        },
-        {
-          "emoji": "🤡",
-          "count": "8"
-        },
-        {
-          "emoji": "💔",
-          "count": "2"
-        },
-        {
-          "emoji": "👀",
-          "count": "1"
-        }
-      ],
-      "views_label": "9.41K",
-      "posted_at": "2026-10-22T12:50:56+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/109390"
-    },
-    {
-      "id": "Media_HB/109389",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aWMGpsTWwa2qH4zLOD17110IV68TSgK8hD_0MjQlCO_Goey7SwSgXu_uzWqs7hqTC1MHGOBN2qdiqMiulk2njH0ZGtRpIyWDPIMaIqP2EiKgoVpmBKorWXitfm-K9mtnLsZ-f2hfOWYjFRXpMtCzcjfO567k803vRTSejGlUE_Sk3n6DXxBK0zug_ODxvxjRj69gsj9PdJUSlzsNQBKdhm77Hx1VszRFEmEv3ZHBwFP259RMbOpNLh-ownRqPOsuE9nbzQwxVHCydsgNkGqn987w-BE4xYOwMPNU0ZSeppbLvkxAqvdYz8awQHTmUA51T-XAYyoYipRdrEtwX6Lvjg.jpg",
-      "author_photo_path": "channels/media_hb/media/915b1ef791d0bdaa310acddb.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> ایلان ماسک:<br>فکر نمیکنم در آینده پول دیگه اهمیتی داشته باشه.<br>همچنین فکر نمیکنم حتی افراد به‌اصطلاح ثروتمند هم در نهایت بتونن هوش‌های مصنوعی رو کنترل کنن.<br>فکر میکنم اونا خودشون رو کنترل میکنن.</b>",
-      "plain_text": "🔴 ایلان ماسک: فکر نمیکنم در آینده پول دیگه اهمیتی داشته باشه. همچنین فکر نمیکنم حتی افراد به‌اصطلاح ثروتمند هم در نهایت بتونن هوش‌های مصنوعی رو کنترل کنن. فکر میکنم اونا خودشون رو کنترل میکنن.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Media_HB/109389",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/X1ijDQfAclTtL1a2fO2UMcVIJKpJHCG6xRZXFxf_2X6xzmB0afZ-nEAwNcqrXAKofY0FBxsl7Tb0wBGeLo5U-5_ZVaBHCaIVYA8jLvenVSDrqWnJMJ3Q7rUIpfaUSVKol3tkj3FQjGVqTvLJcMiCLOYJFqIkytwlRO20i2WyQjMpZUdDCMsHSholfMpswuDiJB7B2pHNW8R_Py7-SEVLaeC5ah4WbJZvE91lMhbcGC-_VZNoAQthtXp3gwATPIQy_6rpVwSHVSdlUsdNAekRZm_-QBCgQX6pJM90OFi2nXSqtpHacYM3BlSFHgvRR73GPymOx61NyfoBpLCryUv_FA",
-          "thumbnail_path": "channels/media_hb/media/5fd98f4ba370e0b2dd07b0b6.jpg",
-          "duration_label": "0:13",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "83"
-        },
-        {
-          "emoji": "🤣",
-          "count": "12"
-        },
-        {
-          "emoji": "❤",
-          "count": "5"
-        },
-        {
-          "emoji": "😐",
-          "count": "4"
-        }
-      ],
-      "views_label": "9.24K",
-      "posted_at": "2026-10-22T12:44:56+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/109389"
-    },
-    {
-      "id": "Media_HB/109388",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aWMGpsTWwa2qH4zLOD17110IV68TSgK8hD_0MjQlCO_Goey7SwSgXu_uzWqs7hqTC1MHGOBN2qdiqMiulk2njH0ZGtRpIyWDPIMaIqP2EiKgoVpmBKorWXitfm-K9mtnLsZ-f2hfOWYjFRXpMtCzcjfO567k803vRTSejGlUE_Sk3n6DXxBK0zug_ODxvxjRj69gsj9PdJUSlzsNQBKdhm77Hx1VszRFEmEv3ZHBwFP259RMbOpNLh-ownRqPOsuE9nbzQwxVHCydsgNkGqn987w-BE4xYOwMPNU0ZSeppbLvkxAqvdYz8awQHTmUA51T-XAYyoYipRdrEtwX6Lvjg.jpg",
-      "author_photo_path": "channels/media_hb/media/915b1ef791d0bdaa310acddb.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> نتانیاهو:<br>به این نتیجه رسیدم که تنها راه‌حل قابل تصور در اینجا، طبیعتا سرنگونی این رژیم متعصبه.<br>همون‌طور که متفقین رفتن و رژیم نازی رو نابود کردن. هیتلر تلاش کرد به بمب اتمی دست پیدا کنه، اما موفق نشد.<br>تنها راه متوقف کردن این نازی‌ها، یا نئونازی‌های ایران در دوران کنونی، اینه که رژیم رو از بین ببریم و سرنگونش کنیم.</b>",
-      "plain_text": "🔴 نتانیاهو: به این نتیجه رسیدم که تنها راه‌حل قابل تصور در اینجا، طبیعتا سرنگونی این رژیم متعصبه. همون‌طور که متفقین رفتن و رژیم نازی رو نابود کردن. هیتلر تلاش کرد به بمب اتمی دست پیدا کنه، اما موفق نشد. تنها راه متوقف کردن این نازی‌ها، یا نئونازی‌های ایران در دوران کنونی، اینه که رژیم رو از بین ببریم و سرنگونش کنیم.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Media_HB/109388",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/fyqcQfsJSfJ_Za5CkT46ikAWZpsU9mNTk47sLTPaR_IMqARxBWwW-Ie8xfDzLDd5x2BpSzFEuIIkcaHwyciFQl_P03j-aX6La_kgBXe6kijrQ1-ShX8UbtrOJMW9c2ucwyIQ7yba98mfkNL8GwWri-mh-iK2I1_vjXjj5R1d67c01mBNc8wIApjrUUnNDafq2frbfNxgpOCMNIHpn_qFJcVk9jnsODLj9Fx6sYsKIatQlYzvyiZG6xKNwDRxJT0QVFDkLu7QrZrobY8oQa1gkWPjhkNkYut0WEiYm56IKhRGrVrbbTIRhVo3jEyr7Yien0ASg_VWCAWQaCrgZN_lXg",
-          "thumbnail_path": "channels/media_hb/media/2d13d0c320e9f48a625f98a5.jpg",
-          "duration_label": "0:33",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "169"
-        },
-        {
-          "emoji": "❤",
-          "count": "11"
-        },
-        {
-          "emoji": "🤣",
-          "count": "10"
-        },
-        {
-          "emoji": "🔥",
-          "count": "4"
-        }
-      ],
-      "views_label": "9.74K",
-      "posted_at": "2026-10-22T12:24:57+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/109388"
     }
   ]
 }
