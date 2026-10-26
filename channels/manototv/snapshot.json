@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-26T21:42:26.754Z",
+  "fetched_at": "2026-10-26T21:52:41.393Z",
   "channel": {
     "username": "manototv",
     "title": "تلویزیون منوتو",
@@ -10,6 +10,35 @@
     "subscriber_count": "375K"
   },
   "posts": [
+    {
+      "id": "ManotoTV/108805",
+      "author_name": "تلویزیون منوتو",
+      "author_photo_url": "https://cdn4.telesco.pe/file/aO29Rw-qad-4B6f5olei58hu11otqq6iQq_A04l-umvrZpsOxZZl41wsGY6eEoaxSSyxKOJpGGb2JdZy-34wUwlbHAMuJQYIFBRd9ELfFYPmEI4VEj0pLy3t6n7tX5c9duG1boDXR-dy4rnHVHRK0mg80SPuThNbFjTmgRFbOhLlr5MVxlyruzmCb-TzK4XfQYg6mkbLICEDv7atbOSGllFXtY3nvM5MnQYKn3-oBMmXHu4_7PKELCkHOg-BiZLMj82epJhhdOXmG_H09r7E1tI2w6X-MVEuOeOFaxDt1_hVONWo3FdszqG8lnw8Z2_wpbWx82zRx_2ctZeWnizKbg.jpg",
+      "author_photo_path": "channels/manototv/media/0cdc9bbf562661dfe608b662.jpg",
+      "body_html": "پدر جاویدنام محسن عباسی در ویدیویی، عکس‌های شماری از جاویدنامان را کنار شمع‌ها چیده و نام آن‌ها را یک‌به‌یک می‌خواند. او در نوشته‌ی همراه این ویدیو آورده است: «ما اشک‌ها ریختیم تا بتوانیم این عکس و این شمع‌ها را بچینیم.»<br>جاویدنام محسن عباسی، ۲۱ ساله، شامگاه ۱۸ دی‌ماه ۱۴۰۴ در جریان تجمع و اعتراضات مقابل کلانتری ۱۲ نجف‌آباد، از پشت هدف شلیک مستقیم مأموران امنیتی جمهوری اسلامی قرار گرفت. دو گلوله‌ی جنگی به سینه و قلبش اصابت کرد و جانش را گرفت. خانواده‌اش همان شب پیکرش را تحویل گرفتند و در آرامستان شهرکرد به خاک سپردند.<br>محسن اهل و ساکن نجف‌آباد اصفهان و صاحب کافه‌ای کوچک بود.",
+      "plain_text": "پدر جاویدنام محسن عباسی در ویدیویی، عکس‌های شماری از جاویدنامان را کنار شمع‌ها چیده و نام آن‌ها را یک‌به‌یک می‌خواند. او در نوشته‌ی همراه این ویدیو آورده است: «ما اشک‌ها ریختیم تا بتوانیم این عکس و این شمع‌ها را بچینیم.» جاویدنام محسن عباسی، ۲۱ ساله، شامگاه ۱۸ دی‌ماه ۱۴۰۴ در جریان تجمع و اعتراضات مقابل کلانتری ۱۲ نجف‌آباد، از پشت هدف شلیک مستقیم مأموران امنیتی جمهوری اسلامی قرار گرفت. دو گلوله‌ی جنگی به سینه و قلبش اصابت کرد و جانش را گرفت. خانواده‌اش همان شب پیکرش را تحویل گرفتند و در آرامستان شهرکرد به خاک سپردند. محسن اهل و ساکن نجف‌آباد اصفهان و صاحب کافه‌ای کوچک بود.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/ManotoTV/108805",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/XK0s6hrtmdUcEZa3PTpFCbmoFLvTxRZlbeNdqP9t6vjS1o9Tzx9iumek04DCHRfw4JcpGbqPwDQVrgZsZ8zDefNoUTzqMIWMSUboxwY-ldK6vMeDbprl8SA3SqRFqe-MULJuc89-w6bc-M0rZYTHH333kEXNYwrfIvheFx7O2_yjHaBFVPznqXZ-uZxe1mz_GtYyJ8BWUyKxEnWBHYq36iDCl0sIv35zY-CiC2L1xL6vkL8J-65KQSajrm4M5NmibjCKC0huHhB9y53MhT0RoP5mfKOXE0SU6jBaN4SplvVF8B3dm9NQt1CQvKoAu1280NJbSPdzohLF8dA_Z6Qypw",
+          "thumbnail_path": "channels/manototv/media/8496da697daff8b93009ba41.jpg",
+          "duration_label": "1:47",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "💔",
+          "count": "16"
+        }
+      ],
+      "views_label": "455",
+      "posted_at": "2026-10-26T21:44:43+00:00",
+      "edited": false,
+      "permalink": "https://t.me/ManotoTV/108805"
+    },
     {
       "id": "ManotoTV/108804",
       "author_name": "تلویزیون منوتو",
@@ -35,10 +64,10 @@
         },
         {
           "emoji": "😐",
-          "count": "18"
+          "count": "19"
         }
       ],
-      "views_label": "3.84K",
+      "views_label": "4.13K",
       "posted_at": "2026-10-26T19:59:13+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108804"
@@ -64,14 +93,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "186"
+          "count": "190"
         },
         {
           "emoji": "🖕",
           "count": "3"
         }
       ],
-      "views_label": "6.27K",
+      "views_label": "6.49K",
       "posted_at": "2026-10-26T19:02:11+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108803"
@@ -97,14 +126,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "106"
+          "count": "107"
         },
         {
           "emoji": "👎",
           "count": "37"
         }
       ],
-      "views_label": "8.72K",
+      "views_label": "8.9K",
       "posted_at": "2026-10-26T18:09:14+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108802"
@@ -134,10 +163,10 @@
         },
         {
           "emoji": "💔",
-          "count": "82"
+          "count": "84"
         }
       ],
-      "views_label": "9.12K",
+      "views_label": "9.25K",
       "posted_at": "2026-10-26T17:10:36+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108801"
@@ -251,7 +280,7 @@
           "count": "7"
         }
       ],
-      "views_label": "11.2K",
+      "views_label": "11.3K",
       "posted_at": "2026-10-26T14:00:03+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108791"
@@ -277,14 +306,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "171"
+          "count": "176"
         },
         {
           "emoji": "🤮",
           "count": "5"
         }
       ],
-      "views_label": "9.18K",
+      "views_label": "9.27K",
       "posted_at": "2026-10-26T13:41:36+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108790"
@@ -310,14 +339,14 @@
       "reactions": [
         {
           "emoji": "😢",
-          "count": "109"
+          "count": "112"
         },
         {
           "emoji": "💩",
           "count": "16"
         }
       ],
-      "views_label": "8.58K",
+      "views_label": "8.64K",
       "posted_at": "2026-10-26T12:01:08+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108789"
@@ -343,14 +372,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "191"
+          "count": "192"
         },
         {
           "emoji": "🥰",
           "count": "10"
         }
       ],
-      "views_label": "7.61K",
+      "views_label": "7.67K",
       "posted_at": "2026-10-26T12:01:00+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108788"
@@ -376,14 +405,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "198"
+          "count": "199"
         },
         {
           "emoji": "❤",
           "count": "15"
         }
       ],
-      "views_label": "7.82K",
+      "views_label": "7.85K",
       "posted_at": "2026-10-26T11:01:10+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108787"
@@ -490,14 +519,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "74"
+          "count": "75"
         },
         {
           "emoji": "👨‍💻",
           "count": "2"
         }
       ],
-      "views_label": "6.65K",
+      "views_label": "6.68K",
       "posted_at": "2026-10-26T11:01:00+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108777"
@@ -4824,39 +4853,6 @@
       "posted_at": "2026-10-18T18:03:42+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108532"
-    },
-    {
-      "id": "ManotoTV/108531",
-      "author_name": "تلویزیون منوتو",
-      "author_photo_url": "https://cdn4.telesco.pe/file/p9FfNyNDU7E7frHC1553ohlSHh5BWNcejUig-9mgeV7tsS3a0YqW38eOaW6B86IKzijP798qY0xJDtzLWtZO3sw8boxhBfP6h9lfQIahD1qVfrF7Qsb6eBRJTRbT4o1JrMBZS6UyNTw6LeuH4ppHRFZHaRXhvC1rsXCwmb7XB8V18Ny3dLiDnP0Ns6NM27kXakasi8xZJE5Za6vZPLgmhfUuIX-ZeEgSJx8F2Rx3baZmym5cRut3B05V2tXtAi2dHc6pqoHJWR_TshcWY89rZ8i9U-ygeriqmpxe87S-gu1qlafv_NylU1qykMlemBUtEgZXHe7_sO-9BuTN0hemRA.jpg",
-      "author_photo_path": "channels/manototv/media/7f77ee016faaadc52f8a94fc.jpg",
-      "body_html": "برای بسیاری از جوانان ایران، ساختن یک زندگی معمولی به دغدغه‌ای فرساینده تبدیل شده است. درآمدها پاسخگوی هزینه‌ها نیست، تحصیل تضمینی برای یافتن شغل ندارد و استقلال مالی هر روز دشوارتر می‌شود. خواسته‌هایی ساده، از اجارهٔ خانه تا تشکیل خانواده، زیر فشار گرانی و بی‌ثباتی مدام به تعویق می‌افتند.<br>در ویدیویی ارسال‌شده به «گزارشگر»، جوانی با درماندگی می‌گوید دیگر امیدی به این زندگی ندارد و مرگ را بهتر از ادامهٔ زندگی در چنین شرایطی می‌داند. این سخنان تلخ، بیانگر عمق ناامیدی او از وضعیتی است که راهی برای تغییرش نمی‌بیند.<br>وقتی تمام توان یک جوان صرف گذران امروز می‌شود، فرصت و انگیزه‌ای برای ساختن فردا باقی نمی‌ماند. مسئولیت حاکمیت، فراهم‌کردن امکان زندگی شایسته، اشتغال و آزادی است؛ مسئولیتی که با شعار و وعده یا سرکوب اعتراض مردم نمی‌توان از آن شانه خالی کرد. جوانان حق دارند زندگی کنند، برای آینده برنامه داشته باشند و حاصل تلاششان را ببینند؛ نه اینکه ابتدایی‌ترین خواسته‌هایشان به حسرت تبدیل شود.",
-      "plain_text": "برای بسیاری از جوانان ایران، ساختن یک زندگی معمولی به دغدغه‌ای فرساینده تبدیل شده است. درآمدها پاسخگوی هزینه‌ها نیست، تحصیل تضمینی برای یافتن شغل ندارد و استقلال مالی هر روز دشوارتر می‌شود. خواسته‌هایی ساده، از اجارهٔ خانه تا تشکیل خانواده، زیر فشار گرانی و بی‌ثباتی مدام به تعویق می‌افتند. در ویدیویی ارسال‌شده به «گزارشگر»، جوانی با درماندگی می‌گوید دیگر امیدی به این زندگی ندارد و مرگ را بهتر از ادامهٔ زندگی در چنین شرایطی می‌داند. این سخنان تلخ، بیانگر عمق ناامیدی او از وضعیتی است که راهی برای تغییرش نمی‌بیند. وقتی تمام توان یک جوان صرف گذران امروز می‌شود، فرصت و انگیزه‌ای برای ساختن فردا باقی نمی‌ماند. مسئولیت حاکمیت، فراهم‌کردن امکان زندگی شایسته، اشتغال و آزادی است؛ مسئولیتی که با شعار و وعده یا سرکوب اعتراض مردم نمی‌توان از آن شانه خالی کرد. جوانان حق دارند زندگی کنند، برای آینده برنامه داشته باشند و حاصل تلاششان را ببینند؛ نه اینکه ابتدایی‌ترین خواسته‌هایشان به حسرت تبدیل شود.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/ManotoTV/108531",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Ag_iEy-CzP4TNZDefUm2g6fCqEs2YXc8TfDE3wIN65U_A-5YaewlVDAkjnNFifx45hdTK96jJ4-GOEm4El0Rufpsu6UVK1IDM1lEHOcex_p9La5kz-KLkNuA6ioEyXuZFs5xJUpxgCEX0MaG-ObKS4Yrk1w02vuNf-fqkP0sks4gRUOFnuyxKSV0esTIRGeI9BQULPUM3M1xnqcA4UL1jZBuxcStGWiEEXSXcXgmzU7orZ4m49z1c9bGVpYe7sA7Sw0iEO8ynPlaU0wQdHcn23XPGk_bxgPJWIFwKBBy2mH_abD9u6uOw3DtVyH9zi73Q9rPwWJQn_c-1H8ZVox3Gw",
-          "thumbnail_path": "channels/manototv/media/39bdd35059f0e6c936af82b6.jpg",
-          "duration_label": "3:34",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "😢",
-          "count": "125"
-        },
-        {
-          "emoji": "😨",
-          "count": "21"
-        }
-      ],
-      "views_label": "11.2K",
-      "posted_at": "2026-10-18T16:14:51+00:00",
-      "edited": false,
-      "permalink": "https://t.me/ManotoTV/108531"
     }
   ]
 }
