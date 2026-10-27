@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-27T20:39:49.190Z",
+  "fetched_at": "2026-10-27T22:19:06.115Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,39 @@
     "subscriber_count": "14.2K"
   },
   "posts": [
+    {
+      "id": "DEJradio/8819",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/MnH_m6fgm-POKkvYO9o0edc-KJoW4Y4e8zGIPUd8hVrqbWILIwJ3xiJvKrwNu52sv_QM141xxZoA03o8_jYgjdRfgZEbZGAXINo53z4fLZe76F1PYifksKIj58ECZWaym_aT08J-tPJXYNNHA3n-gNXKXZJPYj0Dt5qzJWZlwV4P95MOHjBlvU5TKdIx9k5AIBuF_FFg0e9AnFpLR7LfSV9RJ1zQDmJlF7WCSfMWZEWn215NOp3MWJ7DnD7Vxqwy2NmO8ZSGcttGEc-xDbobXWyU4nbAkJ-Sxklc6qLpGmjUmi4MMQA1b6SYjKPK3FF55c2xAHWCwVVRZR2oJ8fPjw.jpg",
+      "author_photo_path": "channels/dejradio/media/f1e603cd7b8d02c70e79d414.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i> هشت ماه پس از جنگ، هدیه فرماندهی نیروی دریایی ارتش جمهوری اسلامی، سه‌شنبه پنجم آبان ۱۴۰۵ به کارت اتکاء پرسنل این نیرو واریز شد: <br>مبلغ یک میلیون تومان برای پرسنل مجرد و مبلغ دو میلیون تومان برای پرسنل متاهل.<br><br>این در حالی است که طبق گزارش مرکز آمار ایران، نرخ تورم نقطه به نقطه در شهریورماه به حدود ۹۰ درصد رسید و بهای مواد خوراکی به شدت افزایش پیدا کرده است.<br><br><a href=\"?q=%23%D8%AA%D9%88%D8%B1%D9%85\">#تورم</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "🔺📢 هشت ماه پس از جنگ، هدیه فرماندهی نیروی دریایی ارتش جمهوری اسلامی، سه‌شنبه پنجم آبان ۱۴۰۵ به کارت اتکاء پرسنل این نیرو واریز شد: مبلغ یک میلیون تومان برای پرسنل مجرد و مبلغ دو میلیون تومان برای پرسنل متاهل. این در حالی است که طبق گزارش مرکز آمار ایران، نرخ تورم نقطه به نقطه در شهریورماه به حدود ۹۰ درصد رسید و بهای مواد خوراکی به شدت افزایش پیدا کرده است. #تورم @DEJradio",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/DEJradio/8819",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Ia8JxVvjrjbgPiO2E06sWZ8HXmGoWAq0cDszVkLGnQcpQbjAwI6-QTtDjEvzWsgFCmFoPuxqPSVC5GXcNwYpWE6K0XCfzMKocOf1cJEBQpAx4o6ww9khy0GtYPsm2D0lHGSIN3r7hH9Hpd7HXlfHDZkpd7N051hvRFqJSwiN4VM_p9WfoNBkMJAJYI8IIt9xXtRheTOZpGBB0wpoWzmBcZHHpGEV5RbQ6fCm1TjrPi13XRffcJ6ocaaJ2CpVRApxv7j1CLW464smlsKkGjObpnZ4Y7DBSmG1x2Arr0U09Mac2m2wDtNQ5OsEYYkAPisHr-cmbTUqJHDlQaX2uVJyWg.jpg",
+          "thumbnail_path": "channels/dejradio/media/07e202f9a403cbe72619147c.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "😁",
+          "count": "22"
+        },
+        {
+          "emoji": "🤮",
+          "count": "4"
+        }
+      ],
+      "views_label": "531",
+      "posted_at": "2026-10-27T21:35:06+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/8819"
+    },
     {
       "id": "DEJradio/8818",
       "author_name": "DEJ",
@@ -31,7 +64,7 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "26"
+          "count": "30"
         },
         {
           "emoji": "🤔",
@@ -43,10 +76,10 @@
         },
         {
           "emoji": "❤",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "1.18K",
+      "views_label": "1.54K",
       "posted_at": "2026-10-27T18:22:58+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8818"
@@ -72,7 +105,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "34"
+          "count": "39"
         },
         {
           "emoji": "🫡",
@@ -83,7 +116,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.23K",
+      "views_label": "1.54K",
       "posted_at": "2026-10-27T18:13:07+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8817"
@@ -128,7 +161,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.49K",
+      "views_label": "1.72K",
       "posted_at": "2026-10-27T16:33:49+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8816"
@@ -158,10 +191,10 @@
         },
         {
           "emoji": "❤",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "1.5K",
+      "views_label": "1.65K",
       "posted_at": "2026-10-27T15:55:26+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8815"
@@ -198,7 +231,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.51K",
+      "views_label": "1.62K",
       "posted_at": "2026-10-27T15:01:54+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8814"
@@ -224,7 +257,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "59"
+          "count": "62"
         },
         {
           "emoji": "👍",
@@ -243,7 +276,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.52K",
+      "views_label": "1.62K",
       "posted_at": "2026-10-27T14:49:39+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8813"
@@ -288,7 +321,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.56K",
+      "views_label": "1.66K",
       "posted_at": "2026-10-27T14:01:59+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8812"
@@ -314,7 +347,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "13"
+          "count": "14"
         },
         {
           "emoji": "🤬",
@@ -325,7 +358,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.5K",
+      "views_label": "1.58K",
       "posted_at": "2026-10-27T13:56:20+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8811"
@@ -375,7 +408,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.59K",
+      "views_label": "1.66K",
       "posted_at": "2026-10-27T13:11:10+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8809"
@@ -412,7 +445,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.11K",
+      "views_label": "2.18K",
       "posted_at": "2026-10-27T12:22:32+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8808"
@@ -449,7 +482,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.7K",
+      "views_label": "1.77K",
       "posted_at": "2026-10-27T12:15:16+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8807"
@@ -490,7 +523,7 @@
           "count": "3"
         }
       ],
-      "views_label": "1.91K",
+      "views_label": "1.98K",
       "posted_at": "2026-10-27T11:54:29+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8806"
@@ -516,7 +549,7 @@
       "reactions": [
         {
           "emoji": "🫡",
-          "count": "61"
+          "count": "62"
         },
         {
           "emoji": "❤",
@@ -529,9 +562,13 @@
         {
           "emoji": "😁",
           "count": "1"
+        },
+        {
+          "emoji": "🖕",
+          "count": "1"
         }
       ],
-      "views_label": "872",
+      "views_label": "892",
       "posted_at": "2026-10-27T11:02:13+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8805"
@@ -597,7 +634,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.22K",
+      "views_label": "1.25K",
       "posted_at": "2026-10-27T10:36:02+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8803"
@@ -630,7 +667,7 @@
           "count": "4"
         }
       ],
-      "views_label": "1.89K",
+      "views_label": "1.92K",
       "posted_at": "2026-10-27T08:17:04+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8802"
@@ -675,7 +712,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.94K",
+      "views_label": "1.97K",
       "posted_at": "2026-10-27T08:12:21+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8801"
@@ -716,7 +753,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.9K",
+      "views_label": "1.92K",
       "posted_at": "2026-10-27T08:08:30+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8800"
@@ -4014,47 +4051,6 @@
       "posted_at": "2026-10-22T16:50:52+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8714"
-    },
-    {
-      "id": "DEJradio/8713",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/tX6WC64OqoOWEA1_f5_WaG0txh6Ntsp17fc4HlPoON6NZ4QlRf5dTW3ixDGA9u-DFfxYnMXHiY25fE-9B_pBVAVxGRg9pexPQaTAhOFuIn0leVQy7Qnu5M4GPTK7_Ten7aLBCthK6_at6x6d_wEV1lPjVBw9t5JFmmcD2A-2KZcG9CQGXewxsJP304FBMW_MlBbVT-6Bz0CMUgAIoLT81gIz5PzWiOeQWP7607666tI4HBVyJrcOBUDljESAbxWAketXRcBwfUS0noYyql86jci1QlKjxz8ftcbtEADcwg5twswrDU1ALnJqBGTL-IQSFcMOU5dyzk5y2x93PDKmHg.jpg",
-      "author_photo_path": "channels/dejradio/media/151ea4941005b1950518f2b5.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5213419616725903784\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')\"><b>🎥</b></i> منابع محلی استان سیستان و بلوچستان پنجشنبه ۳۰ مهرماه ۱۴۰۵، گزارش دادند در پی درگیری در گمرک پاکستان در مرز ریمدان شماری از رانندگان ایرانی آسیب دیدند.<br><br>این درگیری با ورود افراد مسلح به گمرک پاکستان در مرز مشترک ایران و پاکستان در ریمدان آغاز شده است و همچنان ادامه دارد.<br><br>منابع پیشتر گفته بودند، در جریان این درگیری، چندین دستگاه خودروی سنگین به همراه بار آنها نیز به آتش کشیده شدند. <br>همچنین شماری از رانندگان در این مرز مورد اصابت گلوله قرار گرفتند.<br><br><a href=\"?q=%23%D8%B1%DB%8C%D9%85%D8%AF%D8%A7%D9%86\">#ریمدان</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "🚨🎥 منابع محلی استان سیستان و بلوچستان پنجشنبه ۳۰ مهرماه ۱۴۰۵، گزارش دادند در پی درگیری در گمرک پاکستان در مرز ریمدان شماری از رانندگان ایرانی آسیب دیدند. این درگیری با ورود افراد مسلح به گمرک پاکستان در مرز مشترک ایران و پاکستان در ریمدان آغاز شده است و همچنان ادامه دارد. منابع پیشتر گفته بودند، در جریان این درگیری، چندین دستگاه خودروی سنگین به همراه بار آنها نیز به آتش کشیده شدند. همچنین شماری از رانندگان در این مرز مورد اصابت گلوله قرار گرفتند. #ریمدان @DEJradio",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/DEJradio/8713",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/dEc79357XaLB-xU5T1ylCMi6lTH4aQLZm_uzA9t6hkllpwhKPMFFo1qXqD9zo3eygjv8Zh84CCXpWgsBC6foWggCE7wgpGIatIZ3ZRa5INUs8zOcM7N1Tty_FnIr6LGNml5cdISO8yYOjnCRUyYY1542mBRoXqo2l46qkfUoiJCfqHfotCqWE_pgZB6_4uDwsjs55ym18I3Fm3_flrrGFJTvheczmWZ30UdOnchLLYVk6Ij9vfBrcD1xmRPy4Zy6Qca6XNUY96dkyoOCAeqhNlBf8rOrfBPDgMA2WRKaakyFCQU_909fMCO6IfYUuW7oS-7Az5qEUjEBD4Ff_tccPA",
-          "thumbnail_path": "channels/dejradio/media/0511c7055424b95a82768263.jpg",
-          "duration_label": "1:34",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "10"
-        },
-        {
-          "emoji": "👍",
-          "count": "5"
-        },
-        {
-          "emoji": "🤬",
-          "count": "4"
-        },
-        {
-          "emoji": "❤",
-          "count": "3"
-        }
-      ],
-      "views_label": "1.51K",
-      "posted_at": "2026-10-22T16:30:47+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/8713"
     }
   ]
 }
