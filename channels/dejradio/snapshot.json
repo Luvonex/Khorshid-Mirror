@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-27T22:19:06.115Z",
+  "fetched_at": "2026-10-28T00:00:37.204Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,43 @@
     "subscriber_count": "14.2K"
   },
   "posts": [
+    {
+      "id": "DEJradio/8820",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/MnH_m6fgm-POKkvYO9o0edc-KJoW4Y4e8zGIPUd8hVrqbWILIwJ3xiJvKrwNu52sv_QM141xxZoA03o8_jYgjdRfgZEbZGAXINo53z4fLZe76F1PYifksKIj58ECZWaym_aT08J-tPJXYNNHA3n-gNXKXZJPYj0Dt5qzJWZlwV4P95MOHjBlvU5TKdIx9k5AIBuF_FFg0e9AnFpLR7LfSV9RJ1zQDmJlF7WCSfMWZEWn215NOp3MWJ7DnD7Vxqwy2NmO8ZSGcttGEc-xDbobXWyU4nbAkJ-Sxklc6qLpGmjUmi4MMQA1b6SYjKPK3FF55c2xAHWCwVVRZR2oJ8fPjw.jpg",
+      "author_photo_path": "channels/dejradio/media/f1e603cd7b8d02c70e79d414.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA4.png')\"><b>🎤</b></i> نه مذاکره، نه صبر؛ خلیج فارس در آستانه انفجار<br><br>گفت‌وگو با دکتر شایان سمیعی، کارشناس امنیت ملی<br><br><a href=\"?q=%23%D8%AE%D9%84%DB%8C%D8%AC_%D9%81%D8%A7%D8%B1%D8%B3\">#خلیج_فارس</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "🔺🎤 نه مذاکره، نه صبر؛ خلیج فارس در آستانه انفجار گفت‌وگو با دکتر شایان سمیعی، کارشناس امنیت ملی #خلیج_فارس @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/8820",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/S0IWq8ONDSiAAkn87UzL6xRj5LkWAJSAqhQ7b-_dP4okTytNGDex2OiJHb5RTGevtrFXQxlotxk2OMDly8qq5cGDiqnp-sv0_GXDBTMcLy9Xbub6MuSeYY637zMnICFuHdfYkS3Lz_Mk_xJZAgoBHMOV7YhHvc9u9LHEYCVMeW_cg7SM3Ur8Zv27thRX3Hb9bvijr9Em0HQT_1CNF-9JR2V-LbseL7xMg-fegH4qfcpDWMUx6-LwSIIRa8yxe5hoPItL8oRW6eZA2e29bOlcQWQNjRdEtsSwatQBCzTD5kzJ-t6-3RGgs6gt3boKsYdXdnywwqgzeJll4K_jWGGF7w",
+          "thumbnail_path": "channels/dejradio/media/b353202cb5f7eca51b359671.jpg",
+          "duration_label": "15:46",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "5"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        }
+      ],
+      "views_label": "490",
+      "posted_at": "2026-10-27T22:45:25+00:00",
+      "edited": true,
+      "permalink": "https://t.me/DEJradio/8820"
+    },
     {
       "id": "DEJradio/8819",
       "author_name": "DEJ",
@@ -31,14 +68,14 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "22"
+          "count": "30"
         },
         {
           "emoji": "🤮",
-          "count": "4"
+          "count": "8"
         }
       ],
-      "views_label": "531",
+      "views_label": "900",
       "posted_at": "2026-10-27T21:35:06+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8819"
@@ -64,7 +101,7 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "30"
+          "count": "31"
         },
         {
           "emoji": "🤔",
@@ -79,7 +116,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.54K",
+      "views_label": "1.77K",
       "posted_at": "2026-10-27T18:22:58+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8818"
@@ -105,18 +142,18 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "39"
+          "count": "40"
         },
         {
           "emoji": "🫡",
-          "count": "10"
+          "count": "11"
         },
         {
           "emoji": "👎",
           "count": "1"
         }
       ],
-      "views_label": "1.54K",
+      "views_label": "1.72K",
       "posted_at": "2026-10-27T18:13:07+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8817"
@@ -142,7 +179,7 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "24"
+          "count": "25"
         },
         {
           "emoji": "🔥",
@@ -161,7 +198,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.72K",
+      "views_label": "1.83K",
       "posted_at": "2026-10-27T16:33:49+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8816"
@@ -194,7 +231,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.65K",
+      "views_label": "1.75K",
       "posted_at": "2026-10-27T15:55:26+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8815"
@@ -220,7 +257,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "43"
+          "count": "44"
         },
         {
           "emoji": "❤",
@@ -231,7 +268,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.62K",
+      "views_label": "1.69K",
       "posted_at": "2026-10-27T15:01:54+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8814"
@@ -276,7 +313,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.62K",
+      "views_label": "1.69K",
       "posted_at": "2026-10-27T14:49:39+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8813"
@@ -321,7 +358,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.66K",
+      "views_label": "1.7K",
       "posted_at": "2026-10-27T14:01:59+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8812"
@@ -358,7 +395,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.58K",
+      "views_label": "1.62K",
       "posted_at": "2026-10-27T13:56:20+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8811"
@@ -408,7 +445,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.66K",
+      "views_label": "1.69K",
       "posted_at": "2026-10-27T13:11:10+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8809"
@@ -445,7 +482,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.18K",
+      "views_label": "2.25K",
       "posted_at": "2026-10-27T12:22:32+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8808"
@@ -482,7 +519,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.77K",
+      "views_label": "1.82K",
       "posted_at": "2026-10-27T12:15:16+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8807"
@@ -523,7 +560,7 @@
           "count": "3"
         }
       ],
-      "views_label": "1.98K",
+      "views_label": "2.02K",
       "posted_at": "2026-10-27T11:54:29+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8806"
@@ -549,7 +586,7 @@
       "reactions": [
         {
           "emoji": "🫡",
-          "count": "62"
+          "count": "63"
         },
         {
           "emoji": "❤",
@@ -568,7 +605,7 @@
           "count": "1"
         }
       ],
-      "views_label": "892",
+      "views_label": "907",
       "posted_at": "2026-10-27T11:02:13+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8805"
@@ -607,7 +644,7 @@
         },
         {
           "emoji": "❤",
-          "count": "38"
+          "count": "39"
         },
         {
           "emoji": "🫡",
@@ -634,7 +671,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.25K",
+      "views_label": "1.27K",
       "posted_at": "2026-10-27T10:36:02+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8803"
@@ -667,7 +704,7 @@
           "count": "4"
         }
       ],
-      "views_label": "1.92K",
+      "views_label": "1.94K",
       "posted_at": "2026-10-27T08:17:04+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8802"
@@ -712,7 +749,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.97K",
+      "views_label": "1.99K",
       "posted_at": "2026-10-27T08:12:21+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8801"
@@ -4010,47 +4047,6 @@
       "posted_at": "2026-10-22T16:52:18+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/8715"
-    },
-    {
-      "id": "DEJradio/8714",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/tX6WC64OqoOWEA1_f5_WaG0txh6Ntsp17fc4HlPoON6NZ4QlRf5dTW3ixDGA9u-DFfxYnMXHiY25fE-9B_pBVAVxGRg9pexPQaTAhOFuIn0leVQy7Qnu5M4GPTK7_Ten7aLBCthK6_at6x6d_wEV1lPjVBw9t5JFmmcD2A-2KZcG9CQGXewxsJP304FBMW_MlBbVT-6Bz0CMUgAIoLT81gIz5PzWiOeQWP7607666tI4HBVyJrcOBUDljESAbxWAketXRcBwfUS0noYyql86jci1QlKjxz8ftcbtEADcwg5twswrDU1ALnJqBGTL-IQSFcMOU5dyzk5y2x93PDKmHg.jpg",
-      "author_photo_path": "channels/dejradio/media/151ea4941005b1950518f2b5.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><tg-emoji emoji-id=\"5951842387465605469\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji><b> افشای شبکه جذب مجرمان در آمریکای لاتین توسط حزب‌الله برای حمله به اهداف یهودی و اسرائیلی</b><br><br>روزنامه جروزالم پست،پنجشنبه ۲۲ اکتبر،به نقل از گزارش تازه مؤسسه واشنگتن برای سیاست خاور نزدیک نوشت که حزب‌الله لبنان،گروه تروریستی مورد حمایت جمهوری اسلامی،با استفاده از شبکه‌های جرایم سازمان‌یافته در آمریکای لاتین،مجرمان سابقه‌دار و افراد دارای مشکلات مالی را برای اجرای عملیات علیه اهداف یهودی و اسرائیلی جذب می‌کند.<br>بر اساس این گزارش،افراد جذب‌شده به لبنان منتقل می‌شوند و پس از دریافت آموزش‌های عملیاتی و ارتباطات مخفیانه،به کشورهای خود بازمی‌گردند تا مراکز یهودی،کنیسه‌ها و اهداف اسرائیلی را شناسایی کنند.<br>تحقیقات پلیس فدرال برزیل در عملیات «تراپیشه» که با همکاری موساد اسرائیل آغاز شد،نشان داده است که حزب‌الله از کسب‌وکارهای پوششی و شبکه‌های مالی غیرقانونی برای تأمین هزینه این فعالیت‌ها استفاده می‌کند.<br>این گزارش همچنین از شناسایی شبکه‌های پول‌شویی با ارزهای دیجیتال به نفع حزب‌الله و سپاه پاسداران خبر می‌دهد.<br>به گفته پژوهشگر این گزارش،جذب افراد فاقد وابستگی ایدئولوژیک به حزب‌الله،امکان انکار ارتباط این گروه با حملات احتمالی را فراهم می‌کند.<br><br><a href=\"?q=%23%D9%86%DB%8C%D8%A7%D8%A8%D8%AA%DB%8C\">#نیابتی</a> <a href=\"?q=%23%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D9%85\">#تروریسم</a> <a href=\"?q=%23%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C\">#جمهوری_اسلامی</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "🔺⭕️ افشای شبکه جذب مجرمان در آمریکای لاتین توسط حزب‌الله برای حمله به اهداف یهودی و اسرائیلی روزنامه جروزالم پست،پنجشنبه ۲۲ اکتبر،به نقل از گزارش تازه مؤسسه واشنگتن برای سیاست خاور نزدیک نوشت که حزب‌الله لبنان،گروه تروریستی مورد حمایت جمهوری اسلامی،با استفاده از شبکه‌های جرایم سازمان‌یافته در آمریکای لاتین،مجرمان سابقه‌دار و افراد دارای مشکلات مالی را برای اجرای عملیات علیه اهداف یهودی و اسرائیلی جذب می‌کند. بر اساس این گزارش،افراد جذب‌شده به لبنان منتقل می‌شوند و پس از دریافت آموزش‌های عملیاتی و ارتباطات مخفیانه،به کشورهای خود بازمی‌گردند تا مراکز یهودی،کنیسه‌ها و اهداف اسرائیلی را شناسایی کنند. تحقیقات پلیس فدرال برزیل در عملیات «تراپیشه» که با همکاری موساد اسرائیل آغاز شد،نشان داده است که حزب‌الله از کسب‌وکارهای پوششی و شبکه‌های مالی غیرقانونی برای تأمین هزینه این فعالیت‌ها استفاده می‌کند. این گزارش همچنین از شناسایی شبکه‌های پول‌شویی با ارزهای دیجیتال به نفع حزب‌الله و سپاه پاسداران خبر می‌دهد. به گفته پژوهشگر این گزارش،جذب افراد فاقد وابستگی ایدئولوژیک به حزب‌الله،امکان انکار ارتباط این گروه با حملات احتمالی را فراهم می‌کند. #نیابتی #تروریسم #جمهوری_اسلامی @DEJradio",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/8714",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Ads8sDD5BPnbMh95UQxuWPwdj_azYsfB2hixmZM4O_8KR1UapP9lLy9wNuspqdC0GYh2jqWmV5_4JBs_bqU8HCKLl4lAAn-E-x1DYmK74Ags-Ro28bfu7JFvgEC6OmLLVBeHqDLp4y0Dd8whquYKTBb9hrk1AzFZ9wTDnpKCA39Kk5-98esl_p1il5lvvI_cZfd_edsNxsxqpme-66hsfSBWsyPkD13fDwHbTzqv9hi3jZSqWnEZFEvSty4CLsucGrAoz9GrVEGnroBvEYJ-INWXlbTJNy-bMNcCXqNgS1bssXsfa4eOLk5SrKvac51bvGQvobvjxLNmvkJuxev97Q.jpg",
-          "thumbnail_path": "channels/dejradio/media/902f9bf3af432c863bac7cb5.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤬",
-          "count": "25"
-        },
-        {
-          "emoji": "❤",
-          "count": "4"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        },
-        {
-          "emoji": "😡",
-          "count": "2"
-        }
-      ],
-      "views_label": "1.56K",
-      "posted_at": "2026-10-22T16:50:52+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/8714"
     }
   ]
 }
