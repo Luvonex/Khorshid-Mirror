@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-30T20:01:04.819Z",
+  "fetched_at": "2026-10-30T23:07:30.912Z",
   "channel": {
     "username": "manototv",
     "title": "تلویزیون منوتو",
@@ -10,6 +10,39 @@
     "subscriber_count": "374K"
   },
   "posts": [
+    {
+      "id": "ManotoTV/108981",
+      "author_name": "تلویزیون منوتو",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LvxNxkvp5aFGg7i6YrCXExj8lTSA7JA8PqlLaUy3fg3lnrQbceOnm8NeT7wW0ZYZKkVQGNJy_Wc99qHtHr_GkaS9RPBMabwE0rNchZDMyWzfoYE1LCvuzxQgsQ1VEkA0WHiZZxDspjcCK-V3i7dfKiYp4rRP9fCosqk6wEDmxREPiyywBVLeUlbeBnPS-SHFcmOKbw21CB9bkbQMIphMhTjlrNLNCcCDvofK5S9JEum5gTdErkw-DiIyXKfo-pj4AgydKQ4jP0i8s5XnGIhBy6yZR_dUL-_sB6L9axBSgr4koeM24sRNpKYIHuEFd_d8KB-tTUhQ4f7_77vseHLY8w.jpg",
+      "author_photo_path": "channels/manototv/media/bedb5605e8b108e5e33ff486.jpg",
+      "body_html": "جاویدنام سونا یکتا، ۲۶ ساله، شامگاه ۱۸ دی‌ماه ۱۴۰۴، پس از پایان کار به اعتراضات مردمی در شهر پره‌سر در استان گیلان پیوست. او در بلوار اصلی شهر، از ناحیه پشت سر هدف شلیک مستقیم گلوله جنگی قرار گرفت و جان باخت.<br>بنا بر روایت خانواده، نهادهای امنیتی برای تحویل پیکر سونا، خانواده‌اش را تحت فشار قرار دادند. پیکر او در آرامستان سنگده پره‌سر به خاک سپرده شد.<br>سونا مادر دختری سه‌ساله به نام «الای» بود، مغازه لباس کودک داشت و هم‌زمان تحصیل می‌کرد.",
+      "plain_text": "جاویدنام سونا یکتا، ۲۶ ساله، شامگاه ۱۸ دی‌ماه ۱۴۰۴، پس از پایان کار به اعتراضات مردمی در شهر پره‌سر در استان گیلان پیوست. او در بلوار اصلی شهر، از ناحیه پشت سر هدف شلیک مستقیم گلوله جنگی قرار گرفت و جان باخت. بنا بر روایت خانواده، نهادهای امنیتی برای تحویل پیکر سونا، خانواده‌اش را تحت فشار قرار دادند. پیکر او در آرامستان سنگده پره‌سر به خاک سپرده شد. سونا مادر دختری سه‌ساله به نام «الای» بود، مغازه لباس کودک داشت و هم‌زمان تحصیل می‌کرد.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/ManotoTV/108981",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Eu6-UbF8YCCHe1s6bWGXyJzUIvXvbG0FHRXfaMD_g2AZf_Sx6oUkgdNawc8V50h6xCxwe6_LqQZytJMZpbO8ad1vV_fj786CgBOeW6RRhnpitAlAbGLr9ypJ-_d7k0p5jf2M6SgJg4B1jAUz_1HwBHB2wFq7NlyacQYEjtHrIQ4MgmQPf0v-P932aEvTdw9tKnuix1TgEfcpsR_asE5VecnQdc9iWF0yFStrR1ZNNnqFdg9MdfHH7yphD_qjQUeGGkFN-9aRoMgeQ3yr4PGwCNmvb5t6e6PLzxqt_8KoWUGKCubp3Auksq8aWicjbkQTTuri4E22VOpE9eIbiPVxzg",
+          "thumbnail_path": "channels/manototv/media/a34eb407d01e1e05868244d6.jpg",
+          "duration_label": "1:42",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "😭",
+          "count": "122"
+        },
+        {
+          "emoji": "❤",
+          "count": "38"
+        }
+      ],
+      "views_label": "4.11K",
+      "posted_at": "2026-10-30T20:29:54+00:00",
+      "edited": false,
+      "permalink": "https://t.me/ManotoTV/108981"
+    },
     {
       "id": "ManotoTV/108971",
       "author_name": "تلویزیون منوتو",
@@ -112,14 +145,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "44"
+          "count": "69"
         },
         {
           "emoji": "🕊",
-          "count": "17"
+          "count": "23"
         }
       ],
-      "views_label": "4.64K",
+      "views_label": "8.1K",
       "posted_at": "2026-10-30T18:31:36+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108971"
@@ -226,14 +259,14 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "71"
+          "count": "99"
         },
         {
           "emoji": "👍",
           "count": "21"
         }
       ],
-      "views_label": "6.63K",
+      "views_label": "8.64K",
       "posted_at": "2026-10-30T17:05:33+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108961"
@@ -4937,39 +4970,6 @@
       "posted_at": "2026-10-22T23:00:06+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/108696"
-    },
-    {
-      "id": "ManotoTV/108695",
-      "author_name": "تلویزیون منوتو",
-      "author_photo_url": "https://cdn4.telesco.pe/file/FoPhbFe4ER5eI5uOIXXKdAIFRa30gQkVdnGiRVQCmPO_NQsTCMaRcB-pLjdl3G1Tmg5Yb6EsbywoPgOelhY7tBhruwk94QKZwH9xqPLgDAF4nZ8_bbuydtSIsZx4CHFGiwYnKV46NXdhWY-Jx-SWcUPnHebHtieKgsyBM7IM9nQatLA1KZt7_SpE52V0CzP-RSMxUxkwhFDBft0UOpyj5TXX56UQQdnbOLwqWpLVvg29-ZOMMq1ppEC9fYvdXYRk4yjkyrzznT5Si1zcDJ5_h_xltlLLndNQRp5MHToFRBhBMFGH_EdUskvduXjfwTh85r1rZ9ZuDIpLlK4ZojmlTA.jpg",
-      "author_photo_path": "channels/manototv/media/a135ce182df3a248ca6f1dbd.jpg",
-      "body_html": "جاویدنام سپهر شکری، ۲۵ ساله و ورزشکار اهل تهران در ۱۸ دی‌ماه ۱۴۰۴ هدف مستقیم تیر جنگی نیروهای سرکوبگر جمهوری اسلامی قرار گرفت و بعد از انتقال به بیمارستان کشته شد.",
-      "plain_text": "جاویدنام سپهر شکری، ۲۵ ساله و ورزشکار اهل تهران در ۱۸ دی‌ماه ۱۴۰۴ هدف مستقیم تیر جنگی نیروهای سرکوبگر جمهوری اسلامی قرار گرفت و بعد از انتقال به بیمارستان کشته شد.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/ManotoTV/108695",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/WnFi3YHkx3vkb7JaAlo1lruXfxMg2xGrXkhDTFx84QCigU-XuS4rAq7xChzTN5mgnqmThycjW73p_ZwHKixnKRkPAKMLnSQYVk6dijwZN_tTnoHXuXBvJY6NnPoImD5qpdfHbhw5zSGuCIZLM2ne6UH-jiOcVJZa8FF4NzP_GWtuel-EqlmRezJfhUOccrPXHI24uHBh_snHzZFBm0hL1JMAwV2nxFtp8S0qj-Bv2__MLUdwAiPh81B4piyOxqaX1R77A6ii9jVEAKbzcQp0bze-AZeR8xJDODMWqNbI1EPXSYxtDdK8zkeMzzVl1jyfHWPhh8cKzZGMZ8xOV2avKA",
-          "thumbnail_path": "channels/manototv/media/f3582ea195dfb7fe60df7281.jpg",
-          "duration_label": "0:58",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🙏",
-          "count": "172"
-        },
-        {
-          "emoji": "👍",
-          "count": "25"
-        }
-      ],
-      "views_label": "11.5K",
-      "posted_at": "2026-10-22T22:59:53+00:00",
-      "edited": false,
-      "permalink": "https://t.me/ManotoTV/108695"
     }
   ]
 }
