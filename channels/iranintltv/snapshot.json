@@ -1,20 +1,380 @@
 {
   "schema": 2,
-  "fetched_at": "2026-10-30T02:39:15.848Z",
+  "fetched_at": "2026-10-30T07:08:36.532Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
     "description_html": "رسانه خبری پیشرو برای ایرانیان<br>خبررسانی حرفه‌ای، بی‌پروا و با تکیه بر روایت‌ شهروندان<br><br>ارسال امن گزارش‌ شما:<br><a href=\"https://t.me/intlmedia_bot\" target=\"_blank\">@intlmedia_bot</a><br>وب‌سایت ما:<br><a href=\"http://iranintl.com/\" target=\"_blank\" rel=\"noopener\">iranintl.com</a>",
-    "photo_url": "https://cdn4.telesco.pe/file/eLpvuHvjr813TXJMMVRCFkJMo7DQwoYg2gELzjEzsp39xr6kVTFsd_wDLsHOgBlUOH7dStOOGm39tLJY9Ib2VM66SwTB-9pcdDreBBeAGrTs2HhajvaA8ksYPobkA2lmMB-SlOMMeD11yGB278Y0GDgl-h134phiZKlmnhcRYjjErVbXx0jAPE7MT9anmGLUxD0ehdvaPjNZK4CUwvUdyIhRu63zKM0rfTl3isL_vxq6e0Kcld8uiEi3oyJANnExe_-HXeNLU7zwxI7tbjBWimusdA-8JK4r3PsMtuhOXfVY0liMR8mqNCBBue1xpKKtkEvWnveuCtqKdmhqIYdsYw.jpg",
-    "photo_path": "channels/iranintltv/media/40548474474f976db3899d84.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/G3WlZ60H5jwg4BaYFeKlXsvNDLao5Nac8T47jEafFag-a-xupXWRwzIf1w17fD_oVKH9j7o_sRKsgcUryaD-_L1Q5u537QfXVhifn1pWo3f1anv0oKsHWRlVLLPI8_0mWg6ldkSW9Xxjit4tHkI30pTt0ayW5kfBZw1IW1d21dmpIGbsTFpVUFjBkxDc-KTh2LJlBH1UcmQqLOv8GxNc9NENm1NJRSuH81K2i70vaZY4TlUuaYgCG12r5a8gtqH3rro7UJ8IzGwrhV7c_Yy_wOIRS87LLehNsvkJekwE5lFQ97JJG6oLrM4-7NlIHYd7ypaLX5646ubDK-1lJUg4rQ.jpg",
+    "photo_path": "channels/iranintltv/media/b7acfa575a75573741f4dd49.jpg",
     "subscriber_count": "1.37M"
   },
   "posts": [
     {
+      "id": "IranintlTV/364549",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/G3WlZ60H5jwg4BaYFeKlXsvNDLao5Nac8T47jEafFag-a-xupXWRwzIf1w17fD_oVKH9j7o_sRKsgcUryaD-_L1Q5u537QfXVhifn1pWo3f1anv0oKsHWRlVLLPI8_0mWg6ldkSW9Xxjit4tHkI30pTt0ayW5kfBZw1IW1d21dmpIGbsTFpVUFjBkxDc-KTh2LJlBH1UcmQqLOv8GxNc9NENm1NJRSuH81K2i70vaZY4TlUuaYgCG12r5a8gtqH3rro7UJ8IzGwrhV7c_Yy_wOIRS87LLehNsvkJekwE5lFQ97JJG6oLrM4-7NlIHYd7ypaLX5646ubDK-1lJUg4rQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/b7acfa575a75573741f4dd49.jpg",
+      "body_html": "رویترز جمعه هشتم آبان به نقل از یک مقام آگاه از مذاکرات گزارش داد که میانجی‌های قطری در چارچوب تلاش‌ها برای دستیابی به توافق میان جمهوری اسلامی و آمریکا به تهران بازگشتند.<br><br>این مقام همچنین گفت که مذاکرات میانجی‌گری قطر با هماهنگی آمریکا انجام شده است.<br><a href=\"https://iranintl.com/202610303731\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202610303731</a>",
+      "plain_text": "رویترز جمعه هشتم آبان به نقل از یک مقام آگاه از مذاکرات گزارش داد که میانجی‌های قطری در چارچوب تلاش‌ها برای دستیابی به توافق میان جمهوری اسلامی و آمریکا به تهران بازگشتند. این مقام همچنین گفت که مذاکرات میانجی‌گری قطر با هماهنگی آمریکا انجام شده است. https://iranintl.com/202610303731",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/364549",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/cIVMXDZZf_xpHNdmjGh67tSHslpVXNyPXz5GdlGTVFnOjF66kVDti1PNG7M0g4YdBSvnIZvpHB5jPqIyq51TQPP16kgOdoYCY9GBi19YuMVWEjxp7OEbJEZGry-ZdiAjl-PE7buASM7T9dsLh1Lm2hNuc8e_XFIOXVF9I3IlWEm9A9hwVAVBrQt1ApAdtYkE1l916PQR5TsMXaj4zw_vL9oReZuFu7i7jgif9sIvDONJqoZeU-P3Zf73x47TvLZ--aKoCnNyf3Ffvxp4AVbIia1RBU_C9k2TKdsPmbMqv9wHApWKHF8Bws7qs_GPUZWuwYgirCfG0slOO-fxFLdrQw.jpg",
+          "thumbnail_path": "channels/iranintltv/media/40a4edfbb394533191a36722.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "8.39K",
+      "posted_at": "2026-10-30T06:54:01+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/364549"
+    },
+    {
+      "id": "IranintlTV/364548",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/G3WlZ60H5jwg4BaYFeKlXsvNDLao5Nac8T47jEafFag-a-xupXWRwzIf1w17fD_oVKH9j7o_sRKsgcUryaD-_L1Q5u537QfXVhifn1pWo3f1anv0oKsHWRlVLLPI8_0mWg6ldkSW9Xxjit4tHkI30pTt0ayW5kfBZw1IW1d21dmpIGbsTFpVUFjBkxDc-KTh2LJlBH1UcmQqLOv8GxNc9NENm1NJRSuH81K2i70vaZY4TlUuaYgCG12r5a8gtqH3rro7UJ8IzGwrhV7c_Yy_wOIRS87LLehNsvkJekwE5lFQ97JJG6oLrM4-7NlIHYd7ypaLX5646ubDK-1lJUg4rQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/b7acfa575a75573741f4dd49.jpg",
+      "body_html": "بهنام سعیدی، عضو هیئت‌رییسه کمیسیون امنیت ملی مجلس جمهوری اسلامی، جمعه هشتم آبان به خانه ملت گفت جمهوری اسلامی ثابت کرده است که تا پای جان از متحدان خود، از جمله حزب‌الله لبنان و محور مقاومت، حمایت می‌کند و آن‌ها نیز از جمهوری اسلامی حمایت خواهند کرد.<br>سعیدی افزود جمهوری اسلامی در عملیات‌های خود نشان داده است که تهدیدهایش را عملی می‌کند. او گفت مواضعی که جمهوری اسلامی تهدید کرده بود، هدف قرار گرفتند و ناوهای آمریکایی نیز ناچار شدند در فاصله بیشتری از خلیج فارس مستقر شوند.<br>این عضو کمیسیون امنیت ملی مجلس جمهوری اسلامی همچنین گفت هنوز فرصت وجود دارد تا این کشورها از همراهی بیشتر با آمریکا خودداری کنند و مانع تشدید خسارت‌های سیاسی و اقتصادی شوند.<br><a href=\"https://iranintl.com/202610308630\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202610308630</a>",
+      "plain_text": "بهنام سعیدی، عضو هیئت‌رییسه کمیسیون امنیت ملی مجلس جمهوری اسلامی، جمعه هشتم آبان به خانه ملت گفت جمهوری اسلامی ثابت کرده است که تا پای جان از متحدان خود، از جمله حزب‌الله لبنان و محور مقاومت، حمایت می‌کند و آن‌ها نیز از جمهوری اسلامی حمایت خواهند کرد. سعیدی افزود جمهوری اسلامی در عملیات‌های خود نشان داده است که تهدیدهایش را عملی می‌کند. او گفت مواضعی که جمهوری اسلامی تهدید کرده بود، هدف قرار گرفتند و ناوهای آمریکایی نیز ناچار شدند در فاصله بیشتری از خلیج فارس مستقر شوند. این عضو کمیسیون امنیت ملی مجلس جمهوری اسلامی همچنین گفت هنوز فرصت وجود دارد تا این کشورها از همراهی بیشتر با آمریکا خودداری کنند و مانع تشدید خسارت‌های سیاسی و اقتصادی شوند. https://iranintl.com/202610308630",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/364548",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/jywWg8MLNS35GHtgxBQ7wr0I8wUD4iD5cMlxepkEh2m725Lq68TwpyxePXjPbSEUCPiVFUjj9RCNoup6HU79-YW0LjNeiD_QTwK69t09MgMwWY9n_y-wiiGlNSAQq5KRzWwFJFLoKJYUcCKX0ncSMI5TGRowIADsgczifFEJ1K0dS6Doc7c2N9oTeiv9EnV7-xcgb7e9Bor_w6ZCq9kTAndyzOZNQPD99uM9j1XulsGa8Fq1hw-ZAIQHEW7F5oSA_V4dmJwuy9cymdVfCbLiJIKisvOXr0bEZ2b1EgtoEnkI87gpppPflc3c2ukNfGV5X1T5M66AfRvOmPwEwqSfLQ.jpg",
+          "thumbnail_path": "channels/iranintltv/media/a42a6c52ec5d141ea13fd744.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "23K",
+      "posted_at": "2026-10-30T06:21:47+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/364548"
+    },
+    {
+      "id": "IranintlTV/364547",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/G3WlZ60H5jwg4BaYFeKlXsvNDLao5Nac8T47jEafFag-a-xupXWRwzIf1w17fD_oVKH9j7o_sRKsgcUryaD-_L1Q5u537QfXVhifn1pWo3f1anv0oKsHWRlVLLPI8_0mWg6ldkSW9Xxjit4tHkI30pTt0ayW5kfBZw1IW1d21dmpIGbsTFpVUFjBkxDc-KTh2LJlBH1UcmQqLOv8GxNc9NENm1NJRSuH81K2i70vaZY4TlUuaYgCG12r5a8gtqH3rro7UJ8IzGwrhV7c_Yy_wOIRS87LLehNsvkJekwE5lFQ97JJG6oLrM4-7NlIHYd7ypaLX5646ubDK-1lJUg4rQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/b7acfa575a75573741f4dd49.jpg",
+      "body_html": "بایننس، بزرگ‌ترین صرافی رمزارز جهان، خسارت ناشی از رخنه امنیتی اخیر را حدود شش میلیارد و ۳۰۰ میلیون دلار برآورد کرد و از توقف موقت واریزها و برداشت‌ها خبر داد. تحقیقات اولیه نشان می‌دهد نفوذ احتمالا از طریق لپ‌تاپ هک‌شده یکی از کارکنان بخش فنی این شرکت آغاز شده است.<br><br>مهدی صارمی‌فر، روزنامه‌نگار علم و تکنولوژی، درباره ابعاد این حمله سایبری، احتمال نقش گروه لازاروس کره شمالی و پیامدهای آن برای بازار رمزارز توضیح می‌دهد.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "بایننس، بزرگ‌ترین صرافی رمزارز جهان، خسارت ناشی از رخنه امنیتی اخیر را حدود شش میلیارد و ۳۰۰ میلیون دلار برآورد کرد و از توقف موقت واریزها و برداشت‌ها خبر داد. تحقیقات اولیه نشان می‌دهد نفوذ احتمالا از طریق لپ‌تاپ هک‌شده یکی از کارکنان بخش فنی این شرکت آغاز شده است. مهدی صارمی‌فر، روزنامه‌نگار علم و تکنولوژی، درباره ابعاد این حمله سایبری، احتمال نقش گروه لازاروس کره شمالی و پیامدهای آن برای بازار رمزارز توضیح می‌دهد. @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/364547",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/sqcIVj4iGtl4MO3VYl0xsrLFyisgoCajkCxUBwal-tuVNSRHM5ZvkyvZeaiusjt8ntvRCqC-5_lV-HFz4mVfiY_5rC6LomLFPuOnVRxYZ_Qtq6hWYcdturmSLMCrVAVmsia_uusYGJsH22oqWAe5TX7gjHXKWbhsuYAn-JMFZ9Nmb0x6kQaBgwMqvqEwY2xQgqIWZaLfA-6ZyCQyLp58xhQ2quVgMBGaawARdRSf_JYVCwpb6kGq_4KWvqThRgIAdfAI7oMn18tGRfHh-tkNqe1K58ZSUabiVvMfovoLhiiYE2MmqQMBQZ64aN9Foc644n9O5cr6ZPDIovlRK6h02w",
+          "thumbnail_path": "channels/iranintltv/media/051e41dd20339a3020e43dd3.jpg",
+          "duration_label": "4:26",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "43.9K",
+      "posted_at": "2026-10-30T05:17:16+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/364547"
+    },
+    {
+      "id": "IranintlTV/364546",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/G3WlZ60H5jwg4BaYFeKlXsvNDLao5Nac8T47jEafFag-a-xupXWRwzIf1w17fD_oVKH9j7o_sRKsgcUryaD-_L1Q5u537QfXVhifn1pWo3f1anv0oKsHWRlVLLPI8_0mWg6ldkSW9Xxjit4tHkI30pTt0ayW5kfBZw1IW1d21dmpIGbsTFpVUFjBkxDc-KTh2LJlBH1UcmQqLOv8GxNc9NENm1NJRSuH81K2i70vaZY4TlUuaYgCG12r5a8gtqH3rro7UJ8IzGwrhV7c_Yy_wOIRS87LLehNsvkJekwE5lFQ97JJG6oLrM4-7NlIHYd7ypaLX5646ubDK-1lJUg4rQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/b7acfa575a75573741f4dd49.jpg",
+      "body_html": "نشستی با محوریت کوروش بزرگ، میراث تمدن ایران و ارزش‌هایی چون آزادی، عدالت و کرامت انسانی در لندن برگزار شد.<br><br>گزارش فرشاد متقی، خبرنگار ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "نشستی با محوریت کوروش بزرگ، میراث تمدن ایران و ارزش‌هایی چون آزادی، عدالت و کرامت انسانی در لندن برگزار شد. گزارش فرشاد متقی، خبرنگار ایران‌اینترنشنال @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/364546",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ErPRW1IFKCnT389oLkAZFNO4rBqIBYLhS0WqO3sRFcg5chEYBUTxq4itkEXbLDZD4MSo4Uz5cldmnj7bkqOaVKbnyCn5CHn9JHLXwRviZtTelyIYW4RSzPfYIg8Wsomc1r7bgpflVZ1ZiYrYeMMX9J-8bbDcS1iq_zafkOyoQXBQ0Bn3eC7c40HJ27JZGb8_8Jt5nO7vqVtJ7oxi00c6CWBDdc4FLMHWQAGiVSJjHcumaONUuYwFk98n8V2C25iiNH1CJsW59xUB4IqGnarGzKBSbS7nxfQMu-yV7_XUiy4fbi4uLRxTxrQWjZi_mK0Onfefz26OY0TwRv_9Lmh4wA",
+          "thumbnail_path": "channels/iranintltv/media/5b40baab61f5fa0ffceda4bb.jpg",
+          "duration_label": "2:13",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "45K",
+      "posted_at": "2026-10-30T05:08:21+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/364546"
+    },
+    {
+      "id": "IranintlTV/364545",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/G3WlZ60H5jwg4BaYFeKlXsvNDLao5Nac8T47jEafFag-a-xupXWRwzIf1w17fD_oVKH9j7o_sRKsgcUryaD-_L1Q5u537QfXVhifn1pWo3f1anv0oKsHWRlVLLPI8_0mWg6ldkSW9Xxjit4tHkI30pTt0ayW5kfBZw1IW1d21dmpIGbsTFpVUFjBkxDc-KTh2LJlBH1UcmQqLOv8GxNc9NENm1NJRSuH81K2i70vaZY4TlUuaYgCG12r5a8gtqH3rro7UJ8IzGwrhV7c_Yy_wOIRS87LLehNsvkJekwE5lFQ97JJG6oLrM4-7NlIHYd7ypaLX5646ubDK-1lJUg4rQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/b7acfa575a75573741f4dd49.jpg",
+      "body_html": "مرکز مطالعات ایالات متحده در دانشگاه سیدنی هشدار داد بحران تنگه هرمز، امنیت انرژی استرالیا و کشورهای آسیایی را با تهدیدی بلندمدت روبه‌رو کرده است.<br><br>بر اساس این گزارش، بسته شدن این گذرگاه، آسیا را از ۶۰ درصد عرضه نفت و ۲۷ درصد گاز طبیعی محروم کرده و هزینه انرژی در جنوب شرق آسیا را ماهانه سه میلیارد و ۳۶۰ میلیون دلار افزایش داده است.<br><br>جزییات بیشتر با علیرضا محبی، خبرنگار ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "مرکز مطالعات ایالات متحده در دانشگاه سیدنی هشدار داد بحران تنگه هرمز، امنیت انرژی استرالیا و کشورهای آسیایی را با تهدیدی بلندمدت روبه‌رو کرده است. بر اساس این گزارش، بسته شدن این گذرگاه، آسیا را از ۶۰ درصد عرضه نفت و ۲۷ درصد گاز طبیعی محروم کرده و هزینه انرژی در جنوب شرق آسیا را ماهانه سه میلیارد و ۳۶۰ میلیون دلار افزایش داده است. جزییات بیشتر با علیرضا محبی، خبرنگار ایران‌اینترنشنال @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/364545",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Ci4uMcHB-nGCFqTkQY9qopkeoC6rhjHK2qjaVlCexUGKlA5SB_Twau7OfmQ3UfOoN2vLKuCwrHBns-qOl1dpsZtkBgC-9QUdIRs8uFvKGJ0i8olCtz10qM4gDWJqRw-y2ueor748zwq1Sc1Qz24b1rgO5fW5lIl4Xf2htS_mt1aajO8PMLYICDczme75iXWLWc6CMba-4077GVFbCnbrlw39pzutnnYOUEicTsbt0Yaiv7GcGj6DPBdXVDt6GmBhFeg6c1vH-PE1rNVzVh-MyrxvA75KHXxeD3Uf1xOe5TzsoGJjdnJ6MVzqTiX4copdiI67FYcmALSL70fxI1ifuw",
+          "thumbnail_path": "channels/iranintltv/media/f2f76ef4e44d8751935be7bc.jpg",
+          "duration_label": "4:07",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "42.9K",
+      "posted_at": "2026-10-30T05:07:05+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/364545"
+    },
+    {
+      "id": "IranintlTV/364544",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/G3WlZ60H5jwg4BaYFeKlXsvNDLao5Nac8T47jEafFag-a-xupXWRwzIf1w17fD_oVKH9j7o_sRKsgcUryaD-_L1Q5u537QfXVhifn1pWo3f1anv0oKsHWRlVLLPI8_0mWg6ldkSW9Xxjit4tHkI30pTt0ayW5kfBZw1IW1d21dmpIGbsTFpVUFjBkxDc-KTh2LJlBH1UcmQqLOv8GxNc9NENm1NJRSuH81K2i70vaZY4TlUuaYgCG12r5a8gtqH3rro7UJ8IzGwrhV7c_Yy_wOIRS87LLehNsvkJekwE5lFQ97JJG6oLrM4-7NlIHYd7ypaLX5646ubDK-1lJUg4rQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/b7acfa575a75573741f4dd49.jpg",
+      "body_html": "کمتر از یک هفته تا انتخابات میان‌دوره‌ای آمریکا باقی مانده است؛ انتخاباتی که می‌تواند بر محاسبات دونالد ترامپ درباره احتمال حمله دوباره به جمهوری اسلامی تاثیر بگذارد.<br><br>هم‌زمان با گزارش‌ها درباره بررسی گزینه‌های نظامی پس از انتخابات، این پرسش مطرح است که آیا ترامپ تصمیم درباره جنگ را به نتیجه انتخابات موکول می‌کند و پیروزی احتمالی دموکرات‌ها در کنگره تا چه اندازه می‌تواند بر مسیر تقابل نظامی با تهران اثر بگذارد؟<br><br>گزارش رکسانا خیرکار، ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "کمتر از یک هفته تا انتخابات میان‌دوره‌ای آمریکا باقی مانده است؛ انتخاباتی که می‌تواند بر محاسبات دونالد ترامپ درباره احتمال حمله دوباره به جمهوری اسلامی تاثیر بگذارد. هم‌زمان با گزارش‌ها درباره بررسی گزینه‌های نظامی پس از انتخابات، این پرسش مطرح است که آیا ترامپ تصمیم درباره جنگ را به نتیجه انتخابات موکول می‌کند و پیروزی احتمالی دموکرات‌ها در کنگره تا چه اندازه می‌تواند بر مسیر تقابل نظامی با تهران اثر بگذارد؟ گزارش رکسانا خیرکار، ایران‌اینترنشنال @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/364544",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/mr_RS7jyfgBsexo0ly60_cKdlcOqGt3Ke7IXuSoFF49ffNuu7cIwVM40QV-LZNQ0GavT6jtg2eZHtg-OWhCGiFmCF3F4VM5ytOISeMywLKUzGqE0BDFgGn3HRQB0wmFIPnDb0-srmyfvGoWY3ZJI9J9GH3f7xphXd7Sd26wvsptPEAWrFJIN-ByFUzDRL8wLgUoFJpYryisDRCysMfSNfdUytPb_fpa7QcPaG62E48O8_mhN4LtgkJLx50eFhnWPTD5GgH3IPIOVZPS_GwDn_F7P8plmZr3IZAvyrZ2bF_MkvWdNZqNXm1_K39Z7EVDkOgZPkl905JdP4Y_45lfG5Q",
+          "thumbnail_path": "channels/iranintltv/media/504cdaf7f96906a7574859ed.jpg",
+          "duration_label": "2:39",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "47.2K",
+      "posted_at": "2026-10-30T04:39:42+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/364544"
+    },
+    {
+      "id": "IranintlTV/364543",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/G3WlZ60H5jwg4BaYFeKlXsvNDLao5Nac8T47jEafFag-a-xupXWRwzIf1w17fD_oVKH9j7o_sRKsgcUryaD-_L1Q5u537QfXVhifn1pWo3f1anv0oKsHWRlVLLPI8_0mWg6ldkSW9Xxjit4tHkI30pTt0ayW5kfBZw1IW1d21dmpIGbsTFpVUFjBkxDc-KTh2LJlBH1UcmQqLOv8GxNc9NENm1NJRSuH81K2i70vaZY4TlUuaYgCG12r5a8gtqH3rro7UJ8IzGwrhV7c_Yy_wOIRS87LLehNsvkJekwE5lFQ97JJG6oLrM4-7NlIHYd7ypaLX5646ubDK-1lJUg4rQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/b7acfa575a75573741f4dd49.jpg",
+      "body_html": "محمد قائدی، مدرس روابط بین‌الملل، با اشاره به آزادسازی ذخایر راهبردی نفت از سوی ده‌ها کشور گفت این اقدام در کوتاه‌مدت از افزایش بیشتر قیمت سوخت در آمریکا جلوگیری کرده است.<br><br>او تاکید کرد اختلال در تردد نفتکش‌ها در تنگه هرمز همچنان بازار جهانی انرژی را تهدید می‌کند و بازگشت سریع شرایط به وضعیت پیش از بحران بعید است.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "محمد قائدی، مدرس روابط بین‌الملل، با اشاره به آزادسازی ذخایر راهبردی نفت از سوی ده‌ها کشور گفت این اقدام در کوتاه‌مدت از افزایش بیشتر قیمت سوخت در آمریکا جلوگیری کرده است. او تاکید کرد اختلال در تردد نفتکش‌ها در تنگه هرمز همچنان بازار جهانی انرژی را تهدید می‌کند و بازگشت سریع شرایط به وضعیت پیش از بحران بعید است. @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/364543",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/JUgS5Kg8Ffy236-FpavmkJlqxlBmkW2R6PZJWdHdkrmu9eG6u9vF-FXjh5iY5fKVuR0fCZ9JQVu2yzoQh6vyUqBEGfXhXWwBc5fiwiTCf2E_dfFJydKn58i1bRkqUbbdJWv-J-Ft1mt0NbCsBdr9b72rV6Bszb8geYmmH0ddDG6tfrWNXj5FpTCBVx72Uit_p2tebTxXVEl2MfArijDmqdfcc4ziyk6fRGx-ZXPNp4sqv-wrn-8CUhsO1mrlpHImEjULpoLrMuWd926l8vH4ym6dLpgAlOnLqRCfej-AnjE4d0KKosZ9HAfbnstK2VAusiAXJx8j1zG8mW2OHlhhng",
+          "thumbnail_path": "channels/iranintltv/media/ed6cdd90d0b07537758e9d09.jpg",
+          "duration_label": "5:21",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "46.2K",
+      "posted_at": "2026-10-30T04:28:14+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/364543"
+    },
+    {
+      "id": "IranintlTV/364542",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/G3WlZ60H5jwg4BaYFeKlXsvNDLao5Nac8T47jEafFag-a-xupXWRwzIf1w17fD_oVKH9j7o_sRKsgcUryaD-_L1Q5u537QfXVhifn1pWo3f1anv0oKsHWRlVLLPI8_0mWg6ldkSW9Xxjit4tHkI30pTt0ayW5kfBZw1IW1d21dmpIGbsTFpVUFjBkxDc-KTh2LJlBH1UcmQqLOv8GxNc9NENm1NJRSuH81K2i70vaZY4TlUuaYgCG12r5a8gtqH3rro7UJ8IzGwrhV7c_Yy_wOIRS87LLehNsvkJekwE5lFQ97JJG6oLrM4-7NlIHYd7ypaLX5646ubDK-1lJUg4rQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/b7acfa575a75573741f4dd49.jpg",
+      "body_html": "ائتلاف نظامی به رهبری عربستان سعودی اعلام کرد یک پهپاد پرتاب‌شده از سوی حوثی‌های مورد حمایت جمهوری اسلامی را در منطقه مکه رهگیری و منهدم کرده است.<br><br>رویترز گزارش داد این ائتلاف جمعه هشتم آبان با انتشار بیانیه‌ای از انهدام پهپاد خبر داد. این حادثه تازه‌ترین مورد از حملات فرامرزی منتسب به حوثی‌ها علیه عربستان سعودی است. حوثی‌ها در هفته‌های اخیر با استفاده از پهپادها و موشک‌ها، تاسیسات نظامی، فرودگاه‌ها و زیرساخت‌های انرژی این کشور را هدف قرار داده‌اند.<br><br>حوثی‌ها تاکنون به این حادثه واکنشی نشان نداده‌اند. این گروه پیش‌تر بارها اتهام حمله به مکه و مدینه، دو شهر مقدس مسلمانان، را رد کرده است.<br><a href=\"https://iranintl.com/202610300450\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202610300450</a>",
+      "plain_text": "ائتلاف نظامی به رهبری عربستان سعودی اعلام کرد یک پهپاد پرتاب‌شده از سوی حوثی‌های مورد حمایت جمهوری اسلامی را در منطقه مکه رهگیری و منهدم کرده است. رویترز گزارش داد این ائتلاف جمعه هشتم آبان با انتشار بیانیه‌ای از انهدام پهپاد خبر داد. این حادثه تازه‌ترین مورد از حملات فرامرزی منتسب به حوثی‌ها علیه عربستان سعودی است. حوثی‌ها در هفته‌های اخیر با استفاده از پهپادها و موشک‌ها، تاسیسات نظامی، فرودگاه‌ها و زیرساخت‌های انرژی این کشور را هدف قرار داده‌اند. حوثی‌ها تاکنون به این حادثه واکنشی نشان نداده‌اند. این گروه پیش‌تر بارها اتهام حمله به مکه و مدینه، دو شهر مقدس مسلمانان، را رد کرده است. https://iranintl.com/202610300450",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/364542",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/BA5pVxSoOzOs5iFIWl0ziPudiTiKnHNKEGyHO-CaWlSQYpfqS-QFQnhxklIQ-ggWuqtlv18x79Wcmn_Y-P-Po0Uabms3p6s-i2zHdsTpX1N5xkQTRBjsxswcBQm80YhXIxWT5PMFkQ5M1INmpfnUsouQWWNS39dL40SvGm4ChVhRDSYR0dprPQHo7uVltI6oO4pLNf7SIxUWy_eACaYMZXAfPzf2hCNC9bJABuQGsd9cMupKurzZzn0WY4XnrB_GCoL-mByxcFNoRRICSjbXPpkmSfy83w_75iablgV-4l-qEi_SlajXgZYuxl75UektxkBtgtmRpKIQLrtQj6cR5A.jpg",
+          "thumbnail_path": "channels/iranintltv/media/b42e9fff892315642c394eb9.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "45.1K",
+      "posted_at": "2026-10-30T04:19:36+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/364542"
+    },
+    {
+      "id": "IranintlTV/364541",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/G3WlZ60H5jwg4BaYFeKlXsvNDLao5Nac8T47jEafFag-a-xupXWRwzIf1w17fD_oVKH9j7o_sRKsgcUryaD-_L1Q5u537QfXVhifn1pWo3f1anv0oKsHWRlVLLPI8_0mWg6ldkSW9Xxjit4tHkI30pTt0ayW5kfBZw1IW1d21dmpIGbsTFpVUFjBkxDc-KTh2LJlBH1UcmQqLOv8GxNc9NENm1NJRSuH81K2i70vaZY4TlUuaYgCG12r5a8gtqH3rro7UJ8IzGwrhV7c_Yy_wOIRS87LLehNsvkJekwE5lFQ97JJG6oLrM4-7NlIHYd7ypaLX5646ubDK-1lJUg4rQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/b7acfa575a75573741f4dd49.jpg",
+      "body_html": "سازمان عملیات تجارت دریایی بریتانیا (UKMTO) در آخرین به‌روزرسانی هشدار خود اعلام کرد یک قایق کوچک در تنگه هرمز به یک نفتکش نزدیک شد و دو وسیله انفجاری به بدنه آن متصل کرد. انفجار این مواد باعث آتش‌سوزی در موتورخانه و از کار افتادن موقت نفتکش شد. هویت این قایق در اطلاعیه مشخص نشده است.<br><br>بر اساس این گزارش، حادثه ساعت ۲۲:۱۲ به وقت جهانی در ۲۹ اکتبر، در فاصله ۲۵ مایل دریایی شمال‌شرق خصب عمان رخ داد. این نفتکش هنگام وقوع حادثه در حال عبور به سمت خارج از تنگه هرمز بود.<br><br>این سازمان تایید کرد آتش مهار شده، همه خدمه سالم هستند و هیچ پیامد زیست‌محیطی گزارش نشده است. نفتکش نیز حرکت خود را به سمت بندر بعدی ادامه داده است.<br><br>سازمان عملیات تجارت دریایی بریتانیا از کشتی‌های عبوری خواست با احتیاط حرکت کنند و هرگونه فعالیت مشکوک را گزارش دهند. مقام‌های مسئول در حال بررسی حادثه هستند و در این هشدار نامی از عاملان حمله برده نشده است.<br><a href=\"https://iranintl.com/202610300661\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202610300661</a>",
+      "plain_text": "سازمان عملیات تجارت دریایی بریتانیا (UKMTO) در آخرین به‌روزرسانی هشدار خود اعلام کرد یک قایق کوچک در تنگه هرمز به یک نفتکش نزدیک شد و دو وسیله انفجاری به بدنه آن متصل کرد. انفجار این مواد باعث آتش‌سوزی در موتورخانه و از کار افتادن موقت نفتکش شد. هویت این قایق در اطلاعیه مشخص نشده است. بر اساس این گزارش، حادثه ساعت ۲۲:۱۲ به وقت جهانی در ۲۹ اکتبر، در فاصله ۲۵ مایل دریایی شمال‌شرق خصب عمان رخ داد. این نفتکش هنگام وقوع حادثه در حال عبور به سمت خارج از تنگه هرمز بود. این سازمان تایید کرد آتش مهار شده، همه خدمه سالم هستند و هیچ پیامد زیست‌محیطی گزارش نشده است. نفتکش نیز حرکت خود را به سمت بندر بعدی ادامه داده است. سازمان عملیات تجارت دریایی بریتانیا از کشتی‌های عبوری خواست با احتیاط حرکت کنند و هرگونه فعالیت مشکوک را گزارش دهند. مقام‌های مسئول در حال بررسی حادثه هستند و در این هشدار نامی از عاملان حمله برده نشده است. https://iranintl.com/202610300661",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/364541",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/mrLnFsZpuxJlfm1bd8ipJVCFcsH84dPJ9Emyu_OP5AV2K1DICif1qvvqxGGtu9yrjCUoNkwzQ3QrhdvQMauSKT7fzWfqVCMnPnmGy3FV2gFS-8UUDUkSghAzlIVQGXA9JEbUcwG6M5j2Sp6lqUvt4RGzT4LTVOkVn9gt04oMEFDXtVwrTe-_V-K_r6ZkE9zpkxolgQNfpWkWVDY7_oi2u99vIWbJglbNXjvNk_N2s_LWZEBU-38dyl-8SirJ5cP08YLCPfhdAQkXUjiX6h2hcM9v79x6H7Z2Q1wCIf7D8Qxm_BSNI2Dz1NjKKm_vgkqhdHDwWSoj4Y_YBkWeXnBo-Q.jpg",
+          "thumbnail_path": "channels/iranintltv/media/93d539d91ea0ba03f35a15b8.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "43.1K",
+      "posted_at": "2026-10-30T04:15:36+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/364541"
+    },
+    {
+      "id": "IranintlTV/364540",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/G3WlZ60H5jwg4BaYFeKlXsvNDLao5Nac8T47jEafFag-a-xupXWRwzIf1w17fD_oVKH9j7o_sRKsgcUryaD-_L1Q5u537QfXVhifn1pWo3f1anv0oKsHWRlVLLPI8_0mWg6ldkSW9Xxjit4tHkI30pTt0ayW5kfBZw1IW1d21dmpIGbsTFpVUFjBkxDc-KTh2LJlBH1UcmQqLOv8GxNc9NENm1NJRSuH81K2i70vaZY4TlUuaYgCG12r5a8gtqH3rro7UJ8IzGwrhV7c_Yy_wOIRS87LLehNsvkJekwE5lFQ97JJG6oLrM4-7NlIHYd7ypaLX5646ubDK-1lJUg4rQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/b7acfa575a75573741f4dd49.jpg",
+      "body_html": "نوید محبی، تحلیلگر سیاسی، درباره نتایج انتخابات اسرائیل گفت نتانیاهو با از دست دادن ۱۵ کرسی، اکثریت پیشین خود را از دست داده، اما مخالفان او نیز نتوانسته‌اند ائتلافی منسجم برای تشکیل دولت ایجاد کنند.<br><br>به گفته محبی، سه سناریو پیش روی اسرائیل قرار دارد: تشکیل دولت وحدت ملی، تشکیل دولت اقلیت با حمایت احزاب عرب یا شکست مذاکرات و برگزاری انتخابات بعدی.<br><br>او افزود در صورت ناتوانی احزاب در تشکیل دولت، نتانیاهو می‌تواند به‌عنوان سرپرست دولت تا انتخابات بعدی در قدرت بماند.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "نوید محبی، تحلیلگر سیاسی، درباره نتایج انتخابات اسرائیل گفت نتانیاهو با از دست دادن ۱۵ کرسی، اکثریت پیشین خود را از دست داده، اما مخالفان او نیز نتوانسته‌اند ائتلافی منسجم برای تشکیل دولت ایجاد کنند. به گفته محبی، سه سناریو پیش روی اسرائیل قرار دارد: تشکیل دولت وحدت ملی، تشکیل دولت اقلیت با حمایت احزاب عرب یا شکست مذاکرات و برگزاری انتخابات بعدی. او افزود در صورت ناتوانی احزاب در تشکیل دولت، نتانیاهو می‌تواند به‌عنوان سرپرست دولت تا انتخابات بعدی در قدرت بماند. @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/364540",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ARtKYFO7p5dqRiKUSs06DKH8RrvkWJGx97hQ5_mUvsmIyppmT02-rJ5M-EZUo9Sqti4DcxGbEfZZm48Aj1v3xvfy7ZyoGj0o9iV9u_LUQjg4HkFQX3GhoccYjKPF0ovMii7o5CMaSkcwffUl-SheIYo_y3KH85JsVIeZAPFOvsUoHG5mACzk-bhP4i_7W53L4DmUjpg_tnckEUdi1LGMuWo0t_q1dLRq491sm_wzdSI_Tp5bmacM5Ll5qlCLI-6YNQHolSA59pnS8t2bf8N-4xaZlrYsrvNZnh47iAS3djuw82jHwVoL1TBXydiDeGirPmOeo9uFdwdh2IBy5oQ9jw",
+          "thumbnail_path": "channels/iranintltv/media/898926d36c5639b457761508.jpg",
+          "duration_label": "5:08",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "38.9K",
+      "posted_at": "2026-10-30T04:14:25+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/364540"
+    },
+    {
+      "id": "IranintlTV/364539",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/G3WlZ60H5jwg4BaYFeKlXsvNDLao5Nac8T47jEafFag-a-xupXWRwzIf1w17fD_oVKH9j7o_sRKsgcUryaD-_L1Q5u537QfXVhifn1pWo3f1anv0oKsHWRlVLLPI8_0mWg6ldkSW9Xxjit4tHkI30pTt0ayW5kfBZw1IW1d21dmpIGbsTFpVUFjBkxDc-KTh2LJlBH1UcmQqLOv8GxNc9NENm1NJRSuH81K2i70vaZY4TlUuaYgCG12r5a8gtqH3rro7UJ8IzGwrhV7c_Yy_wOIRS87LLehNsvkJekwE5lFQ97JJG6oLrM4-7NlIHYd7ypaLX5646ubDK-1lJUg4rQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/b7acfa575a75573741f4dd49.jpg",
+      "body_html": "وال‌استریت ژورنال گزارش داد برد کوپر، فرمانده ارشد نیروهای آمریکایی در خاورمیانه، در دیدار حضوری با دونالد ترامپ در کاخ سفید، گزینه‌های حمله نظامی به ایران را ارائه کرد.<br><br>این نشست با حضور وزیر دفاع و رییس ستاد مشترک ارتش آمریکا برگزار شد و یک روز پس از رایزنی فرماندهان ارشد نظامی با جی‌دی ونس انجام گرفت.<br><br>جزییات بیشتر در گفت‌وگو با کامبیز توانا، عضو تحریریه ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "وال‌استریت ژورنال گزارش داد برد کوپر، فرمانده ارشد نیروهای آمریکایی در خاورمیانه، در دیدار حضوری با دونالد ترامپ در کاخ سفید، گزینه‌های حمله نظامی به ایران را ارائه کرد. این نشست با حضور وزیر دفاع و رییس ستاد مشترک ارتش آمریکا برگزار شد و یک روز پس از رایزنی فرماندهان ارشد نظامی با جی‌دی ونس انجام گرفت. جزییات بیشتر در گفت‌وگو با کامبیز توانا، عضو تحریریه ایران‌اینترنشنال @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/364539",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/L7haGmuNewFOpCWl30gudzZraBhZ41ovO-QIJ0C-e7F4t5yO7aLr4p0oJK9HQcjdcIBSizdhQ0g3_CeXtsudxoZinfTQw21X-tKUsIeyhY4ME2NBseg973mnCL0lzaobaSpKPTVmeds80NZyr5RFixdJJah9gbNPyQXnzwfzfks26DJQn11-qb7HG728zGywjlRQq7vUVsLW3pkCq6pbMVlH-CLnDFkVAZsDOpe7YxKW5EJM7UMGPdkcyNUYPQ9cEEULeWGYjfOJrl7Fe6UIcqoPQnn4Mab9-qCJcpnOeZUp6ooUCLKYsjUkiCQsAaUGYbq9Uv8jE5SMaJ0p6WH5LQ",
+          "thumbnail_path": "channels/iranintltv/media/028f1c698f3c09385b5c4d29.jpg",
+          "duration_label": "4:55",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "37.9K",
+      "posted_at": "2026-10-30T04:12:54+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/364539"
+    },
+    {
+      "id": "IranintlTV/364538",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/G3WlZ60H5jwg4BaYFeKlXsvNDLao5Nac8T47jEafFag-a-xupXWRwzIf1w17fD_oVKH9j7o_sRKsgcUryaD-_L1Q5u537QfXVhifn1pWo3f1anv0oKsHWRlVLLPI8_0mWg6ldkSW9Xxjit4tHkI30pTt0ayW5kfBZw1IW1d21dmpIGbsTFpVUFjBkxDc-KTh2LJlBH1UcmQqLOv8GxNc9NENm1NJRSuH81K2i70vaZY4TlUuaYgCG12r5a8gtqH3rro7UJ8IzGwrhV7c_Yy_wOIRS87LLehNsvkJekwE5lFQ97JJG6oLrM4-7NlIHYd7ypaLX5646ubDK-1lJUg4rQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/b7acfa575a75573741f4dd49.jpg",
+      "body_html": "فرزین ندیمی، پژوهشگر ارشد امور دفاعی و امنیتی، درباره نشست‌های اخیر فرماندهان نظامی آمریکا با دونالد ترامپ گفت حضور مستقیم فرماندهان منطقه‌ای در کاخ سفید، نشانه تصمیم‌گیری درباره یک موضوع مهم نظامی است.<br><br>به گفته ندیمی، افزایش تنش‌ها، حملات سپاه پاسداران به ناوگان آمریکا و تقویت نیروهای نظامی در منطقه نیز نشان می‌دهد تحرکات اخیر واشینگتن بیشتر از آنکه صرفا برای فشار بر تهران باشد، می‌تواند مقدمه یک اقدام عمده نظامی باشد.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "فرزین ندیمی، پژوهشگر ارشد امور دفاعی و امنیتی، درباره نشست‌های اخیر فرماندهان نظامی آمریکا با دونالد ترامپ گفت حضور مستقیم فرماندهان منطقه‌ای در کاخ سفید، نشانه تصمیم‌گیری درباره یک موضوع مهم نظامی است. به گفته ندیمی، افزایش تنش‌ها، حملات سپاه پاسداران به ناوگان آمریکا و تقویت نیروهای نظامی در منطقه نیز نشان می‌دهد تحرکات اخیر واشینگتن بیشتر از آنکه صرفا برای فشار بر تهران باشد، می‌تواند مقدمه یک اقدام عمده نظامی باشد. @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/364538",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/bqjlT2JY0n1dMaU6LRAG2kDVrZn0WAg6gVVWAwWlfn9EkQP1Ch6x6eTFm0fwh5RZmq2qEs0d2rvz5q5G1xWre2XLquqD2qWbD6bFLENTeImZwtIdrDluBVGMwsNnveCNICLKM33U25JEH5ZxPuHzpDIuzTIlSnCQQ7JiMOuke42bvYpwSYYPJ-bKeehjt7n4Xas7lvcTYmRsWRKdCjuzJ59hVt-Qwv9TOoTuR4vqwWgXq--GECjUYU5zhLnH7uNjhf-z9341o_4arzabUjP5iFvjQIn10NWqtv5scG72NeEPpwyGGZcrOw5nepNvIpnRPnwGrXYvt8A6LZ0MQ1CLCw",
+          "thumbnail_path": "channels/iranintltv/media/bf82d48c9974d7025f134c8d.jpg",
+          "duration_label": "5:37",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "36.9K",
+      "posted_at": "2026-10-30T04:10:37+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/364538"
+    },
+    {
+      "id": "IranintlTV/364537",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/G3WlZ60H5jwg4BaYFeKlXsvNDLao5Nac8T47jEafFag-a-xupXWRwzIf1w17fD_oVKH9j7o_sRKsgcUryaD-_L1Q5u537QfXVhifn1pWo3f1anv0oKsHWRlVLLPI8_0mWg6ldkSW9Xxjit4tHkI30pTt0ayW5kfBZw1IW1d21dmpIGbsTFpVUFjBkxDc-KTh2LJlBH1UcmQqLOv8GxNc9NENm1NJRSuH81K2i70vaZY4TlUuaYgCG12r5a8gtqH3rro7UJ8IzGwrhV7c_Yy_wOIRS87LLehNsvkJekwE5lFQ97JJG6oLrM4-7NlIHYd7ypaLX5646ubDK-1lJUg4rQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/b7acfa575a75573741f4dd49.jpg",
+      "body_html": "سرخط خبرهای جمعه ۸ آبان<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "سرخط خبرهای جمعه ۸ آبان @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/364537",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/odDsg4_KrFtaVDWUMw5pl4dT01-jp_59u1edv_pYLemwo2OEPSu0GJlJP5opJQ8hoYP4LaOpGXrXHFzzfwz7ZmOm3IOsW89tPGPq3pGLQ40MxzA2Ow3f0h4sT9gNLfSmk-64TQ_zyKWna-nRCh3-1HS4sWCejDw0TAS9I9AR75Bwkmm33y6jxmNI7API5_378xj4nZ0_oTwzIb47dxtnfJr37PogsRvobW0skbhBfKsO4aA6284miG7SvELXpBNKfJIxxF4-CbkGpkAkP-6BLAg5TX1vzW5SPf5Dj0kL6pl1XI_REOQEMPCwzWwUMZtOXhAZPSB2m5VWB8NLTZlGDg",
+          "thumbnail_path": "channels/iranintltv/media/ef0560865b9e682cab3cf92f.jpg",
+          "duration_label": "1:08",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "41K",
+      "posted_at": "2026-10-30T03:47:50+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/364537"
+    },
+    {
+      "id": "IranintlTV/364536",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/G3WlZ60H5jwg4BaYFeKlXsvNDLao5Nac8T47jEafFag-a-xupXWRwzIf1w17fD_oVKH9j7o_sRKsgcUryaD-_L1Q5u537QfXVhifn1pWo3f1anv0oKsHWRlVLLPI8_0mWg6ldkSW9Xxjit4tHkI30pTt0ayW5kfBZw1IW1d21dmpIGbsTFpVUFjBkxDc-KTh2LJlBH1UcmQqLOv8GxNc9NENm1NJRSuH81K2i70vaZY4TlUuaYgCG12r5a8gtqH3rro7UJ8IzGwrhV7c_Yy_wOIRS87LLehNsvkJekwE5lFQ97JJG6oLrM4-7NlIHYd7ypaLX5646ubDK-1lJUg4rQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/b7acfa575a75573741f4dd49.jpg",
+      "body_html": "تد کروز، سناتور جمهوری‌خواه آمریکا، در پیامی در شبکه ایکس اعلام کرد روز گذشته را با دونالد ترامپ، رییس‌جمهوری آمریکا، گذرانده و درباره تهدیدهای ناشی از حکومت جمهوری اسلامی با او گفت‌وگو کرده است.<br><br>کروز نوشت: «من تمام روز گذشته را با رییس‌جمهوری ترامپ گذراندم. او می‌خواهد تهدید ناشی از حکومت ایران برطرف شود. من از او خواسته‌ام معترضان ایرانی را برای سرنگونی حکومت مسلح کند.»<br><br>این سناتور جمهوری‌خواه مشخص نکرد ترامپ چه پاسخی به پیشنهاد او داده است یا آیا دولت آمریکا چنین اقدامی را بررسی می‌کند.<br><a href=\"https://iranintl.com/202610300713\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202610300713</a>",
+      "plain_text": "تد کروز، سناتور جمهوری‌خواه آمریکا، در پیامی در شبکه ایکس اعلام کرد روز گذشته را با دونالد ترامپ، رییس‌جمهوری آمریکا، گذرانده و درباره تهدیدهای ناشی از حکومت جمهوری اسلامی با او گفت‌وگو کرده است. کروز نوشت: «من تمام روز گذشته را با رییس‌جمهوری ترامپ گذراندم. او می‌خواهد تهدید ناشی از حکومت ایران برطرف شود. من از او خواسته‌ام معترضان ایرانی را برای سرنگونی حکومت مسلح کند.» این سناتور جمهوری‌خواه مشخص نکرد ترامپ چه پاسخی به پیشنهاد او داده است یا آیا دولت آمریکا چنین اقدامی را بررسی می‌کند. https://iranintl.com/202610300713",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/364536",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/N8jqtY7NmbRyRanutx4jfZ0sLKe4qqVx6fAP8xYqA57yr-uzUjHiHTuIE0lmlRRs7mE3uv7HK3vB7RL65a0AQ7YveqQH7u-HB_lsUoaeLKk5pa_H5tAjO1Ar-0haxu4dJTUVhvvVodeGIqCmBjHwgFV-FlKWcPXmGtYpHaQvFnO2tRRo1Q7Xw-nvCiE1UK1xPj6c0PC0HkDvXvzGB0tGWmtjBKVjppOC7iqvIfvqzZ3MDUTAsae9RZ7p5KGou4wfrTiVXoKqmt3vg8nRycnS78vuTcja_21Wt9-SCT9UiyFyaz7oaZrRXzCNyPC4_qCyK6j9jT4vJzfq2eZZ7Fya0A.jpg",
+          "thumbnail_path": "channels/iranintltv/media/f2ef4e0d1074de0a9c6e9944.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "42.6K",
+      "posted_at": "2026-10-30T03:43:33+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/364536"
+    },
+    {
+      "id": "IranintlTV/364535",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/G3WlZ60H5jwg4BaYFeKlXsvNDLao5Nac8T47jEafFag-a-xupXWRwzIf1w17fD_oVKH9j7o_sRKsgcUryaD-_L1Q5u537QfXVhifn1pWo3f1anv0oKsHWRlVLLPI8_0mWg6ldkSW9Xxjit4tHkI30pTt0ayW5kfBZw1IW1d21dmpIGbsTFpVUFjBkxDc-KTh2LJlBH1UcmQqLOv8GxNc9NENm1NJRSuH81K2i70vaZY4TlUuaYgCG12r5a8gtqH3rro7UJ8IzGwrhV7c_Yy_wOIRS87LLehNsvkJekwE5lFQ97JJG6oLrM4-7NlIHYd7ypaLX5646ubDK-1lJUg4rQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/b7acfa575a75573741f4dd49.jpg",
+      "body_html": "یوسف رجی، وزیر خارجه لبنان، تاکید کرد تصمیم دولت برای انحصار سلاح در دست نهادهای رسمی و گسترش حاکمیت بر سراسر کشور، با هدف ساختن دولت اتخاذ شده و برای جلب رضایت هیچ طرف خارجی نیست.<br><br>هم‌زمان، جوزف عون، رییس‌جمهوری لبنان، گفت راه‌حل‌های امن و پایدار از مسیر مذاکرات دیپلماتیک به دست می‌آیند، نه جنگ.<br><br>بشاره شربل، تحلیلگر لبنانی، به اسکای‌نیوز عربی گفت تصمیم انحصار سلاح از حمایت گسترده برخوردار است، اما دولت در اجرای آن جدیت کافی نشان نداده است. او خلع سلاح حزب‌الله را پیش‌شرط خروج تدریجی اسرائیل از لبنان دانست و خواستار استقرار ارتش و تثبیت حاکمیت دولت، از جمله در بیروت، شد.<br><a href=\"https://iranintl.com/202610309976\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202610309976</a>",
+      "plain_text": "یوسف رجی، وزیر خارجه لبنان، تاکید کرد تصمیم دولت برای انحصار سلاح در دست نهادهای رسمی و گسترش حاکمیت بر سراسر کشور، با هدف ساختن دولت اتخاذ شده و برای جلب رضایت هیچ طرف خارجی نیست. هم‌زمان، جوزف عون، رییس‌جمهوری لبنان، گفت راه‌حل‌های امن و پایدار از مسیر مذاکرات دیپلماتیک به دست می‌آیند، نه جنگ. بشاره شربل، تحلیلگر لبنانی، به اسکای‌نیوز عربی گفت تصمیم انحصار سلاح از حمایت گسترده برخوردار است، اما دولت در اجرای آن جدیت کافی نشان نداده است. او خلع سلاح حزب‌الله را پیش‌شرط خروج تدریجی اسرائیل از لبنان دانست و خواستار استقرار ارتش و تثبیت حاکمیت دولت، از جمله در بیروت، شد. https://iranintl.com/202610309976",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/364535",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/cpwhOQDSomUmHbcZU-6V30_dQBA96hYPljw_PvrQbILS1vH-lMJJObfkcTb5aADxd_dDRqrqJXH5yWCrEgvLYPZtUg3mrjTPh3Kcx5BBcnXlK7AEZd2K9otWdS_iSuoZ1b8blZ3s2Wp_QygBlnh3DKj5NDofGcqCIogtMJZnNH1SLin3pJ21QF0Mwvf5LOpI2MosdpbmdQOlUxAExcF6QQxCp-x7jKM11fVFd_24piOTVtmF-evn2jzzDbmJpDx2wMlTC0x_RMKg_iZmCf-Kmus7T9AUAWN48CGCDTONIddZVqfMSMJR__NwchorYj2CW8YijU8xB5AdNtfQbq1rPQ.jpg",
+          "thumbnail_path": "channels/iranintltv/media/1ed326bd5fc89cc6d16d4768.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "39.5K",
+      "posted_at": "2026-10-30T03:38:22+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/364535"
+    },
+    {
       "id": "IranintlTV/364534",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eLpvuHvjr813TXJMMVRCFkJMo7DQwoYg2gELzjEzsp39xr6kVTFsd_wDLsHOgBlUOH7dStOOGm39tLJY9Ib2VM66SwTB-9pcdDreBBeAGrTs2HhajvaA8ksYPobkA2lmMB-SlOMMeD11yGB278Y0GDgl-h134phiZKlmnhcRYjjErVbXx0jAPE7MT9anmGLUxD0ehdvaPjNZK4CUwvUdyIhRu63zKM0rfTl3isL_vxq6e0Kcld8uiEi3oyJANnExe_-HXeNLU7zwxI7tbjBWimusdA-8JK4r3PsMtuhOXfVY0liMR8mqNCBBue1xpKKtkEvWnveuCtqKdmhqIYdsYw.jpg",
-      "author_photo_path": "channels/iranintltv/media/40548474474f976db3899d84.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/G3WlZ60H5jwg4BaYFeKlXsvNDLao5Nac8T47jEafFag-a-xupXWRwzIf1w17fD_oVKH9j7o_sRKsgcUryaD-_L1Q5u537QfXVhifn1pWo3f1anv0oKsHWRlVLLPI8_0mWg6ldkSW9Xxjit4tHkI30pTt0ayW5kfBZw1IW1d21dmpIGbsTFpVUFjBkxDc-KTh2LJlBH1UcmQqLOv8GxNc9NENm1NJRSuH81K2i70vaZY4TlUuaYgCG12r5a8gtqH3rro7UJ8IzGwrhV7c_Yy_wOIRS87LLehNsvkJekwE5lFQ97JJG6oLrM4-7NlIHYd7ypaLX5646ubDK-1lJUg4rQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/b7acfa575a75573741f4dd49.jpg",
       "body_html": "دفتر شاهزاده رضا پهلوی در ایکس خواستار اقدام کشورهای دموکراتیک برای گسترش دسترسی مردم ایران به اینترنت ماهواره‌ای و فناوری اتصال مستقیم ماهواره به تلفن همراه شد.<br><br>این دفتر نوشت: «کشورهای دموکراتیک باید برای حمایت از مردم ایران، فورا در فناوری اتصال مستقیم ماهواره به تلفن همراه سرمایه‌گذاری کنند، برای کاهش هزینه‌ها بودجه‌ای به دسترسی ماهواره‌ای اختصاص دهند و امنیت کاربران را در برابر نظارت و رصد تضمین کنند.»<br><br>دفتر شاهزاده رضا پهلوی با اشاره به آنچه ادامه روند «فروپاشی» تسلط جمهوری اسلامی بر فضای مجازی خواند، تاکید کرد استارلینک «آخرین میخ را بر تابوت سانسور حکومتی در ایران» می‌کوبد.<br><br>این دفتر افزود: «دسترسی به اطلاعات راه ارتباط حیاتی مردم است و جهان باید در کنار مردم ایران بایستد.»<br><a href=\"https://iranintl.com/202610306216\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202610306216</a>",
       "plain_text": "دفتر شاهزاده رضا پهلوی در ایکس خواستار اقدام کشورهای دموکراتیک برای گسترش دسترسی مردم ایران به اینترنت ماهواره‌ای و فناوری اتصال مستقیم ماهواره به تلفن همراه شد. این دفتر نوشت: «کشورهای دموکراتیک باید برای حمایت از مردم ایران، فورا در فناوری اتصال مستقیم ماهواره به تلفن همراه سرمایه‌گذاری کنند، برای کاهش هزینه‌ها بودجه‌ای به دسترسی ماهواره‌ای اختصاص دهند و امنیت کاربران را در برابر نظارت و رصد تضمین کنند.» دفتر شاهزاده رضا پهلوی با اشاره به آنچه ادامه روند «فروپاشی» تسلط جمهوری اسلامی بر فضای مجازی خواند، تاکید کرد استارلینک «آخرین میخ را بر تابوت سانسور حکومتی در ایران» می‌کوبد. این دفتر افزود: «دسترسی به اطلاعات راه ارتباط حیاتی مردم است و جهان باید در کنار مردم ایران بایستد.» https://iranintl.com/202610306216",
       "media": [
@@ -29,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1",
+      "views_label": "49.1K",
       "posted_at": "2026-10-30T02:38:34+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/364534"
@@ -37,8 +397,8 @@
     {
       "id": "IranintlTV/364533",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eLpvuHvjr813TXJMMVRCFkJMo7DQwoYg2gELzjEzsp39xr6kVTFsd_wDLsHOgBlUOH7dStOOGm39tLJY9Ib2VM66SwTB-9pcdDreBBeAGrTs2HhajvaA8ksYPobkA2lmMB-SlOMMeD11yGB278Y0GDgl-h134phiZKlmnhcRYjjErVbXx0jAPE7MT9anmGLUxD0ehdvaPjNZK4CUwvUdyIhRu63zKM0rfTl3isL_vxq6e0Kcld8uiEi3oyJANnExe_-HXeNLU7zwxI7tbjBWimusdA-8JK4r3PsMtuhOXfVY0liMR8mqNCBBue1xpKKtkEvWnveuCtqKdmhqIYdsYw.jpg",
-      "author_photo_path": "channels/iranintltv/media/40548474474f976db3899d84.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/G3WlZ60H5jwg4BaYFeKlXsvNDLao5Nac8T47jEafFag-a-xupXWRwzIf1w17fD_oVKH9j7o_sRKsgcUryaD-_L1Q5u537QfXVhifn1pWo3f1anv0oKsHWRlVLLPI8_0mWg6ldkSW9Xxjit4tHkI30pTt0ayW5kfBZw1IW1d21dmpIGbsTFpVUFjBkxDc-KTh2LJlBH1UcmQqLOv8GxNc9NENm1NJRSuH81K2i70vaZY4TlUuaYgCG12r5a8gtqH3rro7UJ8IzGwrhV7c_Yy_wOIRS87LLehNsvkJekwE5lFQ97JJG6oLrM4-7NlIHYd7ypaLX5646ubDK-1lJUg4rQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/b7acfa575a75573741f4dd49.jpg",
       "body_html": "اسکات بسنت، وزیر خزانه‌داری آمریکا، در مصاحبه با سی‌ان‌بی‌سی گفت فشارهای اقتصادی واشینگتن علیه جمهوری اسلامی به مرحله‌ای رسیده که تهران در تامین دلار و پرداخت حقوق نیروهای نظامی خود با مشکل روبه‌رو شده است.<br><br>بسنت گفت: «آنها نمی‌توانند حقوق نیروهایشان را پرداخت کنند. مهم‌تر اینکه نمی‌توانند دلار به دست بیاورند و به همین دلیل قادر به تامین مجدد منابع خود نیستند.»<br><br>او افزود محدودیت‌های مالی جمهوری اسلامی بر گروه‌های مورد حمایت تهران نیز تاثیر گذاشته و منابع مالی حوثی‌ها، حماس و حزب‌الله در حال قطع شدن است.<br><br>وزیر خزانه‌داری آمریکا در ایکس نوشت در چارچوب عملیات «طرد اقتصادی»، راه‌های تامین مالی جمهوری اسلامی در حال از بین رفتن است و تهران برای جابه‌جایی پول با مشکل روبه‌رو است. او افزود بر اساس گزارش‌ها، سپاه پاسداران حتی در پرداخت حقوق نیروهای خود با مشکل مواجه شده است.<br><br>بسنت تاکید کرد آمریکا در تلاش است توانایی جمهوری اسلامی برای تامین مالی حوثی‌ها، حماس و حزب‌الله را محدود کند.<br><a href=\"https://iranintl.com/202610304744\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202610304744</a>",
       "plain_text": "اسکات بسنت، وزیر خزانه‌داری آمریکا، در مصاحبه با سی‌ان‌بی‌سی گفت فشارهای اقتصادی واشینگتن علیه جمهوری اسلامی به مرحله‌ای رسیده که تهران در تامین دلار و پرداخت حقوق نیروهای نظامی خود با مشکل روبه‌رو شده است. بسنت گفت: «آنها نمی‌توانند حقوق نیروهایشان را پرداخت کنند. مهم‌تر اینکه نمی‌توانند دلار به دست بیاورند و به همین دلیل قادر به تامین مجدد منابع خود نیستند.» او افزود محدودیت‌های مالی جمهوری اسلامی بر گروه‌های مورد حمایت تهران نیز تاثیر گذاشته و منابع مالی حوثی‌ها، حماس و حزب‌الله در حال قطع شدن است. وزیر خزانه‌داری آمریکا در ایکس نوشت در چارچوب عملیات «طرد اقتصادی»، راه‌های تامین مالی جمهوری اسلامی در حال از بین رفتن است و تهران برای جابه‌جایی پول با مشکل روبه‌رو است. او افزود بر اساس گزارش‌ها، سپاه پاسداران حتی در پرداخت حقوق نیروهای خود با مشکل مواجه شده است. بسنت تاکید کرد آمریکا در تلاش است توانایی جمهوری اسلامی برای تامین مالی حوثی‌ها، حماس و حزب‌الله را محدود کند. https://iranintl.com/202610304744",
       "media": [
@@ -53,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.8K",
+      "views_label": "54.7K",
       "posted_at": "2026-10-30T01:11:58+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/364533"
@@ -61,8 +421,8 @@
     {
       "id": "IranintlTV/364532",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eLpvuHvjr813TXJMMVRCFkJMo7DQwoYg2gELzjEzsp39xr6kVTFsd_wDLsHOgBlUOH7dStOOGm39tLJY9Ib2VM66SwTB-9pcdDreBBeAGrTs2HhajvaA8ksYPobkA2lmMB-SlOMMeD11yGB278Y0GDgl-h134phiZKlmnhcRYjjErVbXx0jAPE7MT9anmGLUxD0ehdvaPjNZK4CUwvUdyIhRu63zKM0rfTl3isL_vxq6e0Kcld8uiEi3oyJANnExe_-HXeNLU7zwxI7tbjBWimusdA-8JK4r3PsMtuhOXfVY0liMR8mqNCBBue1xpKKtkEvWnveuCtqKdmhqIYdsYw.jpg",
-      "author_photo_path": "channels/iranintltv/media/40548474474f976db3899d84.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/G3WlZ60H5jwg4BaYFeKlXsvNDLao5Nac8T47jEafFag-a-xupXWRwzIf1w17fD_oVKH9j7o_sRKsgcUryaD-_L1Q5u537QfXVhifn1pWo3f1anv0oKsHWRlVLLPI8_0mWg6ldkSW9Xxjit4tHkI30pTt0ayW5kfBZw1IW1d21dmpIGbsTFpVUFjBkxDc-KTh2LJlBH1UcmQqLOv8GxNc9NENm1NJRSuH81K2i70vaZY4TlUuaYgCG12r5a8gtqH3rro7UJ8IzGwrhV7c_Yy_wOIRS87LLehNsvkJekwE5lFQ97JJG6oLrM4-7NlIHYd7ypaLX5646ubDK-1lJUg4rQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/b7acfa575a75573741f4dd49.jpg",
       "body_html": "کریس مورفی، سناتور دموکرات ایالت کنتیکت، گفت او و شماری دیگر از قانون‌گذاران آمریکایی در جلسه‌ای توجیهی در جریان جزییات طرح احتمالی ازسرگیری عملیات نظامی علیه ایران قرار گرفته‌اند. او این طرح را «دیوانه‌وار» توصیف کرد و هشدار داد اجرای آن به تشدید و طولانی‌تر شدن جنگ منجر می‌شود.<br><br>مورفی در ویدیویی از نشست موسسه خاورمیانه که پنجشنبه هفتم آبان در ایکس منتشر کرد، گفت: «در یکی از این جلسات توجیهی، درباره طرح جنگ، در صورت ازسرگیری عملیات نظامی، گفت‌وگویی نسبتا مفصل داشتیم. گفته شده این عملیات کوتاه‌مدت خواهد بود، اما طرح آنها دیوانه‌وار است و به تشدید ویرانگر درگیری‌ها و احتمالا نابودی پایبندی ما به حاکمیت قانون منجر خواهد شد.»<br><br>این سناتور آمریکایی با اشاره به گزارش‌ها درباره احتمال هدف قرار گرفتن زیرساخت‌های غیرنظامی ایران گفت به باور او، طرح تهیه‌شده به درخواست ترامپ جنگ را طولانی‌تر می‌کند و پیامدهای ویرانگری برای منافع امنیتی آمریکا خواهد داشت.<br><a href=\"https://iranintl.com/202610291354\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202610291354</a>",
       "plain_text": "کریس مورفی، سناتور دموکرات ایالت کنتیکت، گفت او و شماری دیگر از قانون‌گذاران آمریکایی در جلسه‌ای توجیهی در جریان جزییات طرح احتمالی ازسرگیری عملیات نظامی علیه ایران قرار گرفته‌اند. او این طرح را «دیوانه‌وار» توصیف کرد و هشدار داد اجرای آن به تشدید و طولانی‌تر شدن جنگ منجر می‌شود. مورفی در ویدیویی از نشست موسسه خاورمیانه که پنجشنبه هفتم آبان در ایکس منتشر کرد، گفت: «در یکی از این جلسات توجیهی، درباره طرح جنگ، در صورت ازسرگیری عملیات نظامی، گفت‌وگویی نسبتا مفصل داشتیم. گفته شده این عملیات کوتاه‌مدت خواهد بود، اما طرح آنها دیوانه‌وار است و به تشدید ویرانگر درگیری‌ها و احتمالا نابودی پایبندی ما به حاکمیت قانون منجر خواهد شد.» این سناتور آمریکایی با اشاره به گزارش‌ها درباره احتمال هدف قرار گرفتن زیرساخت‌های غیرنظامی ایران گفت به باور او، طرح تهیه‌شده به درخواست ترامپ جنگ را طولانی‌تر می‌کند و پیامدهای ویرانگری برای منافع امنیتی آمریکا خواهد داشت. https://iranintl.com/202610291354",
       "media": [
@@ -77,7 +437,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.2K",
+      "views_label": "50.8K",
       "posted_at": "2026-10-30T00:58:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/364532"
@@ -85,8 +445,8 @@
     {
       "id": "IranintlTV/364531",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eLpvuHvjr813TXJMMVRCFkJMo7DQwoYg2gELzjEzsp39xr6kVTFsd_wDLsHOgBlUOH7dStOOGm39tLJY9Ib2VM66SwTB-9pcdDreBBeAGrTs2HhajvaA8ksYPobkA2lmMB-SlOMMeD11yGB278Y0GDgl-h134phiZKlmnhcRYjjErVbXx0jAPE7MT9anmGLUxD0ehdvaPjNZK4CUwvUdyIhRu63zKM0rfTl3isL_vxq6e0Kcld8uiEi3oyJANnExe_-HXeNLU7zwxI7tbjBWimusdA-8JK4r3PsMtuhOXfVY0liMR8mqNCBBue1xpKKtkEvWnveuCtqKdmhqIYdsYw.jpg",
-      "author_photo_path": "channels/iranintltv/media/40548474474f976db3899d84.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/G3WlZ60H5jwg4BaYFeKlXsvNDLao5Nac8T47jEafFag-a-xupXWRwzIf1w17fD_oVKH9j7o_sRKsgcUryaD-_L1Q5u537QfXVhifn1pWo3f1anv0oKsHWRlVLLPI8_0mWg6ldkSW9Xxjit4tHkI30pTt0ayW5kfBZw1IW1d21dmpIGbsTFpVUFjBkxDc-KTh2LJlBH1UcmQqLOv8GxNc9NENm1NJRSuH81K2i70vaZY4TlUuaYgCG12r5a8gtqH3rro7UJ8IzGwrhV7c_Yy_wOIRS87LLehNsvkJekwE5lFQ97JJG6oLrM4-7NlIHYd7ypaLX5646ubDK-1lJUg4rQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/b7acfa575a75573741f4dd49.jpg",
       "body_html": "بایننس، بزرگ‌ترین صرافی رمزارز جهان، اعلام کرد در حال بررسی یک رخداد امنیتی است که ممکن است به خروج چند میلیارد دلار از کیف پول‌های این صرافی منجر شده باشد. بایننس تاکید کرد دارایی کاربران امن است و برداشت‌ها در چند شبکه را موقتا متوقف کرد.<br><br>چانگ‌پنگ ژائو، بنیان‌گذار بایننس، گفت به نظر می‌رسد این صرافی هک شده و انتظار دارد دارایی کاربران به‌طور کامل جبران شود.<br><br>سیرکل حدود ۸۰۰ میلیون دلار تتر و شرکت تتر نیز حدود ۱.۵۶ میلیارد دلار دارایی مرتبط با این حمله را مسدود کردند.<br><br>برآوردها درباره میزان دارایی خارج‌شده متفاوت است. ناظران حوزه رمزارز از خروج دست‌کم دو میلیارد دلار خبر داده‌اند و برخی برآوردها رقم احتمالی را بیش از ۵.۷ میلیارد دلار اعلام کرده‌اند.<br><br>وال‌استریت ژورنال نیز به نقل از کارشناسان امنیت سایبری گزارش داد ارزش دارایی‌های سرقت‌شده ممکن است از ۵.۵ میلیارد دلار فراتر رفته باشد. هنوز هویت عاملان حمله مشخص نشده است.<br><a href=\"https://iranintl.com/202610303480\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202610303480</a>",
       "plain_text": "بایننس، بزرگ‌ترین صرافی رمزارز جهان، اعلام کرد در حال بررسی یک رخداد امنیتی است که ممکن است به خروج چند میلیارد دلار از کیف پول‌های این صرافی منجر شده باشد. بایننس تاکید کرد دارایی کاربران امن است و برداشت‌ها در چند شبکه را موقتا متوقف کرد. چانگ‌پنگ ژائو، بنیان‌گذار بایننس، گفت به نظر می‌رسد این صرافی هک شده و انتظار دارد دارایی کاربران به‌طور کامل جبران شود. سیرکل حدود ۸۰۰ میلیون دلار تتر و شرکت تتر نیز حدود ۱.۵۶ میلیارد دلار دارایی مرتبط با این حمله را مسدود کردند. برآوردها درباره میزان دارایی خارج‌شده متفاوت است. ناظران حوزه رمزارز از خروج دست‌کم دو میلیارد دلار خبر داده‌اند و برخی برآوردها رقم احتمالی را بیش از ۵.۷ میلیارد دلار اعلام کرده‌اند. وال‌استریت ژورنال نیز به نقل از کارشناسان امنیت سایبری گزارش داد ارزش دارایی‌های سرقت‌شده ممکن است از ۵.۵ میلیارد دلار فراتر رفته باشد. هنوز هویت عاملان حمله مشخص نشده است. https://iranintl.com/202610303480",
       "media": [
@@ -101,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20.1K",
+      "views_label": "52.4K",
       "posted_at": "2026-10-30T00:20:00+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/364531"
@@ -109,8 +469,8 @@
     {
       "id": "IranintlTV/364530",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eLpvuHvjr813TXJMMVRCFkJMo7DQwoYg2gELzjEzsp39xr6kVTFsd_wDLsHOgBlUOH7dStOOGm39tLJY9Ib2VM66SwTB-9pcdDreBBeAGrTs2HhajvaA8ksYPobkA2lmMB-SlOMMeD11yGB278Y0GDgl-h134phiZKlmnhcRYjjErVbXx0jAPE7MT9anmGLUxD0ehdvaPjNZK4CUwvUdyIhRu63zKM0rfTl3isL_vxq6e0Kcld8uiEi3oyJANnExe_-HXeNLU7zwxI7tbjBWimusdA-8JK4r3PsMtuhOXfVY0liMR8mqNCBBue1xpKKtkEvWnveuCtqKdmhqIYdsYw.jpg",
-      "author_photo_path": "channels/iranintltv/media/40548474474f976db3899d84.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/G3WlZ60H5jwg4BaYFeKlXsvNDLao5Nac8T47jEafFag-a-xupXWRwzIf1w17fD_oVKH9j7o_sRKsgcUryaD-_L1Q5u537QfXVhifn1pWo3f1anv0oKsHWRlVLLPI8_0mWg6ldkSW9Xxjit4tHkI30pTt0ayW5kfBZw1IW1d21dmpIGbsTFpVUFjBkxDc-KTh2LJlBH1UcmQqLOv8GxNc9NENm1NJRSuH81K2i70vaZY4TlUuaYgCG12r5a8gtqH3rro7UJ8IzGwrhV7c_Yy_wOIRS87LLehNsvkJekwE5lFQ97JJG6oLrM4-7NlIHYd7ypaLX5646ubDK-1lJUg4rQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/b7acfa575a75573741f4dd49.jpg",
       "body_html": "دونالد ترامپ، رییس‌جمهوری آمریکا، گفت حمله به ایران برای جلوگیری از دستیابی جمهوری اسلامی به سلاح هسته‌ای ضروری بوده است. او تاکید کرد که جنگ به‌زودی پایان خواهد یافت.<br><br>ترامپ همچنین با تمجید از عملکرد اسکات بسنت، وزیر خزانه‌داری آمریکا، گفت واشینگتن فشار اقتصادی و نظامی علیه جمهوری اسلامی را هم‌زمان دنبال می‌کند. او افزود بسنت مسئول پیشبرد فشار اقتصادی است و آمریکا نیز عملیات نظامی خود را به شکلی انجام می‌دهد که به گفته او، تاکنون نظیر آن دیده نشده است.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
       "plain_text": "دونالد ترامپ، رییس‌جمهوری آمریکا، گفت حمله به ایران برای جلوگیری از دستیابی جمهوری اسلامی به سلاح هسته‌ای ضروری بوده است. او تاکید کرد که جنگ به‌زودی پایان خواهد یافت. ترامپ همچنین با تمجید از عملکرد اسکات بسنت، وزیر خزانه‌داری آمریکا، گفت واشینگتن فشار اقتصادی و نظامی علیه جمهوری اسلامی را هم‌زمان دنبال می‌کند. او افزود بسنت مسئول پیشبرد فشار اقتصادی است و آمریکا نیز عملیات نظامی خود را به شکلی انجام می‌دهد که به گفته او، تاکنون نظیر آن دیده نشده است. @iranintltv",
       "media": [
@@ -125,7 +485,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.7K",
+      "views_label": "52.9K",
       "posted_at": "2026-10-29T23:49:29+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/364530"
@@ -1949,356 +2309,6 @@
       "posted_at": "2026-10-29T13:15:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/364428"
-    },
-    {
-      "id": "IranintlTV/364427",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eLpvuHvjr813TXJMMVRCFkJMo7DQwoYg2gELzjEzsp39xr6kVTFsd_wDLsHOgBlUOH7dStOOGm39tLJY9Ib2VM66SwTB-9pcdDreBBeAGrTs2HhajvaA8ksYPobkA2lmMB-SlOMMeD11yGB278Y0GDgl-h134phiZKlmnhcRYjjErVbXx0jAPE7MT9anmGLUxD0ehdvaPjNZK4CUwvUdyIhRu63zKM0rfTl3isL_vxq6e0Kcld8uiEi3oyJANnExe_-HXeNLU7zwxI7tbjBWimusdA-8JK4r3PsMtuhOXfVY0liMR8mqNCBBue1xpKKtkEvWnveuCtqKdmhqIYdsYw.jpg",
-      "author_photo_path": "channels/iranintltv/media/40548474474f976db3899d84.jpg",
-      "body_html": "مولود حاجی‌زاده، روزنامه‌نگار اقتصادی، با اشاره به گرانی نان گفت بخشی از خانوارها پیش‌تر نان را جایگزین برنج کرده‌اند، اما اکنون برای نان هم جایگزینی ندارند.<br><br>او گفت ادامه این روند می‌تواند تامین نان برای دهک‌های پایین را به بحران تبدیل کند و اعتراضات معیشتی را گسترش دهد.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "مولود حاجی‌زاده، روزنامه‌نگار اقتصادی، با اشاره به گرانی نان گفت بخشی از خانوارها پیش‌تر نان را جایگزین برنج کرده‌اند، اما اکنون برای نان هم جایگزینی ندارند. او گفت ادامه این روند می‌تواند تامین نان برای دهک‌های پایین را به بحران تبدیل کند و اعتراضات معیشتی را گسترش دهد. @iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/364427",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/kvLCo2HrkYzO23kWcIXDQp9jT4nj4564V0dvbsTCsSdS6Q374l6AztHhWc0lTxnjtXPShlqccJvon8z74f8OGD1eYjvZegPyXm-J09uLU7_xY4bgwvtOmNmb_DEcIJpzNoPVht6SGSOlXz-LkCTLyAA0E-kGHH4oYBjN24FgrmGrgRs8VORfOiZxZsIZQW-5ZJzjT213U1fj5Vqxnf3LoNN7fWvHtJsqNwM5Licl5yldUsEEeCZ8eV70CTjUoYSpB5aRfA3pZNwcgkBsrHUJLRe-lNgOomPag-zxgPNTeMxkh2-2K7p3ntKRBUkHhXTk3lWDsswGbtIInQAoEZWJeg",
-          "thumbnail_path": "channels/iranintltv/media/9690a60b6c00f644684d9334.jpg",
-          "duration_label": "4:21",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "13.7K",
-      "posted_at": "2026-10-29T13:12:16+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/364427"
-    },
-    {
-      "id": "IranintlTV/364426",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eLpvuHvjr813TXJMMVRCFkJMo7DQwoYg2gELzjEzsp39xr6kVTFsd_wDLsHOgBlUOH7dStOOGm39tLJY9Ib2VM66SwTB-9pcdDreBBeAGrTs2HhajvaA8ksYPobkA2lmMB-SlOMMeD11yGB278Y0GDgl-h134phiZKlmnhcRYjjErVbXx0jAPE7MT9anmGLUxD0ehdvaPjNZK4CUwvUdyIhRu63zKM0rfTl3isL_vxq6e0Kcld8uiEi3oyJANnExe_-HXeNLU7zwxI7tbjBWimusdA-8JK4r3PsMtuhOXfVY0liMR8mqNCBBue1xpKKtkEvWnveuCtqKdmhqIYdsYw.jpg",
-      "author_photo_path": "channels/iranintltv/media/40548474474f976db3899d84.jpg",
-      "body_html": "به مناسبت هفتم آبان‌ماه، روز گرامیداشت کوروش، از شهروندان پرسیدیم این روز برای آنها چه معنایی دارد. یکی از شهروندان با ارسال پیامی به ایران‌اینترنشنال می‌گوید: «هفت آبان برای من فقط یک روز نیست، یادآور شکوه تمدنی است که ریشه‌هایش در اعماق تاریخ این سرزمین تنیده شده. روز مردی است که نامش با عظمت ایران گره خورده است.»",
-      "plain_text": "به مناسبت هفتم آبان‌ماه، روز گرامیداشت کوروش، از شهروندان پرسیدیم این روز برای آنها چه معنایی دارد. یکی از شهروندان با ارسال پیامی به ایران‌اینترنشنال می‌گوید: «هفت آبان برای من فقط یک روز نیست، یادآور شکوه تمدنی است که ریشه‌هایش در اعماق تاریخ این سرزمین تنیده شده. روز مردی است که نامش با عظمت ایران گره خورده است.»",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/364426",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/GV-xA02DFvu9RisYME2LrASxIjpXkaUsuyk41gn35QY4X9HzzDSeoK4obXPkXIuQ8SxiEH9KBMmUzCfDNw4GTdiXmull778vtADlHQwZmXY9ZkGqg51CRsiAK6QtRhmriPhRWUUNYGVgZCIG8-NqvSDub9ZGfsid2gfwipQrKJuPupZK4dMdiXQpbJHaTwEM7z4PW5s1IzPZXwAG-aU-gJT319E6vARVsi7v99HqSO7iQ0Tk_3ySyKrkwvWNeeBytpJaCYkipHwASC1iexL19bEQnfjOG0m90eSPQOghSGdt2hpId8f3MHu1eY98iuBn930S919F1OP5Y9j5CJuVtQ",
-          "thumbnail_path": "channels/iranintltv/media/45c8c8b0d6ff56cd14a0f099.jpg",
-          "duration_label": "0:22",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "17.9K",
-      "posted_at": "2026-10-29T13:01:56+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/364426"
-    },
-    {
-      "id": "IranintlTV/364425",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eLpvuHvjr813TXJMMVRCFkJMo7DQwoYg2gELzjEzsp39xr6kVTFsd_wDLsHOgBlUOH7dStOOGm39tLJY9Ib2VM66SwTB-9pcdDreBBeAGrTs2HhajvaA8ksYPobkA2lmMB-SlOMMeD11yGB278Y0GDgl-h134phiZKlmnhcRYjjErVbXx0jAPE7MT9anmGLUxD0ehdvaPjNZK4CUwvUdyIhRu63zKM0rfTl3isL_vxq6e0Kcld8uiEi3oyJANnExe_-HXeNLU7zwxI7tbjBWimusdA-8JK4r3PsMtuhOXfVY0liMR8mqNCBBue1xpKKtkEvWnveuCtqKdmhqIYdsYw.jpg",
-      "author_photo_path": "channels/iranintltv/media/40548474474f976db3899d84.jpg",
-      "body_html": "توقف یا تاخیر در عبور بیش از چهار هزار کامیون از مرزهای ایران و ترکیه و افزایش هزینه حمل‌ونقل دریایی، نگرانی‌ها درباره انتقال کالا و تامین نیازهای اساسی مردم را افزایش داده است.<br><br>به گفته رییس کمیسیون حمل‌ونقل اتاق بازرگانی تهران، هزینه حمل یک کانتینر ۴۰ فوتی از چین از حدود ۲۷۰۰ تا ۲۸۰۰ دلار به ۱۳ هزار و ۶۰۰ دلار رسیده است. گزارش‌هایی از مشکلات مشابه در مسیرهای عراق و پاکستان نیز مطرح شده که فشار بر بازرگانان و شرکت‌های حمل‌ونقل را بیشتر کرده است.<br><br>گفت‌وگو با نرگس هورخش، خبرنگار ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "توقف یا تاخیر در عبور بیش از چهار هزار کامیون از مرزهای ایران و ترکیه و افزایش هزینه حمل‌ونقل دریایی، نگرانی‌ها درباره انتقال کالا و تامین نیازهای اساسی مردم را افزایش داده است. به گفته رییس کمیسیون حمل‌ونقل اتاق بازرگانی تهران، هزینه حمل یک کانتینر ۴۰ فوتی از چین از حدود ۲۷۰۰ تا ۲۸۰۰ دلار به ۱۳ هزار و ۶۰۰ دلار رسیده است. گزارش‌هایی از مشکلات مشابه در مسیرهای عراق و پاکستان نیز مطرح شده که فشار بر بازرگانان و شرکت‌های حمل‌ونقل را بیشتر کرده است. گفت‌وگو با نرگس هورخش، خبرنگار ایران‌اینترنشنال @iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/364425",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/qbwl2HVGzExPeWeYadmArCu5U5vB07Wczn-gbGQEqOiRt2IFUIiHlwRIKnC9TV27AiMJ180exzYBY-_FO7RvVlIBUjhpzHCcewo8a__s3wxqb0xIumkcEazE0vT_DRs1NIyeIc6Y6qgR-4xWhcycGsagvJOKS6V6ZsI-ilNf7tGjb2nXtrIj77igzfIjvSAS7bOXroQnH-r5M2srQfjFej87HBsjP8V9s2sWtwZbfu-45mPBVjgLTI2WNd4x8TQw6pEejt322OBx8LrKNoeg-1uj5mEQAp1SVJIrjTifL2m_MY8i9HWYePl0M7bBP2xWKZtCWVx9XmSvownJzoIHKQ",
-          "thumbnail_path": "channels/iranintltv/media/e4d015e7f8f4be754ce6cad3.jpg",
-          "duration_label": "3:19",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "28.4K",
-      "posted_at": "2026-10-29T12:39:14+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/364425"
-    },
-    {
-      "id": "IranintlTV/364424",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eLpvuHvjr813TXJMMVRCFkJMo7DQwoYg2gELzjEzsp39xr6kVTFsd_wDLsHOgBlUOH7dStOOGm39tLJY9Ib2VM66SwTB-9pcdDreBBeAGrTs2HhajvaA8ksYPobkA2lmMB-SlOMMeD11yGB278Y0GDgl-h134phiZKlmnhcRYjjErVbXx0jAPE7MT9anmGLUxD0ehdvaPjNZK4CUwvUdyIhRu63zKM0rfTl3isL_vxq6e0Kcld8uiEi3oyJANnExe_-HXeNLU7zwxI7tbjBWimusdA-8JK4r3PsMtuhOXfVY0liMR8mqNCBBue1xpKKtkEvWnveuCtqKdmhqIYdsYw.jpg",
-      "author_photo_path": "channels/iranintltv/media/40548474474f976db3899d84.jpg",
-      "body_html": "جمعی از شهروندان اسپانیا چهارشنبه ششم آبان در مادرید، در اعتراض به دولت پس از سانحه مرگبار برخورد دو قطار، با پلیس درگیر شدند.<br><br>به گزارش رویترز، حدود ۵۰۰ نفر مقابل وزارت حمل‌ونقل تجمع کردند و شماری بطری و مواد آتش‌زا به سوی پلیس پرتاب کردند. ماموران نیز برای متفرق کردن معترضان از گاز اشک‌آور استفاده کردند.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "جمعی از شهروندان اسپانیا چهارشنبه ششم آبان در مادرید، در اعتراض به دولت پس از سانحه مرگبار برخورد دو قطار، با پلیس درگیر شدند. به گزارش رویترز، حدود ۵۰۰ نفر مقابل وزارت حمل‌ونقل تجمع کردند و شماری بطری و مواد آتش‌زا به سوی پلیس پرتاب کردند. ماموران نیز برای متفرق کردن معترضان از گاز اشک‌آور استفاده کردند. @iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/364424",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/qGa2DudSc4mROForvCqPjCQvhB2LOZncZy2MjSW89f9gSRUmAC0QpXLu_SQ9adz998HjLoTlL9oDQcBqaBbts9adrJOW_5QKu03Q4y80L7SNNJBVewuez23Ajj7Ch5pyBEioKcvWuTWshv0dnvppylb_bz6n5xpDmA1qlQsYf8xrKKvU2incxkUjXWWp0EjvSJtEJmgJOSZ8n9iDLX2LyKcgU70J1_LDA4Bbc_JWnw5nt2IoyFNu56rvkVyhcC6LJz4ysZALN5SrAwjAR1y5xCyaS_N9r_w7IdwPCWpPZLsF4hnGlj4kYJtespIxo8Fyr5AANpbyyXfmpMewR6hIRA",
-          "thumbnail_path": "channels/iranintltv/media/41b64656ed3c36cf57fa4ad3.jpg",
-          "duration_label": "0:55",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "30.6K",
-      "posted_at": "2026-10-29T12:29:10+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/364424"
-    },
-    {
-      "id": "IranintlTV/364423",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eLpvuHvjr813TXJMMVRCFkJMo7DQwoYg2gELzjEzsp39xr6kVTFsd_wDLsHOgBlUOH7dStOOGm39tLJY9Ib2VM66SwTB-9pcdDreBBeAGrTs2HhajvaA8ksYPobkA2lmMB-SlOMMeD11yGB278Y0GDgl-h134phiZKlmnhcRYjjErVbXx0jAPE7MT9anmGLUxD0ehdvaPjNZK4CUwvUdyIhRu63zKM0rfTl3isL_vxq6e0Kcld8uiEi3oyJANnExe_-HXeNLU7zwxI7tbjBWimusdA-8JK4r3PsMtuhOXfVY0liMR8mqNCBBue1xpKKtkEvWnveuCtqKdmhqIYdsYw.jpg",
-      "author_photo_path": "channels/iranintltv/media/40548474474f976db3899d84.jpg",
-      "body_html": "خبرگزاری رویترز در گزارشی تحقیقی گزارش داد جمهوری اسلامی با شبکه‌ای مخفی متشکل از بیش از پنج هزار نهاد مرتبط با ساختار نظامی خود، میلیاردها دلار تجهیزات مورد نیاز برنامه‌های موشکی و پهپادی را با دور زدن تحریم‌های غرب و محاصره دریایی آمریکا وارد کرده است.<br><br>بر اساس این گزارش، تنها یکی از این نهادها از دی ۱۴۰۳ تا تیر ۱۴۰۵ تجهیزات نظامی به ارزش ۲.۳ میلیارد دلار وارد کرده است. این محموله‌ها شامل مواد منفجره، ترکیبات سوخت موشک، قطعات تسلیحاتی و کامیون‌های سنگین بوده‌اند.<br><br>رویترز گزارش داد این شبکه با سپاه پاسداران ارتباط دارد و بخش بزرگی از تجهیزات آن با مبدا ثبت‌شده چین، روسیه و کشورهای اروپایی وارد ایران شده‌اند.<br><br>بر اساس داده‌های بررسی‌شده، ۹۷ درصد محموله‌ها بدون انتقال مستقیم ارز تسویه شده‌اند و واسطه‌های خارجی با استفاده از درآمد فروش غیرقانونی نفت، تجهیزات را خریداری کرده‌اند.<br><br>به نوشته رویترز، واردات تجهیزات نظامی جمهوری اسلامی حتی در جریان جنگ و محاصره دریایی آمریکا ادامه داشته است.<br><a href=\"https://iranintl.com/202610297889\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202610297889</a>",
-      "plain_text": "خبرگزاری رویترز در گزارشی تحقیقی گزارش داد جمهوری اسلامی با شبکه‌ای مخفی متشکل از بیش از پنج هزار نهاد مرتبط با ساختار نظامی خود، میلیاردها دلار تجهیزات مورد نیاز برنامه‌های موشکی و پهپادی را با دور زدن تحریم‌های غرب و محاصره دریایی آمریکا وارد کرده است. بر اساس این گزارش، تنها یکی از این نهادها از دی ۱۴۰۳ تا تیر ۱۴۰۵ تجهیزات نظامی به ارزش ۲.۳ میلیارد دلار وارد کرده است. این محموله‌ها شامل مواد منفجره، ترکیبات سوخت موشک، قطعات تسلیحاتی و کامیون‌های سنگین بوده‌اند. رویترز گزارش داد این شبکه با سپاه پاسداران ارتباط دارد و بخش بزرگی از تجهیزات آن با مبدا ثبت‌شده چین، روسیه و کشورهای اروپایی وارد ایران شده‌اند. بر اساس داده‌های بررسی‌شده، ۹۷ درصد محموله‌ها بدون انتقال مستقیم ارز تسویه شده‌اند و واسطه‌های خارجی با استفاده از درآمد فروش غیرقانونی نفت، تجهیزات را خریداری کرده‌اند. به نوشته رویترز، واردات تجهیزات نظامی جمهوری اسلامی حتی در جریان جنگ و محاصره دریایی آمریکا ادامه داشته است. https://iranintl.com/202610297889",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/364423",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/dWvNYWXT1YiV2LxT5iclcJI58rZvdJiYEpRSUF1_NN98YG2fK2PDZG7HZXos8m1SyxoaAOrIWxnX9U2b7nFMwP2W6WGju7NLqoD7DPVqprsoZdtSLKjRWZMeXjfMIXci6uP1ZVrJptPHcUotaa76_WYgATvIa285_DJsNFuxCprpVNdg8pxP7DeNv1rNapsCiS1hDIM37ojTS0JhPbDZcZUd1YVRJR-FGHRjEkmTwpJ6BZcgzPqRe3Gvm8NhMA3LmD_QJLEqEseRdd-iHhT6iPoVIbfOL5OUXYYRW83mfPcHqKh6QJUCdUjULF8yLNLeUaA5akZMdZs-Ymz9qdYyFA.jpg",
-          "thumbnail_path": "channels/iranintltv/media/bd82808fb2b0c0b2adeb1d2c.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "30.6K",
-      "posted_at": "2026-10-29T12:24:25+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/364423"
-    },
-    {
-      "id": "IranintlTV/364422",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eLpvuHvjr813TXJMMVRCFkJMo7DQwoYg2gELzjEzsp39xr6kVTFsd_wDLsHOgBlUOH7dStOOGm39tLJY9Ib2VM66SwTB-9pcdDreBBeAGrTs2HhajvaA8ksYPobkA2lmMB-SlOMMeD11yGB278Y0GDgl-h134phiZKlmnhcRYjjErVbXx0jAPE7MT9anmGLUxD0ehdvaPjNZK4CUwvUdyIhRu63zKM0rfTl3isL_vxq6e0Kcld8uiEi3oyJANnExe_-HXeNLU7zwxI7tbjBWimusdA-8JK4r3PsMtuhOXfVY0liMR8mqNCBBue1xpKKtkEvWnveuCtqKdmhqIYdsYw.jpg",
-      "author_photo_path": "channels/iranintltv/media/40548474474f976db3899d84.jpg",
-      "body_html": "هوشنگ صیدالی، مدیر هماهنگی «شرکت گاز ایران»، در گفت‌وگو با ایسنا اعلام کرد که شرایط تامین گاز در زمستان پیش‌رو «دشوارتر» شده و برای تامین سوخت جایگزین، از جمله کپسول گاز و نفت سفید، «برنامه‌ریزی» شده است.<br><br>مدیر هماهنگی «شرکت گاز ایران» با اشاره به محدودیت منابع افزود: «ممکن است این امکانات به اندازه تمام نیاز موجود نباشد.»<br><br>صیدالی درباره استان‌هایی که ممکن است با کمبود گاز مواجه شوند، گفت: «پیش‌بینی اولیه ما این است که حدود ۱۱ استان کشور با مشکل مواجه شوند. سه استان شمالی یعنی خراسان شمالی، مازندران و گلستان شرایط دشوارتری دارند.»<br><br>او همچنین برق را بهترین گزینه برای تامین انرژی منازل دانست و افزود: «البته به شرط آنکه بتوانیم برق موردنیاز را به میزان کافی تولید کنیم.»<br><br>صیدالی در ادامه گفت: «در گذشته مردم در زمستان از جوراب پشمی و لباس گرم استفاده می‌کردند، اما طی حدود ۲۰ سال اخیر این فرهنگ تا حدی تغییر کرده است.»<br><a href=\"https://iranintl.com/202610294272\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202610294272</a>",
-      "plain_text": "هوشنگ صیدالی، مدیر هماهنگی «شرکت گاز ایران»، در گفت‌وگو با ایسنا اعلام کرد که شرایط تامین گاز در زمستان پیش‌رو «دشوارتر» شده و برای تامین سوخت جایگزین، از جمله کپسول گاز و نفت سفید، «برنامه‌ریزی» شده است. مدیر هماهنگی «شرکت گاز ایران» با اشاره به محدودیت منابع افزود: «ممکن است این امکانات به اندازه تمام نیاز موجود نباشد.» صیدالی درباره استان‌هایی که ممکن است با کمبود گاز مواجه شوند، گفت: «پیش‌بینی اولیه ما این است که حدود ۱۱ استان کشور با مشکل مواجه شوند. سه استان شمالی یعنی خراسان شمالی، مازندران و گلستان شرایط دشوارتری دارند.» او همچنین برق را بهترین گزینه برای تامین انرژی منازل دانست و افزود: «البته به شرط آنکه بتوانیم برق موردنیاز را به میزان کافی تولید کنیم.» صیدالی در ادامه گفت: «در گذشته مردم در زمستان از جوراب پشمی و لباس گرم استفاده می‌کردند، اما طی حدود ۲۰ سال اخیر این فرهنگ تا حدی تغییر کرده است.» https://iranintl.com/202610294272",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/364422",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/rn05kZZ-kT1OuE4bQo0M2NRr1m3Ukjngv7yqK2g8Z7cYOy4tjT2NimrcVvv3wdNOpBuOSNbZQwxJKwgJRBjhz6KJyl0fl6xaQaRC5f4OrmMSEb5QtxOloDqcAz3-KOHQQXuH1YKmnXO-OR5ppuJLR8mv0CRhMVpuESHYGdEXaAEBdIIRv_SV0cKpSOqMVw3bcPqVv6Rxs3fuEd3qvbcb6y4J_TXHUz-u74d2eYc0jl8MQxItyBEaFEp1TFSaCB5fQtm_tj8QXXD_IHu78nFHYGMHuFddDpAopA3Xvj63uvsIbx_Hha9NP_xzslSCrQl7APJoynAlChlKD8HJvKCEAw.jpg",
-          "thumbnail_path": "channels/iranintltv/media/24ceca70ad37c4b0a0b697c6.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "34.8K",
-      "posted_at": "2026-10-29T12:07:11+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/364422"
-    },
-    {
-      "id": "IranintlTV/364421",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eLpvuHvjr813TXJMMVRCFkJMo7DQwoYg2gELzjEzsp39xr6kVTFsd_wDLsHOgBlUOH7dStOOGm39tLJY9Ib2VM66SwTB-9pcdDreBBeAGrTs2HhajvaA8ksYPobkA2lmMB-SlOMMeD11yGB278Y0GDgl-h134phiZKlmnhcRYjjErVbXx0jAPE7MT9anmGLUxD0ehdvaPjNZK4CUwvUdyIhRu63zKM0rfTl3isL_vxq6e0Kcld8uiEi3oyJANnExe_-HXeNLU7zwxI7tbjBWimusdA-8JK4r3PsMtuhOXfVY0liMR8mqNCBBue1xpKKtkEvWnveuCtqKdmhqIYdsYw.jpg",
-      "author_photo_path": "channels/iranintltv/media/40548474474f976db3899d84.jpg",
-      "body_html": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد گروهی از مشتریان شرکت خودروسازی سایپا به دلیل تاخیر در تحویل خودروهای شاهین پلاس و شاهین معمولی تجمع کردند.",
-      "plain_text": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد گروهی از مشتریان شرکت خودروسازی سایپا به دلیل تاخیر در تحویل خودروهای شاهین پلاس و شاهین معمولی تجمع کردند.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/364421",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/e1LngWh1tDtA4rpJt9ikB4D2QK8iUf5gNUzGSUvQhqNQJqbGx0Cq8xWtcE58825IG1M8l6KHldsvpHi_eO0IN2ggQJNnPeStQ69cMN3YfQofoKJ65Wxrw8jM_bHiCJFonP_qFsgxqsa404z7PRXZm1yGmjIElGu14cRiO5YjV5d52GNbL3onixVLsluSOpWlL4CtqP5Vnph4rWmzaPsVMikk6Z_rallPHZV0kU7-wtSPO7aMGVIA_s6vsSANcMkj8GrP_Wi6Mm4yGtY3BP-mif8FXmE6RjddxluOLxo5QmoUaSbiT4BRW7wqc8Ky2UcCXhsMqROueJckPQI91Ng0rg",
-          "thumbnail_path": "channels/iranintltv/media/c1fce1b084f646b245d8963e.jpg",
-          "duration_label": "0:25",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "34.8K",
-      "posted_at": "2026-10-29T12:00:13+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/364421"
-    },
-    {
-      "id": "IranintlTV/364420",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eLpvuHvjr813TXJMMVRCFkJMo7DQwoYg2gELzjEzsp39xr6kVTFsd_wDLsHOgBlUOH7dStOOGm39tLJY9Ib2VM66SwTB-9pcdDreBBeAGrTs2HhajvaA8ksYPobkA2lmMB-SlOMMeD11yGB278Y0GDgl-h134phiZKlmnhcRYjjErVbXx0jAPE7MT9anmGLUxD0ehdvaPjNZK4CUwvUdyIhRu63zKM0rfTl3isL_vxq6e0Kcld8uiEi3oyJANnExe_-HXeNLU7zwxI7tbjBWimusdA-8JK4r3PsMtuhOXfVY0liMR8mqNCBBue1xpKKtkEvWnveuCtqKdmhqIYdsYw.jpg",
-      "author_photo_path": "channels/iranintltv/media/40548474474f976db3899d84.jpg",
-      "body_html": "اسرائیل از سال ۲۰۱۹ تا ۲۰۲۲، در کمتر از چهار سال، پنج انتخابات پارلمانی برگزار کرد؛ دوره‌ای که با بن‌بست در تشکیل دولت، شکل‌گیری و فروپاشی ائتلاف‌ها و بازگشت بنیامین نتانیاهو به قدرت همراه بود. اکنون نیز اگر احزاب برای تشکیل دولت به توافق نرسند، احتمال برگزاری دوباره انتخابات وجود دارد. گزارش رضا محدث، خبرنگار ایران‌اینترنشنال",
-      "plain_text": "اسرائیل از سال ۲۰۱۹ تا ۲۰۲۲، در کمتر از چهار سال، پنج انتخابات پارلمانی برگزار کرد؛ دوره‌ای که با بن‌بست در تشکیل دولت، شکل‌گیری و فروپاشی ائتلاف‌ها و بازگشت بنیامین نتانیاهو به قدرت همراه بود. اکنون نیز اگر احزاب برای تشکیل دولت به توافق نرسند، احتمال برگزاری دوباره انتخابات وجود دارد. گزارش رضا محدث، خبرنگار ایران‌اینترنشنال",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/364420",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/K1lOYbRV8eD34c_heswH2ZS3a7SACZ80nL-TXn9Rayv0uPJeiOmEnguM6hxJ31Eqrdp58qkBMILveLByWrpr9a2b5n-OJwI3JvBMFtgaTKgUsjvDX-gNyNyuFmgK9CUpelOLi4sZOZUF31fEXhz-_-SWXZFLCe25d0LVty-HYw41H3AHZzsA_kA6aQvmOdCLzLLyNOpEUaeHC5d97QUiV6SRhS39rYazfPLBrPayF3nkdisxKqZtB-O6QWlkh7v0UDSJYZIOAl9G4Lmlkdn86m1pbUz5V2VwfHjRiloTVtOS-OJ4Lr8TWmKiXj__pbZxEJpwLhIma4fMDYJBno09nQ",
-          "thumbnail_path": "channels/iranintltv/media/5520a4d2cca1f474c6a9bb65.jpg",
-          "duration_label": "4:16",
-          "aspect_ratio": 1.733333333333324
-        }
-      ],
-      "reactions": [],
-      "views_label": "36.8K",
-      "posted_at": "2026-10-29T11:54:19+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/364420"
-    },
-    {
-      "id": "IranintlTV/364419",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eLpvuHvjr813TXJMMVRCFkJMo7DQwoYg2gELzjEzsp39xr6kVTFsd_wDLsHOgBlUOH7dStOOGm39tLJY9Ib2VM66SwTB-9pcdDreBBeAGrTs2HhajvaA8ksYPobkA2lmMB-SlOMMeD11yGB278Y0GDgl-h134phiZKlmnhcRYjjErVbXx0jAPE7MT9anmGLUxD0ehdvaPjNZK4CUwvUdyIhRu63zKM0rfTl3isL_vxq6e0Kcld8uiEi3oyJANnExe_-HXeNLU7zwxI7tbjBWimusdA-8JK4r3PsMtuhOXfVY0liMR8mqNCBBue1xpKKtkEvWnveuCtqKdmhqIYdsYw.jpg",
-      "author_photo_path": "channels/iranintltv/media/40548474474f976db3899d84.jpg",
-      "body_html": "یک قاضی در ایتالیا دستور آزادی یوسف سیهر، روزنامه‌نگار و فعال متهم به تحریک خشونت در اعتراضات میلان را صادر کرد. سیهر که پلیس او را مدیر گروه تلگرامی «جنبش ۱۷ اکتبر» معرفی کرده بود، دوم آبان به اتهام تحریک به ارتکاب جرم با اهداف تروریستی بازداشت شد. جورجا ملونی، نخست‌وزیر ایتالیا، آزادی او را «شرم‌آور» و موجب تحقیر پلیس و بازرسان خواند. صدف باغبانی، خبرنگار ایران‌اینترنشنال گزارش می‌دهد",
-      "plain_text": "یک قاضی در ایتالیا دستور آزادی یوسف سیهر، روزنامه‌نگار و فعال متهم به تحریک خشونت در اعتراضات میلان را صادر کرد. سیهر که پلیس او را مدیر گروه تلگرامی «جنبش ۱۷ اکتبر» معرفی کرده بود، دوم آبان به اتهام تحریک به ارتکاب جرم با اهداف تروریستی بازداشت شد. جورجا ملونی، نخست‌وزیر ایتالیا، آزادی او را «شرم‌آور» و موجب تحقیر پلیس و بازرسان خواند. صدف باغبانی، خبرنگار ایران‌اینترنشنال گزارش می‌دهد",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/364419",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/MUJbRPsSJW8eblzWInoocklBm-yWey9LYdPgp9f3mvFiAI0-_xOeFZiDkMUoJulO0KlNuQImIJLjA0v7D0RNwFaoFXcrqwqH8Ps3qjChZcyPKhYbKfYBr7gHoSQpi0wmHDMKc_Ww0sTFZDPA6UDmmgCdeg27MPwqOrjBRq4B-0571YOpatAI7hOyyDBAmvvPDy_MvkpEdjb2S86j_pe0gCtIbEX8pu8DfqR8KZOGsnlcJTv5RFAKFU9gvhqM9QvaIaVTyUqumkeVBIJz-DcOIsnFZdGFeK-GhUz18A9Iu4sjCk44uKIvIVDyKlLGhQ1-B0fPkZfvoi-vFxTS67Kkig",
-          "thumbnail_path": "channels/iranintltv/media/1e0144e884ceef1b09d42bef.jpg",
-          "duration_label": "2:41",
-          "aspect_ratio": 1.733333333333324
-        }
-      ],
-      "reactions": [],
-      "views_label": "35.8K",
-      "posted_at": "2026-10-29T11:53:59+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/364419"
-    },
-    {
-      "id": "IranintlTV/364418",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eLpvuHvjr813TXJMMVRCFkJMo7DQwoYg2gELzjEzsp39xr6kVTFsd_wDLsHOgBlUOH7dStOOGm39tLJY9Ib2VM66SwTB-9pcdDreBBeAGrTs2HhajvaA8ksYPobkA2lmMB-SlOMMeD11yGB278Y0GDgl-h134phiZKlmnhcRYjjErVbXx0jAPE7MT9anmGLUxD0ehdvaPjNZK4CUwvUdyIhRu63zKM0rfTl3isL_vxq6e0Kcld8uiEi3oyJANnExe_-HXeNLU7zwxI7tbjBWimusdA-8JK4r3PsMtuhOXfVY0liMR8mqNCBBue1xpKKtkEvWnveuCtqKdmhqIYdsYw.jpg",
-      "author_photo_path": "channels/iranintltv/media/40548474474f976db3899d84.jpg",
-      "body_html": "تشکل‌های دانش‌آموزی و دانشجویی در فرانسه همچنان برای ادامه اعتراضات برنامه‌ریزی می‌کنند. محدودیت تجمعات و احتمال منع رفت‌وآمد، بحث درباره حق اعتراض در این کشور را تشدید کرده است.<br><br>در آلمان نیز پس از اعلام پیوستن گروه‌های چپ افراطی به این تظاهرات، مقام‌های پلیس این کشور درباره احتمال اقدامات خشونت‌آمیز هشدار داده‌اند.<br><br>گفت‌وگو با ساجده شریفی و احمد صمدی، خبرنگاران ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "تشکل‌های دانش‌آموزی و دانشجویی در فرانسه همچنان برای ادامه اعتراضات برنامه‌ریزی می‌کنند. محدودیت تجمعات و احتمال منع رفت‌وآمد، بحث درباره حق اعتراض در این کشور را تشدید کرده است. در آلمان نیز پس از اعلام پیوستن گروه‌های چپ افراطی به این تظاهرات، مقام‌های پلیس این کشور درباره احتمال اقدامات خشونت‌آمیز هشدار داده‌اند. گفت‌وگو با ساجده شریفی و احمد صمدی، خبرنگاران ایران‌اینترنشنال @iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/364418",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/WosflquWHK9jCFOlBFeukSaOJWv-Dr5Wd19odHZAGBxDlH87eeZvF9gfO--hLaTYzhY1qqwSiUkoHwp0NyYTxmtag03BSLG4EDpODiY1mDgFaQEZxt0ZQzHXFHzsVGpqL5IDapW_waaAhKnMUYSEp9T2raXj0Z_oIR9UkYhRPLKgcgnhQp8OJ0U12bpscRJa9lqkTd3A82d7Hiak_PloIz5T6UZxnXpLZzfpbZyuJoMmIb5FrYqhrXjMjw1zDcCisoLxgN-q_msqYW-fV8BGIFn76NPExnYSjWoszsdoerfMelTe5JXaCkWXRKxdfyFuBgxqcurhTzYSJYvdmx4CvQ",
-          "thumbnail_path": "channels/iranintltv/media/f88be8ef9c1f4c68e14ded0e.jpg",
-          "duration_label": "6:25",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "39K",
-      "posted_at": "2026-10-29T11:43:30+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/364418"
-    },
-    {
-      "id": "IranintlTV/364417",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eLpvuHvjr813TXJMMVRCFkJMo7DQwoYg2gELzjEzsp39xr6kVTFsd_wDLsHOgBlUOH7dStOOGm39tLJY9Ib2VM66SwTB-9pcdDreBBeAGrTs2HhajvaA8ksYPobkA2lmMB-SlOMMeD11yGB278Y0GDgl-h134phiZKlmnhcRYjjErVbXx0jAPE7MT9anmGLUxD0ehdvaPjNZK4CUwvUdyIhRu63zKM0rfTl3isL_vxq6e0Kcld8uiEi3oyJANnExe_-HXeNLU7zwxI7tbjBWimusdA-8JK4r3PsMtuhOXfVY0liMR8mqNCBBue1xpKKtkEvWnveuCtqKdmhqIYdsYw.jpg",
-      "author_photo_path": "channels/iranintltv/media/40548474474f976db3899d84.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA7.png')\"><b>🎧</b></i>نسخه صوتی اخبار نیم‌روزی | پنج‌شنبه ۷ آبان<br><a href=\"https://t.me/iranintlTV\" target=\"_blank\">@iranintlTV</a>",
-      "plain_text": "🎧نسخه صوتی اخبار نیم‌روزی | پنج‌شنبه ۷ آبان @iranintlTV",
-      "media": [],
-      "reactions": [],
-      "views_label": "44.2K",
-      "posted_at": "2026-10-29T11:21:28+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/364417"
-    },
-    {
-      "id": "IranintlTV/364416",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eLpvuHvjr813TXJMMVRCFkJMo7DQwoYg2gELzjEzsp39xr6kVTFsd_wDLsHOgBlUOH7dStOOGm39tLJY9Ib2VM66SwTB-9pcdDreBBeAGrTs2HhajvaA8ksYPobkA2lmMB-SlOMMeD11yGB278Y0GDgl-h134phiZKlmnhcRYjjErVbXx0jAPE7MT9anmGLUxD0ehdvaPjNZK4CUwvUdyIhRu63zKM0rfTl3isL_vxq6e0Kcld8uiEi3oyJANnExe_-HXeNLU7zwxI7tbjBWimusdA-8JK4r3PsMtuhOXfVY0liMR8mqNCBBue1xpKKtkEvWnveuCtqKdmhqIYdsYw.jpg",
-      "author_photo_path": "channels/iranintltv/media/40548474474f976db3899d84.jpg",
-      "body_html": "مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، با اشاره به تاکید دوباره دونالد ترامپ بر «تمام کردن کار جمهوری اسلامی» گفت همزمانی این موضع با انتشار خبر ارسال نامه جی‌دی ونس به محسن رضایی نشان می‌دهد کانال‌های ارتباطی واشینگتن و تهران همچنان برقرار است.<br><br>به گفته کاظمیان، این نامه می‌تواند آخرین تلاش دیپلماتیک آمریکا برای دستیابی به توافق باشد، اما اختلاف بر سر برنامه هسته‌ای جمهوری اسلامی، تنگه هرمز و حمایت از نیروهای نیابتی، چشم‌انداز توافق را مبهم کرده و خطر جنگ را افزایش می‌دهد.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، با اشاره به تاکید دوباره دونالد ترامپ بر «تمام کردن کار جمهوری اسلامی» گفت همزمانی این موضع با انتشار خبر ارسال نامه جی‌دی ونس به محسن رضایی نشان می‌دهد کانال‌های ارتباطی واشینگتن و تهران همچنان برقرار است. به گفته کاظمیان، این نامه می‌تواند آخرین تلاش دیپلماتیک آمریکا برای دستیابی به توافق باشد، اما اختلاف بر سر برنامه هسته‌ای جمهوری اسلامی، تنگه هرمز و حمایت از نیروهای نیابتی، چشم‌انداز توافق را مبهم کرده و خطر جنگ را افزایش می‌دهد. @iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/364416",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/nf5i8a7FAG1Ujvfk7v4vpWjit97d3H06t1Y3AKGP1UBxcMAlXqBKl9jSlAbYolnuXFXJFtjOoJB7g0S1Alr4V2qodAGnugDCT2LMQRAndFq3l1FFHC58TNxCdI7e1sB9y9xTh4ZfTpX5QoMRBbjd5ocGKGt8oYM3ixEH-QB2QZhCvdD-FqGOSgUwNyCOgs5PbM4io-q6vqNtC2qXyFR-hUabexUfO-03ikrzzVxmmBRqOv14J6wkob6VJY8Lh6J9WBp8C8o6O_onnLmZJaHisi3GDcqtd_hVTFDba1D0GC5a8f6Dcihuhyqa8iC622UBTqe50HU72RcZ0787KJwkTA",
-          "thumbnail_path": "channels/iranintltv/media/cb0ab41e575fed30e951e0a9.jpg",
-          "duration_label": "4:57",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "51.5K",
-      "posted_at": "2026-10-29T11:02:28+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/364416"
-    },
-    {
-      "id": "IranintlTV/364415",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eLpvuHvjr813TXJMMVRCFkJMo7DQwoYg2gELzjEzsp39xr6kVTFsd_wDLsHOgBlUOH7dStOOGm39tLJY9Ib2VM66SwTB-9pcdDreBBeAGrTs2HhajvaA8ksYPobkA2lmMB-SlOMMeD11yGB278Y0GDgl-h134phiZKlmnhcRYjjErVbXx0jAPE7MT9anmGLUxD0ehdvaPjNZK4CUwvUdyIhRu63zKM0rfTl3isL_vxq6e0Kcld8uiEi3oyJANnExe_-HXeNLU7zwxI7tbjBWimusdA-8JK4r3PsMtuhOXfVY0liMR8mqNCBBue1xpKKtkEvWnveuCtqKdmhqIYdsYw.jpg",
-      "author_photo_path": "channels/iranintltv/media/40548474474f976db3899d84.jpg",
-      "body_html": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از ایرانیان ساکن کانادا چهارشنبه ششم آبان مقابل دفتر رسانه سی‌بی‌سی در هلیفکس تجمع کردند و خواستار بازتاب رسانه‌ای جنایات جمهوری اسلامی شدند.",
-      "plain_text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از ایرانیان ساکن کانادا چهارشنبه ششم آبان مقابل دفتر رسانه سی‌بی‌سی در هلیفکس تجمع کردند و خواستار بازتاب رسانه‌ای جنایات جمهوری اسلامی شدند.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/364415",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/azENJJhp_m_cZxbT7XPYPQsUD4AxZJ4AShkrCBR4_DEWMJzG_DKI1_5cDNt2MmRaBmsiga2ZEgqSREEveZ6Uw5HFSo-wRffco-Dj_jurxAcMz2J3c40Aa3dePZlpM9bwXsecCsNx1dCk3Aa7Z0Te4CnpxkOSRMmx2nxstGt76NFSo3ECwu1x-zOyKGS2Gwqxa2Udo5EMSuXMODXKzk9OAcQlLK3gTSQuzvX_ewg-gdIFKZe8H5oFz-oHRBWazzChUx3DnmkMQ29G_FhevL8Lyfogv_H1PKN7a4ykM0HNOEHE8Tr5_NHavpy7NJxTEATslg74jSE7faZDmlZHtdY9Rg",
-          "thumbnail_path": "channels/iranintltv/media/abb2e3e5bd7cee77deaead2f.jpg",
-          "duration_label": "0:45",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "48.4K",
-      "posted_at": "2026-10-29T11:01:13+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/364415"
-    },
-    {
-      "id": "IranintlTV/364414",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eLpvuHvjr813TXJMMVRCFkJMo7DQwoYg2gELzjEzsp39xr6kVTFsd_wDLsHOgBlUOH7dStOOGm39tLJY9Ib2VM66SwTB-9pcdDreBBeAGrTs2HhajvaA8ksYPobkA2lmMB-SlOMMeD11yGB278Y0GDgl-h134phiZKlmnhcRYjjErVbXx0jAPE7MT9anmGLUxD0ehdvaPjNZK4CUwvUdyIhRu63zKM0rfTl3isL_vxq6e0Kcld8uiEi3oyJANnExe_-HXeNLU7zwxI7tbjBWimusdA-8JK4r3PsMtuhOXfVY0liMR8mqNCBBue1xpKKtkEvWnveuCtqKdmhqIYdsYw.jpg",
-      "author_photo_path": "channels/iranintltv/media/40548474474f976db3899d84.jpg",
-      "body_html": "جاویدنامان انقلاب ملی ایرانیان<br>«امیرمحمد نجفی» ۱۸ دی‌ماه در فردیس کرج با اصابت گلوله جنگی نیروهای سرکوب جمهوری اسلامی کشته شد. نامش در حافظه‌ی این سرزمین می‌ماند و یادش چراغ راه آزادی‌خواهان است.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "جاویدنامان انقلاب ملی ایرانیان «امیرمحمد نجفی» ۱۸ دی‌ماه در فردیس کرج با اصابت گلوله جنگی نیروهای سرکوب جمهوری اسلامی کشته شد. نامش در حافظه‌ی این سرزمین می‌ماند و یادش چراغ راه آزادی‌خواهان است. @iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/364414",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/uuEb2ZmqK8qa2y60AEvlS6ekoqWH31sUqNCCF4I3piBnaQjN0qxtSmcCYfC_1PRfiRPz0PpuQQVMVJAbbJuUMzINf2untUAL96sYj9ATBiehdCSjPEqtTlVKx34kwb_LqoCda3a3Vk9fROaD-SIpLmitWCrb6XmJOQR53Mu0ZF7iVwkGbmTOwmsijDWNiv98bM0wc_CVdyFdYFVyVeFI_3ZCZSUjpMffvzu05vj92rb7NGqheo6rc7sqqTANx1fyBr_d72ahoXwQqzC-6oSfJw9OaTk8v0nptn10tE5ZNcWOxa7mh3wmBieQ3OfjEbkxJthNBzCfLyAuSxBaUB9Aww",
-          "thumbnail_path": "channels/iranintltv/media/b4c26f48fb5549ca0756db8e.jpg",
-          "duration_label": "1:00",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "46.3K",
-      "posted_at": "2026-10-29T10:54:31+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/364414"
-    },
-    {
-      "id": "IranintlTV/364413",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/eLpvuHvjr813TXJMMVRCFkJMo7DQwoYg2gELzjEzsp39xr6kVTFsd_wDLsHOgBlUOH7dStOOGm39tLJY9Ib2VM66SwTB-9pcdDreBBeAGrTs2HhajvaA8ksYPobkA2lmMB-SlOMMeD11yGB278Y0GDgl-h134phiZKlmnhcRYjjErVbXx0jAPE7MT9anmGLUxD0ehdvaPjNZK4CUwvUdyIhRu63zKM0rfTl3isL_vxq6e0Kcld8uiEi3oyJANnExe_-HXeNLU7zwxI7tbjBWimusdA-8JK4r3PsMtuhOXfVY0liMR8mqNCBBue1xpKKtkEvWnveuCtqKdmhqIYdsYw.jpg",
-      "author_photo_path": "channels/iranintltv/media/40548474474f976db3899d84.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>فدراسیون فوتبال اسپانیا در پی شکایت اتلتیکومادرید از بارسلونا به دلیل مذاکره برای جذب یولیان آلوارز، مهاجم آرژانتینی این تیم، باشگاه کاتالانی را به پرداخت ۶۰۲ یورو جریمه محکوم کرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>به گزارش اتلتیک، اتلتیکومادرید مدعی بود بارسلونا در تابستان بدون رعایت مقررات مربوط به مذاکره با بازیکنان تحت قرارداد، برای جذب آلوارز اقدام کرده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>کمیته انضباطی فدراسیون فوتبال اسپانیا این اقدام را تخلفی جزیی تشخیص داد و بر اساس ماده ۱۳۳ آیین‌نامه انضباطی، حداکثر جریمه نقدی پیش‌بینی‌شده برای این نوع تخلف را علیه بارسلونا اعمال کرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>خبرگزاری افه گزارش داد که بر اساس حکم کمیته انضباطی، تماس فرناندو ایدالگو، مدیر برنامه‌های آلوارز، با دکو، مدیر ورزشی بارسلونا، در ۱۵ مه انجام شده بود؛ در حالی که نخستین اطلاع‌رسانی کتبی به اتلتیکومادرید در ۲۸ مه صورت گرفت. کمیته همچنین اعلام کرد مجوز باشگاه مادریدی برای مذاکره درباره جدایی بازیکن احراز نشده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>با این حال، بارسلونا هرگونه اقدام خلاف مقررات را رد کرده و قصد دارد به حکم فدراسیون اعتراض کند.<br><br><a href=\"https://t.me/iranintltvsport\" target=\"_blank\">@iranintltvsport</a>",
-      "plain_text": "🔻فدراسیون فوتبال اسپانیا در پی شکایت اتلتیکومادرید از بارسلونا به دلیل مذاکره برای جذب یولیان آلوارز، مهاجم آرژانتینی این تیم، باشگاه کاتالانی را به پرداخت ۶۰۲ یورو جریمه محکوم کرد. 🔹به گزارش اتلتیک، اتلتیکومادرید مدعی بود بارسلونا در تابستان بدون رعایت مقررات مربوط به مذاکره با بازیکنان تحت قرارداد، برای جذب آلوارز اقدام کرده است. 🔹کمیته انضباطی فدراسیون فوتبال اسپانیا این اقدام را تخلفی جزیی تشخیص داد و بر اساس ماده ۱۳۳ آیین‌نامه انضباطی، حداکثر جریمه نقدی پیش‌بینی‌شده برای این نوع تخلف را علیه بارسلونا اعمال کرد. 🔹خبرگزاری افه گزارش داد که بر اساس حکم کمیته انضباطی، تماس فرناندو ایدالگو، مدیر برنامه‌های آلوارز، با دکو، مدیر ورزشی بارسلونا، در ۱۵ مه انجام شده بود؛ در حالی که نخستین اطلاع‌رسانی کتبی به اتلتیکومادرید در ۲۸ مه صورت گرفت. کمیته همچنین اعلام کرد مجوز باشگاه مادریدی برای مذاکره درباره جدایی بازیکن احراز نشده است. 🔹با این حال، بارسلونا هرگونه اقدام خلاف مقررات را رد کرده و قصد دارد به حکم فدراسیون اعتراض کند. @iranintltvsport",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/364413",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/KvZ4AGuaHzcjrsITudINK_ikXp19ekHD6Q43EtfB_6nCvS7UT9EZntYTg-VzyvFn1KDAXIUGsDmBUrHQMS2YhO-izDV2Ll-R2ay-IIxwFPN9y6iCOJxQMHQ41SR9C6iNdlfSNgtbiM6OEo1jl-X_I_L7v4cjnZ8XoRWxyHBgmnAwVHb05g0H7s3Btu_L9nfPaMzdYGdPV7pQ5Xnte86a3IRUAs9RLa6VVY-9kHPKx52WnyTaHSkGi63Dzqddd9kxISKsvPE9FsNyLi8H_xkYrUyRccu740KJNmB0wCu1U1CfskEPG_Qk-gsWDe-pO_-KhRDKEoY7n7inW-w5vJPO6A.jpg",
-          "thumbnail_path": "channels/iranintltv/media/e89550b74e84f73b82ba9f15.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "48.4K",
-      "posted_at": "2026-10-29T10:45:30+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/364413"
     }
   ]
 }
