@@ -1,15 +1,70 @@
 {
   "schema": 2,
-  "fetched_at": "2026-11-01T22:21:00.093Z",
+  "fetched_at": "2026-11-01T22:53:56.918Z",
   "channel": {
     "username": "alonews",
     "title": "اخبار جنگ الونیوز AloNews",
     "description_html": "با الونیوز از اخبار جنگ و وقایع در چند ثانیه مطلع باش!<br><br>اخبار جنگ بدون سانسور در الونیوز <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918C.png')\"><b>👌</b></i><br><br>جهت رزرو تبلیغات<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/ads_alonews\" target=\"_blank\" rel=\"noopener\">https://t.me/ads_alonews</a><br><br>پشتیبانی کانال <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F95B5.png')\"><b>🕵️</b></i> <br><a href=\"https://t.me/AloNews?direct\" target=\"_blank\" rel=\"noopener\">https://t.me/AloNews?direct</a><br><br>مالک کانال <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA9.png')\"><b>🎩</b></i> <br><a href=\"https://t.me/AloNewsBot\" target=\"_blank\">@AloNewsBot</a><br><br>X:<br><a href=\"https://x.com/AloNewsBot\" target=\"_blank\" rel=\"noopener\">https://x.com/AloNewsBot</a>",
     "photo_url": "https://cdn4.telesco.pe/file/S0valdETni_h6s95_BtjM6GpnXOnx7uag5u-cnuMsBkSgghyeM75ReUFXEJHqJNkjU_ZgNh_thuaj8f0KMwfmxKvxbbsOZxLWPHbRhjva8JMzbJVFfjPPfXyZL3J9wS4F7RhlDA1E16q6qttwQ9qwUD9o_X1xG_1LUfOfEeMD4rPxaUu6tphL8iRRKGac8MH73AOcNPNQ3ejIB8nqYCgILLyLsbO77d_low7lvP9a-8zNgK5pEUemY14WzAqIZ4GpM-k80cqvgCPfbxgFLpbMEYFZYC6YnxVU2WEiw35kRZG6bsFpvTYFaFHt2x3ahRuU7Lu-JYYS8mOWkRRMm_b_w.jpg",
     "photo_path": "channels/alonews/media/68b552aa1fb8e7cde6171be1.jpg",
-    "subscriber_count": "999K"
+    "subscriber_count": "1000K"
   },
   "posts": [
+    {
+      "id": "alonews/155879",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/S0valdETni_h6s95_BtjM6GpnXOnx7uag5u-cnuMsBkSgghyeM75ReUFXEJHqJNkjU_ZgNh_thuaj8f0KMwfmxKvxbbsOZxLWPHbRhjva8JMzbJVFfjPPfXyZL3J9wS4F7RhlDA1E16q6qttwQ9qwUD9o_X1xG_1LUfOfEeMD4rPxaUu6tphL8iRRKGac8MH73AOcNPNQ3ejIB8nqYCgILLyLsbO77d_low7lvP9a-8zNgK5pEUemY14WzAqIZ4GpM-k80cqvgCPfbxgFLpbMEYFZYC6YnxVU2WEiw35kRZG6bsFpvTYFaFHt2x3ahRuU7Lu-JYYS8mOWkRRMm_b_w.jpg",
+      "author_photo_path": "channels/alonews/media/68b552aa1fb8e7cde6171be1.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>عراقچی: فضای مذاکرات مثبت هست<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈عراقچی: فضای مذاکرات مثبت هست ✅ @AloNews",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "705"
+        },
+        {
+          "emoji": "🖕",
+          "count": "65"
+        },
+        {
+          "emoji": "💩",
+          "count": "34"
+        },
+        {
+          "emoji": "🔥",
+          "count": "20"
+        },
+        {
+          "emoji": "🍌",
+          "count": "6"
+        },
+        {
+          "emoji": "😐",
+          "count": "6"
+        },
+        {
+          "emoji": "👎",
+          "count": "3"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        },
+        {
+          "emoji": "🤬",
+          "count": "2"
+        },
+        {
+          "emoji": "🍾",
+          "count": "1"
+        }
+      ],
+      "views_label": "9.63K",
+      "posted_at": "2026-11-01T22:31:50+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/155879"
+    },
     {
       "id": "alonews/155878",
       "author_name": "اخبار جنگ الونیوز AloNews",
@@ -31,34 +86,50 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "13"
-        },
-        {
-          "emoji": "❤",
-          "count": "12"
-        },
-        {
-          "emoji": "🤬",
-          "count": "2"
-        },
-        {
-          "emoji": "🤣",
-          "count": "2"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        },
-        {
-          "emoji": "🤯",
-          "count": "1"
+          "count": "344"
         },
         {
           "emoji": "🖕",
+          "count": "88"
+        },
+        {
+          "emoji": "❤",
+          "count": "34"
+        },
+        {
+          "emoji": "🤣",
+          "count": "22"
+        },
+        {
+          "emoji": "🤯",
+          "count": "11"
+        },
+        {
+          "emoji": "🤬",
+          "count": "7"
+        },
+        {
+          "emoji": "👍",
+          "count": "5"
+        },
+        {
+          "emoji": "💩",
+          "count": "4"
+        },
+        {
+          "emoji": "🤷‍♂",
+          "count": "1"
+        },
+        {
+          "emoji": "💔",
+          "count": "1"
+        },
+        {
+          "emoji": "🫡",
           "count": "1"
         }
       ],
-      "views_label": "2",
+      "views_label": "15.6K",
       "posted_at": "2026-11-01T22:19:39+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/155878"
@@ -74,22 +145,26 @@
       "reactions": [
         {
           "emoji": "💩",
-          "count": "225"
+          "count": "386"
         },
         {
           "emoji": "👍",
-          "count": "61"
+          "count": "99"
         },
         {
           "emoji": "🖕",
-          "count": "34"
+          "count": "46"
         },
         {
           "emoji": "🤬",
-          "count": "8"
+          "count": "12"
         },
         {
           "emoji": "🍌",
+          "count": "4"
+        },
+        {
+          "emoji": "💔",
           "count": "3"
         },
         {
@@ -97,11 +172,11 @@
           "count": "2"
         },
         {
-          "emoji": "💔",
-          "count": "2"
+          "emoji": "❤",
+          "count": "1"
         }
       ],
-      "views_label": "9.23K",
+      "views_label": "20.9K",
       "posted_at": "2026-11-01T22:03:10+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/155877"
@@ -127,34 +202,38 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "253"
+          "count": "320"
         },
         {
           "emoji": "🔥",
-          "count": "202"
+          "count": "276"
         },
         {
           "emoji": "🤣",
-          "count": "58"
+          "count": "64"
         },
         {
           "emoji": "❤",
-          "count": "44"
+          "count": "50"
         },
         {
           "emoji": "💩",
-          "count": "16"
+          "count": "23"
         },
         {
           "emoji": "👍",
-          "count": "7"
+          "count": "13"
         },
         {
           "emoji": "🗿",
-          "count": "4"
+          "count": "5"
+        },
+        {
+          "emoji": "🍾",
+          "count": "1"
         }
       ],
-      "views_label": "19.4K",
+      "views_label": "28.2K",
       "posted_at": "2026-11-01T21:44:00+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/155876"
@@ -180,15 +259,19 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "766"
+          "count": "954"
         },
         {
           "emoji": "💩",
-          "count": "88"
+          "count": "101"
         },
         {
           "emoji": "❤",
-          "count": "15"
+          "count": "18"
+        },
+        {
+          "emoji": "😐",
+          "count": "10"
         },
         {
           "emoji": "👍",
@@ -199,12 +282,8 @@
           "count": "6"
         },
         {
-          "emoji": "😐",
-          "count": "5"
-        },
-        {
           "emoji": "🍾",
-          "count": "3"
+          "count": "5"
         },
         {
           "emoji": "👎",
@@ -219,7 +298,7 @@
           "count": "1"
         }
       ],
-      "views_label": "24.5K",
+      "views_label": "32.6K",
       "posted_at": "2026-11-01T21:35:14+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/155875"
@@ -235,38 +314,38 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "428"
+          "count": "493"
         },
         {
           "emoji": "👍",
-          "count": "55"
+          "count": "59"
         },
         {
           "emoji": "🍌",
-          "count": "10"
+          "count": "11"
         },
         {
           "emoji": "😐",
-          "count": "9"
+          "count": "10"
         },
         {
           "emoji": "❤",
-          "count": "5"
-        },
-        {
-          "emoji": "🖕",
-          "count": "4"
+          "count": "7"
         },
         {
           "emoji": "💩",
-          "count": "3"
+          "count": "7"
+        },
+        {
+          "emoji": "🖕",
+          "count": "6"
         },
         {
           "emoji": "😎",
           "count": "2"
         }
       ],
-      "views_label": "28.6K",
+      "views_label": "36.2K",
       "posted_at": "2026-11-01T21:24:24+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/155874"
@@ -282,38 +361,38 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "663"
+          "count": "752"
         },
         {
           "emoji": "🖕",
-          "count": "87"
+          "count": "96"
         },
         {
           "emoji": "❤",
-          "count": "51"
+          "count": "55"
         },
         {
           "emoji": "💩",
-          "count": "27"
+          "count": "31"
         },
         {
           "emoji": "😐",
-          "count": "17"
+          "count": "18"
         },
         {
           "emoji": "👎",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "👍",
-          "count": "2"
+          "count": "3"
         },
         {
           "emoji": "🙏",
           "count": "1"
         }
       ],
-      "views_label": "30.6K",
+      "views_label": "37.9K",
       "posted_at": "2026-11-01T21:20:39+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/155873"
@@ -339,31 +418,31 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "895"
+          "count": "1K"
         },
         {
           "emoji": "💩",
-          "count": "188"
+          "count": "204"
         },
         {
           "emoji": "❤",
-          "count": "101"
+          "count": "112"
         },
         {
           "emoji": "🖕",
-          "count": "22"
+          "count": "23"
         },
         {
           "emoji": "👎",
-          "count": "14"
+          "count": "17"
         },
         {
           "emoji": "👍",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "🗿",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "😐",
@@ -382,7 +461,7 @@
           "count": "1"
         }
       ],
-      "views_label": "36.7K",
+      "views_label": "43.2K",
       "posted_at": "2026-11-01T21:09:14+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/155872"
@@ -398,23 +477,23 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "140"
+          "count": "153"
         },
         {
           "emoji": "🖕",
-          "count": "88"
+          "count": "93"
         },
         {
           "emoji": "🔥",
-          "count": "83"
+          "count": "88"
         },
         {
           "emoji": "❤",
-          "count": "32"
+          "count": "34"
         },
         {
           "emoji": "💩",
-          "count": "10"
+          "count": "11"
         },
         {
           "emoji": "👍",
@@ -425,15 +504,15 @@
           "count": "9"
         },
         {
-          "emoji": "💔",
+          "emoji": "🤷‍♂",
           "count": "5"
         },
         {
-          "emoji": "🤷‍♂",
-          "count": "3"
+          "emoji": "💔",
+          "count": "5"
         }
       ],
-      "views_label": "41.8K",
+      "views_label": "47.3K",
       "posted_at": "2026-11-01T20:59:41+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/155871"
@@ -449,19 +528,19 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "518"
+          "count": "543"
         },
         {
           "emoji": "🖕",
-          "count": "140"
+          "count": "147"
         },
         {
           "emoji": "❤",
-          "count": "59"
+          "count": "60"
         },
         {
           "emoji": "💩",
-          "count": "37"
+          "count": "38"
         },
         {
           "emoji": "🤣",
@@ -473,10 +552,10 @@
         },
         {
           "emoji": "🤷‍♂",
-          "count": "3"
+          "count": "4"
         }
       ],
-      "views_label": "46.9K",
+      "views_label": "52K",
       "posted_at": "2026-11-01T20:50:18+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/155870"
@@ -492,11 +571,11 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "669"
+          "count": "695"
         },
         {
           "emoji": "🔥",
-          "count": "97"
+          "count": "104"
         },
         {
           "emoji": "🖕",
@@ -504,11 +583,11 @@
         },
         {
           "emoji": "❤",
-          "count": "39"
+          "count": "40"
         },
         {
           "emoji": "👍",
-          "count": "23"
+          "count": "24"
         },
         {
           "emoji": "💩",
@@ -524,14 +603,18 @@
         },
         {
           "emoji": "🤷‍♂",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "👎",
           "count": "2"
+        },
+        {
+          "emoji": "🤬",
+          "count": "1"
         }
       ],
-      "views_label": "55K",
+      "views_label": "59.1K",
       "posted_at": "2026-11-01T20:37:27+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/155869"
@@ -547,11 +630,11 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "411"
+          "count": "431"
         },
         {
           "emoji": "🔥",
-          "count": "74"
+          "count": "75"
         },
         {
           "emoji": "🖕",
@@ -559,7 +642,7 @@
         },
         {
           "emoji": "❤",
-          "count": "21"
+          "count": "22"
         },
         {
           "emoji": "💩",
@@ -567,7 +650,7 @@
         },
         {
           "emoji": "👍",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "🫡",
@@ -586,7 +669,7 @@
           "count": "1"
         }
       ],
-      "views_label": "55K",
+      "views_label": "58.9K",
       "posted_at": "2026-11-01T20:35:03+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/155868"
@@ -612,15 +695,15 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "153"
+          "count": "159"
         },
         {
           "emoji": "💩",
-          "count": "56"
+          "count": "60"
         },
         {
           "emoji": "❤",
-          "count": "35"
+          "count": "37"
         },
         {
           "emoji": "🤣",
@@ -639,7 +722,7 @@
           "count": "1"
         }
       ],
-      "views_label": "57K",
+      "views_label": "60.5K",
       "posted_at": "2026-11-01T20:28:17+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/155867"
@@ -655,23 +738,23 @@
       "reactions": [
         {
           "emoji": "💩",
-          "count": "363"
+          "count": "376"
         },
         {
           "emoji": "🤣",
-          "count": "89"
+          "count": "93"
         },
         {
           "emoji": "❤",
-          "count": "62"
+          "count": "67"
         },
         {
           "emoji": "🖕",
-          "count": "21"
+          "count": "22"
         },
         {
           "emoji": "👍",
-          "count": "20"
+          "count": "21"
         },
         {
           "emoji": "🤬",
@@ -682,7 +765,7 @@
           "count": "3"
         }
       ],
-      "views_label": "56K",
+      "views_label": "59.6K",
       "posted_at": "2026-11-01T20:23:01+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/155866"
@@ -708,15 +791,15 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "319"
+          "count": "332"
         },
         {
           "emoji": "🖕",
-          "count": "84"
+          "count": "87"
         },
         {
           "emoji": "❤",
-          "count": "22"
+          "count": "24"
         },
         {
           "emoji": "🗿",
@@ -724,11 +807,11 @@
         },
         {
           "emoji": "👍",
-          "count": "13"
+          "count": "15"
         },
         {
           "emoji": "💩",
-          "count": "11"
+          "count": "13"
         },
         {
           "emoji": "💔",
@@ -736,14 +819,14 @@
         },
         {
           "emoji": "🍾",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "👎",
           "count": "2"
         }
       ],
-      "views_label": "58K",
+      "views_label": "61.2K",
       "posted_at": "2026-11-01T20:18:06+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/155865"
@@ -759,19 +842,23 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "220"
+          "count": "229"
         },
         {
           "emoji": "🖕",
-          "count": "71"
+          "count": "74"
         },
         {
           "emoji": "🤣",
-          "count": "36"
+          "count": "38"
         },
         {
           "emoji": "👍",
-          "count": "17"
+          "count": "18"
+        },
+        {
+          "emoji": "🤬",
+          "count": "6"
         },
         {
           "emoji": "💔",
@@ -782,16 +869,12 @@
           "count": "6"
         },
         {
-          "emoji": "🤬",
+          "emoji": "🔥",
           "count": "5"
         },
         {
           "emoji": "🍾",
           "count": "5"
-        },
-        {
-          "emoji": "🔥",
-          "count": "4"
         },
         {
           "emoji": "🤯",
@@ -802,7 +885,7 @@
           "count": "2"
         }
       ],
-      "views_label": "56K",
+      "views_label": "59K",
       "posted_at": "2026-11-01T20:16:05+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/155864"
@@ -828,38 +911,38 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "179"
+          "count": "183"
         },
         {
           "emoji": "🤣",
-          "count": "59"
+          "count": "62"
         },
         {
           "emoji": "🖕",
-          "count": "47"
+          "count": "50"
         },
         {
           "emoji": "🔥",
-          "count": "38"
+          "count": "39"
         },
         {
           "emoji": "🍌",
-          "count": "10"
-        },
-        {
-          "emoji": "💩",
-          "count": "8"
+          "count": "11"
         },
         {
           "emoji": "👍",
-          "count": "7"
+          "count": "9"
+        },
+        {
+          "emoji": "💩",
+          "count": "9"
         },
         {
           "emoji": "🤯",
           "count": "2"
         }
       ],
-      "views_label": "57K",
+      "views_label": "60.2K",
       "posted_at": "2026-11-01T20:10:02+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/155863"
@@ -875,11 +958,11 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "172"
+          "count": "175"
         },
         {
           "emoji": "🤣",
-          "count": "35"
+          "count": "38"
         },
         {
           "emoji": "❤",
@@ -890,12 +973,12 @@
           "count": "9"
         },
         {
-          "emoji": "💩",
+          "emoji": "👍",
           "count": "6"
         },
         {
-          "emoji": "👍",
-          "count": "5"
+          "emoji": "💩",
+          "count": "6"
         },
         {
           "emoji": "🤬",
@@ -914,7 +997,7 @@
           "count": "1"
         }
       ],
-      "views_label": "56K",
+      "views_label": "58.6K",
       "posted_at": "2026-11-01T20:08:28+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/155862"
@@ -940,23 +1023,23 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "198"
+          "count": "203"
         },
         {
           "emoji": "💔",
-          "count": "165"
+          "count": "170"
         },
         {
           "emoji": "🤯",
-          "count": "52"
+          "count": "53"
         },
         {
           "emoji": "❤",
-          "count": "25"
+          "count": "26"
         },
         {
           "emoji": "🔥",
-          "count": "10"
+          "count": "11"
         },
         {
           "emoji": "🖕",
@@ -971,7 +1054,7 @@
           "count": "1"
         }
       ],
-      "views_label": "60K",
+      "views_label": "62.2K",
       "posted_at": "2026-11-01T20:00:37+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/155861"
@@ -987,15 +1070,15 @@
       "reactions": [
         {
           "emoji": "💩",
-          "count": "325"
+          "count": "330"
         },
         {
           "emoji": "🖕",
-          "count": "41"
+          "count": "42"
         },
         {
           "emoji": "🤣",
-          "count": "40"
+          "count": "41"
         },
         {
           "emoji": "❤",
@@ -1018,7 +1101,7 @@
           "count": "2"
         }
       ],
-      "views_label": "62.1K",
+      "views_label": "64.7K",
       "posted_at": "2026-11-01T19:50:01+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/155860"
@@ -4908,57 +4991,6 @@
       "posted_at": "2026-10-31T22:26:45+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/155720"
-    },
-    {
-      "id": "alonews/155719",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/ghWERJ4c9Lpqr3jtNAviOwsNyt9J3BIWjHP3f4eMjgYdzePskgek8-3fEP5F09fYk1MqAQrDEAvUerSHQwyvlBwOlZxx7XIfpehDjB-5gKPxhv5e4uV7AKzg_bLF05K1e9h6do6PbGamtzluPayiTKxeM5Owp34G-Nf0v3xCRgMVuU8RFIuKYd0mB9qfDsT_Hk20bGNeFyuhQcMXsJwlcuqs5Jt3l2JH70ZWSNo_3Ppi9dd7a2vM36J6VznVuVigFaYn2TrMAXGZvBu0QJwF3dNBZWfmq2yXk3QIlxSPb_k9T7JW-C772g_lYFSw9AylzmkAVV1_A98EQayLA5jL9w.jpg",
-      "author_photo_path": "channels/alonews/media/af5cd18a5193f09d97d20fcb.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>نیویورک‌پست: برای آغاز دوباره جنگ با ایران، اسرائیل احتمالا در حال طراحی حمله‌ای مشابه «عملیات پیجرهای انفجاری» است<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈نیویورک‌پست: برای آغاز دوباره جنگ با ایران، اسرائیل احتمالا در حال طراحی حمله‌ای مشابه «عملیات پیجرهای انفجاری» است ✅ @AloNews",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "485"
-        },
-        {
-          "emoji": "🖕",
-          "count": "222"
-        },
-        {
-          "emoji": "🔥",
-          "count": "63"
-        },
-        {
-          "emoji": "💩",
-          "count": "30"
-        },
-        {
-          "emoji": "🤣",
-          "count": "13"
-        },
-        {
-          "emoji": "👍",
-          "count": "12"
-        },
-        {
-          "emoji": "🤬",
-          "count": "10"
-        },
-        {
-          "emoji": "💔",
-          "count": "4"
-        },
-        {
-          "emoji": "👎",
-          "count": "2"
-        }
-      ],
-      "views_label": "79.5K",
-      "posted_at": "2026-10-31T22:09:28+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/155719"
     }
   ]
 }
