@@ -1,15 +1,64 @@
 {
   "schema": 2,
-  "fetched_at": "2026-11-02T09:25:30.419Z",
+  "fetched_at": "2026-11-02T18:14:56.197Z",
   "channel": {
     "username": "netblocks",
     "title": "NetBlocks",
     "description_html": "The Internet's Observatory: Tracking network disruptions and shutdowns • tools and policy for change • bridging the digital divide • <a href=\"https://netblocks.org/\" target=\"_blank\" rel=\"noopener\">https://netblocks.org</a>",
     "photo_url": "https://cdn4.telesco.pe/file/StS7U9re3F8A_sm0BbFNMol89Ffd6Q_zEKN_RYeW-Sy0PTXAyULqpXTk1nKdtI3GKSzgMfC0IAO7phjsukyIqtKGRwc_P2o2C_NPM1TGN9lG_uLXAxUzQ_OvT10TgcW7hyyUxI2DC3pLW6Vf44IfLSrqZ_YR4fBwLlvY3pSouR5FCNVwsB-qZ-Ud7YGaKLBNcLPNytFoGnWRVAcrkI4JtFik-3C4xwzvtITD8OPhJTNDXI0zd66ATKIMp4aTB1y0xR8Vf3XsGLfDYDEnUwhaCplnK22G83IuJ7VcXEmUIVpKPP1kKDrbG9V5P7fuR8sKVMuVBRmkEl9t5ELmwr1D6A.jpg",
     "photo_path": "channels/netblocks/media/5df46121afbff1b8d16874f8.jpg",
-    "subscriber_count": "47.7K"
+    "subscriber_count": "47.6K"
   },
   "posts": [
+    {
+      "id": "netblocks/1579",
+      "author_name": "NetBlocks",
+      "author_photo_url": "https://cdn4.telesco.pe/file/StS7U9re3F8A_sm0BbFNMol89Ffd6Q_zEKN_RYeW-Sy0PTXAyULqpXTk1nKdtI3GKSzgMfC0IAO7phjsukyIqtKGRwc_P2o2C_NPM1TGN9lG_uLXAxUzQ_OvT10TgcW7hyyUxI2DC3pLW6Vf44IfLSrqZ_YR4fBwLlvY3pSouR5FCNVwsB-qZ-Ud7YGaKLBNcLPNytFoGnWRVAcrkI4JtFik-3C4xwzvtITD8OPhJTNDXI0zd66ATKIMp4aTB1y0xR8Vf3XsGLfDYDEnUwhaCplnK22G83IuJ7VcXEmUIVpKPP1kKDrbG9V5P7fuR8sKVMuVBRmkEl9t5ELmwr1D6A.jpg",
+      "author_photo_path": "channels/netblocks/media/5df46121afbff1b8d16874f8.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E284B9.png')\"><b>ℹ️</b></i> Confirmed: A power outage has knocked out internet connectivity across much of La Palma, Canary Islands; the losses in service are attributed to severe storms and lightning, with near-total recovery now evident <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948C.png')\"><b>🔌</b></i>",
+      "plain_text": "ℹ️ Confirmed: A power outage has knocked out internet connectivity across much of La Palma, Canary Islands; the losses in service are attributed to severe storms and lightning, with near-total recovery now evident 🔌",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/netblocks/1579",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/d1Lh1doqeiS10z8GeLyJZOQW4nBbECAYfmrSlqnOwcQHp0QNtKkvLn8Hw4cJdsXDVfeDtwMdLXqgqBDUMx6Llngd22WnjKEOA-D-cinCYXH4olgMDKBwzRUaCf9uxmd1YuRuWYfgJZmDOWobPuRbAcOTQV7USJhH6QL4EiUgD0IZfOiqp9uHATjBnMHDMypdTVa-dUJrzOsZsJQyREErtAqkIuvOF7m6HyACdXgttR0voEENIcTZGjdE7PxLimwV2hii5Uvq0e8skIBJSb2Lkpnx1ElLZKmhurBXaoxplKG0Up40L1YQYUND_2zO-TEA47Iqzyn4Ym_wg788JRJpQw.jpg",
+          "thumbnail_path": "channels/netblocks/media/66983cf6ec892af91e43cf8e.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.834862385321101
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "😢",
+          "count": "40"
+        },
+        {
+          "emoji": "😁",
+          "count": "7"
+        },
+        {
+          "emoji": "😱",
+          "count": "5"
+        },
+        {
+          "emoji": "🤬",
+          "count": "2"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        }
+      ],
+      "views_label": "3.97K",
+      "posted_at": "2026-11-02T12:15:17+00:00",
+      "edited": false,
+      "permalink": "https://t.me/netblocks/1579"
+    },
     {
       "id": "netblocks/1578",
       "author_name": "NetBlocks",
@@ -22,8 +71,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/netblocks/1578",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/lwPZNnPoJ3y7k4rdnLEsrVmWjHPglsn1ogotf2mD8RL9LwSSuvZX0m_-DIsd_3gU2RzMXP0a6j5xiH38FDh0Eu2H_gMUf6dV4uyX7uJH52IpTLLMO3bKMGOJMPL92aAV47WLM4InQjcpmJv_cWHc37T-iEf94zpiLTeQFDlS8x0Vf9OqPh1WdlGIqqyn0o22drs3yN-n-HGJLH_eSr57vdPVLZBhSatHsczc9NZiF5UfdAeesFZwJovk4Bh44iqaIAdGtiruCTTJev5N5P4GOfI6SQzLmfA05QiXlJ7boH3YGuePvWCs1vWIOMlb_WGtXJWYpO5rVWeqK9IPyry8Dg.jpg",
-          "thumbnail_path": "channels/netblocks/media/1f070b55b82fd5c70c1f3c0d.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/SCQudRNZHNBrwfoxMjVpDQiVCQIM0GiCmFHP-517DCAyNcpOrLLUzHOFtD6cd4YFHNaMRaJEOpjnYo3MmAsiWZm1w9e7BAdQgmRs21g0OuMoreCT3em8C_ODE8msy8rSXu_TtaLa0ZF63Vl_bsPw6sJM0x2OMBu0MRH4SdA3pZqEO4qu3Z1-jvVnY7fasKkpCSoO2gmYRLoloM7UeA5orgmoWDItoB63Ex-zHfx4rWrCVMjENkxqW2iMu7UlUhtYTCaPcW_EA81JkbuU5qBcaK8wEC_nY2yosbIgAvQx1d_JsnORr1ruiUBlnkB16L4VAPE-d5OsF9wSlM7Pr6wIoQ.jpg",
+          "thumbnail_path": "channels/netblocks/media/4399477cc3d0a4774b32e293.jpg",
           "duration_label": null,
           "aspect_ratio": 1.7777777777777777
         }
@@ -31,7 +80,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "66"
+          "count": "68"
         },
         {
           "emoji": "😁",
@@ -55,14 +104,14 @@
         },
         {
           "emoji": "❤",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "👎",
           "count": "3"
         }
       ],
-      "views_label": "11.6K",
+      "views_label": "15.3K",
       "posted_at": "2026-10-24T14:55:57+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1578"
@@ -92,7 +141,7 @@
         },
         {
           "emoji": "🔥",
-          "count": "40"
+          "count": "42"
         },
         {
           "emoji": "❤",
@@ -119,7 +168,7 @@
           "count": "2"
         }
       ],
-      "views_label": "10.7K",
+      "views_label": "13.1K",
       "posted_at": "2026-10-24T00:36:17+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1577"
@@ -136,8 +185,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/netblocks/1576",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/nQmKo-HxG5rPGmu7AZgN7T-Zdltv1SiY-B8B5nJ-wjyBrqjTIMAbIWZUjbvSUPnav1gFL3yMcsDIvwlxg6PjuyX1UsalyM3JxKBhc9fOH1DVx2oTYbdMZwKxhMsYoAfheluyf2NbVdfwOj2WLza-o4uySmJ_-aiJcM_ZkdhK8l8Yml8D9m1rKU7SKEDCEpCW62jVr1Kx9xxulw4qE2WkFA-5JjwslzFscnHpsQD7BsrLNvTZmCgx8Ju91Buc7AOCaZHtlrvxKF7XHDfTgXAQRpbvQvGSvxJngBj-1RextcUwrmlGcTddJTir4nOLAqbb9_T4oxJGIRfH7CSjbgShOw.jpg",
-          "thumbnail_path": "channels/netblocks/media/bb24fcc0311bf47f067b4844.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/rVChpQdPKXVAr20a-MFakMCqPBAQUSFeCezMSCPisgRHQNLUNEqBP1B-2llN5EA3oJwMLvFKC-sZZQjBD85npFNxg7KU8949kAKV_XMAgxjCRLZ1Di5uskco2owL22vhgVEC-D8eh-e2QDdcatHRgdFZDLoRKksiZBtNbi0Gst_Wba6wJnlpmCicbT9W2h7wqNxsQ7H9SJqmsAV1iRrl15f7zw6rnWqVe89SdYF3UP0vHasaYvVnTgGz2bRXuk0qrwibXTwoWAQDCUkLnP_YQVyChT5l_So9qi_mkAQemnD_5dpgoE90DeZ5KCI02uFGxvopqpMmPDmrZBZ6f2r-8Q.jpg",
+          "thumbnail_path": "channels/netblocks/media/48d6480da611f3cab927fc99.jpg",
           "duration_label": null,
           "aspect_ratio": 1.7777777777777777
         }
@@ -145,7 +194,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "93"
+          "count": "94"
         },
         {
           "emoji": "🔥",
@@ -176,7 +225,7 @@
           "count": "1"
         }
       ],
-      "views_label": "11.9K",
+      "views_label": "13.8K",
       "posted_at": "2026-10-22T14:17:02+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1576"
@@ -193,8 +242,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/netblocks/1575",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/NAh7YJNxwT7iq_9KadFg485lx1WGCONovOXZ7gdezsrODXS3Y6zf6fvZUH4zL54UBfoFOu7QQTnxfhb6H3VRJTFLxW-jpyrWDLZWy4lu_LAytBwPjKQCHDNBpO4AS45NpOm4twNvP7Vc_7VvTYz6TmGTeRugobBUHrdoiN-GPzO41zAfQayrKPi7fZWJ_ZtIWB0jni6uy8K935G3AaoQGe1ES8wgK04ZCNwU59mijekmGnHYL8pGEv1aPVNqXmYSHz4lC9RexMO6pE-CCK1gXeaUcQXYxn3WP1phl0LjkLGEvI6mOv2KQmS6_jtH-mTW_mAEyw8taAojT4OC0vSjVQ.jpg",
-          "thumbnail_path": "channels/netblocks/media/3066cece9feb92ee3f30cf88.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/RGPPmtwYWs1-j6IW_KwIW8nHZoWdhy8FOgWiXBOl1PFZOgkPHcA56xz0Iz6qq4v0s0ZxQr9Jr4eGapIsH_tPU49jVaWKEkpAcum4Q9SybuAT-hS-VFZKvjWRLCgRjq4vtMR_oqmEYSXNFyGUUcGi1oqMy3kcBsDW0SYPQ8gTrKTK88JezxodFT-IntW1pdIQHXz_GZZFFH0Ciyt_AP8GO_ELXVtIk_unQqEglv-QSwCK-vLBA2b8EbpXdGVsu5zPoGYsU033vkJgvt342ZbRoEQ-N1qsalp81_GWk_pDBYx1TKNqKVXor0WQU0SIzwJG3Gd6pcgxZwc5Wc8zvX4cTg.jpg",
+          "thumbnail_path": "channels/netblocks/media/bc58f60cc01579d765d1e01a.jpg",
           "duration_label": null,
           "aspect_ratio": 1.7777777777777777
         }
@@ -241,7 +290,7 @@
           "count": "3"
         }
       ],
-      "views_label": "26.4K",
+      "views_label": "27.6K",
       "posted_at": "2026-10-21T18:06:32+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1575"
@@ -298,7 +347,7 @@
           "count": "3"
         }
       ],
-      "views_label": "16.7K",
+      "views_label": "17.3K",
       "posted_at": "2026-10-18T23:15:32+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1574"
@@ -363,7 +412,7 @@
           "count": "1"
         }
       ],
-      "views_label": "19.6K",
+      "views_label": "19.8K",
       "posted_at": "2026-10-18T01:48:28+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1573"
@@ -420,7 +469,7 @@
           "count": "1"
         }
       ],
-      "views_label": "16.1K",
+      "views_label": "16.8K",
       "posted_at": "2026-10-17T22:23:26+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1572"
@@ -485,7 +534,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15.3K",
+      "views_label": "15.7K",
       "posted_at": "2026-10-17T12:51:57+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1571"
@@ -530,7 +579,7 @@
           "count": "1"
         }
       ],
-      "views_label": "14.4K",
+      "views_label": "14.5K",
       "posted_at": "2026-10-17T12:02:27+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1570"
@@ -587,7 +636,7 @@
           "count": "2"
         }
       ],
-      "views_label": "14.7K",
+      "views_label": "14.8K",
       "posted_at": "2026-10-17T00:10:51+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1569"
@@ -652,7 +701,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15K",
+      "views_label": "15.1K",
       "posted_at": "2026-10-16T09:54:35+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1568"
@@ -717,7 +766,7 @@
           "count": "1"
         }
       ],
-      "views_label": "21.4K",
+      "views_label": "22.7K",
       "posted_at": "2026-10-12T13:46:21+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1567"
@@ -778,7 +827,7 @@
           "count": "1"
         }
       ],
-      "views_label": "21.6K",
+      "views_label": "21.8K",
       "posted_at": "2026-10-12T10:42:26+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1566"
@@ -795,8 +844,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/netblocks/1564",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/aYBlW5rO93Bh8Y1VPG8LYpUXyolOZyvjpZj2FIAbl7LBzeWbQW-6wJKSjJVxxLK-o6EJyj18dG89r13iKSiGGEJbiI9RqiCrU9wA_IGsFW9itHHL37gU1sOx7bZ7zKWeYR2Alig-3CjtXi7R7Vqgc2dhGnPODsnSV8ULMTxJwtNi2YdT6VhEY2wKt1j-FWBq4FjUB5JFtOAddfX4payKQ5kl69Ud4k6mcPGIPjxAB_R09keonGznY_5b0frdE9Yl4OFbYSGFWdqIciGH1mvRshdcf7zitXoNvbjmuB-L5bvWprgLZBPxbFrs3ZT9bzrvJDQJ2o2O9ahfqOIBIELo4g.jpg",
-          "thumbnail_path": "channels/netblocks/media/573b269a0d2a34bb12377ce6.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/HkZSQS6w4J3P4AGBEWG0yBh05h0TO4T3FfDhEVYqPFZF5FyggpRLSWD0uO-LL21XGODfIEDx84mcQVfAXghjbzSs_BVr83GVCVRx66xgZwrrkFvdnIZNn9iAGY-GR-nJHbz3mNXDe7QwF8ciRPdlB6ngTvCWvjoquRB6eodS4e_gOUFwAmnT9YsxNPuvaTEh_jS6aU6GXS1GpUZmO3H35_b8DCZuWONjk-s8JHQBzgW6kIuu7ifNn4Lk5qddGRfU69ytTtBOaNGEgtVfoQ8iu1xxqXd2wCxbn3tb1Wh18U6E1ngp_Irpiuu5wl2FtYQzPUqrrukQ-Su0exYQO_Pz6Q.jpg",
+          "thumbnail_path": "channels/netblocks/media/bf0dbca98179a9fede6fde93.jpg",
           "duration_label": null,
           "aspect_ratio": 1.7777777777777777
         }
@@ -835,7 +884,7 @@
           "count": "1"
         }
       ],
-      "views_label": "20.4K",
+      "views_label": "20.5K",
       "posted_at": "2026-10-11T18:27:00+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1564"
@@ -904,7 +953,7 @@
           "count": "1"
         }
       ],
-      "views_label": "19.8K",
+      "views_label": "20K",
       "posted_at": "2026-10-11T05:35:16+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1563"
@@ -961,7 +1010,7 @@
           "count": "1"
         }
       ],
-      "views_label": "18.9K",
+      "views_label": "19K",
       "posted_at": "2026-10-10T11:28:36+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1562"
@@ -1026,7 +1075,7 @@
           "count": "2"
         }
       ],
-      "views_label": "18.2K",
+      "views_label": "18.3K",
       "posted_at": "2026-10-10T01:45:53+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1561"
@@ -1043,8 +1092,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/netblocks/1560",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/PKn1plNGPErXTo6IMJzbuWSnRxsJJVPZijrKZez-s1gSS-KwWlq0S4iKjqr3BxLE1uKxAZsQHAQNEiAP-XrZ3vBGTSD2T0_O9f0CpgR5dJ65Vq_OExnGMuILr5lHsr7L8QLn3-le5COspxXQQRA_3h5CX0SOn3agYnDa7n7Z6OaeoDtv8ATAI0TRkjvvU6UmZvjIW8Ad1Ii7uvgu2TftkatFSYnTjpYdS5ZyQJBU0fg_Zb_FPVdpH92Wkr0o_lBPJXs_JOnniqxdSCeLZ20G3dabHU926vCJ5Q6lkxjcsjzF7KwNDhWtTA3rF40ETzCA22ReYFfmqHKF6RC1iqJ7eg.jpg",
-          "thumbnail_path": "channels/netblocks/media/930e429c948fcc42aed91a60.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/s7TrRzjTeHUYQ65kdsh0bIRFnC4-L99tNp0bTrgitxXnFmNT27ljjj5Z9Xgiw12ZccRDgoQ3feBr9BwEBsR5WJ3YeCEU7HRtrVVfKyBYmgL29mrZEYj_4saOAvbGP-lJBvtNEaDig2nNS2gXG3ykZPiVuNGNTmqXMDfmTl0q04kToq6tEFk9dZSCEm6sXfAUImZaypkIpzUhkzr77ZgtJlyAeF-5MP3WRwqskfo7Zz5USV0WQStLPa4cxszHy5noOlE95Kgph5RS322FWRf2fMziQgz_RKcw8PHcCL5I0lB80lvEoDlNCwuspwQIYj8_TChMAS0YRo4j6lE4mtA3ig.jpg",
+          "thumbnail_path": "channels/netblocks/media/4bcc651e968d18c73d44e322.jpg",
           "duration_label": null,
           "aspect_ratio": 1.7777777777777777
         }
@@ -1087,7 +1136,7 @@
           "count": "1"
         }
       ],
-      "views_label": "23.6K",
+      "views_label": "23.7K",
       "posted_at": "2026-10-09T19:05:02+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1560"
@@ -1104,8 +1153,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/netblocks/1559",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/fJGmJjzUBGNbpUMwJl-gI_QOWcsKXowaxcdiQ1xvXfCmn1wUC8pPI3yG8vJFwTM6QaoxqojJiF9oNU75RP7Evd5keWlUkM4vlCYkWyBQwYIahmzHmbfFjxI4p9g53w_ICWe0S1EEQFBFPpEykhpZVZGPy7xyji0zVgA08ZiHypEFDWibVnuP0PxdOyXF1d6w3DZdOeris4Hw_H7R4_bnzxBjeFGEJMdmbcLQPOQtauMNz_veaSiJUbPETGKun93zjV2eTySlyYBwS25FvPaVBz0_6J_lBoIuUwulUxH-OJLq7HusdchSVtB1exk30G-54MldbFjRfjTRlL31tNi1iQ.jpg",
-          "thumbnail_path": "channels/netblocks/media/a54bbf3cf9743648a0d80068.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/N5S1BBqwuvf4VOonBqrkhodBJ-KYB35wkABjr5nEajsrIqJZgXKRS1avrZmycJLPpfDXyq9wAZHWMajndt-ZY75pNpNnNAaQoeAGk0cAP5pbup1Lty96BTbA9NS2TjoaYCmXavA6sHNYYNo-dtFpJuDGnflVzyL4pjtULj8KROiietcIa_AgVFTsrHgaD34pz1kuU8SkrVjcUZUhWvl5xyJsv4O3n1qgDtYPIm69jvD9E7PmHUxXTm5grO8QIgj3hwrogo9wvMACkTcX8ZOchkkzOizxVeI-lfPuaBTlCUnLfANAUqYpPjAn7e8AD6aiynHaWeZ4CVaY0JCtrWcDSw.jpg",
+          "thumbnail_path": "channels/netblocks/media/f9aaa52e267ee6180974d173.jpg",
           "duration_label": null,
           "aspect_ratio": 1.7777777777777777
         }
@@ -1156,7 +1205,7 @@
           "count": "2"
         }
       ],
-      "views_label": "37.8K",
+      "views_label": "37.9K",
       "posted_at": "2026-10-08T01:25:58+00:00",
       "edited": true,
       "permalink": "https://t.me/netblocks/1559"
@@ -6204,75 +6253,6 @@
       "posted_at": "2026-05-06T07:37:19+00:00",
       "edited": false,
       "permalink": "https://t.me/netblocks/1478"
-    },
-    {
-      "id": "netblocks/1477",
-      "author_name": "NetBlocks",
-      "author_photo_url": "https://cdn4.telesco.pe/file/NYV3nkDP4MZfEI0uSCu5Q73Tf1w5WFx77kqD4LI_foQNfDOPtb2nH7uRYG0kMp6T91qL5AG0pv_vlHBuMrtvESZuYKLLS5HMU1Mowj38MqvtGVKWoOngZN1Hv6tb0lJ4HcAWk40MSmfs8h2MdtVAkP7Irobo4FBiIK8I2rI9IXRcwU_UIcvCNQmaN3HsH0rFsuTpFibowqU7MxuamqiZ2hFpYlJ-7fwYTQ_mCw45prfqxxn7v0EnTEpzAvGMp9plZ4NRnNA61KmdeMzTvQ6y7oGx7deDGLqeoCM3yvyi3ngQMJ9oQ9PDmhKzwBieQjj0xZn0hh_gZc3QtWW_5g68ag.jpg",
-      "author_photo_path": "channels/netblocks/media/98b54d00d4f9d07e26853d7d.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Live metrics show a disruption to internet access in parts of #Iran including Tehran with connectivity at 54% of ordinary levels. The incident comes as the US and Israel target the regime with military strikes and will limit visibility into events…",
-      "plain_text": "⚠️ Confirmed: Live metrics show a disruption to internet access in parts of #Iran including Tehran with connectivity at 54% of ordinary levels. The incident comes as the US and Israel target the regime with military strikes and will limit visibility into events…",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/netblocks/1477",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/V9utP7gUzHgPPrJkUQg_KFdKOJeZDTYeMcBOgQApdsQrVdC5YtP1Se116CLgLFbk-C1fgydBzHlDuxOyvMe1QarYPBsUbdfOdEVi_iFrVXgqAk1BLViovZ0CDXZpiLvXhbHaY4dPQk-vEm3abYaYbUnfrQwevnC52bpaLWCUve-qRvJi5OGL7BN3t-YqF9D-DMJrpHNZnihY5PZ1Om0BPIYzyDURSUzwrpoT7q2-ZZoHWJ7Mj6pyO1d2ywoYoJGm2ShrjFXz01vhUAfDolBLthHhgaeZz8mFOCJw-vLJeuE4g7HhhSvST01kjIR1pWIar_Jcnw-uU0N2grwTEbSqBg.jpg",
-          "thumbnail_path": "channels/netblocks/media/c0863a00376dd9a25fa07dc7.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤬",
-          "count": "2.96K"
-        },
-        {
-          "emoji": "🤩",
-          "count": "2.73K"
-        },
-        {
-          "emoji": "😢",
-          "count": "84"
-        },
-        {
-          "emoji": "🤯",
-          "count": "11"
-        },
-        {
-          "emoji": "❤",
-          "count": "10"
-        },
-        {
-          "emoji": "👎",
-          "count": "8"
-        },
-        {
-          "emoji": "👍",
-          "count": "6"
-        },
-        {
-          "emoji": "🥰",
-          "count": "6"
-        },
-        {
-          "emoji": "😱",
-          "count": "4"
-        },
-        {
-          "emoji": "🎉",
-          "count": "3"
-        },
-        {
-          "emoji": "🤔",
-          "count": "2"
-        }
-      ],
-      "views_label": "39.7K",
-      "posted_at": "2026-05-05T07:45:43+00:00",
-      "edited": false,
-      "permalink": "https://t.me/netblocks/1477"
     }
   ]
 }
