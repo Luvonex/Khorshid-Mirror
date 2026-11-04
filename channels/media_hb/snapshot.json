@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-11-04T01:04:59.135Z",
+  "fetched_at": "2026-11-04T07:25:26.065Z",
   "channel": {
     "username": "media_hb",
     "title": "مدیا هاب | اخبار جنگ",
@@ -10,6 +10,688 @@
     "subscriber_count": "131K"
   },
   "posts": [
+    {
+      "id": "Media_HB/110187",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/GKwXD7QqZE7ow7D7wSmLUHeYxUtK6vC0ess1KvaXHE8pvVJch4PGIx5OPFgElCytvDBxj6J0-x0k_YgWLFQst1W-UfbnVQ9-AnW368-7hgEHOziorjob59Lp6s8eCUXXqmSakhNTsyyNorQ_4mQ2KU3Lb42PBiGThG22PUjhzeDTKH2iAgLIsnbnrgk2cCdI6DLP60pD1NTeWr5My0vm07Om9YBsFi5SCQuXvprmQIBYz-1C94BiPL_Z8NGsM83QBjYi6Hc9Ea5Vt5pjaGpLvLTsD_XoUvgqglB6ZvkvGiI3gMaMfwItQ5QZ5a3ptBZwjc433Falq5ubFahNVpSK2w.jpg",
+      "author_photo_path": "channels/media_hb/media/3f9e085178f3f8a41e08cee4.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i> برآورد رسانه‌ای از پیروزی عبدل السید در میشیگان و ثبت نخستین سناتور مسلمان در تاریخ ایالات متحده</b>",
+      "plain_text": "❗ برآورد رسانه‌ای از پیروزی عبدل السید در میشیگان و ثبت نخستین سناتور مسلمان در تاریخ ایالات متحده",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/110187",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/NzuEwrf-rItMAW8Ms3gYeyG0EHXpusSj_dIUuQJOLyNHGyUrINzuiiqCgKqwcbsqlc_xKLCric6Spro_bCspvV6PWqMX-GZ0mN0lSCALK2sZ0eI30fDeuQ1uJUkzi846P1szH3GkvxEmH86HQUSpb0ta2XOaH2cUlm6ePSA0458lPdzUM-4i96P9DX2CxIe6TwGgXAOc2QMBdK6qW1TD68hHo8x5LRKL5y41mkZGDjWnATzXv2UBqT6uZxGIQ6Av-JH6cZKLeOS9_m0dpSM_SvT0Lsqe4UetQ9fB6KX-2KK4feCgGryf62R8yfOgS2SwbSMqqkPf887CqHt6f6TQ7g.jpg",
+          "thumbnail_path": "channels/media_hb/media/1032036ed7ffb8b019be903c.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "135"
+        },
+        {
+          "emoji": "❤",
+          "count": "8"
+        },
+        {
+          "emoji": "😭",
+          "count": "6"
+        },
+        {
+          "emoji": "🔥",
+          "count": "4"
+        },
+        {
+          "emoji": "💔",
+          "count": "3"
+        },
+        {
+          "emoji": "👍",
+          "count": "2"
+        },
+        {
+          "emoji": "🍓",
+          "count": "1"
+        }
+      ],
+      "views_label": "3.62K",
+      "posted_at": "2026-11-04T06:37:30+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110187"
+    },
+    {
+      "id": "Media_HB/110186",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/GKwXD7QqZE7ow7D7wSmLUHeYxUtK6vC0ess1KvaXHE8pvVJch4PGIx5OPFgElCytvDBxj6J0-x0k_YgWLFQst1W-UfbnVQ9-AnW368-7hgEHOziorjob59Lp6s8eCUXXqmSakhNTsyyNorQ_4mQ2KU3Lb42PBiGThG22PUjhzeDTKH2iAgLIsnbnrgk2cCdI6DLP60pD1NTeWr5My0vm07Om9YBsFi5SCQuXvprmQIBYz-1C94BiPL_Z8NGsM83QBjYi6Hc9Ea5Vt5pjaGpLvLTsD_XoUvgqglB6ZvkvGiI3gMaMfwItQ5QZ5a3ptBZwjc433Falq5ubFahNVpSK2w.jpg",
+      "author_photo_path": "channels/media_hb/media/3f9e085178f3f8a41e08cee4.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><b>محمد باقر قالیباف:<br><br>وجدان یا هزینه‌های زندگی؟ آمریکایی‌ها به جنگ نه گفتند و ما از این پیام حمایت می‌کنیم.<br><br>اگر دولت آمریکا برای خدمت به باج‌گیران و حامیان بین‌المللی، به اراده مردم خود خیانت کند، متوجه خواهد شد که «نه»ای که ما گفته‌ایم به کابوسی تبدیل خواهد شد که دست از سرش برنمی‌دارد.</b>",
+      "plain_text": "🚨محمد باقر قالیباف: وجدان یا هزینه‌های زندگی؟ آمریکایی‌ها به جنگ نه گفتند و ما از این پیام حمایت می‌کنیم. اگر دولت آمریکا برای خدمت به باج‌گیران و حامیان بین‌المللی، به اراده مردم خود خیانت کند، متوجه خواهد شد که «نه»ای که ما گفته‌ایم به کابوسی تبدیل خواهد شد که دست از سرش برنمی‌دارد.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "113"
+        },
+        {
+          "emoji": "❤",
+          "count": "8"
+        },
+        {
+          "emoji": "🤡",
+          "count": "6"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        }
+      ],
+      "views_label": "6.42K",
+      "posted_at": "2026-11-04T05:19:47+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110186"
+    },
+    {
+      "id": "Media_HB/110184",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/GKwXD7QqZE7ow7D7wSmLUHeYxUtK6vC0ess1KvaXHE8pvVJch4PGIx5OPFgElCytvDBxj6J0-x0k_YgWLFQst1W-UfbnVQ9-AnW368-7hgEHOziorjob59Lp6s8eCUXXqmSakhNTsyyNorQ_4mQ2KU3Lb42PBiGThG22PUjhzeDTKH2iAgLIsnbnrgk2cCdI6DLP60pD1NTeWr5My0vm07Om9YBsFi5SCQuXvprmQIBYz-1C94BiPL_Z8NGsM83QBjYi6Hc9Ea5Vt5pjaGpLvLTsD_XoUvgqglB6ZvkvGiI3gMaMfwItQ5QZ5a3ptBZwjc433Falq5ubFahNVpSK2w.jpg",
+      "author_photo_path": "channels/media_hb/media/3f9e085178f3f8a41e08cee4.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i> بری بت | BerryBet</b><br><br><tg-emoji emoji-id=\"5375452661036358740\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></tg-emoji> <b>مسابقات امروز </b><tg-emoji emoji-id=\"5458485283790004353\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918D.png')\"><b>👍</b></i></tg-emoji><b> </b><br><br><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i>   فنرباغچه - لیورپول<br><tg-emoji emoji-id=\"5992127827787388962\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C8E.png')\"><b>🌎</b></i></tg-emoji> ساعت ۲۱:۱۵<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i> آاک آتن - رئال مادرید<br><tg-emoji emoji-id=\"5992127827787388962\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C8E.png')\"><b>🌎</b></i></tg-emoji> ساعت ۲۱:۱۵<br></blockquote>﻿<br><tg-emoji emoji-id=\"5447458260200214425\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B8.png')\"><b>💸</b></i></tg-emoji> <b>ضرایب ویژه و رقابتی<br></b><b><tg-emoji emoji-id=\"5411590687663608498\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i></tg-emoji></b><b> پیش‌بینی سریع، تسویه آسان و پخش زنده مسابقات</b><br><br><tg-emoji emoji-id=\"5310278924616356636\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EAF.png')\"><b>🎯</b></i></tg-emoji> <b>همین حالا شانس خودت رو امتحان کن و هیجان فوتبال رو چند برابر کن!</b><br><br> <tg-emoji emoji-id=\"6034905633336070030\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji><a href=\"https://t.me/BerryBetOfficial\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>۱۰٪ شارژ بیشتر برای روش‌های رمزارز</b></a><br><tg-emoji emoji-id=\"5258337316715373336\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA499.png')\"><b>🤙</b></i></tg-emoji> <b>ورود سریع | شارژ آنی | پشتیبانی ۲۴ ساعت</b><br><br>کانال سایت:<br><b> </b><tg-emoji emoji-id=\"5429501538806548545\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/BerryBetOfficial\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/BerryBetOfficial</b></a><br>آدرس سایت:<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰</b></i>r13<br><b>  </b><tg-emoji emoji-id=\"5271604874419647061\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i></tg-emoji> <a href=\"https://ndsvhjdofk.shop/fa/affiliates/?btag=914641_l303106\" target=\"_blank\" rel=\"noopener\"><b>https://ndsvhjdofk.shop/fa/affiliates/?btag=914641_l303106</b></a>",
+      "plain_text": "⚡ بری بت | BerryBet 🔥 مسابقات امروز 👍 ⚽️ فنرباغچه - لیورپول 🌎 ساعت ۲۱:۱۵ ⚽️ آاک آتن - رئال مادرید 🌎 ساعت ۲۱:۱۵ 💸 ضرایب ویژه و رقابتی ⚡ پیش‌بینی سریع، تسویه آسان و پخش زنده مسابقات 🎯 همین حالا شانس خودت رو امتحان کن و هیجان فوتبال رو چند برابر کن! ✅۱۰٪ شارژ بیشتر برای روش‌های رمزارز 🤙 ورود سریع | شارژ آنی | پشتیبانی ۲۴ ساعت کانال سایت: ✅ https://t.me/BerryBetOfficial آدرس سایت:🅰r13 🔗 https://ndsvhjdofk.shop/fa/affiliates/?btag=914641_l303106",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/110184",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qYKnbvF6g1rKBEJYKyu5L07QeT6-RY3uAKjCpTWT4HYECQk_M1w8ReH9UnI0YRJu7JbY6Nwp_RtrFRQU_eoxTIuFqM4m5a9JsTTbcFBf8eNGiDlO1gcmwqZus0Nn0A3B9_8A6LGl0E1F9Qfy7Wd9e27jmA9hNDv0_uhLsWahH-q_ZpxauPtk486y3awCg33LAkOtgkYrHmZDxR_kjH3BMdKN2w26lzbq7msIPG10vnUWDim8V7n16rgtqjV6ejuappE-NNvfPEFD41B0LhUpjc_zVqWdccgy5hHVeoP8S7Ei-C0ATqbX6wWQJbJfttDIyRGPNLyQ9j83m-_XeEiGTg.jpg",
+          "thumbnail_path": "channels/media_hb/media/d852c47d87f5f1deb3f5716c.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.9987499999999696
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "2"
+        }
+      ],
+      "views_label": "6.32K",
+      "posted_at": "2026-11-04T05:19:18+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110184"
+    },
+    {
+      "id": "Media_HB/110185",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/GKwXD7QqZE7ow7D7wSmLUHeYxUtK6vC0ess1KvaXHE8pvVJch4PGIx5OPFgElCytvDBxj6J0-x0k_YgWLFQst1W-UfbnVQ9-AnW368-7hgEHOziorjob59Lp6s8eCUXXqmSakhNTsyyNorQ_4mQ2KU3Lb42PBiGThG22PUjhzeDTKH2iAgLIsnbnrgk2cCdI6DLP60pD1NTeWr5My0vm07Om9YBsFi5SCQuXvprmQIBYz-1C94BiPL_Z8NGsM83QBjYi6Hc9Ea5Vt5pjaGpLvLTsD_XoUvgqglB6ZvkvGiI3gMaMfwItQ5QZ5a3ptBZwjc433Falq5ubFahNVpSK2w.jpg",
+      "author_photo_path": "channels/media_hb/media/3f9e085178f3f8a41e08cee4.jpg",
+      "body_html": "<b>همین حالا ثبت‌ نام کنید و از بونوس های جدید ما لذت ببرید</b><b><tg-emoji emoji-id=\"6035277294036061660\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B5.png')\"><b>💵</b></i></tg-emoji></b><tg-emoji emoji-id=\"5780560530515171033\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B8D.png')\"><b>🛍</b></i></tg-emoji><tg-emoji emoji-id=\"5300815548295165085\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9186.png')\"><b>👆</b></i></tg-emoji>",
+      "plain_text": "همین حالا ثبت‌ نام کنید و از بونوس های جدید ما لذت ببرید💵🛍👆",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "1"
+        },
+        {
+          "emoji": "😡",
+          "count": "1"
+        }
+      ],
+      "views_label": "6.35K",
+      "posted_at": "2026-11-04T05:19:18+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110185"
+    },
+    {
+      "id": "Media_HB/110183",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/GKwXD7QqZE7ow7D7wSmLUHeYxUtK6vC0ess1KvaXHE8pvVJch4PGIx5OPFgElCytvDBxj6J0-x0k_YgWLFQst1W-UfbnVQ9-AnW368-7hgEHOziorjob59Lp6s8eCUXXqmSakhNTsyyNorQ_4mQ2KU3Lb42PBiGThG22PUjhzeDTKH2iAgLIsnbnrgk2cCdI6DLP60pD1NTeWr5My0vm07Om9YBsFi5SCQuXvprmQIBYz-1C94BiPL_Z8NGsM83QBjYi6Hc9Ea5Vt5pjaGpLvLTsD_XoUvgqglB6ZvkvGiI3gMaMfwItQ5QZ5a3ptBZwjc433Falq5ubFahNVpSK2w.jpg",
+      "author_photo_path": "channels/media_hb/media/3f9e085178f3f8a41e08cee4.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> ترامپ در گفتگو با فاکس‌نیوز:<br><br>مأموریت ما در قبال ایران هنوز به پایان نرسیده است و ممکن است دست به اقدام بزنیم</b>",
+      "plain_text": "🔴 ترامپ در گفتگو با فاکس‌نیوز: مأموریت ما در قبال ایران هنوز به پایان نرسیده است و ممکن است دست به اقدام بزنیم",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "65"
+        },
+        {
+          "emoji": "🔥",
+          "count": "20"
+        },
+        {
+          "emoji": "🤡",
+          "count": "7"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        },
+        {
+          "emoji": "👀",
+          "count": "1"
+        }
+      ],
+      "views_label": "6.47K",
+      "posted_at": "2026-11-04T05:10:13+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110183"
+    },
+    {
+      "id": "Media_HB/110182",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/GKwXD7QqZE7ow7D7wSmLUHeYxUtK6vC0ess1KvaXHE8pvVJch4PGIx5OPFgElCytvDBxj6J0-x0k_YgWLFQst1W-UfbnVQ9-AnW368-7hgEHOziorjob59Lp6s8eCUXXqmSakhNTsyyNorQ_4mQ2KU3Lb42PBiGThG22PUjhzeDTKH2iAgLIsnbnrgk2cCdI6DLP60pD1NTeWr5My0vm07Om9YBsFi5SCQuXvprmQIBYz-1C94BiPL_Z8NGsM83QBjYi6Hc9Ea5Vt5pjaGpLvLTsD_XoUvgqglB6ZvkvGiI3gMaMfwItQ5QZ5a3ptBZwjc433Falq5ubFahNVpSK2w.jpg",
+      "author_photo_path": "channels/media_hb/media/3f9e085178f3f8a41e08cee4.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> ترامپ :<br><br>پرونده و تحولات مرتبط با ایران، یکی از عوامل اصلی شکست حزب جمهوری‌خواه در انتخابات میان‌دوره‌ای بوده است</b>.",
+      "plain_text": "🔴 ترامپ : پرونده و تحولات مرتبط با ایران، یکی از عوامل اصلی شکست حزب جمهوری‌خواه در انتخابات میان‌دوره‌ای بوده است.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "53"
+        },
+        {
+          "emoji": "❤",
+          "count": "5"
+        }
+      ],
+      "views_label": "6.47K",
+      "posted_at": "2026-11-04T05:08:22+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110182"
+    },
+    {
+      "id": "Media_HB/110181",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/GKwXD7QqZE7ow7D7wSmLUHeYxUtK6vC0ess1KvaXHE8pvVJch4PGIx5OPFgElCytvDBxj6J0-x0k_YgWLFQst1W-UfbnVQ9-AnW368-7hgEHOziorjob59Lp6s8eCUXXqmSakhNTsyyNorQ_4mQ2KU3Lb42PBiGThG22PUjhzeDTKH2iAgLIsnbnrgk2cCdI6DLP60pD1NTeWr5My0vm07Om9YBsFi5SCQuXvprmQIBYz-1C94BiPL_Z8NGsM83QBjYi6Hc9Ea5Vt5pjaGpLvLTsD_XoUvgqglB6ZvkvGiI3gMaMfwItQ5QZ5a3ptBZwjc433Falq5ubFahNVpSK2w.jpg",
+      "author_photo_path": "channels/media_hb/media/3f9e085178f3f8a41e08cee4.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i> ترامپ: <br><br>به دموکرات‌ها تبریک می‌گویم و مشتاق هستم که برای منافع کشورمان با آن‌ها همکاری کنم.</b>",
+      "plain_text": "❗ ترامپ: به دموکرات‌ها تبریک می‌گویم و مشتاق هستم که برای منافع کشورمان با آن‌ها همکاری کنم.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "145"
+        },
+        {
+          "emoji": "👍",
+          "count": "4"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        }
+      ],
+      "views_label": "6.7K",
+      "posted_at": "2026-11-04T05:03:29+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110181"
+    },
+    {
+      "id": "Media_HB/110180",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/GKwXD7QqZE7ow7D7wSmLUHeYxUtK6vC0ess1KvaXHE8pvVJch4PGIx5OPFgElCytvDBxj6J0-x0k_YgWLFQst1W-UfbnVQ9-AnW368-7hgEHOziorjob59Lp6s8eCUXXqmSakhNTsyyNorQ_4mQ2KU3Lb42PBiGThG22PUjhzeDTKH2iAgLIsnbnrgk2cCdI6DLP60pD1NTeWr5My0vm07Om9YBsFi5SCQuXvprmQIBYz-1C94BiPL_Z8NGsM83QBjYi6Hc9Ea5Vt5pjaGpLvLTsD_XoUvgqglB6ZvkvGiI3gMaMfwItQ5QZ5a3ptBZwjc433Falq5ubFahNVpSK2w.jpg",
+      "author_photo_path": "channels/media_hb/media/3f9e085178f3f8a41e08cee4.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> اگه نمیگید استقلال پرسپولیس کو، کنداکتور بازی‌های مهم امروز</b>",
+      "plain_text": "🔴 اگه نمیگید استقلال پرسپولیس کو، کنداکتور بازی‌های مهم امروز",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/110180",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Mvg3dGZCmmksKHFcChsUB3DlxF6hyKSaL7NB6ragKYEUNIs-tLzvKNj02hcM0ckcqn6vvtAl9DAynI1vVfmsXdtctBy8QBsybvuWjBie9rWJuxLppNbw_JmgixUYQzq3RKcgF4zAjetSTIF2Bcgf4n_x3r3tuRCtOEfp2rgNWk50na6avkUleXak7pI5IyDre6MOOlZN0Mh44knMr0sE_VNQdee9mR4s_4I-AWc2siupx7HBt5ThZjhw7jsKeT7f0LzjkUrBOuRJf5hE7BQG9LjQqLbcCS3S8Mi-V2jfl-ssrs_3K4Yimrx7UjKPXnp5xpjdeRbHfAtDXH6cSXzUjQ.jpg",
+          "thumbnail_path": "channels/media_hb/media/97af4220c870495a9df24cec.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "61"
+        },
+        {
+          "emoji": "👍",
+          "count": "2"
+        },
+        {
+          "emoji": "🔥",
+          "count": "2"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        }
+      ],
+      "views_label": "6.66K",
+      "posted_at": "2026-11-04T05:02:22+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110180"
+    },
+    {
+      "id": "Media_HB/110179",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/GKwXD7QqZE7ow7D7wSmLUHeYxUtK6vC0ess1KvaXHE8pvVJch4PGIx5OPFgElCytvDBxj6J0-x0k_YgWLFQst1W-UfbnVQ9-AnW368-7hgEHOziorjob59Lp6s8eCUXXqmSakhNTsyyNorQ_4mQ2KU3Lb42PBiGThG22PUjhzeDTKH2iAgLIsnbnrgk2cCdI6DLP60pD1NTeWr5My0vm07Om9YBsFi5SCQuXvprmQIBYz-1C94BiPL_Z8NGsM83QBjYi6Hc9Ea5Vt5pjaGpLvLTsD_XoUvgqglB6ZvkvGiI3gMaMfwItQ5QZ5a3ptBZwjc433Falq5ubFahNVpSK2w.jpg",
+      "author_photo_path": "channels/media_hb/media/3f9e085178f3f8a41e08cee4.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> سی‌بی‌اس نیوز به نقل از ترامپ: <br><br>جنگ با ايران زمانی به پایان خواهد رسید که من تصمیم بگیرم و اعلام کنم که به پایان رسیده است.</b>",
+      "plain_text": "🔴 سی‌بی‌اس نیوز به نقل از ترامپ: جنگ با ايران زمانی به پایان خواهد رسید که من تصمیم بگیرم و اعلام کنم که به پایان رسیده است.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "52"
+        },
+        {
+          "emoji": "❤",
+          "count": "7"
+        },
+        {
+          "emoji": "🔥",
+          "count": "3"
+        },
+        {
+          "emoji": "🤡",
+          "count": "2"
+        }
+      ],
+      "views_label": "6.45K",
+      "posted_at": "2026-11-04T04:58:56+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110179"
+    },
+    {
+      "id": "Media_HB/110178",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/GKwXD7QqZE7ow7D7wSmLUHeYxUtK6vC0ess1KvaXHE8pvVJch4PGIx5OPFgElCytvDBxj6J0-x0k_YgWLFQst1W-UfbnVQ9-AnW368-7hgEHOziorjob59Lp6s8eCUXXqmSakhNTsyyNorQ_4mQ2KU3Lb42PBiGThG22PUjhzeDTKH2iAgLIsnbnrgk2cCdI6DLP60pD1NTeWr5My0vm07Om9YBsFi5SCQuXvprmQIBYz-1C94BiPL_Z8NGsM83QBjYi6Hc9Ea5Vt5pjaGpLvLTsD_XoUvgqglB6ZvkvGiI3gMaMfwItQ5QZ5a3ptBZwjc433Falq5ubFahNVpSK2w.jpg",
+      "author_photo_path": "channels/media_hb/media/3f9e085178f3f8a41e08cee4.jpg",
+      "body_html": "ترامپ داره توی تروث سوشال تحلیل میکنه که چرا نامزد های جمهوری‌خواه اینطوری ریدن",
+      "plain_text": "ترامپ داره توی تروث سوشال تحلیل میکنه که چرا نامزد های جمهوری‌خواه اینطوری ریدن",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/110178",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/S3a0qV-YhiPaRB6_M2FVBP92QGtE3mp1aSaiFG2Zq9Uth-h-3G0D0gxI7o55w3aozyimexZYjpGnePBXBsknt9tyVz73Hg2Iz2x06cgvbZNONuP_DUwPUzWbgunHSggg6lMBIev-BbH8oaXvIIiwIzefVH7QSBMRB9ghRYcZrgRIT6Rp1YQx3rAXuIQm-3PoNoMDJZZ7S1ajVLPFgYH0Mk4nGpOnNzaDs5flBYKB2n7Q9OMYSdZ_FkZ4NMHpL2UgkycLR1VbR_xjiK3hRbszCwTJdLn97iyrrgbIexkTmmmibjdbzlHkDzOfS5tIT5CfS83Y_uquvCybFwfGZ4FTZw.jpg",
+          "thumbnail_path": "channels/media_hb/media/2ce2105bcd27484762b8c758.jpg",
+          "duration_label": null,
+          "aspect_ratio": 2.1798365122615806
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "119"
+        },
+        {
+          "emoji": "🤡",
+          "count": "4"
+        }
+      ],
+      "views_label": "6.75K",
+      "posted_at": "2026-11-04T04:49:49+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110178"
+    },
+    {
+      "id": "Media_HB/110177",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/GKwXD7QqZE7ow7D7wSmLUHeYxUtK6vC0ess1KvaXHE8pvVJch4PGIx5OPFgElCytvDBxj6J0-x0k_YgWLFQst1W-UfbnVQ9-AnW368-7hgEHOziorjob59Lp6s8eCUXXqmSakhNTsyyNorQ_4mQ2KU3Lb42PBiGThG22PUjhzeDTKH2iAgLIsnbnrgk2cCdI6DLP60pD1NTeWr5My0vm07Om9YBsFi5SCQuXvprmQIBYz-1C94BiPL_Z8NGsM83QBjYi6Hc9Ea5Vt5pjaGpLvLTsD_XoUvgqglB6ZvkvGiI3gMaMfwItQ5QZ5a3ptBZwjc433Falq5ubFahNVpSK2w.jpg",
+      "author_photo_path": "channels/media_hb/media/3f9e085178f3f8a41e08cee4.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> ترامپ درباره حمله به ایران:<br><br>ما بررسی خواهیم کرد، و اگر فرصتی برای انجام کاری ببینیم، آن را انجام خواهیم داد.</b>",
+      "plain_text": "🔴 ترامپ درباره حمله به ایران: ما بررسی خواهیم کرد، و اگر فرصتی برای انجام کاری ببینیم، آن را انجام خواهیم داد.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "65"
+        },
+        {
+          "emoji": "🔥",
+          "count": "10"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        },
+        {
+          "emoji": "😡",
+          "count": "2"
+        },
+        {
+          "emoji": "👀",
+          "count": "1"
+        }
+      ],
+      "views_label": "7.19K",
+      "posted_at": "2026-11-04T04:38:28+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110177"
+    },
+    {
+      "id": "Media_HB/110176",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/GKwXD7QqZE7ow7D7wSmLUHeYxUtK6vC0ess1KvaXHE8pvVJch4PGIx5OPFgElCytvDBxj6J0-x0k_YgWLFQst1W-UfbnVQ9-AnW368-7hgEHOziorjob59Lp6s8eCUXXqmSakhNTsyyNorQ_4mQ2KU3Lb42PBiGThG22PUjhzeDTKH2iAgLIsnbnrgk2cCdI6DLP60pD1NTeWr5My0vm07Om9YBsFi5SCQuXvprmQIBYz-1C94BiPL_Z8NGsM83QBjYi6Hc9Ea5Vt5pjaGpLvLTsD_XoUvgqglB6ZvkvGiI3gMaMfwItQ5QZ5a3ptBZwjc433Falq5ubFahNVpSK2w.jpg",
+      "author_photo_path": "channels/media_hb/media/3f9e085178f3f8a41e08cee4.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i><b> دموکرات‌ها کنترل سنا را به دست آورده‌اند و به ۵۱ کرسی مورد نیاز برای اکثریت دست یافته‌اند.</b>",
+      "plain_text": "❗ دموکرات‌ها کنترل سنا را به دست آورده‌اند و به ۵۱ کرسی مورد نیاز برای اکثریت دست یافته‌اند.",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/110176",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/IXZOTWLT2ThZG6ME27bOXO5g6X7t3HRsH65D2LxmUqbQxp1WY2dRq9rTPa1EKahxgG9nO34gfEvhYVKiN4ayQUP9_a5QK2_CrQoZNFXnP0MckCbLbZYIw5ShRVkxapXiOWuDXDdIzP4oKnIZe3ujlOnxRNDsdDkCDTxrnZ8ai9o1vrZ1zZDhBUcD5yhth3KGxVoDbPfQtw1LaVI1vwgSyLe8dt8N6Sq76X7yt07TgyksutBdpnjRndimmsufskW3JpZhe64CQdIoSmbrbTCsJXBz8es2vRFcYKuSDAq817V1y2rey1GydOWFfV_hkMgPD1C-Bh9BDP5TLm0yJIaonA.jpg",
+          "thumbnail_path": "channels/media_hb/media/ae5981bfeb71c4a8cd5fb39e.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.2102874432677762
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "97"
+        },
+        {
+          "emoji": "🔥",
+          "count": "7"
+        },
+        {
+          "emoji": "💔",
+          "count": "4"
+        }
+      ],
+      "views_label": "7.4K",
+      "posted_at": "2026-11-04T04:36:51+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110176"
+    },
+    {
+      "id": "Media_HB/110175",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/GKwXD7QqZE7ow7D7wSmLUHeYxUtK6vC0ess1KvaXHE8pvVJch4PGIx5OPFgElCytvDBxj6J0-x0k_YgWLFQst1W-UfbnVQ9-AnW368-7hgEHOziorjob59Lp6s8eCUXXqmSakhNTsyyNorQ_4mQ2KU3Lb42PBiGThG22PUjhzeDTKH2iAgLIsnbnrgk2cCdI6DLP60pD1NTeWr5My0vm07Om9YBsFi5SCQuXvprmQIBYz-1C94BiPL_Z8NGsM83QBjYi6Hc9Ea5Vt5pjaGpLvLTsD_XoUvgqglB6ZvkvGiI3gMaMfwItQ5QZ5a3ptBZwjc433Falq5ubFahNVpSK2w.jpg",
+      "author_photo_path": "channels/media_hb/media/3f9e085178f3f8a41e08cee4.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i> نتایج انتخابات مجلس سنای آمریکا:  <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')\"><b>🔵</b></i> دموکرات‌ها: 48 کرسی <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> جمهوری‌خواهان: 39 کرسی  • برای کسب اکثریت، 51 کرسی مورد نیاز است. • هنوز نتیجه 13 کرسی دیگر اعلام نشده است.",
+      "plain_text": "❗ نتایج انتخابات مجلس سنای آمریکا: 🔵 دموکرات‌ها: 48 کرسی 🔴 جمهوری‌خواهان: 39 کرسی • برای کسب اکثریت، 51 کرسی مورد نیاز است. • هنوز نتیجه 13 کرسی دیگر اعلام نشده است.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "53"
+        },
+        {
+          "emoji": "😭",
+          "count": "18"
+        },
+        {
+          "emoji": "😍",
+          "count": "10"
+        },
+        {
+          "emoji": "🔥",
+          "count": "4"
+        },
+        {
+          "emoji": "💔",
+          "count": "3"
+        }
+      ],
+      "views_label": "7.76K",
+      "posted_at": "2026-11-04T04:16:13+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110175"
+    },
+    {
+      "id": "Media_HB/110174",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/GKwXD7QqZE7ow7D7wSmLUHeYxUtK6vC0ess1KvaXHE8pvVJch4PGIx5OPFgElCytvDBxj6J0-x0k_YgWLFQst1W-UfbnVQ9-AnW368-7hgEHOziorjob59Lp6s8eCUXXqmSakhNTsyyNorQ_4mQ2KU3Lb42PBiGThG22PUjhzeDTKH2iAgLIsnbnrgk2cCdI6DLP60pD1NTeWr5My0vm07Om9YBsFi5SCQuXvprmQIBYz-1C94BiPL_Z8NGsM83QBjYi6Hc9Ea5Vt5pjaGpLvLTsD_XoUvgqglB6ZvkvGiI3gMaMfwItQ5QZ5a3ptBZwjc433Falq5ubFahNVpSK2w.jpg",
+      "author_photo_path": "channels/media_hb/media/3f9e085178f3f8a41e08cee4.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> پیش‌بینی‌های شبکه فاکس نیوز:<br><br> دموکرات‌ها اکثریت را در مجلس نمایندگان به دست می‌آورند.</b>",
+      "plain_text": "🔴 پیش‌بینی‌های شبکه فاکس نیوز: دموکرات‌ها اکثریت را در مجلس نمایندگان به دست می‌آورند.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "💔",
+          "count": "62"
+        },
+        {
+          "emoji": "😍",
+          "count": "7"
+        },
+        {
+          "emoji": "🤣",
+          "count": "5"
+        },
+        {
+          "emoji": "👍",
+          "count": "4"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        }
+      ],
+      "views_label": "7.86K",
+      "posted_at": "2026-11-04T04:09:29+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110174"
+    },
+    {
+      "id": "Media_HB/110173",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/GKwXD7QqZE7ow7D7wSmLUHeYxUtK6vC0ess1KvaXHE8pvVJch4PGIx5OPFgElCytvDBxj6J0-x0k_YgWLFQst1W-UfbnVQ9-AnW368-7hgEHOziorjob59Lp6s8eCUXXqmSakhNTsyyNorQ_4mQ2KU3Lb42PBiGThG22PUjhzeDTKH2iAgLIsnbnrgk2cCdI6DLP60pD1NTeWr5My0vm07Om9YBsFi5SCQuXvprmQIBYz-1C94BiPL_Z8NGsM83QBjYi6Hc9Ea5Vt5pjaGpLvLTsD_XoUvgqglB6ZvkvGiI3gMaMfwItQ5QZ5a3ptBZwjc433Falq5ubFahNVpSK2w.jpg",
+      "author_photo_path": "channels/media_hb/media/3f9e085178f3f8a41e08cee4.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i><b> نتایج انتخابات مجلس سنای آمریکا:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')\"><b>🔵</b></i> دموکرات‌ها: 48 کرسی<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> جمهوری‌خواهان: 39 کرسی<br><br>• برای کسب اکثریت، 51 کرسی مورد نیاز است.<br>• هنوز نتیجه 13 کرسی دیگر اعلام نشده است.</b>",
+      "plain_text": "❗ نتایج انتخابات مجلس سنای آمریکا: 🔵 دموکرات‌ها: 48 کرسی 🔴 جمهوری‌خواهان: 39 کرسی • برای کسب اکثریت، 51 کرسی مورد نیاز است. • هنوز نتیجه 13 کرسی دیگر اعلام نشده است.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "41"
+        },
+        {
+          "emoji": "😭",
+          "count": "13"
+        },
+        {
+          "emoji": "🤡",
+          "count": "2"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        }
+      ],
+      "views_label": "8.07K",
+      "posted_at": "2026-11-04T04:08:11+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110173"
+    },
+    {
+      "id": "Media_HB/110172",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/GKwXD7QqZE7ow7D7wSmLUHeYxUtK6vC0ess1KvaXHE8pvVJch4PGIx5OPFgElCytvDBxj6J0-x0k_YgWLFQst1W-UfbnVQ9-AnW368-7hgEHOziorjob59Lp6s8eCUXXqmSakhNTsyyNorQ_4mQ2KU3Lb42PBiGThG22PUjhzeDTKH2iAgLIsnbnrgk2cCdI6DLP60pD1NTeWr5My0vm07Om9YBsFi5SCQuXvprmQIBYz-1C94BiPL_Z8NGsM83QBjYi6Hc9Ea5Vt5pjaGpLvLTsD_XoUvgqglB6ZvkvGiI3gMaMfwItQ5QZ5a3ptBZwjc433Falq5ubFahNVpSK2w.jpg",
+      "author_photo_path": "channels/media_hb/media/3f9e085178f3f8a41e08cee4.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i><b>ترامپ:<br><br>من نامزد نبودم و اگر نامزد بودم، با اختلافی قاطع پیروز می‌شدیم!</b>",
+      "plain_text": "❗ترامپ: من نامزد نبودم و اگر نامزد بودم، با اختلافی قاطع پیروز می‌شدیم!",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/110172",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/UDfhfAVnFP42tw2zTDB4TEnQHkWqKLKDGk5m87WY0Eq3m0JDS25BG0mMp_Ro3wb452peMSPnxwKy6UBhXdz5-IKH1wD2yyr3EdxODFGfrHzwxqrYNkCASElPaVGvIvgdjvJl6Hr30INI-Y_tG_oW5BM3T3yfDpNL-3V_SnuOmC_xiyklSPLyLuK1wkmlcQKq5aUJxv9UaqxQQWCSBYTXbVgzYnCby5l6fEkmbcOXZK3m8TF2BLADtVDjnX4j6SgV7J2SmGZ-5nsy6LChTjSo8rpo-i57w9-xRoAaGCcnrj3LcMy2ej41GfmxjGXF7toMNp-RyQDnpPmp1I6Wp4iifg.jpg",
+          "thumbnail_path": "channels/media_hb/media/566b1fde4cea3761e3fedbfb.jpg",
+          "duration_label": null,
+          "aspect_ratio": 3.2388663967611335
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "179"
+        },
+        {
+          "emoji": "❤",
+          "count": "8"
+        },
+        {
+          "emoji": "🤡",
+          "count": "6"
+        }
+      ],
+      "views_label": "8.4K",
+      "posted_at": "2026-11-04T03:39:37+00:00",
+      "edited": true,
+      "permalink": "https://t.me/Media_HB/110172"
+    },
+    {
+      "id": "Media_HB/110171",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/GKwXD7QqZE7ow7D7wSmLUHeYxUtK6vC0ess1KvaXHE8pvVJch4PGIx5OPFgElCytvDBxj6J0-x0k_YgWLFQst1W-UfbnVQ9-AnW368-7hgEHOziorjob59Lp6s8eCUXXqmSakhNTsyyNorQ_4mQ2KU3Lb42PBiGThG22PUjhzeDTKH2iAgLIsnbnrgk2cCdI6DLP60pD1NTeWr5My0vm07Om9YBsFi5SCQuXvprmQIBYz-1C94BiPL_Z8NGsM83QBjYi6Hc9Ea5Vt5pjaGpLvLTsD_XoUvgqglB6ZvkvGiI3gMaMfwItQ5QZ5a3ptBZwjc433Falq5ubFahNVpSK2w.jpg",
+      "author_photo_path": "channels/media_hb/media/3f9e085178f3f8a41e08cee4.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i><b>نتایج انتخابات مجلس سنای آمریکا:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')\"><b>🔵</b></i> دموکرات‌ها: 46 کرسی<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> جمهوری‌خواهان: 38 کرسی<br><br>• برای کسب اکثریت به 51 کرسی نیاز است.<br>• اعلام نتایج 16 کرسی باقی مانده است.</b>",
+      "plain_text": "❗نتایج انتخابات مجلس سنای آمریکا: 🔵 دموکرات‌ها: 46 کرسی 🔴 جمهوری‌خواهان: 38 کرسی • برای کسب اکثریت به 51 کرسی نیاز است. • اعلام نتایج 16 کرسی باقی مانده است.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "😁",
+          "count": "35"
+        },
+        {
+          "emoji": "🤣",
+          "count": "8"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        },
+        {
+          "emoji": "👎",
+          "count": "1"
+        }
+      ],
+      "views_label": "8.8K",
+      "posted_at": "2026-11-04T03:15:11+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110171"
+    },
+    {
+      "id": "Media_HB/110169",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/GKwXD7QqZE7ow7D7wSmLUHeYxUtK6vC0ess1KvaXHE8pvVJch4PGIx5OPFgElCytvDBxj6J0-x0k_YgWLFQst1W-UfbnVQ9-AnW368-7hgEHOziorjob59Lp6s8eCUXXqmSakhNTsyyNorQ_4mQ2KU3Lb42PBiGThG22PUjhzeDTKH2iAgLIsnbnrgk2cCdI6DLP60pD1NTeWr5My0vm07Om9YBsFi5SCQuXvprmQIBYz-1C94BiPL_Z8NGsM83QBjYi6Hc9Ea5Vt5pjaGpLvLTsD_XoUvgqglB6ZvkvGiI3gMaMfwItQ5QZ5a3ptBZwjc433Falq5ubFahNVpSK2w.jpg",
+      "author_photo_path": "channels/media_hb/media/3f9e085178f3f8a41e08cee4.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i><b>کرسی گراهامِ جمهوری‌خواهِ «درگذشته» به کرسی دموکرات‌ها تبدیل می‌شود.</b>",
+      "plain_text": "❗کرسی گراهامِ جمهوری‌خواهِ «درگذشته» به کرسی دموکرات‌ها تبدیل می‌شود.",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/110169",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/KT_A8lw_MJ634fpY7qm63OG6JmIyn9_z2ktJCcimu5PPuflIdzPxAoN4U6LoPwdu01bhai2z6a0rqXDyUq0ncIN16-P503srO859QHOOTHsnUaTHe0K9fgjvOBur7x45YMukZSYjdU5NAMzApuwBbY9htsCawWYkFtohUCePXz-Fz66-nToVpoR-XgAAuW-vsmwBSzwOvv_zTYcRAzyBgEdfsBXJeG6eG0gloBgFPUYI6UNMJtam-MV6FzKsgz8bPc5QIrFBnwcCQqllyaETn2YuIdhIL1fWKjI5X3PiYMpOPc-LmnEaxo1SK-a8BBT4HWN8VyUKWmXbJk0Y3rwl5w.jpg",
+          "thumbnail_path": "channels/media_hb/media/c31214aecfa2f94a8f80a533.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.5076923076923054
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "💔",
+          "count": "226"
+        },
+        {
+          "emoji": "🔥",
+          "count": "20"
+        },
+        {
+          "emoji": "❤",
+          "count": "4"
+        },
+        {
+          "emoji": "😁",
+          "count": "2"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
+        },
+        {
+          "emoji": "😡",
+          "count": "1"
+        }
+      ],
+      "views_label": "9.15K",
+      "posted_at": "2026-11-04T02:21:24+00:00",
+      "edited": true,
+      "permalink": "https://t.me/Media_HB/110169"
+    },
+    {
+      "id": "Media_HB/110168",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/GKwXD7QqZE7ow7D7wSmLUHeYxUtK6vC0ess1KvaXHE8pvVJch4PGIx5OPFgElCytvDBxj6J0-x0k_YgWLFQst1W-UfbnVQ9-AnW368-7hgEHOziorjob59Lp6s8eCUXXqmSakhNTsyyNorQ_4mQ2KU3Lb42PBiGThG22PUjhzeDTKH2iAgLIsnbnrgk2cCdI6DLP60pD1NTeWr5My0vm07Om9YBsFi5SCQuXvprmQIBYz-1C94BiPL_Z8NGsM83QBjYi6Hc9Ea5Vt5pjaGpLvLTsD_XoUvgqglB6ZvkvGiI3gMaMfwItQ5QZ5a3ptBZwjc433Falq5ubFahNVpSK2w.jpg",
+      "author_photo_path": "channels/media_hb/media/3f9e085178f3f8a41e08cee4.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><b>کاخ سفید برنامه ترامپ برای روز چهارشنبه، ۴ نوامبر را منتشر کرده است که در آن در حال حاضر هیچ رویدادی که برای حضور رسانه‌ها باز باشد، ذکر نشده است.</b>",
+      "plain_text": "🚨کاخ سفید برنامه ترامپ برای روز چهارشنبه، ۴ نوامبر را منتشر کرده است که در آن در حال حاضر هیچ رویدادی که برای حضور رسانه‌ها باز باشد، ذکر نشده است.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👀",
+          "count": "32"
+        },
+        {
+          "emoji": "🔥",
+          "count": "2"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        }
+      ],
+      "views_label": "8.9K",
+      "posted_at": "2026-11-04T02:16:17+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110168"
+    },
+    {
+      "id": "Media_HB/110167",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/GKwXD7QqZE7ow7D7wSmLUHeYxUtK6vC0ess1KvaXHE8pvVJch4PGIx5OPFgElCytvDBxj6J0-x0k_YgWLFQst1W-UfbnVQ9-AnW368-7hgEHOziorjob59Lp6s8eCUXXqmSakhNTsyyNorQ_4mQ2KU3Lb42PBiGThG22PUjhzeDTKH2iAgLIsnbnrgk2cCdI6DLP60pD1NTeWr5My0vm07Om9YBsFi5SCQuXvprmQIBYz-1C94BiPL_Z8NGsM83QBjYi6Hc9Ea5Vt5pjaGpLvLTsD_XoUvgqglB6ZvkvGiI3gMaMfwItQ5QZ5a3ptBZwjc433Falq5ubFahNVpSK2w.jpg",
+      "author_photo_path": "channels/media_hb/media/3f9e085178f3f8a41e08cee4.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i><b>نتایج انتخابات مجلس سنای آمریکا:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')\"><b>🔵</b></i> دموکرات‌ها: 45 کرسی<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> جمهوری‌خواهان: 34 کرسی<br><br>• برای کسب اکثریت به 51 کرسی نیاز است.<br>• اعلام نتایج 21 کرسی باقی مانده است.</b>",
+      "plain_text": "❗نتایج انتخابات مجلس سنای آمریکا: 🔵 دموکرات‌ها: 45 کرسی 🔴 جمهوری‌خواهان: 34 کرسی • برای کسب اکثریت به 51 کرسی نیاز است. • اعلام نتایج 21 کرسی باقی مانده است.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "💔",
+          "count": "51"
+        },
+        {
+          "emoji": "🔥",
+          "count": "4"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        },
+        {
+          "emoji": "👍",
+          "count": "2"
+        },
+        {
+          "emoji": "🤣",
+          "count": "1"
+        }
+      ],
+      "views_label": "8.92K",
+      "posted_at": "2026-11-04T02:05:57+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110167"
+    },
     {
       "id": "Media_HB/110160",
       "author_name": "مدیا هاب | اخبار جنگ",
@@ -2852,690 +3534,6 @@
       "posted_at": "2026-11-02T14:10:06+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110041"
-    },
-    {
-      "id": "Media_HB/110040",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QQkDQ7zfyhyRCkrfUkTvF5c0AgaLEki4rym7ozF2k-5EeHgY60Y4rwzp6Ptf8UXUmpqZHrKq2h3CCEoJVTuLxCHLUj-5fLIeCfFvITyiI7rWUuZ-I0DvsosbEDxNQlWtODcbSzOrrQyqQGzaA3kv2BudIZNEO8jKhW-i_LHOEdSl8wiFxTZAiAeO90u69Hjg4dfTGTDRN1Zx9DU-stSefSm9JQvClsBCMerUac8f3Na0fdsF7xZTTvuNvA_f5oWd9tA-4d13wZxA7NT6Xa6dItXun5ioTGnI_RS8USylhK1Ev4ezYqx5SUb-yEV5DGUBeYbKZKoGDCsRk9RoxyIHJQ.jpg",
-      "author_photo_path": "channels/media_hb/media/b126888b227f9e5ed2d09174.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><b>نفت به طرز وحشتناکی ریخته!</b>",
-      "plain_text": "🚨نفت به طرز وحشتناکی ریخته!",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/110040",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/opGM59ULgXQxvXsa5Al2RdBFoFzAmRpM67ZOutq-ZCHaZZYO9bx9I0stHKQFHBze5Dn-Oh4ddP9wAxMKndsfuYIdN9F_52D7hc_ME_Z9iJC2yTMgbTl7oZv-K1-r-Sqm9r-IDJdQqPLZ98i3uOP-OLEVnoJAW3Woa3lnIl0Tt3g7q3603Bqs8ifZ5QUBecFEIzqdP8FAKObOzCbQ8AfGaqzUwBgT8QNxIGfQpjLsUnZM7NQXub7T9k8CpgkU8BqvhHrA8WAJfSdZKjbRL2BKHUd0cvJgQXKj_BaKy3UHH1bEVuYgovP7s6c9eIp4mTtOhGm-KNCmYaXxarZLC_IY2w.jpg",
-          "thumbnail_path": "channels/media_hb/media/d2a3891c2389b21e175333f1.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "😐",
-          "count": "153"
-        },
-        {
-          "emoji": "💔",
-          "count": "11"
-        },
-        {
-          "emoji": "❤",
-          "count": "9"
-        },
-        {
-          "emoji": "👍",
-          "count": "5"
-        },
-        {
-          "emoji": "👀",
-          "count": "5"
-        },
-        {
-          "emoji": "🔥",
-          "count": "2"
-        }
-      ],
-      "views_label": "11.1K",
-      "posted_at": "2026-11-02T13:54:17+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110040"
-    },
-    {
-      "id": "Media_HB/110039",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QQkDQ7zfyhyRCkrfUkTvF5c0AgaLEki4rym7ozF2k-5EeHgY60Y4rwzp6Ptf8UXUmpqZHrKq2h3CCEoJVTuLxCHLUj-5fLIeCfFvITyiI7rWUuZ-I0DvsosbEDxNQlWtODcbSzOrrQyqQGzaA3kv2BudIZNEO8jKhW-i_LHOEdSl8wiFxTZAiAeO90u69Hjg4dfTGTDRN1Zx9DU-stSefSm9JQvClsBCMerUac8f3Na0fdsF7xZTTvuNvA_f5oWd9tA-4d13wZxA7NT6Xa6dItXun5ioTGnI_RS8USylhK1Ev4ezYqx5SUb-yEV5DGUBeYbKZKoGDCsRk9RoxyIHJQ.jpg",
-      "author_photo_path": "channels/media_hb/media/b126888b227f9e5ed2d09174.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> <b>امروز شاهد پرتاب آزمایشی موشک های بالستیک از همدان، شاهین شهر و میمه ( اصفهان ) بودیم.</b>",
-      "plain_text": "🔴 امروز شاهد پرتاب آزمایشی موشک های بالستیک از همدان، شاهین شهر و میمه ( اصفهان ) بودیم.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "62"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        }
-      ],
-      "views_label": "9.09K",
-      "posted_at": "2026-11-02T13:54:16+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110039"
-    },
-    {
-      "id": "Media_HB/110038",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QQkDQ7zfyhyRCkrfUkTvF5c0AgaLEki4rym7ozF2k-5EeHgY60Y4rwzp6Ptf8UXUmpqZHrKq2h3CCEoJVTuLxCHLUj-5fLIeCfFvITyiI7rWUuZ-I0DvsosbEDxNQlWtODcbSzOrrQyqQGzaA3kv2BudIZNEO8jKhW-i_LHOEdSl8wiFxTZAiAeO90u69Hjg4dfTGTDRN1Zx9DU-stSefSm9JQvClsBCMerUac8f3Na0fdsF7xZTTvuNvA_f5oWd9tA-4d13wZxA7NT6Xa6dItXun5ioTGnI_RS8USylhK1Ev4ezYqx5SUb-yEV5DGUBeYbKZKoGDCsRk9RoxyIHJQ.jpg",
-      "author_photo_path": "channels/media_hb/media/b126888b227f9e5ed2d09174.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> عامیت سگال، خبرنگار و تحلیل‌گر شبکه ١٢ اسرائیل :<br><br>آیزنکوت حکم مأموریت تشکیل دولت را خواهد گرفت، اما او با این حکم چه کاری می‌تواند انجام دهد تا ظرف شش هفته نخست‌وزیر شود؟ احتمالاً هیچ‌کاری</b>.",
-      "plain_text": "🔴 عامیت سگال، خبرنگار و تحلیل‌گر شبکه ١٢ اسرائیل : آیزنکوت حکم مأموریت تشکیل دولت را خواهد گرفت، اما او با این حکم چه کاری می‌تواند انجام دهد تا ظرف شش هفته نخست‌وزیر شود؟ احتمالاً هیچ‌کاری.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "104"
-        },
-        {
-          "emoji": "🤣",
-          "count": "8"
-        },
-        {
-          "emoji": "👍",
-          "count": "3"
-        },
-        {
-          "emoji": "❤",
-          "count": "2"
-        }
-      ],
-      "views_label": "9.4K",
-      "posted_at": "2026-11-02T13:21:15+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110038"
-    },
-    {
-      "id": "Media_HB/110037",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QQkDQ7zfyhyRCkrfUkTvF5c0AgaLEki4rym7ozF2k-5EeHgY60Y4rwzp6Ptf8UXUmpqZHrKq2h3CCEoJVTuLxCHLUj-5fLIeCfFvITyiI7rWUuZ-I0DvsosbEDxNQlWtODcbSzOrrQyqQGzaA3kv2BudIZNEO8jKhW-i_LHOEdSl8wiFxTZAiAeO90u69Hjg4dfTGTDRN1Zx9DU-stSefSm9JQvClsBCMerUac8f3Na0fdsF7xZTTvuNvA_f5oWd9tA-4d13wZxA7NT6Xa6dItXun5ioTGnI_RS8USylhK1Ev4ezYqx5SUb-yEV5DGUBeYbKZKoGDCsRk9RoxyIHJQ.jpg",
-      "author_photo_path": "channels/media_hb/media/b126888b227f9e5ed2d09174.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><b> شبکه عبری i24NEWS:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> حتی نزدیک‌ترین مشاوران نتانیاهو از محتوای تماس «خصوصی» او و ترامپ بی‌اطلاع نگه داشته شده‌اند و جزئیات اندکی از این گفت‌وگو منتشر شده<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> «مقام‌های ارشد امنیتی اسرائیل» در جریان محتوای این مکالمه قرار گرفته‌اند<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i>سکوت فعلی نتانیاهو، نشان‌ دهنده جدیت و حساسیت شرایط کنونی است</b>",
-      "plain_text": "🚨 شبکه عبری i24NEWS: 🔹 حتی نزدیک‌ترین مشاوران نتانیاهو از محتوای تماس «خصوصی» او و ترامپ بی‌اطلاع نگه داشته شده‌اند و جزئیات اندکی از این گفت‌وگو منتشر شده 🔹 «مقام‌های ارشد امنیتی اسرائیل» در جریان محتوای این مکالمه قرار گرفته‌اند ❗سکوت فعلی نتانیاهو، نشان‌ دهنده جدیت و حساسیت شرایط کنونی است",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "135"
-        },
-        {
-          "emoji": "👀",
-          "count": "7"
-        },
-        {
-          "emoji": "🤡",
-          "count": "3"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        }
-      ],
-      "views_label": "11.5K",
-      "posted_at": "2026-11-02T05:43:08+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110037"
-    },
-    {
-      "id": "Media_HB/110035",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QQkDQ7zfyhyRCkrfUkTvF5c0AgaLEki4rym7ozF2k-5EeHgY60Y4rwzp6Ptf8UXUmpqZHrKq2h3CCEoJVTuLxCHLUj-5fLIeCfFvITyiI7rWUuZ-I0DvsosbEDxNQlWtODcbSzOrrQyqQGzaA3kv2BudIZNEO8jKhW-i_LHOEdSl8wiFxTZAiAeO90u69Hjg4dfTGTDRN1Zx9DU-stSefSm9JQvClsBCMerUac8f3Na0fdsF7xZTTvuNvA_f5oWd9tA-4d13wZxA7NT6Xa6dItXun5ioTGnI_RS8USylhK1Ev4ezYqx5SUb-yEV5DGUBeYbKZKoGDCsRk9RoxyIHJQ.jpg",
-      "author_photo_path": "channels/media_hb/media/b126888b227f9e5ed2d09174.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i> بری بت | BerryBet</b><br><br><tg-emoji emoji-id=\"5375452661036358740\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></tg-emoji> <b>مسابقات امروز </b><tg-emoji emoji-id=\"5458485283790004353\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918D.png')\"><b>👍</b></i></tg-emoji><b> </b><br><br><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i>   تراکتور - نفتچی<br><tg-emoji emoji-id=\"5992127827787388962\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C8E.png')\"><b>🌎</b></i></tg-emoji> ساعت ۱۹:۳۰<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i> السد دوحه - الاهلی جده<br><tg-emoji emoji-id=\"5992127827787388962\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C8E.png')\"><b>🌎</b></i></tg-emoji> ساعت ۱۹:۳۰<br></blockquote><br>﻿<br><tg-emoji emoji-id=\"5447458260200214425\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B8.png')\"><b>💸</b></i></tg-emoji> <b>ضرایب ویژه و رقابتی<br></b><b><tg-emoji emoji-id=\"5411590687663608498\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i></tg-emoji></b><b> پیش‌بینی سریع، تسویه آسان و پخش زنده مسابقات</b><br><br><tg-emoji emoji-id=\"5310278924616356636\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EAF.png')\"><b>🎯</b></i></tg-emoji> <b>همین حالا شانس خودت رو امتحان کن و هیجان فوتبال رو چند برابر کن!</b><br><br> <tg-emoji emoji-id=\"6034905633336070030\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji><a href=\"https://t.me/BerryBetOfficial\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>۱۰٪ شارژ بیشتر برای روش‌های رمزارز</b></a><br><tg-emoji emoji-id=\"5258337316715373336\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA499.png')\"><b>🤙</b></i></tg-emoji> <b>ورود سریع | شارژ آنی | پشتیبانی ۲۴ ساعت</b><br><br>کانال سایت:<br><b> </b><tg-emoji emoji-id=\"5429501538806548545\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/BerryBetOfficial\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/BerryBetOfficial</b></a><br>آدرس سایت:<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰</b></i>r11<br><b>  </b><tg-emoji emoji-id=\"5271604874419647061\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i></tg-emoji> <a href=\"https://wokfjcuhds.shop/fa/affiliates/?btag=914641_l303106\" target=\"_blank\" rel=\"noopener\"><b>https://wokfjcuhds.shop/fa/affiliates/?btag=914641_l303106</b></a>",
-      "plain_text": "⚡ بری بت | BerryBet 🔥 مسابقات امروز 👍 ⚽️ تراکتور - نفتچی 🌎 ساعت ۱۹:۳۰ ⚽️ السد دوحه - الاهلی جده 🌎 ساعت ۱۹:۳۰ 💸 ضرایب ویژه و رقابتی ⚡ پیش‌بینی سریع، تسویه آسان و پخش زنده مسابقات 🎯 همین حالا شانس خودت رو امتحان کن و هیجان فوتبال رو چند برابر کن! ✅۱۰٪ شارژ بیشتر برای روش‌های رمزارز 🤙 ورود سریع | شارژ آنی | پشتیبانی ۲۴ ساعت کانال سایت: ✅ https://t.me/BerryBetOfficial آدرس سایت:🅰r11 🔗 https://wokfjcuhds.shop/fa/affiliates/?btag=914641_l303106",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/110035",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/TKTFUD_XlYV80-kjHWoOIuQSOZBUAkPx1DRr0wJrm1I2pK0BPNUAjSf5A3VCMfXCAlfxwbjhu__nVE8sjNhRLq_4aILNlTvpAUynlMXwagJGyPFDn01iTlZow7Hk-zBgyyRJaV2wvsK1KWdhoXAHnNCrxoCgApK-glpGtJKMl2TMrCpD7roHVR3fpV130Dw0d6jgkjzNozje58qHwX_OucNZ9QB8Ey-ex35VZ_6uJCJvHFKZRVouhF_qC4QGT-vZ7kbjtS-IbrywE_FqMyvF3UJVWwfA3byrsSC5YWV_WmL1tHqyRYoPPSCKSMWrt8cNFTbokD2Zm2Pi39XDuN4vKw.jpg",
-          "thumbnail_path": "channels/media_hb/media/3eab5b7023bb02d7e092af83.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "4"
-        },
-        {
-          "emoji": "🤣",
-          "count": "2"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        },
-        {
-          "emoji": "😡",
-          "count": "1"
-        }
-      ],
-      "views_label": "11.2K",
-      "posted_at": "2026-11-02T05:42:29+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110035"
-    },
-    {
-      "id": "Media_HB/110036",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QQkDQ7zfyhyRCkrfUkTvF5c0AgaLEki4rym7ozF2k-5EeHgY60Y4rwzp6Ptf8UXUmpqZHrKq2h3CCEoJVTuLxCHLUj-5fLIeCfFvITyiI7rWUuZ-I0DvsosbEDxNQlWtODcbSzOrrQyqQGzaA3kv2BudIZNEO8jKhW-i_LHOEdSl8wiFxTZAiAeO90u69Hjg4dfTGTDRN1Zx9DU-stSefSm9JQvClsBCMerUac8f3Na0fdsF7xZTTvuNvA_f5oWd9tA-4d13wZxA7NT6Xa6dItXun5ioTGnI_RS8USylhK1Ev4ezYqx5SUb-yEV5DGUBeYbKZKoGDCsRk9RoxyIHJQ.jpg",
-      "author_photo_path": "channels/media_hb/media/b126888b227f9e5ed2d09174.jpg",
-      "body_html": "<b>همین حالا ثبت‌ نام کنید و از بونوس های جدید ما لذت ببرید</b><b><tg-emoji emoji-id=\"6035277294036061660\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B5.png')\"><b>💵</b></i></tg-emoji></b><tg-emoji emoji-id=\"5780560530515171033\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B8D.png')\"><b>🛍</b></i></tg-emoji><tg-emoji emoji-id=\"5300815548295165085\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9186.png')\"><b>👆</b></i></tg-emoji>",
-      "plain_text": "همین حالا ثبت‌ نام کنید و از بونوس های جدید ما لذت ببرید💵🛍👆",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "7"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        },
-        {
-          "emoji": "😡",
-          "count": "1"
-        }
-      ],
-      "views_label": "11.1K",
-      "posted_at": "2026-11-02T05:42:29+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110036"
-    },
-    {
-      "id": "Media_HB/110033",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QQkDQ7zfyhyRCkrfUkTvF5c0AgaLEki4rym7ozF2k-5EeHgY60Y4rwzp6Ptf8UXUmpqZHrKq2h3CCEoJVTuLxCHLUj-5fLIeCfFvITyiI7rWUuZ-I0DvsosbEDxNQlWtODcbSzOrrQyqQGzaA3kv2BudIZNEO8jKhW-i_LHOEdSl8wiFxTZAiAeO90u69Hjg4dfTGTDRN1Zx9DU-stSefSm9JQvClsBCMerUac8f3Na0fdsF7xZTTvuNvA_f5oWd9tA-4d13wZxA7NT6Xa6dItXun5ioTGnI_RS8USylhK1Ev4ezYqx5SUb-yEV5DGUBeYbKZKoGDCsRk9RoxyIHJQ.jpg",
-      "author_photo_path": "channels/media_hb/media/b126888b227f9e5ed2d09174.jpg",
-      "body_html": "پشمام<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9890.png')\"><b>😐</b></i>",
-      "plain_text": "پشمام😐",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "235"
-        },
-        {
-          "emoji": "😐",
-          "count": "51"
-        },
-        {
-          "emoji": "❤",
-          "count": "12"
-        },
-        {
-          "emoji": "🤣",
-          "count": "10"
-        },
-        {
-          "emoji": "👍",
-          "count": "6"
-        },
-        {
-          "emoji": "💔",
-          "count": "4"
-        },
-        {
-          "emoji": "😡",
-          "count": "3"
-        }
-      ],
-      "views_label": "12.3K",
-      "posted_at": "2026-11-02T03:24:42+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Media_HB/110033"
-    },
-    {
-      "id": "Media_HB/110032",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QQkDQ7zfyhyRCkrfUkTvF5c0AgaLEki4rym7ozF2k-5EeHgY60Y4rwzp6Ptf8UXUmpqZHrKq2h3CCEoJVTuLxCHLUj-5fLIeCfFvITyiI7rWUuZ-I0DvsosbEDxNQlWtODcbSzOrrQyqQGzaA3kv2BudIZNEO8jKhW-i_LHOEdSl8wiFxTZAiAeO90u69Hjg4dfTGTDRN1Zx9DU-stSefSm9JQvClsBCMerUac8f3Na0fdsF7xZTTvuNvA_f5oWd9tA-4d13wZxA7NT6Xa6dItXun5ioTGnI_RS8USylhK1Ev4ezYqx5SUb-yEV5DGUBeYbKZKoGDCsRk9RoxyIHJQ.jpg",
-      "author_photo_path": "channels/media_hb/media/b126888b227f9e5ed2d09174.jpg",
-      "body_html": "پشمام<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9890.png')\"><b>😐</b></i>",
-      "plain_text": "پشمام😐",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "45"
-        },
-        {
-          "emoji": "😐",
-          "count": "5"
-        },
-        {
-          "emoji": "👀",
-          "count": "2"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        }
-      ],
-      "views_label": "11.3K",
-      "posted_at": "2026-11-02T03:24:09+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110032"
-    },
-    {
-      "id": "Media_HB/110031",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QQkDQ7zfyhyRCkrfUkTvF5c0AgaLEki4rym7ozF2k-5EeHgY60Y4rwzp6Ptf8UXUmpqZHrKq2h3CCEoJVTuLxCHLUj-5fLIeCfFvITyiI7rWUuZ-I0DvsosbEDxNQlWtODcbSzOrrQyqQGzaA3kv2BudIZNEO8jKhW-i_LHOEdSl8wiFxTZAiAeO90u69Hjg4dfTGTDRN1Zx9DU-stSefSm9JQvClsBCMerUac8f3Na0fdsF7xZTTvuNvA_f5oWd9tA-4d13wZxA7NT6Xa6dItXun5ioTGnI_RS8USylhK1Ev4ezYqx5SUb-yEV5DGUBeYbKZKoGDCsRk9RoxyIHJQ.jpg",
-      "author_photo_path": "channels/media_hb/media/b126888b227f9e5ed2d09174.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> ترامپ:<br>تنها دلیلی که هنوز کار ایران رو تموم نکردیم، اینه که میخوام باهاشون مدارا کنم. میخوام اگه بتونم، جون همه اون آدم‌ها رو نجات بدم.<br>اما بالاخره یه جایی مجبور میشیم با تمام قدرت بهشون ضربه بزنیم.</b>",
-      "plain_text": "🔴 ترامپ: تنها دلیلی که هنوز کار ایران رو تموم نکردیم، اینه که میخوام باهاشون مدارا کنم. میخوام اگه بتونم، جون همه اون آدم‌ها رو نجات بدم. اما بالاخره یه جایی مجبور میشیم با تمام قدرت بهشون ضربه بزنیم.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Media_HB/110031",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/DxL9qyF5xx07L5WElmTMNtP8r6plhj-hUr1bt9cMzOziPPyTurvZohSZdi6gLnWeEpolWJs78Cx3GpXjekjMKqUCw4WAFc3K0QNso1yod4x6VzuywsQW9owh5NVduhepc4jlnBSeNPA1W3n8xwcu7ejSdBiw2m0V_z5Ep-2pCudXRvd2ZfEu0VonkQd2sZSETwVRuTTo4tzoZGQZMeJa1o6nYLlhkrfhrrkgKrLV0Butop2wsjy8czAcCnNYGNu888ScLOxkTdzoPX14_ymLh7cBVpbbiqhD2iQRybp0Eu2m4rKmU-iRT72W-cINwzUSdgL5Vzw9W725QuIzCVb6lA",
-          "thumbnail_path": "channels/media_hb/media/854b0b5ff48ce47089522a88.jpg",
-          "duration_label": "0:16",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "128"
-        },
-        {
-          "emoji": "❤",
-          "count": "17"
-        },
-        {
-          "emoji": "🤡",
-          "count": "6"
-        },
-        {
-          "emoji": "🔥",
-          "count": "2"
-        },
-        {
-          "emoji": "😡",
-          "count": "2"
-        }
-      ],
-      "views_label": "12.3K",
-      "posted_at": "2026-11-01T23:13:24+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110031"
-    },
-    {
-      "id": "Media_HB/110030",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QQkDQ7zfyhyRCkrfUkTvF5c0AgaLEki4rym7ozF2k-5EeHgY60Y4rwzp6Ptf8UXUmpqZHrKq2h3CCEoJVTuLxCHLUj-5fLIeCfFvITyiI7rWUuZ-I0DvsosbEDxNQlWtODcbSzOrrQyqQGzaA3kv2BudIZNEO8jKhW-i_LHOEdSl8wiFxTZAiAeO90u69Hjg4dfTGTDRN1Zx9DU-stSefSm9JQvClsBCMerUac8f3Na0fdsF7xZTTvuNvA_f5oWd9tA-4d13wZxA7NT6Xa6dItXun5ioTGnI_RS8USylhK1Ev4ezYqx5SUb-yEV5DGUBeYbKZKoGDCsRk9RoxyIHJQ.jpg",
-      "author_photo_path": "channels/media_hb/media/b126888b227f9e5ed2d09174.jpg",
-      "body_html": "<b>این کلا 8 ماه حول محور ایران زندگی کرده داره اوتیسم میگیره، ما چی بگیم.</b>",
-      "plain_text": "این کلا 8 ماه حول محور ایران زندگی کرده داره اوتیسم میگیره، ما چی بگیم.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Media_HB/110030",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/jMI_4nh--Pm5yfZMe0baGV5WOJAl7J8KCiGVJupzeu1j31KNwILLU8SUbhRB04bOb5u321Kg9ph5FI2i0Wt3ZSnscWfW5w8uEJbCdZgb2zpM-_GQqSblR6pcZ-RI_87fWr2ydI4H8wBShzeVCP6KF0oep4hCoA731DyZhhBeaKS3S4jVrPbkfZFzHtxXBM0kuRnKz94unGIpL9xkl95vWFIhWuqmr9p2Hg9JdISE2c0571YIMwH1PLwTAwRnfsk-YvKNp1L8lnI3t89jxDVKrR5PkllCTkz7IfG1iQRi1WLK1q3ssqDsh6NXBKEh7bc32lbCi26YsCxS5fOyzaRIkg",
-          "thumbnail_path": "channels/media_hb/media/92a7414d0fd5e4eb05e400ca.jpg",
-          "duration_label": "0:13",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "126"
-        },
-        {
-          "emoji": "👍",
-          "count": "7"
-        },
-        {
-          "emoji": "❤",
-          "count": "2"
-        },
-        {
-          "emoji": "👎",
-          "count": "1"
-        }
-      ],
-      "views_label": "9.68K",
-      "posted_at": "2026-11-01T23:00:13+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110030"
-    },
-    {
-      "id": "Media_HB/110029",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/ebQrqM4XtashQRgZ89Il4BJa0QZvnvbqpdjplOp-PX39njPP93MxcroP6AeTLR_DATlU_YOhooeu4HlwSy67xhkZAclb_JmO1TSil9yUOXNdh7cAKEpF6fQaXgWXmqQ5jWAAJmOyS_rTeUd1EzbwipqDbQ0wqIjkX525cRQafTKS46QugujBYxH31L3q3lnUypX8h-wM2TnSFfohTImWEf09svpOPIUUbqCgmDsfYk-X9t-XVjOMwVK0eaf5QFXA8Mnt6CFJOgUlWYfzj9jC3F3vcbhVQiqaFpgiw4EAVGZFBJt1bMgQcZq8M8cjK_cmYo_9AtgqmYkQBdVZ5Y6buQ.jpg",
-      "author_photo_path": "channels/media_hb/media/f4b687af0d5b3943975e1144.jpg",
-      "body_html": "بچه هایی که کیک دارن چنل رو فالو کنید که تا پس فردا دیگه کم کم استارت بزنیم  https://kick.com/media-hub",
-      "plain_text": "بچه هایی که کیک دارن چنل رو فالو کنید که تا پس فردا دیگه کم کم استارت بزنیم https://kick.com/media-hub",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "53"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        }
-      ],
-      "views_label": "2.19K",
-      "posted_at": "2026-11-01T22:08:22+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110029"
-    },
-    {
-      "id": "Media_HB/110028",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QQkDQ7zfyhyRCkrfUkTvF5c0AgaLEki4rym7ozF2k-5EeHgY60Y4rwzp6Ptf8UXUmpqZHrKq2h3CCEoJVTuLxCHLUj-5fLIeCfFvITyiI7rWUuZ-I0DvsosbEDxNQlWtODcbSzOrrQyqQGzaA3kv2BudIZNEO8jKhW-i_LHOEdSl8wiFxTZAiAeO90u69Hjg4dfTGTDRN1Zx9DU-stSefSm9JQvClsBCMerUac8f3Na0fdsF7xZTTvuNvA_f5oWd9tA-4d13wZxA7NT6Xa6dItXun5ioTGnI_RS8USylhK1Ev4ezYqx5SUb-yEV5DGUBeYbKZKoGDCsRk9RoxyIHJQ.jpg",
-      "author_photo_path": "channels/media_hb/media/b126888b227f9e5ed2d09174.jpg",
-      "body_html": "<a class=\"tgme_widget_message_author_name\" href=\"https://t.me/Media_HB\"><span dir=\"auto\">مدیا هاب | اخبار جنگ</span></a> pinned a photo",
-      "plain_text": "مدیا هاب | اخبار جنگ pinned a photo",
-      "media": [],
-      "reactions": [],
-      "views_label": null,
-      "posted_at": "2026-11-01T22:06:52+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110028"
-    },
-    {
-      "id": "Media_HB/110027",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QQkDQ7zfyhyRCkrfUkTvF5c0AgaLEki4rym7ozF2k-5EeHgY60Y4rwzp6Ptf8UXUmpqZHrKq2h3CCEoJVTuLxCHLUj-5fLIeCfFvITyiI7rWUuZ-I0DvsosbEDxNQlWtODcbSzOrrQyqQGzaA3kv2BudIZNEO8jKhW-i_LHOEdSl8wiFxTZAiAeO90u69Hjg4dfTGTDRN1Zx9DU-stSefSm9JQvClsBCMerUac8f3Na0fdsF7xZTTvuNvA_f5oWd9tA-4d13wZxA7NT6Xa6dItXun5ioTGnI_RS8USylhK1Ev4ezYqx5SUb-yEV5DGUBeYbKZKoGDCsRk9RoxyIHJQ.jpg",
-      "author_photo_path": "channels/media_hb/media/b126888b227f9e5ed2d09174.jpg",
-      "body_html": "بزودی در کیک..",
-      "plain_text": "بزودی در کیک..",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/110027",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/XMXqPgo_M77MAaCtQ-hulcuxKCEaSvelErWvkLwQqP4XHS-0DC3i55sg18Rtv3CLBuBoP2ZeMm5_Z0MWMY0dhWwutoczHyYLau-AgJcwGRfNYrI4ODEY8YMLY90NUZRyVTRKxQrPVGHFDbTcNOYV6vaL44G-MgijqWrBxl8qcA_Ul3ZCj8sRuAuVnRvFUfjySsjy1c9li0jJHBkRTwQNzASPrhoGycp3sZbWNZZTSOkwgiBp1AfkI6HDU8DCsrRevJsBpBZUA3tBw0MaRHHYzANZEKwn7OFcwyIpUiKBx3clOtsJPsrlc3kppm3zyIxeWLU05dgXBjRES7u2RCDjwA.jpg",
-          "thumbnail_path": "channels/media_hb/media/99524772522b18451349eb00.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.7937219730941705
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "28"
-        },
-        {
-          "emoji": "👎",
-          "count": "10"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        },
-        {
-          "emoji": "🤣",
-          "count": "2"
-        },
-        {
-          "emoji": "🔥",
-          "count": "1"
-        }
-      ],
-      "views_label": "9.98K",
-      "posted_at": "2026-11-01T22:06:40+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Media_HB/110027"
-    },
-    {
-      "id": "Media_HB/110026",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QQkDQ7zfyhyRCkrfUkTvF5c0AgaLEki4rym7ozF2k-5EeHgY60Y4rwzp6Ptf8UXUmpqZHrKq2h3CCEoJVTuLxCHLUj-5fLIeCfFvITyiI7rWUuZ-I0DvsosbEDxNQlWtODcbSzOrrQyqQGzaA3kv2BudIZNEO8jKhW-i_LHOEdSl8wiFxTZAiAeO90u69Hjg4dfTGTDRN1Zx9DU-stSefSm9JQvClsBCMerUac8f3Na0fdsF7xZTTvuNvA_f5oWd9tA-4d13wZxA7NT6Xa6dItXun5ioTGnI_RS8USylhK1Ev4ezYqx5SUb-yEV5DGUBeYbKZKoGDCsRk9RoxyIHJQ.jpg",
-      "author_photo_path": "channels/media_hb/media/b126888b227f9e5ed2d09174.jpg",
-      "body_html": "حالا آموزش کامل کار کردن با کیک هم متین واستون تا فردا یا امشب می‌زاره که همه بچه ها بتونن بیان",
-      "plain_text": "حالا آموزش کامل کار کردن با کیک هم متین واستون تا فردا یا امشب می‌زاره که همه بچه ها بتونن بیان",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "67"
-        },
-        {
-          "emoji": "❤",
-          "count": "13"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        },
-        {
-          "emoji": "🔥",
-          "count": "2"
-        },
-        {
-          "emoji": "🤡",
-          "count": "1"
-        },
-        {
-          "emoji": "🍓",
-          "count": "1"
-        }
-      ],
-      "views_label": "10.1K",
-      "posted_at": "2026-11-01T21:32:27+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110026"
-    },
-    {
-      "id": "Media_HB/110024",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QQkDQ7zfyhyRCkrfUkTvF5c0AgaLEki4rym7ozF2k-5EeHgY60Y4rwzp6Ptf8UXUmpqZHrKq2h3CCEoJVTuLxCHLUj-5fLIeCfFvITyiI7rWUuZ-I0DvsosbEDxNQlWtODcbSzOrrQyqQGzaA3kv2BudIZNEO8jKhW-i_LHOEdSl8wiFxTZAiAeO90u69Hjg4dfTGTDRN1Zx9DU-stSefSm9JQvClsBCMerUac8f3Na0fdsF7xZTTvuNvA_f5oWd9tA-4d13wZxA7NT6Xa6dItXun5ioTGnI_RS8USylhK1Ev4ezYqx5SUb-yEV5DGUBeYbKZKoGDCsRk9RoxyIHJQ.jpg",
-      "author_photo_path": "channels/media_hb/media/b126888b227f9e5ed2d09174.jpg",
-      "body_html": "<a class=\"tgme_widget_message_author_name\" href=\"https://t.me/Media_HB\"><span dir=\"auto\">مدیا هاب | اخبار جنگ</span></a> pinned a photo",
-      "plain_text": "مدیا هاب | اخبار جنگ pinned a photo",
-      "media": [],
-      "reactions": [],
-      "views_label": null,
-      "posted_at": "2026-11-01T21:25:43+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110024"
-    },
-    {
-      "id": "Media_HB/110023",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QQkDQ7zfyhyRCkrfUkTvF5c0AgaLEki4rym7ozF2k-5EeHgY60Y4rwzp6Ptf8UXUmpqZHrKq2h3CCEoJVTuLxCHLUj-5fLIeCfFvITyiI7rWUuZ-I0DvsosbEDxNQlWtODcbSzOrrQyqQGzaA3kv2BudIZNEO8jKhW-i_LHOEdSl8wiFxTZAiAeO90u69Hjg4dfTGTDRN1Zx9DU-stSefSm9JQvClsBCMerUac8f3Na0fdsF7xZTTvuNvA_f5oWd9tA-4d13wZxA7NT6Xa6dItXun5ioTGnI_RS8USylhK1Ev4ezYqx5SUb-yEV5DGUBeYbKZKoGDCsRk9RoxyIHJQ.jpg",
-      "author_photo_path": "channels/media_hb/media/b126888b227f9e5ed2d09174.jpg",
-      "body_html": "اگه تا چند وقت دیگه شروع کنیم لایو استریم گذاشتن توی کیک برای تحلیل اخبارا یا دور هم صحبت کنیم و دلقک بازی در بیاریم حمایت میکنید؟  آره <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918D.png')\"><b>👍</b></i> نه<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918E.png')\"><b>👎</b></i> کیک چیه دیگه <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9890.png')\"><b>😐</b></i>",
-      "plain_text": "اگه تا چند وقت دیگه شروع کنیم لایو استریم گذاشتن توی کیک برای تحلیل اخبارا یا دور هم صحبت کنیم و دلقک بازی در بیاریم حمایت میکنید؟ آره 👍 نه👎 کیک چیه دیگه 😐",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/110023",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/TGFG1teKnqrpgSkuZQlYJkLGgl1Ru-9KdTuRNS8Mb-D76OOn-mJqs22hfmskoCKbFgCTm-SvijVlBmPCrH-qYYu0p0hxN9mppym4tkNq8VLnZdgP5wfAsCP6K-gV5Wxs869WzfVv9hls_VjwjMg1GLdq7dUeeacAk9xUdDG0CzMXsWolSp2PwEwfM6DF625gqG_63ALyHUH1EVewIG6QfrQ9SvEy-D2WeDsfWfmRZoNjEWHe3BDVebIsZQTKv13y76dc70RPQUvRt7NiQ7mtVRJ5npuUIOSvu_ws9--KJSTc46U6UfZFg1TzaDekInK8IMt_PiQgzxcmzTBW0UeK4A.jpg",
-          "thumbnail_path": "channels/media_hb/media/a39204e873a09f94232eeba3.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.7937219730941705
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "137"
-        },
-        {
-          "emoji": "❤",
-          "count": "22"
-        },
-        {
-          "emoji": "🔥",
-          "count": "11"
-        },
-        {
-          "emoji": "👎",
-          "count": "9"
-        }
-      ],
-      "views_label": "10.3K",
-      "posted_at": "2026-11-01T21:25:39+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110023"
-    },
-    {
-      "id": "Media_HB/110021",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QQkDQ7zfyhyRCkrfUkTvF5c0AgaLEki4rym7ozF2k-5EeHgY60Y4rwzp6Ptf8UXUmpqZHrKq2h3CCEoJVTuLxCHLUj-5fLIeCfFvITyiI7rWUuZ-I0DvsosbEDxNQlWtODcbSzOrrQyqQGzaA3kv2BudIZNEO8jKhW-i_LHOEdSl8wiFxTZAiAeO90u69Hjg4dfTGTDRN1Zx9DU-stSefSm9JQvClsBCMerUac8f3Na0fdsF7xZTTvuNvA_f5oWd9tA-4d13wZxA7NT6Xa6dItXun5ioTGnI_RS8USylhK1Ev4ezYqx5SUb-yEV5DGUBeYbKZKoGDCsRk9RoxyIHJQ.jpg",
-      "author_photo_path": "channels/media_hb/media/b126888b227f9e5ed2d09174.jpg",
-      "body_html": "اگه تا چند وقت دیگه شروع کنیم لایو استریم گذاشتن توی کیک برای تحلیل اخبارا یا دور هم صحبت کنیم و دلقک بازی در بیاریم حمایت میکنید؟  آره <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918D.png')\"><b>👍</b></i> نه<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918E.png')\"><b>👎</b></i> کیک چیه دیگه <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9890.png')\"><b>😐</b></i>",
-      "plain_text": "اگه تا چند وقت دیگه شروع کنیم لایو استریم گذاشتن توی کیک برای تحلیل اخبارا یا دور هم صحبت کنیم و دلقک بازی در بیاریم حمایت میکنید؟ آره 👍 نه👎 کیک چیه دیگه 😐",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "113"
-        },
-        {
-          "emoji": "👎",
-          "count": "52"
-        },
-        {
-          "emoji": "👍",
-          "count": "26"
-        },
-        {
-          "emoji": "🤣",
-          "count": "11"
-        },
-        {
-          "emoji": "💔",
-          "count": "2"
-        },
-        {
-          "emoji": "🦄",
-          "count": "1"
-        }
-      ],
-      "views_label": "10.2K",
-      "posted_at": "2026-11-01T21:13:54+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110021"
-    },
-    {
-      "id": "Media_HB/110020",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QQkDQ7zfyhyRCkrfUkTvF5c0AgaLEki4rym7ozF2k-5EeHgY60Y4rwzp6Ptf8UXUmpqZHrKq2h3CCEoJVTuLxCHLUj-5fLIeCfFvITyiI7rWUuZ-I0DvsosbEDxNQlWtODcbSzOrrQyqQGzaA3kv2BudIZNEO8jKhW-i_LHOEdSl8wiFxTZAiAeO90u69Hjg4dfTGTDRN1Zx9DU-stSefSm9JQvClsBCMerUac8f3Na0fdsF7xZTTvuNvA_f5oWd9tA-4d13wZxA7NT6Xa6dItXun5ioTGnI_RS8USylhK1Ev4ezYqx5SUb-yEV5DGUBeYbKZKoGDCsRk9RoxyIHJQ.jpg",
-      "author_photo_path": "channels/media_hb/media/b126888b227f9e5ed2d09174.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i><b>یک مقام ارشد آمریکایی اعلام کرد: ما به کشورهای خلیج فارس اطلاع دادیم که باید برای احتمال از سرگیری جنگ با ایران، از روز چهارشنبه آماده باشند</b>",
-      "plain_text": "❗یک مقام ارشد آمریکایی اعلام کرد: ما به کشورهای خلیج فارس اطلاع دادیم که باید برای احتمال از سرگیری جنگ با ایران، از روز چهارشنبه آماده باشند",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "68"
-        },
-        {
-          "emoji": "🤣",
-          "count": "8"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        }
-      ],
-      "views_label": "9.97K",
-      "posted_at": "2026-11-01T21:13:07+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110020"
-    },
-    {
-      "id": "Media_HB/110019",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QQkDQ7zfyhyRCkrfUkTvF5c0AgaLEki4rym7ozF2k-5EeHgY60Y4rwzp6Ptf8UXUmpqZHrKq2h3CCEoJVTuLxCHLUj-5fLIeCfFvITyiI7rWUuZ-I0DvsosbEDxNQlWtODcbSzOrrQyqQGzaA3kv2BudIZNEO8jKhW-i_LHOEdSl8wiFxTZAiAeO90u69Hjg4dfTGTDRN1Zx9DU-stSefSm9JQvClsBCMerUac8f3Na0fdsF7xZTTvuNvA_f5oWd9tA-4d13wZxA7NT6Xa6dItXun5ioTGnI_RS8USylhK1Ev4ezYqx5SUb-yEV5DGUBeYbKZKoGDCsRk9RoxyIHJQ.jpg",
-      "author_photo_path": "channels/media_hb/media/b126888b227f9e5ed2d09174.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>کنداکتور بازی‌های مهم امروز</b>",
-      "plain_text": "🔴کنداکتور بازی‌های مهم امروز",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/110019",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/UVQ7u0pxqB8lRQd0J-sFvu0WHLuwv44HGRAJCLy9v68YuBiH2rYuyCjMQLqbWRJOUmUBhmfoWjWPdda3AfoPgAGFDVDZWPHkP7jEjNbiPm0jZyUiN2liqL39EjdBRiptBDPHA-1GjWHQpvD7NkBdqhM6ENiaU7wQAlW-uxlJdCudCj3rPyH26SMZbPkIHstI-qx-haRvcRaJJG_5Mtg575xVeFkJRJWRgkDhOE15KngNyJqZNdfUL1RANJM5CbB0qo_whValqRWqPu8gZja0PoeLbT_l761QhO8vm06-kpw-UzKeDvfWdutN9qkQucCHkpXCdEmBHAxcEJHisJhgCQ.jpg",
-          "thumbnail_path": "channels/media_hb/media/7bcb957c2d09aa1ca574e2d6.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "73"
-        },
-        {
-          "emoji": "❤",
-          "count": "14"
-        },
-        {
-          "emoji": "👎",
-          "count": "1"
-        },
-        {
-          "emoji": "😁",
-          "count": "1"
-        }
-      ],
-      "views_label": "10.5K",
-      "posted_at": "2026-11-01T20:33:01+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110019"
-    },
-    {
-      "id": "Media_HB/110018",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QQkDQ7zfyhyRCkrfUkTvF5c0AgaLEki4rym7ozF2k-5EeHgY60Y4rwzp6Ptf8UXUmpqZHrKq2h3CCEoJVTuLxCHLUj-5fLIeCfFvITyiI7rWUuZ-I0DvsosbEDxNQlWtODcbSzOrrQyqQGzaA3kv2BudIZNEO8jKhW-i_LHOEdSl8wiFxTZAiAeO90u69Hjg4dfTGTDRN1Zx9DU-stSefSm9JQvClsBCMerUac8f3Na0fdsF7xZTTvuNvA_f5oWd9tA-4d13wZxA7NT6Xa6dItXun5ioTGnI_RS8USylhK1Ev4ezYqx5SUb-yEV5DGUBeYbKZKoGDCsRk9RoxyIHJQ.jpg",
-      "author_photo_path": "channels/media_hb/media/b126888b227f9e5ed2d09174.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><b>باراک راوید خبرنگار اکسیوس:<br><br>یک دیپلمات که در مذاکرات ایران و آمریکا مشارکت دارد، به من گفت ایرانی‌ها بامداد یکشنبه دوحه را ترک کردند.</b>",
-      "plain_text": "🚨باراک راوید خبرنگار اکسیوس: یک دیپلمات که در مذاکرات ایران و آمریکا مشارکت دارد، به من گفت ایرانی‌ها بامداد یکشنبه دوحه را ترک کردند.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "63"
-        },
-        {
-          "emoji": "🔥",
-          "count": "7"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        }
-      ],
-      "views_label": "10.2K",
-      "posted_at": "2026-11-01T20:26:04+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110018"
     }
   ]
 }
