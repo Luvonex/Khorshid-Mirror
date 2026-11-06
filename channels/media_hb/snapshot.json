@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-11-06T02:27:52.836Z",
+  "fetched_at": "2026-11-06T03:47:40.096Z",
   "channel": {
     "username": "media_hb",
     "title": "مدیا هاب | اخبار جنگ",
@@ -15,8 +15,8 @@
       "author_name": "مدیا هاب | اخبار جنگ",
       "author_photo_url": "https://cdn4.telesco.pe/file/qimxd_7C6RWUkb5R00c84aBWoY8zJnoEe3qIMC5xlqtesC4uDMHoyUZdDGQpHqTTECym6nJTKWNcUM_RGDnJiZ6qgELWkiJydN56jeJoXLdEGWItMHFkCojaXYb0Si9qApoEYVH0j5-ZGbQ4jsEVhwEhFbjaakFfcX-RMgNSZXPRwM8f9O5xbxtyv1tI0JUWFchaTXBxo9VE2ccbXugYPp4Qm4hAiUHHO3cyjfOodnhIVnfwHJzjmQWY8_hFqt_n1KCOSCRD-8O2T9JzcpX3UcAHgT8W_6SEKS-Qgs4AahUCqsPXQ1Fi2aRRTHocmImOpf56w6GkiD_tIf9igof7iA.jpg",
       "author_photo_path": "channels/media_hb/media/572aecbe3352501901c37f00.jpg",
-      "body_html": "<a class=\"tgme_widget_message_author_name\" href=\"https://t.me/Media_HB\"><span dir=\"auto\">مدیا هاب | اخبار جنگ</span></a> pinned «<span class=\"tgme_widget_service_strong_text\" dir=\"auto\">دوستان به طور جدی رفتیم دوناتون و داریم میریم کله پاچه بخوریم. پاشید بیاید بالاااا  https://kick.com/media-hub</span>»",
-      "plain_text": "مدیا هاب | اخبار جنگ pinned «دوستان به طور جدی رفتیم دوناتون و داریم میریم کله پاچه بخوریم. پاشید بیاید بالاااا https://kick.com/media-hub»",
+      "body_html": "<a class=\"tgme_widget_message_author_name\" href=\"https://t.me/Media_HB\"><span dir=\"auto\">مدیا هاب | اخبار جنگ</span></a> pinned «<span class=\"tgme_widget_service_strong_text\" dir=\"auto\">دوناتون بیاید بالا  https://kick.com/media-hub</span>»",
+      "plain_text": "مدیا هاب | اخبار جنگ pinned «دوناتون بیاید بالا https://kick.com/media-hub»",
       "media": [],
       "reactions": [],
       "views_label": null,
@@ -29,18 +29,22 @@
       "author_name": "مدیا هاب | اخبار جنگ",
       "author_photo_url": "https://cdn4.telesco.pe/file/qimxd_7C6RWUkb5R00c84aBWoY8zJnoEe3qIMC5xlqtesC4uDMHoyUZdDGQpHqTTECym6nJTKWNcUM_RGDnJiZ6qgELWkiJydN56jeJoXLdEGWItMHFkCojaXYb0Si9qApoEYVH0j5-ZGbQ4jsEVhwEhFbjaakFfcX-RMgNSZXPRwM8f9O5xbxtyv1tI0JUWFchaTXBxo9VE2ccbXugYPp4Qm4hAiUHHO3cyjfOodnhIVnfwHJzjmQWY8_hFqt_n1KCOSCRD-8O2T9JzcpX3UcAHgT8W_6SEKS-Qgs4AahUCqsPXQ1Fi2aRRTHocmImOpf56w6GkiD_tIf9igof7iA.jpg",
       "author_photo_path": "channels/media_hb/media/572aecbe3352501901c37f00.jpg",
-      "body_html": "دوستان به طور جدی رفتیم دوناتون و داریم میریم کله پاچه بخوریم. پاشید بیاید بالاااا<br><br><a href=\"https://kick.com/media-hub\" target=\"_blank\" rel=\"noopener\">https://kick.com/media-hub</a>",
-      "plain_text": "دوستان به طور جدی رفتیم دوناتون و داریم میریم کله پاچه بخوریم. پاشید بیاید بالاااا https://kick.com/media-hub",
+      "body_html": "<b>دوناتون بیاید بالا</b><br><br><a href=\"https://kick.com/media-hub\" target=\"_blank\" rel=\"noopener\">https://kick.com/media-hub</a>",
+      "plain_text": "دوناتون بیاید بالا https://kick.com/media-hub",
       "media": [],
       "reactions": [
         {
           "emoji": "❤",
-          "count": "7"
+          "count": "9"
+        },
+        {
+          "emoji": "👎",
+          "count": "3"
         }
       ],
-      "views_label": "648",
+      "views_label": "1.71K",
       "posted_at": "2026-11-06T01:58:48+00:00",
-      "edited": false,
+      "edited": true,
       "permalink": "https://t.me/Media_HB/110281"
     },
     {
@@ -54,14 +58,14 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "41"
+          "count": "45"
         },
         {
           "emoji": "👍",
           "count": "2"
         }
       ],
-      "views_label": "2.98K",
+      "views_label": "3.86K",
       "posted_at": "2026-11-05T23:54:01+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/110279"
@@ -77,11 +81,11 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "122"
+          "count": "128"
         },
         {
           "emoji": "❤",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "👍",
@@ -92,7 +96,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.97K",
+      "views_label": "5.8K",
       "posted_at": "2026-11-05T22:46:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110278"
@@ -108,7 +112,7 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "110"
+          "count": "116"
         },
         {
           "emoji": "❤",
@@ -131,7 +135,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.56K",
+      "views_label": "7.27K",
       "posted_at": "2026-11-05T22:10:51+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110277"
@@ -157,7 +161,7 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "73"
+          "count": "75"
         },
         {
           "emoji": "❤",
@@ -176,7 +180,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.83K",
+      "views_label": "7.5K",
       "posted_at": "2026-11-05T22:06:28+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110276"
@@ -203,7 +207,7 @@
           "count": "3"
         }
       ],
-      "views_label": "2.04K",
+      "views_label": "2.26K",
       "posted_at": "2026-11-05T22:01:28+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110275"
@@ -219,15 +223,15 @@
       "reactions": [
         {
           "emoji": "😭",
-          "count": "84"
+          "count": "86"
         },
         {
           "emoji": "🔥",
-          "count": "28"
+          "count": "30"
         },
         {
           "emoji": "🤣",
-          "count": "16"
+          "count": "17"
         },
         {
           "emoji": "😐",
@@ -246,7 +250,7 @@
           "count": "2"
         }
       ],
-      "views_label": "7.97K",
+      "views_label": "8.51K",
       "posted_at": "2026-11-05T21:33:44+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/110274"
@@ -272,11 +276,11 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "124"
+          "count": "134"
         },
         {
           "emoji": "🤣",
-          "count": "55"
+          "count": "57"
         },
         {
           "emoji": "👍",
@@ -287,7 +291,7 @@
           "count": "2"
         }
       ],
-      "views_label": "7.92K",
+      "views_label": "8.43K",
       "posted_at": "2026-11-05T21:31:49+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110273"
@@ -303,7 +307,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "79"
+          "count": "80"
         },
         {
           "emoji": "🤡",
@@ -326,7 +330,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.84K",
+      "views_label": "9.26K",
       "posted_at": "2026-11-05T21:00:39+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/110272"
@@ -342,7 +346,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "104"
+          "count": "107"
         },
         {
           "emoji": "🤣",
@@ -361,7 +365,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.8K",
+      "views_label": "9.16K",
       "posted_at": "2026-11-05T20:50:58+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110270"
@@ -387,7 +391,7 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "130"
+          "count": "133"
         },
         {
           "emoji": "🤡",
@@ -406,7 +410,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.1K",
+      "views_label": "9.48K",
       "posted_at": "2026-11-05T20:43:42+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/110269"
@@ -422,7 +426,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "86"
+          "count": "87"
         },
         {
           "emoji": "👍",
@@ -437,7 +441,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.2K",
+      "views_label": "9.54K",
       "posted_at": "2026-11-05T20:31:13+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110268"
@@ -464,7 +468,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.36K",
+      "views_label": "9.69K",
       "posted_at": "2026-11-05T20:21:43+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110267"
@@ -480,7 +484,7 @@
       "reactions": [
         {
           "emoji": "😡",
-          "count": "73"
+          "count": "77"
         },
         {
           "emoji": "❤",
@@ -495,7 +499,7 @@
           "count": "2"
         }
       ],
-      "views_label": "9.74K",
+      "views_label": "10.1K",
       "posted_at": "2026-11-05T20:17:42+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110266"
@@ -511,11 +515,11 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "156"
+          "count": "160"
         },
         {
           "emoji": "💔",
-          "count": "69"
+          "count": "70"
         },
         {
           "emoji": "❤",
@@ -538,7 +542,7 @@
           "count": "1"
         }
       ],
-      "views_label": "10.5K",
+      "views_label": "10.8K",
       "posted_at": "2026-11-05T20:07:51+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/110265"
@@ -554,7 +558,7 @@
       "reactions": [
         {
           "emoji": "😭",
-          "count": "51"
+          "count": "52"
         },
         {
           "emoji": "🔥",
@@ -581,7 +585,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.76K",
+      "views_label": "10K",
       "posted_at": "2026-11-05T20:07:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110264"
@@ -597,7 +601,7 @@
       "reactions": [
         {
           "emoji": "😭",
-          "count": "87"
+          "count": "91"
         },
         {
           "emoji": "👍",
@@ -620,7 +624,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.91K",
+      "views_label": "10.2K",
       "posted_at": "2026-11-05T20:06:09+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110263"
@@ -636,7 +640,7 @@
       "reactions": [
         {
           "emoji": "👎",
-          "count": "25"
+          "count": "26"
         },
         {
           "emoji": "👍",
@@ -655,7 +659,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.91K",
+      "views_label": "10.2K",
       "posted_at": "2026-11-05T19:58:54+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/110262"
