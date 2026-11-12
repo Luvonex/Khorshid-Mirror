@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-11-12T11:52:23.604Z",
+  "fetched_at": "2026-11-12T12:35:00.671Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,35 @@
     "subscriber_count": "15.1K"
   },
   "posts": [
+    {
+      "id": "DEJradio/9147",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/eq7GY93sb0-hgJheraNAnJ4f9xLWNV31uWVRoV7ikmewyPkqJl6EYiIDvCeU74PMgaAmHs0RC9HYxxoODBQCeaO7w3vhI16nKQBvzo5wr3ObxuPvlwfexVEqPFwhNqMyjBCeOy19_1FW05Yyn_Dx57QxS2Hlkhq4NfgQjj8M4DQ5AikkEtkB8Lbu7v6Q8oG4xZmIE9Lkf7RY03nS22XQXn_H9d0XVk8Hwwj2FZ1NKTIxwte78Vzv49FhVh1W5wrP63Y3rNShhixsGWthlZYxx-0EJ8oGi3aZZ4YTeMQcjLsq1OavfTdVUi_ObQGNpAyFq1tHP0gkqHuk1lV4WS_MPg.jpg",
+      "author_photo_path": "channels/dejradio/media/09aaeeb3f492365eaa016e79.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><tg-emoji emoji-id=\"5949286409478082944\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji><b> ردپای جمهوری اسلامی در تهدید اروپایی‌ها به بمب‌گذاری</b><br><br><a href=\"?q=%23%D8%AE%D8%A8%D8%B1\">#خبر</a> <a href=\"?q=%23%D8%A7%D8%B1%D9%88%D9%BE%D8%A7\">#اروپا</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "🔺⭕️ ردپای جمهوری اسلامی در تهدید اروپایی‌ها به بمب‌گذاری #خبر #اروپا @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/9147",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/BSN4AIpGepMJiThwYjEG-w66fDYpsquei-FJAHvA5XI-lLG3GiwrBmzCjdzGdCLXFEZXbbN5A9o2h1-YuJEFuc2hoceuKzWnQf_wVa5En4SYiwJOWqVGGU23GQWZsifp9vC49gUn49gSzHsC5XsoqlI4zqL500sfdzzMZlMut_rKCIAYjiQqLAuGuYEwnXAn_rCpE7cefqHgSXNW38gi3f5tUokJ0jObVG1FKgC6AA6S0PYrLZ08Iu6cud029Et6JKQZfjUdnA4eDFuIUCAzRru5WWUiOqo30nfEghwWNeoda5loWkTO2fJ7JJHXyft9tTJ2PtUE2qQCxkDuzrsMOg",
+          "thumbnail_path": "channels/dejradio/media/7832ed078ef9f8c3b72c973d.jpg",
+          "duration_label": "1:00",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👌",
+          "count": "1"
+        }
+      ],
+      "views_label": "63",
+      "posted_at": "2026-11-12T12:31:07+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/9147"
+    },
     {
       "id": "DEJradio/9146",
       "author_name": "DEJ",
@@ -31,10 +60,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "10"
+          "count": "18"
+        },
+        {
+          "emoji": "😱",
+          "count": "2"
         }
       ],
-      "views_label": "194",
+      "views_label": "555",
       "posted_at": "2026-11-12T11:42:03+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/9146"
@@ -60,11 +93,11 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "17"
+          "count": "22"
         },
         {
           "emoji": "🖕",
-          "count": "3"
+          "count": "6"
         },
         {
           "emoji": "👍",
@@ -87,7 +120,7 @@
           "count": "1"
         }
       ],
-      "views_label": "492",
+      "views_label": "772",
       "posted_at": "2026-11-12T11:13:21+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/9145"
@@ -113,11 +146,11 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "26"
+          "count": "33"
         },
         {
           "emoji": "🤬",
-          "count": "2"
+          "count": "5"
         },
         {
           "emoji": "👍",
@@ -128,7 +161,7 @@
           "count": "1"
         }
       ],
-      "views_label": "611",
+      "views_label": "823",
       "posted_at": "2026-11-12T10:59:12+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/9144"
@@ -158,7 +191,7 @@
         },
         {
           "emoji": "🤬",
-          "count": "8"
+          "count": "11"
         },
         {
           "emoji": "💯",
@@ -177,7 +210,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.16K",
+      "views_label": "1.33K",
       "posted_at": "2026-11-12T09:45:59+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/9143"
@@ -203,11 +236,11 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "26"
+          "count": "27"
         },
         {
           "emoji": "🔥",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "❤",
@@ -222,7 +255,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.1K",
+      "views_label": "1.2K",
       "posted_at": "2026-11-12T09:21:45+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/9142"
@@ -248,7 +281,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "45"
+          "count": "46"
         },
         {
           "emoji": "💯",
@@ -259,7 +292,7 @@
           "count": "4"
         }
       ],
-      "views_label": "1.19K",
+      "views_label": "1.35K",
       "posted_at": "2026-11-12T08:40:31+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/9141"
@@ -300,7 +333,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.31K",
+      "views_label": "1.38K",
       "posted_at": "2026-11-12T08:24:22+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/9140"
@@ -337,7 +370,7 @@
           "count": "3"
         }
       ],
-      "views_label": "1.23K",
+      "views_label": "1.29K",
       "posted_at": "2026-11-12T08:20:17+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/9139"
@@ -363,14 +396,14 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "29"
+          "count": "30"
         },
         {
           "emoji": "🔥",
           "count": "2"
         }
       ],
-      "views_label": "1.03K",
+      "views_label": "1.09K",
       "posted_at": "2026-11-12T08:15:18+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/9138"
@@ -396,11 +429,11 @@
       "reactions": [
         {
           "emoji": "👎",
-          "count": "30"
+          "count": "33"
         },
         {
           "emoji": "🤮",
-          "count": "23"
+          "count": "26"
         },
         {
           "emoji": "😡",
@@ -408,7 +441,7 @@
         },
         {
           "emoji": "🤬",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "😁",
@@ -423,7 +456,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.23K",
+      "views_label": "1.31K",
       "posted_at": "2026-11-12T08:09:23+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/9137"
@@ -468,7 +501,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.12K",
+      "views_label": "2.15K",
       "posted_at": "2026-11-11T18:52:12+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/9136"
@@ -539,7 +572,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.89K",
+      "views_label": "1.91K",
       "posted_at": "2026-11-11T18:19:29+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/9133"
@@ -580,7 +613,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.84K",
+      "views_label": "1.87K",
       "posted_at": "2026-11-11T18:07:11+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/9132"
@@ -621,7 +654,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.75K",
+      "views_label": "1.77K",
       "posted_at": "2026-11-11T17:56:53+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/9131"
@@ -678,7 +711,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.25K",
+      "views_label": "1.26K",
       "posted_at": "2026-11-11T15:02:14+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/9130"
@@ -704,7 +737,7 @@
       "reactions": [
         {
           "emoji": "😡",
-          "count": "36"
+          "count": "37"
         },
         {
           "emoji": "👏",
@@ -731,7 +764,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.37K",
+      "views_label": "2.39K",
       "posted_at": "2026-11-11T13:22:23+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/9129"
@@ -772,7 +805,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.15K",
+      "views_label": "2.16K",
       "posted_at": "2026-11-11T11:45:41+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/9128"
@@ -4534,47 +4567,6 @@
       "posted_at": "2026-11-07T10:57:59+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/9037"
-    },
-    {
-      "id": "DEJradio/9036",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bW0ynx3ckUsD-HEwmFu9WOi8LTZAP65fBCoeF-vZbdSagqD1n8NRBFUbYx_Jt6CM_vJb2y4KHk8kYNHARti_Xr0G-KZbuQ-KFHdCAJ6z-auInGm2M2y7K2kHQLszFW4El_wL2iwKB-F8_HMvlRZYdsdy9NZ2GWoqGvPUZZRlOw3i_dNnmPjGHLegQngG369reInL3lFH4IWOjktIkt1OFt-UDU5ZD0sw4n8bs33D-xTwXsEiunT4KJ6_pcZXVAUdGFtzNgoppKYlK3f7O9r_Tkykf4UwTEyyjHQ0x2c-7KR9tlhRWhvydtifPeasB6WPBU7ny0Oyt7ayaB96BDg5bw.jpg",
-      "author_photo_path": "channels/dejradio/media/fa78f5d4e665bf5dd2282fa2.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA4.png')\"><b>🎤</b></i> امیرحسین اعتمادی: مماشات با جمهوری اسلامی یعنی گسترش تروریسم و سرکوب<br><br>گفت‌وگو با امیرحسین اعتمادی، مشاور شاهزاده رضا پهلوی، در حاشیه گردهمایی ایرانیان میهن‌پرست در کلیسای تاریخی پاول فرانکفورت، به مناسبت اهدای جایزه آزادی به شاهزاده رضا پهلوی به نمایندگی از مردم ایران.<br><br><a href=\"?q=%23%D9%81%D8%B1%D8%A7%D9%86%DA%A9%D9%81%D9%88%D8%B1%D8%AA\">#فرانکفورت</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "🔺🎤 امیرحسین اعتمادی: مماشات با جمهوری اسلامی یعنی گسترش تروریسم و سرکوب گفت‌وگو با امیرحسین اعتمادی، مشاور شاهزاده رضا پهلوی، در حاشیه گردهمایی ایرانیان میهن‌پرست در کلیسای تاریخی پاول فرانکفورت، به مناسبت اهدای جایزه آزادی به شاهزاده رضا پهلوی به نمایندگی از مردم ایران. #فرانکفورت @DEJradio",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/DEJradio/9036",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/n3ETmU0aTSJ8FC4bVwpgtX2LEAsbaMoUc51fFFe224YWRQnxy1LMKVavxcuQKuVV5XSLDo-jWOm8f54YpyiT9iAfJluGyEHJdmjUYzzaiZRmNSFXZvyARLGGrpC1DKFkc1yef5cbe8VQZ0R_8un0tUFBiHdl3fkEQhWfQ9tmKrKlAoIoTThcly3PykFc02Ul4O9Wk4wMbxm6ltV9gurGsjiaMEaPhN6OxLemuoLgtB_hQU2KzrMWztT8sTvPKbWXN5Ur-yzSCJjRvQDD0uogg1IpdV7O23pVwZg42ShWYyfzI2P2IZJ9EOSWpkPrFzepi-xRGWgBnjJtdQJu2xwlQA",
-          "thumbnail_path": "channels/dejradio/media/cb92a9d296a22f42f5a02ccc.jpg",
-          "duration_label": "1:40",
-          "aspect_ratio": 1.7824267782426628
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "61"
-        },
-        {
-          "emoji": "👍",
-          "count": "25"
-        },
-        {
-          "emoji": "💯",
-          "count": "6"
-        },
-        {
-          "emoji": "😁",
-          "count": "1"
-        }
-      ],
-      "views_label": "3.6K",
-      "posted_at": "2026-11-07T10:48:21+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/9036"
     }
   ]
 }

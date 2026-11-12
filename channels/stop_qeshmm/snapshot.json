@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-11-12T11:52:38.568Z",
+  "fetched_at": "2026-11-12T12:35:13.983Z",
   "channel": {
     "username": "stop_qeshmm",
     "title": "STOP_QESHM",
@@ -91,8 +91,13 @@
           "aspect_ratio": null
         }
       ],
-      "reactions": [],
-      "views_label": "305",
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "2"
+        }
+      ],
+      "views_label": "744",
       "posted_at": "2026-11-12T11:38:00+00:00",
       "edited": false,
       "permalink": "https://t.me/stop_qeshmm/72910"
@@ -179,7 +184,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "7",
+      "views_label": "585",
       "posted_at": "2026-11-12T11:36:50+00:00",
       "edited": false,
       "permalink": "https://t.me/stop_qeshmm/72902"
@@ -266,7 +271,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "306",
+      "views_label": "556",
       "posted_at": "2026-11-12T11:33:06+00:00",
       "edited": false,
       "permalink": "https://t.me/stop_qeshmm/72894"
