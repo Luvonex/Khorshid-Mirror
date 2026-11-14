@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-11-14T15:58:43.319Z",
+  "fetched_at": "2026-11-14T19:26:14.450Z",
   "channel": {
     "username": "media_hb",
     "title": "مدیا هاب | اخبار جنگ",
@@ -10,6 +10,280 @@
     "subscriber_count": "129K"
   },
   "posts": [
+    {
+      "id": "Media_HB/110631",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/tQvs2S0l7aIHangMswsN4G8Ur0xQ3qLJkkrCttgEQz8wFvxQVW4sT9067juP9wfM8sqWstfBOofTqlag-DL0Rr7zeo4l9KK3ua1cyx_4jITJ1jepWuH9i0uqT3c1nE1g_VNoG3m8HfuqC5bMGTaeyNI3e-VAKL04nBZobPyTMv-4GEzkx3AHTzxOqBGYa5efAjT0dOIIDG-XaQwi4UGsNlMERT5mnCJd4dcugcLgj66e3w9VkgXR0QoQyHeVyPkHdkd3zIqGe9JuJQcHbGreikEpAxbt4Gqd3VXP6NzJU_gVS3yMezJO4XakfsKNtWiQR0h4utcOQeeyeIQ9_fjTVQ.jpg",
+      "author_photo_path": "channels/media_hb/media/91106997ea6f9c12f689430e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i><b>واژگونی اتوبوس کارکنان شرکت نفت استان ایلام در مسیر دهلران به آبدانان؛ طبق گزارش‌های اولیه، تاکنون ۱۲ نفر در این حادثه جان باختن.</b>",
+      "plain_text": "❗واژگونی اتوبوس کارکنان شرکت نفت استان ایلام در مسیر دهلران به آبدانان؛ طبق گزارش‌های اولیه، تاکنون ۱۲ نفر در این حادثه جان باختن.",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/110631",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/H_rMeYhNnlqsenXMvlHZCzNSNxaPQfuOITisn4u6qVKMWqQylfng62aqV9QADbhlWvNiK_3csqMC6iWY10hZBCP6G2fjpzJABoDJjguvlFFhp-E1HuxWW0rBOKGU9k7XrkpUo6Hz50yyNtTFDCTeJ7ZC_mObnyeDpiZwW3Ndu6TWt8QqVuyo72eYzP8JpG-1kQBD080cXxK6Wk8nCNyjrmcAnOy6sxF76_CawUTDc_AkQWLeS_zymTOHxUthXIp4G9IEynB2E681IIKjaM6dEYzxwPf_v_eH-gXvMBqtJdLSYKrFaNoQeOKsf6SfijA-fXnUzxOUk0qDoI8FQsaiww.jpg",
+          "thumbnail_path": "channels/media_hb/media/2b261d022fa3ba0e9d4a822c.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "💔",
+          "count": "102"
+        },
+        {
+          "emoji": "😐",
+          "count": "7"
+        }
+      ],
+      "views_label": "1.81K",
+      "posted_at": "2026-11-14T19:16:08+00:00",
+      "edited": true,
+      "permalink": "https://t.me/Media_HB/110631"
+    },
+    {
+      "id": "Media_HB/110630",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/tQvs2S0l7aIHangMswsN4G8Ur0xQ3qLJkkrCttgEQz8wFvxQVW4sT9067juP9wfM8sqWstfBOofTqlag-DL0Rr7zeo4l9KK3ua1cyx_4jITJ1jepWuH9i0uqT3c1nE1g_VNoG3m8HfuqC5bMGTaeyNI3e-VAKL04nBZobPyTMv-4GEzkx3AHTzxOqBGYa5efAjT0dOIIDG-XaQwi4UGsNlMERT5mnCJd4dcugcLgj66e3w9VkgXR0QoQyHeVyPkHdkd3zIqGe9JuJQcHbGreikEpAxbt4Gqd3VXP6NzJU_gVS3yMezJO4XakfsKNtWiQR0h4utcOQeeyeIQ9_fjTVQ.jpg",
+      "author_photo_path": "channels/media_hb/media/91106997ea6f9c12f689430e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><b>اسرائیل هیوم:<br><br>موساد اطلاعات مشخصی درباره قصد ایران برای هدف قرار دادن ترامپ و مقام‌های ارشد دولت او با پهپادها را در اختیار سازمان اطلاعات مرکزی آمریکا (CIA) قرار داده است.<br><br>در پی این تهدیدها، مقام‌های ارشد آمریکایی به مراکز حفاظت‌شده منتقل شده‌اند، حضور علنی ترامپ کاهش یافته و تدابیر امنیتی شدیدی اعمال شده است.</b>",
+      "plain_text": "🚨اسرائیل هیوم: موساد اطلاعات مشخصی درباره قصد ایران برای هدف قرار دادن ترامپ و مقام‌های ارشد دولت او با پهپادها را در اختیار سازمان اطلاعات مرکزی آمریکا (CIA) قرار داده است. در پی این تهدیدها، مقام‌های ارشد آمریکایی به مراکز حفاظت‌شده منتقل شده‌اند، حضور علنی ترامپ کاهش یافته و تدابیر امنیتی شدیدی اعمال شده است.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "71"
+        },
+        {
+          "emoji": "👍",
+          "count": "8"
+        },
+        {
+          "emoji": "🤣",
+          "count": "8"
+        },
+        {
+          "emoji": "❤",
+          "count": "3"
+        },
+        {
+          "emoji": "😁",
+          "count": "1"
+        }
+      ],
+      "views_label": "4.75K",
+      "posted_at": "2026-11-14T18:40:27+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110630"
+    },
+    {
+      "id": "Media_HB/110629",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/tQvs2S0l7aIHangMswsN4G8Ur0xQ3qLJkkrCttgEQz8wFvxQVW4sT9067juP9wfM8sqWstfBOofTqlag-DL0Rr7zeo4l9KK3ua1cyx_4jITJ1jepWuH9i0uqT3c1nE1g_VNoG3m8HfuqC5bMGTaeyNI3e-VAKL04nBZobPyTMv-4GEzkx3AHTzxOqBGYa5efAjT0dOIIDG-XaQwi4UGsNlMERT5mnCJd4dcugcLgj66e3w9VkgXR0QoQyHeVyPkHdkd3zIqGe9JuJQcHbGreikEpAxbt4Gqd3VXP6NzJU_gVS3yMezJO4XakfsKNtWiQR0h4utcOQeeyeIQ9_fjTVQ.jpg",
+      "author_photo_path": "channels/media_hb/media/91106997ea6f9c12f689430e.jpg",
+      "body_html": "<b>با وجود آلودگی زیاد، تمامی مقاطع تحصیلی و ادارات تهران دایر هستند</b>",
+      "plain_text": "با وجود آلودگی زیاد، تمامی مقاطع تحصیلی و ادارات تهران دایر هستند",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/110629",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/rS-uhRkims8cgz4LGxm4sFXoHJ7VJUG-Esbm8ZPpF5Vx1CJBLOv1w-1PXA1za6OQCgXLwIMnBmW3kIPoh-rHzxv4x57H7_NylryhxBopLonybyA9d9W4x-XO-CqZIGAGLnWRSxep-z0RXydAF6oK2ndUAYO81skXmurY8HvfH5vU9ZaxPBPgp6EgypgVR2xdATCkOxxXZGd633_6iJV6U2wfAylGzp_QFH_0zu3YICGyDMAGyPs-uBJQDOM8p1zJCp_XUwPnYgxYvadugdG8OPl47WRi-bkJ8auio7bF9qiQtNhJrQghVLBGXeaUHyUWL0XvEFmYbWfXbsPu6hiDJw.jpg",
+          "thumbnail_path": "channels/media_hb/media/fb7e69d20bd79ec082bd4160.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "94"
+        },
+        {
+          "emoji": "💔",
+          "count": "23"
+        },
+        {
+          "emoji": "😡",
+          "count": "7"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        }
+      ],
+      "views_label": "5.83K",
+      "posted_at": "2026-11-14T18:24:04+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110629"
+    },
+    {
+      "id": "Media_HB/110628",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/tQvs2S0l7aIHangMswsN4G8Ur0xQ3qLJkkrCttgEQz8wFvxQVW4sT9067juP9wfM8sqWstfBOofTqlag-DL0Rr7zeo4l9KK3ua1cyx_4jITJ1jepWuH9i0uqT3c1nE1g_VNoG3m8HfuqC5bMGTaeyNI3e-VAKL04nBZobPyTMv-4GEzkx3AHTzxOqBGYa5efAjT0dOIIDG-XaQwi4UGsNlMERT5mnCJd4dcugcLgj66e3w9VkgXR0QoQyHeVyPkHdkd3zIqGe9JuJQcHbGreikEpAxbt4Gqd3VXP6NzJU_gVS3yMezJO4XakfsKNtWiQR0h4utcOQeeyeIQ9_fjTVQ.jpg",
+      "author_photo_path": "channels/media_hb/media/91106997ea6f9c12f689430e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><b>کانال ۱۳ اسرائیل: سه سناریو برای مواجهه با ایران؛ از حمله نظامی تا توافق سیاسی<br><br>سناریوی نخست:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>اجرای طرح‌های حمله هوایی اسرائیل با هماهنگی آمریکا و با امید به مشارکت مستقیم واشنگتن در عملیات نظامی.<br><br>سناریوی دوم:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>حمله مستقیم آمریکا به ایران در صورت شکست مذاکرات؛ گزینه‌ای که به ادعای این شبکه، مطلوب اسرائیل است و می‌تواند شامل حملات هوایی چندروزه تا چند‌هفته‌ای علیه مراکز موشکی، پهپادی، هسته‌ای و زیرساخت‌های انرژی ایران باشد.<br><br>سناریوی سوم:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>دستیابی تهران و واشنگتن به توافقی سیاسی که دونالد ترامپ بتواند آن را به‌عنوان یک پیروزی معرفی کند.</b>",
+      "plain_text": "🔴🚨کانال ۱۳ اسرائیل: سه سناریو برای مواجهه با ایران؛ از حمله نظامی تا توافق سیاسی سناریوی نخست: 🔹اجرای طرح‌های حمله هوایی اسرائیل با هماهنگی آمریکا و با امید به مشارکت مستقیم واشنگتن در عملیات نظامی. سناریوی دوم: 🔹حمله مستقیم آمریکا به ایران در صورت شکست مذاکرات؛ گزینه‌ای که به ادعای این شبکه، مطلوب اسرائیل است و می‌تواند شامل حملات هوایی چندروزه تا چند‌هفته‌ای علیه مراکز موشکی، پهپادی، هسته‌ای و زیرساخت‌های انرژی ایران باشد. سناریوی سوم: 🔹دستیابی تهران و واشنگتن به توافقی سیاسی که دونالد ترامپ بتواند آن را به‌عنوان یک پیروزی معرفی کند.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "43"
+        },
+        {
+          "emoji": "😭",
+          "count": "3"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        }
+      ],
+      "views_label": "7.06K",
+      "posted_at": "2026-11-14T17:46:21+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110628"
+    },
+    {
+      "id": "Media_HB/110627",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/tQvs2S0l7aIHangMswsN4G8Ur0xQ3qLJkkrCttgEQz8wFvxQVW4sT9067juP9wfM8sqWstfBOofTqlag-DL0Rr7zeo4l9KK3ua1cyx_4jITJ1jepWuH9i0uqT3c1nE1g_VNoG3m8HfuqC5bMGTaeyNI3e-VAKL04nBZobPyTMv-4GEzkx3AHTzxOqBGYa5efAjT0dOIIDG-XaQwi4UGsNlMERT5mnCJd4dcugcLgj66e3w9VkgXR0QoQyHeVyPkHdkd3zIqGe9JuJQcHbGreikEpAxbt4Gqd3VXP6NzJU_gVS3yMezJO4XakfsKNtWiQR0h4utcOQeeyeIQ9_fjTVQ.jpg",
+      "author_photo_path": "channels/media_hb/media/91106997ea6f9c12f689430e.jpg",
+      "body_html": "فرصت استثنایی بری بت را از دست ندهید<tg-emoji emoji-id=\"4956582878822531899\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA79D.png')\"><b>🧝</b></i></tg-emoji><tg-emoji emoji-id=\"4958699241137505132\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')\"><b>🎁</b></i></tg-emoji>",
+      "plain_text": "فرصت استثنایی بری بت را از دست ندهید🧝🎁",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "3"
+        },
+        {
+          "emoji": "👎",
+          "count": "2"
+        },
+        {
+          "emoji": "😭",
+          "count": "1"
+        }
+      ],
+      "views_label": "6.81K",
+      "posted_at": "2026-11-14T17:44:49+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110627"
+    },
+    {
+      "id": "Media_HB/110626",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/tQvs2S0l7aIHangMswsN4G8Ur0xQ3qLJkkrCttgEQz8wFvxQVW4sT9067juP9wfM8sqWstfBOofTqlag-DL0Rr7zeo4l9KK3ua1cyx_4jITJ1jepWuH9i0uqT3c1nE1g_VNoG3m8HfuqC5bMGTaeyNI3e-VAKL04nBZobPyTMv-4GEzkx3AHTzxOqBGYa5efAjT0dOIIDG-XaQwi4UGsNlMERT5mnCJd4dcugcLgj66e3w9VkgXR0QoQyHeVyPkHdkd3zIqGe9JuJQcHbGreikEpAxbt4Gqd3VXP6NzJU_gVS3yMezJO4XakfsKNtWiQR0h4utcOQeeyeIQ9_fjTVQ.jpg",
+      "author_photo_path": "channels/media_hb/media/91106997ea6f9c12f689430e.jpg",
+      "body_html": "<tg-emoji emoji-id=\"4956601110958703616\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E84.png')\"><b>🎄</b></i></tg-emoji> <b>با کد </b><b><tg-emoji emoji-id=\"6156838058357429195\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji></b><b><tg-emoji emoji-id=\"6156838058357429195\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji></b><b><tg-emoji emoji-id=\"6156838058357429195\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji></b><b>، بلک‌جک رو با یک میلیون تومان بونوس شروع کن!</b> <tg-emoji emoji-id=\"4958529074533238201\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E284B9.png')\"><b>ℹ️</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"4958714479681471536\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD90.png')\"><b>⭐️</b></i></tg-emoji> فقط کافیه در بری‌بت ثبت‌نام کنی و هنگام ثبت‌نام کد تخفیف <tg-emoji emoji-id=\"6156838058357429195\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><tg-emoji emoji-id=\"6156838058357429195\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><tg-emoji emoji-id=\"6156838058357429195\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji> رو وارد کنی تا ۱ میلیون تومان بونوس شرط‌بندی بلک‌جک دریافت کنی!<br><br><tg-emoji emoji-id=\"5990147899403539264\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')\"><b>💰</b></i></tg-emoji> حداقل مبلغ جایزه: <b>۱ میلیون تومان</b><br><tg-emoji emoji-id=\"4956582500865410174\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918D.png')\"><b>👍</b></i></tg-emoji> حداکثر مبلغ قابل پرداخت: <b>۱۰۰ میلیون تومان</b><br><tg-emoji emoji-id=\"4956252540002894879\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29895.png')\"><b>☕</b></i></tg-emoji>  شرط گردش بونوس: <b>۱۰۰ برابر مبلغ بونوس</b><br><br><tg-emoji emoji-id=\"4956770654792713082\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA5B8.png')\"><b>🥸</b></i></tg-emoji> بونوس فقط در میزهای Persian Blackjack (A، B، C، D) و Cashout Blackjack ارائه‌شده توسط Creedroomz قابل استفاده است.<br><br><tg-emoji emoji-id=\"4956441587283395517\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA4.png')\"><b>🎤</b></i></tg-emoji> همین حالا با کد <tg-emoji emoji-id=\"6156838058357429195\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><tg-emoji emoji-id=\"6156838058357429195\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><tg-emoji emoji-id=\"6156838058357429195\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji> به بری‌بت بپیوند!<br><br><tg-emoji emoji-id=\"5307560807318431127\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji> ورود به سایت <tg-emoji emoji-id=\"4992796097442218769\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji> g23<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰</b></i><br><tg-emoji emoji-id=\"5307786220087028767\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i></tg-emoji> <a href=\"https://apleoidjux.shop/fa/affiliates?btag=914641_l303106\" target=\"_blank\" rel=\"noopener\">https://apleoidjux.shop/fa/affiliates?btag=914641_l303106</a><br><tg-emoji emoji-id=\"6030579106620378674\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i></tg-emoji> کانال تلگرام ما:<tg-emoji emoji-id=\"5301038027601098171\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji><br><tg-emoji emoji-id=\"5334625062697837543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C88.png')\"><b>✈️</b></i></tg-emoji> <a href=\"https://t.me/BerryBetOfficial\" target=\"_blank\" rel=\"noopener\">https://t.me/BerryBetOfficial</a>",
+      "plain_text": "🎄 با کد 🤩🤩🤩، بلک‌جک رو با یک میلیون تومان بونوس شروع کن! ℹ️ ⭐️ فقط کافیه در بری‌بت ثبت‌نام کنی و هنگام ثبت‌نام کد تخفیف 🤩🤩🤩 رو وارد کنی تا ۱ میلیون تومان بونوس شرط‌بندی بلک‌جک دریافت کنی! 💰 حداقل مبلغ جایزه: ۱ میلیون تومان 👍 حداکثر مبلغ قابل پرداخت: ۱۰۰ میلیون تومان ☕ شرط گردش بونوس: ۱۰۰ برابر مبلغ بونوس 🥸 بونوس فقط در میزهای Persian Blackjack (A، B، C، D) و Cashout Blackjack ارائه‌شده توسط Creedroomz قابل استفاده است. 🎤 همین حالا با کد 🤩🤩🤩 به بری‌بت بپیوند! 📱 ورود به سایت 👇 g23🅰 🌐 https://apleoidjux.shop/fa/affiliates?btag=914641_l303106 🌐 کانال تلگرام ما:👇 ✈️ https://t.me/BerryBetOfficial",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/110626",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/vr89jHZLUIWSUi-sw36am4OCErmAX8obioEAFrjWbJQGw4yzb5_yfWaxc_ZSDA4QWeLfVjODV1-yi8zg8HvFNwtQ0VKyoFfgbjBF3Eulf0kXYChkOyCm_DAPnCnN8X_Fps5zk3BgCRUV10_qDe_mysX0fLe3QrAQgYIVBXJJnfnmnYe86G-eTWbkFexSL9833Lj7-Bhpi646EKKavq3wtAsZ2FSC5BfFaFA5OoZ3EoAofFTle_EF1HqxAzslkZ4ud66HDW40JIM11otdMb_N2AGduRATnWUirh-uZc7rwolfqjoswfkW2L7xjhzIDXFiLJEkKo7ddeIom28fDdHDuA.jpg",
+          "thumbnail_path": "channels/media_hb/media/f466f7c711cf13da539a8938.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "3"
+        },
+        {
+          "emoji": "😭",
+          "count": "1"
+        }
+      ],
+      "views_label": "6.93K",
+      "posted_at": "2026-11-14T17:44:48+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110626"
+    },
+    {
+      "id": "Media_HB/110625",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/tQvs2S0l7aIHangMswsN4G8Ur0xQ3qLJkkrCttgEQz8wFvxQVW4sT9067juP9wfM8sqWstfBOofTqlag-DL0Rr7zeo4l9KK3ua1cyx_4jITJ1jepWuH9i0uqT3c1nE1g_VNoG3m8HfuqC5bMGTaeyNI3e-VAKL04nBZobPyTMv-4GEzkx3AHTzxOqBGYa5efAjT0dOIIDG-XaQwi4UGsNlMERT5mnCJd4dcugcLgj66e3w9VkgXR0QoQyHeVyPkHdkd3zIqGe9JuJQcHbGreikEpAxbt4Gqd3VXP6NzJU_gVS3yMezJO4XakfsKNtWiQR0h4utcOQeeyeIQ9_fjTVQ.jpg",
+      "author_photo_path": "channels/media_hb/media/91106997ea6f9c12f689430e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i><b>نتانیاهو:<br><br>رژیم ایران که به دنبال نابودی اسرائیل است، بار دیگر در حال احیای برنامه هسته‌ای خود است.<br><br>ما باید هر کاری، هر کاری، انجام دهیم تا همچنان مانع از این اقدام آن‌ها شویم. همان‌طور که در عملیات «شیر خیزان» و «شیر بازدیدکننده» انجام دادیم، باید این تهدید موجودیتی را یک‌بار برای همیشه از بالای سر خود برطرف کنیم.</b>",
+      "plain_text": "❗نتانیاهو: رژیم ایران که به دنبال نابودی اسرائیل است، بار دیگر در حال احیای برنامه هسته‌ای خود است. ما باید هر کاری، هر کاری، انجام دهیم تا همچنان مانع از این اقدام آن‌ها شویم. همان‌طور که در عملیات «شیر خیزان» و «شیر بازدیدکننده» انجام دادیم، باید این تهدید موجودیتی را یک‌بار برای همیشه از بالای سر خود برطرف کنیم.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "104"
+        },
+        {
+          "emoji": "🔥",
+          "count": "15"
+        },
+        {
+          "emoji": "🤣",
+          "count": "8"
+        },
+        {
+          "emoji": "👍",
+          "count": "6"
+        },
+        {
+          "emoji": "👎",
+          "count": "1"
+        }
+      ],
+      "views_label": "7.11K",
+      "posted_at": "2026-11-14T17:27:39+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110625"
+    },
+    {
+      "id": "Media_HB/110624",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/tQvs2S0l7aIHangMswsN4G8Ur0xQ3qLJkkrCttgEQz8wFvxQVW4sT9067juP9wfM8sqWstfBOofTqlag-DL0Rr7zeo4l9KK3ua1cyx_4jITJ1jepWuH9i0uqT3c1nE1g_VNoG3m8HfuqC5bMGTaeyNI3e-VAKL04nBZobPyTMv-4GEzkx3AHTzxOqBGYa5efAjT0dOIIDG-XaQwi4UGsNlMERT5mnCJd4dcugcLgj66e3w9VkgXR0QoQyHeVyPkHdkd3zIqGe9JuJQcHbGreikEpAxbt4Gqd3VXP6NzJU_gVS3yMezJO4XakfsKNtWiQR0h4utcOQeeyeIQ9_fjTVQ.jpg",
+      "author_photo_path": "channels/media_hb/media/91106997ea6f9c12f689430e.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> شورای همکاری خلیج فارس:<br><br>جمهوری اسلامی برای حملات به کشور‌های حوزه خلیج فارس باید غرامت بپردازد</b>",
+      "plain_text": "🔴 شورای همکاری خلیج فارس: جمهوری اسلامی برای حملات به کشور‌های حوزه خلیج فارس باید غرامت بپردازد",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "154"
+        },
+        {
+          "emoji": "👍",
+          "count": "10"
+        },
+        {
+          "emoji": "👎",
+          "count": "5"
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "4"
+        },
+        {
+          "emoji": "🤡",
+          "count": "3"
+        }
+      ],
+      "views_label": "8.27K",
+      "posted_at": "2026-11-14T16:07:01+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/110624"
+    },
     {
       "id": "Media_HB/110623",
       "author_name": "مدیا هاب | اخبار جنگ",
@@ -21,10 +295,18 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "26"
+          "count": "68"
+        },
+        {
+          "emoji": "❤",
+          "count": "3"
+        },
+        {
+          "emoji": "💔",
+          "count": "2"
         }
       ],
-      "views_label": "1.79K",
+      "views_label": "8.77K",
       "posted_at": "2026-11-14T15:44:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110623"
@@ -50,19 +332,19 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "152"
+          "count": "237"
         },
         {
           "emoji": "🤡",
-          "count": "23"
+          "count": "35"
         },
         {
           "emoji": "👍",
-          "count": "4"
+          "count": "7"
         },
         {
           "emoji": "👎",
-          "count": "4"
+          "count": "6"
         },
         {
           "emoji": "😡",
@@ -73,7 +355,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.39K",
+      "views_label": "9.46K",
       "posted_at": "2026-11-14T14:55:02+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/110622"
@@ -99,26 +381,26 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "175"
+          "count": "216"
         },
         {
           "emoji": "🔥",
-          "count": "7"
+          "count": "9"
         },
         {
           "emoji": "❤",
-          "count": "2"
+          "count": "5"
         },
         {
           "emoji": "👍",
-          "count": "1"
+          "count": "2"
         },
         {
           "emoji": "🏆",
           "count": "1"
         }
       ],
-      "views_label": "6.08K",
+      "views_label": "9.77K",
       "posted_at": "2026-11-14T14:04:18+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110621"
@@ -134,15 +416,15 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "154"
+          "count": "184"
         },
         {
           "emoji": "😐",
-          "count": "28"
+          "count": "34"
         },
         {
           "emoji": "😡",
-          "count": "7"
+          "count": "10"
         },
         {
           "emoji": "👍",
@@ -151,9 +433,13 @@
         {
           "emoji": "👎",
           "count": "2"
+        },
+        {
+          "emoji": "🤣",
+          "count": "1"
         }
       ],
-      "views_label": "7.09K",
+      "views_label": "10.1K",
       "posted_at": "2026-11-14T13:39:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110620"
@@ -169,7 +455,7 @@
       "reactions": [
         {
           "emoji": "🤡",
-          "count": "122"
+          "count": "134"
         },
         {
           "emoji": "🤣",
@@ -192,7 +478,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.88K",
+      "views_label": "10.8K",
       "posted_at": "2026-11-14T11:23:35+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110619"
@@ -208,7 +494,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "68"
+          "count": "79"
         },
         {
           "emoji": "👎",
@@ -216,7 +502,7 @@
         },
         {
           "emoji": "🤡",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "❤",
@@ -227,7 +513,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.27K",
+      "views_label": "10.9K",
       "posted_at": "2026-11-14T11:01:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110618"
@@ -243,7 +529,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "111"
+          "count": "124"
         },
         {
           "emoji": "😡",
@@ -251,14 +537,14 @@
         },
         {
           "emoji": "🤣",
-          "count": "2"
+          "count": "3"
         },
         {
           "emoji": "❤",
           "count": "1"
         }
       ],
-      "views_label": "9.28K",
+      "views_label": "10.8K",
       "posted_at": "2026-11-14T10:58:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110617"
@@ -283,12 +569,12 @@
       ],
       "reactions": [
         {
-          "emoji": "🤡",
+          "emoji": "❤",
           "count": "5"
         },
         {
-          "emoji": "❤",
-          "count": "4"
+          "emoji": "🤡",
+          "count": "5"
         },
         {
           "emoji": "🤣",
@@ -299,7 +585,7 @@
           "count": "2"
         }
       ],
-      "views_label": "9.09K",
+      "views_label": "10.9K",
       "posted_at": "2026-11-14T10:55:41+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110615"
@@ -326,7 +612,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.02K",
+      "views_label": "10.5K",
       "posted_at": "2026-11-14T10:55:41+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110616"
@@ -342,7 +628,7 @@
       "reactions": [
         {
           "emoji": "😐",
-          "count": "220"
+          "count": "231"
         },
         {
           "emoji": "🤣",
@@ -365,7 +651,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.96K",
+      "views_label": "11.4K",
       "posted_at": "2026-11-14T09:29:20+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110614"
@@ -381,7 +667,7 @@
       "reactions": [
         {
           "emoji": "😐",
-          "count": "288"
+          "count": "295"
         },
         {
           "emoji": "🔥",
@@ -389,7 +675,7 @@
         },
         {
           "emoji": "🤣",
-          "count": "15"
+          "count": "17"
         },
         {
           "emoji": "❤",
@@ -404,7 +690,7 @@
           "count": "2"
         }
       ],
-      "views_label": "10.8K",
+      "views_label": "12.1K",
       "posted_at": "2026-11-14T08:10:09+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110613"
@@ -420,7 +706,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "104"
+          "count": "105"
         },
         {
           "emoji": "🤣",
@@ -435,7 +721,7 @@
           "count": "1"
         }
       ],
-      "views_label": "12.7K",
+      "views_label": "13.4K",
       "posted_at": "2026-11-13T21:50:16+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110612"
@@ -3396,288 +3682,6 @@
       "posted_at": "2026-11-10T15:35:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110508"
-    },
-    {
-      "id": "Media_HB/110509",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/kmIc7c5sKpt5EHBm7RUqKY9SBRhhWSx36zPaOsGmGEQTSivHdTyfOmTLUCmPT0EhgRynkvE-VNqUHOPwB7IkUFS7hsk8bSlNiDO3TgDQsvSzMXQFPiu9gr4efBhTp51Lir08OTHPn7OP_2mIY1-lpyKsJynXEnBnq7WwohaDKMBoDl-mP0JUeZ2G6z8_6E8oaTkafdakGRaBz68UHHszbrajQ3BTdAhQ6k0UFlnZh9wYiKX1devqCkZqd4N4fh_zM3nOTTUrH9Kx9SHIYjjz9iEE-NFa-xIXrGmRSZhnPVvRxkc1JSCaHugOmlYFnEdk-8ardMqASaNCKhCwY6dJPA.jpg",
-      "author_photo_path": "channels/media_hb/media/9660677ee9bebe21314b23da.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B2.png')\"><b>📲</b></i> اپلیکیشن اندروید سایت ریتزوبت <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i> وقتی شرط ‌هاتون رو توی ریتزوبت ثبت کنین ، علاوه بر ضرایب بالا ، هفتگی با کد های هدیه کسب درآمد میکنید <b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA491.png')\"><b>🤑</b></i></b><br><a href=\"?q=%23%D8%B4%D8%B1%D8%B7%D8%A8%D9%86%D8%AF%DB%8C\">#شرطبندی</a><br><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i> </b><a href=\"https://t.me/Ritzobet_ir/2587\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">آموزش شارژ حساب با کریپتو</a><br><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i> </b><a href=\"https://t.me/Ritzobet_ir/2588\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">آموزش شارژ حساب  ریالی در ریتزوبت</a>",
-      "plain_text": "📲 اپلیکیشن اندروید سایت ریتزوبت 🔥 🚀 وقتی شرط ‌هاتون رو توی ریتزوبت ثبت کنین ، علاوه بر ضرایب بالا ، هفتگی با کد های هدیه کسب درآمد میکنید 🤑 #شرطبندی ♦️ آموزش شارژ حساب با کریپتو ♦️ آموزش شارژ حساب ریالی در ریتزوبت",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👎",
-          "count": "3"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        },
-        {
-          "emoji": "😭",
-          "count": "1"
-        },
-        {
-          "emoji": "😡",
-          "count": "1"
-        }
-      ],
-      "views_label": "11.3K",
-      "posted_at": "2026-11-10T15:35:02+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110509"
-    },
-    {
-      "id": "Media_HB/110507",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/kmIc7c5sKpt5EHBm7RUqKY9SBRhhWSx36zPaOsGmGEQTSivHdTyfOmTLUCmPT0EhgRynkvE-VNqUHOPwB7IkUFS7hsk8bSlNiDO3TgDQsvSzMXQFPiu9gr4efBhTp51Lir08OTHPn7OP_2mIY1-lpyKsJynXEnBnq7WwohaDKMBoDl-mP0JUeZ2G6z8_6E8oaTkafdakGRaBz68UHHszbrajQ3BTdAhQ6k0UFlnZh9wYiKX1devqCkZqd4N4fh_zM3nOTTUrH9Kx9SHIYjjz9iEE-NFa-xIXrGmRSZhnPVvRxkc1JSCaHugOmlYFnEdk-8ardMqASaNCKhCwY6dJPA.jpg",
-      "author_photo_path": "channels/media_hb/media/9660677ee9bebe21314b23da.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i><b>رئیس جمهور اسرائیل: <br><br>برای حمله به ایران، به متحدانی نیاز داریم. از دور دوم انتخابات باید جلوگیری شود و فورا ائتلاف تشکیل شود.</b>",
-      "plain_text": "❗رئیس جمهور اسرائیل: برای حمله به ایران، به متحدانی نیاز داریم. از دور دوم انتخابات باید جلوگیری شود و فورا ائتلاف تشکیل شود.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "132"
-        },
-        {
-          "emoji": "🤡",
-          "count": "20"
-        },
-        {
-          "emoji": "😭",
-          "count": "2"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        },
-        {
-          "emoji": "😡",
-          "count": "1"
-        }
-      ],
-      "views_label": "10.4K",
-      "posted_at": "2026-11-10T14:36:01+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110507"
-    },
-    {
-      "id": "Media_HB/110506",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/jehrnzQasaiHU5olILl1UycQG54-sUJCgmcqiZWRLYtP_jevz3h4ixD8KPxaHDCpmvW3mmkoxLni1aY6C2YZtcdckUG9rNAuDTN9ZwKa-NqwJS9YjBE-gKTtRvvm6waXpekGA2WFPdUoV6A4_-VVcjNVG1cTum5trA2q_RlQ7sUrZ5xKJAN4sbYVUDo3Q72_uzb8kHx2G_FElCls44pXudV5iB28ilhItM_yu4rkuwuENtfgR_R0xaZXDOKjY78T1ymCeo1FatGBoMLj05XIWECzXe45a6kIZX0vY2J9mvPkfPOKVrreIF3VpbuSmOngMP7UTsBZzioaiOIkSSWldA.jpg",
-      "author_photo_path": "channels/media_hb/media/c8f08bbba2aa8b6041a96998.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i>یه سریا میپرسن چرا هرکس یه چیز متفاوت میگه توی کابینه آمریکا. چون الان چند تا ساید مختلف وجود داره.  جی دی ونس و ویتکاف: مذاکره و توافق  روبیو و رئیس CIA: ادامه محاصره و فشار اقتصادی   هگست، ژنرال کین و برد کوپر: از سرگیری عملیات نظامی",
-      "plain_text": "❗یه سریا میپرسن چرا هرکس یه چیز متفاوت میگه توی کابینه آمریکا. چون الان چند تا ساید مختلف وجود داره. جی دی ونس و ویتکاف: مذاکره و توافق روبیو و رئیس CIA: ادامه محاصره و فشار اقتصادی هگست، ژنرال کین و برد کوپر: از سرگیری عملیات نظامی",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "114"
-        },
-        {
-          "emoji": "👍",
-          "count": "26"
-        },
-        {
-          "emoji": "👎",
-          "count": "12"
-        },
-        {
-          "emoji": "👀",
-          "count": "1"
-        }
-      ],
-      "views_label": "10.1K",
-      "posted_at": "2026-11-10T14:33:34+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110506"
-    },
-    {
-      "id": "Media_HB/110505",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/jehrnzQasaiHU5olILl1UycQG54-sUJCgmcqiZWRLYtP_jevz3h4ixD8KPxaHDCpmvW3mmkoxLni1aY6C2YZtcdckUG9rNAuDTN9ZwKa-NqwJS9YjBE-gKTtRvvm6waXpekGA2WFPdUoV6A4_-VVcjNVG1cTum5trA2q_RlQ7sUrZ5xKJAN4sbYVUDo3Q72_uzb8kHx2G_FElCls44pXudV5iB28ilhItM_yu4rkuwuENtfgR_R0xaZXDOKjY78T1ymCeo1FatGBoMLj05XIWECzXe45a6kIZX0vY2J9mvPkfPOKVrreIF3VpbuSmOngMP7UTsBZzioaiOIkSSWldA.jpg",
-      "author_photo_path": "channels/media_hb/media/c8f08bbba2aa8b6041a96998.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i><b>یه سریا میپرسن چرا هرکس یه چیز متفاوت میگه توی کابینه آمریکا. چون الان چند تا ساید مختلف وجود داره.<br><br>جی دی ونس و ویتکاف: مذاکره و توافق<br><br>روبیو و رئیس CIA: ادامه محاصره و فشار اقتصادی <br><br>هگست، ژنرال کین و برد کوپر: از سرگیری عملیات نظامی</b>",
-      "plain_text": "❗یه سریا میپرسن چرا هرکس یه چیز متفاوت میگه توی کابینه آمریکا. چون الان چند تا ساید مختلف وجود داره. جی دی ونس و ویتکاف: مذاکره و توافق روبیو و رئیس CIA: ادامه محاصره و فشار اقتصادی هگست، ژنرال کین و برد کوپر: از سرگیری عملیات نظامی",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "114"
-        },
-        {
-          "emoji": "😁",
-          "count": "12"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        }
-      ],
-      "views_label": "10.3K",
-      "posted_at": "2026-11-10T14:29:32+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110505"
-    },
-    {
-      "id": "Media_HB/110504",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/jehrnzQasaiHU5olILl1UycQG54-sUJCgmcqiZWRLYtP_jevz3h4ixD8KPxaHDCpmvW3mmkoxLni1aY6C2YZtcdckUG9rNAuDTN9ZwKa-NqwJS9YjBE-gKTtRvvm6waXpekGA2WFPdUoV6A4_-VVcjNVG1cTum5trA2q_RlQ7sUrZ5xKJAN4sbYVUDo3Q72_uzb8kHx2G_FElCls44pXudV5iB28ilhItM_yu4rkuwuENtfgR_R0xaZXDOKjY78T1ymCeo1FatGBoMLj05XIWECzXe45a6kIZX0vY2J9mvPkfPOKVrreIF3VpbuSmOngMP7UTsBZzioaiOIkSSWldA.jpg",
-      "author_photo_path": "channels/media_hb/media/c8f08bbba2aa8b6041a96998.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i> <b>مارکو روبیو درباره ایران:<br><br>به شما می‌گویم که مطالبات ایران کاملاً غیرواقع‌بینانه است.<br><br>ما انتظار داریم که این مواضع ممکن است تغییر کند و اگر چنین اتفاقی بیفتد، برای دیپلماسی آماده خواهیم بود.<br><br><br>چرا باید با ایران درباره لبنان گفت‌وگو کنیم؟ لبنان هیچ ارتباطی به ایران ندارد و موضوعی نیست که به ایران مربوط باشد.</b>",
-      "plain_text": "🚨 مارکو روبیو درباره ایران: به شما می‌گویم که مطالبات ایران کاملاً غیرواقع‌بینانه است. ما انتظار داریم که این مواضع ممکن است تغییر کند و اگر چنین اتفاقی بیفتد، برای دیپلماسی آماده خواهیم بود. چرا باید با ایران درباره لبنان گفت‌وگو کنیم؟ لبنان هیچ ارتباطی به ایران ندارد و موضوعی نیست که به ایران مربوط باشد.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "134"
-        },
-        {
-          "emoji": "❤",
-          "count": "14"
-        },
-        {
-          "emoji": "👍",
-          "count": "9"
-        },
-        {
-          "emoji": "😡",
-          "count": "5"
-        },
-        {
-          "emoji": "🤡",
-          "count": "2"
-        },
-        {
-          "emoji": "💔",
-          "count": "2"
-        }
-      ],
-      "views_label": "10.3K",
-      "posted_at": "2026-11-10T14:11:04+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110504"
-    },
-    {
-      "id": "Media_HB/110503",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/jehrnzQasaiHU5olILl1UycQG54-sUJCgmcqiZWRLYtP_jevz3h4ixD8KPxaHDCpmvW3mmkoxLni1aY6C2YZtcdckUG9rNAuDTN9ZwKa-NqwJS9YjBE-gKTtRvvm6waXpekGA2WFPdUoV6A4_-VVcjNVG1cTum5trA2q_RlQ7sUrZ5xKJAN4sbYVUDo3Q72_uzb8kHx2G_FElCls44pXudV5iB28ilhItM_yu4rkuwuENtfgR_R0xaZXDOKjY78T1ymCeo1FatGBoMLj05XIWECzXe45a6kIZX0vY2J9mvPkfPOKVrreIF3VpbuSmOngMP7UTsBZzioaiOIkSSWldA.jpg",
-      "author_photo_path": "channels/media_hb/media/c8f08bbba2aa8b6041a96998.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i><b>سؤال خبرنگار از روبیو: درباره ایران گفتید که در حال حاضر نیازی به هیچ‌گونه عملیات نظامی گسترده‌ای نیست، زیرا محاصره و تحریم‌ها در حال اثرگذاری هستند. بنابراین، وضعیت به کجا می‌رسد؟ آیا باید همین وضعیت موجود ادامه پیدا کند؟<br><br>ادعای مارکو روبیو: نه، قرار نیست وضعیت به همین شکل باقی بماند. فشار اقتصادی قرار است حتی شدیدتر هم شود.<br><br>منظورم این است که باید درک کرد این تحریم‌ها به‌تدریج اثرات انباشته‌شونده‌ای پیدا می‌کنند.<br><br>برای مثال، ایران هنوز مقدار اندکی نفت، در حد چند محموله محدود، روی آب دارد که به فروش نرسیده است.<br><br>وقتی این ذخایر به پایان برسد، تقریباً تمام درآمدهای نفتی ایران نیز قطع خواهد شد.</b>",
-      "plain_text": "❗سؤال خبرنگار از روبیو: درباره ایران گفتید که در حال حاضر نیازی به هیچ‌گونه عملیات نظامی گسترده‌ای نیست، زیرا محاصره و تحریم‌ها در حال اثرگذاری هستند. بنابراین، وضعیت به کجا می‌رسد؟ آیا باید همین وضعیت موجود ادامه پیدا کند؟ ادعای مارکو روبیو: نه، قرار نیست وضعیت به همین شکل باقی بماند. فشار اقتصادی قرار است حتی شدیدتر هم شود. منظورم این است که باید درک کرد این تحریم‌ها به‌تدریج اثرات انباشته‌شونده‌ای پیدا می‌کنند. برای مثال، ایران هنوز مقدار اندکی نفت، در حد چند محموله محدود، روی آب دارد که به فروش نرسیده است. وقتی این ذخایر به پایان برسد، تقریباً تمام درآمدهای نفتی ایران نیز قطع خواهد شد.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "💔",
-          "count": "39"
-        },
-        {
-          "emoji": "❤",
-          "count": "11"
-        },
-        {
-          "emoji": "🔥",
-          "count": "9"
-        },
-        {
-          "emoji": "🤡",
-          "count": "2"
-        },
-        {
-          "emoji": "🤣",
-          "count": "1"
-        }
-      ],
-      "views_label": "7.77K",
-      "posted_at": "2026-11-10T14:10:03+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110503"
-    },
-    {
-      "id": "Media_HB/110502",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/jehrnzQasaiHU5olILl1UycQG54-sUJCgmcqiZWRLYtP_jevz3h4ixD8KPxaHDCpmvW3mmkoxLni1aY6C2YZtcdckUG9rNAuDTN9ZwKa-NqwJS9YjBE-gKTtRvvm6waXpekGA2WFPdUoV6A4_-VVcjNVG1cTum5trA2q_RlQ7sUrZ5xKJAN4sbYVUDo3Q72_uzb8kHx2G_FElCls44pXudV5iB28ilhItM_yu4rkuwuENtfgR_R0xaZXDOKjY78T1ymCeo1FatGBoMLj05XIWECzXe45a6kIZX0vY2J9mvPkfPOKVrreIF3VpbuSmOngMP7UTsBZzioaiOIkSSWldA.jpg",
-      "author_photo_path": "channels/media_hb/media/c8f08bbba2aa8b6041a96998.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i><b>کمیسیون اقتصادی دولت طرحی رو تصویب کرده به اسم تورم صفر<br><br>توی این طرح قراره یه‌سری‌ کالاهای اساسی و پر مصرف مردم حداقل برای چندماه افزایش قیمت نداشته باشه</b>",
-      "plain_text": "❗کمیسیون اقتصادی دولت طرحی رو تصویب کرده به اسم تورم صفر توی این طرح قراره یه‌سری‌ کالاهای اساسی و پر مصرف مردم حداقل برای چندماه افزایش قیمت نداشته باشه",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "152"
-        },
-        {
-          "emoji": "🤡",
-          "count": "18"
-        },
-        {
-          "emoji": "👍",
-          "count": "4"
-        },
-        {
-          "emoji": "❤",
-          "count": "3"
-        },
-        {
-          "emoji": "😁",
-          "count": "2"
-        }
-      ],
-      "views_label": "8.08K",
-      "posted_at": "2026-11-10T13:37:38+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/110502"
-    },
-    {
-      "id": "Media_HB/110501",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/jehrnzQasaiHU5olILl1UycQG54-sUJCgmcqiZWRLYtP_jevz3h4ixD8KPxaHDCpmvW3mmkoxLni1aY6C2YZtcdckUG9rNAuDTN9ZwKa-NqwJS9YjBE-gKTtRvvm6waXpekGA2WFPdUoV6A4_-VVcjNVG1cTum5trA2q_RlQ7sUrZ5xKJAN4sbYVUDo3Q72_uzb8kHx2G_FElCls44pXudV5iB28ilhItM_yu4rkuwuENtfgR_R0xaZXDOKjY78T1ymCeo1FatGBoMLj05XIWECzXe45a6kIZX0vY2J9mvPkfPOKVrreIF3VpbuSmOngMP7UTsBZzioaiOIkSSWldA.jpg",
-      "author_photo_path": "channels/media_hb/media/c8f08bbba2aa8b6041a96998.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i><b>رونمایی سپاه از شهر موشکی جدیدش</b>",
-      "plain_text": "❗رونمایی سپاه از شهر موشکی جدیدش",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Media_HB/110501",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/d0lJRgc8AYu5ZHxyRwuvnEQh8SyLbqpV8Pzf_SxTRMFV0pV_HhHAMFlLT_2DlWiu3F9E4xB5_NyouOXi-l6WlmRNvgvC6L8mO3NSdhWFmg8fqSNbNg3sDdtrEoaJ0bt27m9GE1hKTs7P4lG75zXbnXGuP_9HmPz-NKgUh-rzUTc3ooV4X5CmsCUl83McLzNSvhn0DGBUZOdpGNTMklyiQhx8yC9VpQCxiyTWu3AXfeIBKUMxItiBwahNWcyXYMCJqv6kljQcBWKJ4imRkynIRRzVgaGHTI8KNZwUTpD1-eepv4uCs6oT_y-c12V05L78qWL45r0iC7-MKXgFcrWNgg",
-          "thumbnail_path": "channels/media_hb/media/a8dc05806002da8da4e630d8.jpg",
-          "duration_label": "6:11",
-          "aspect_ratio": 2.2222222222222223
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "172"
-        },
-        {
-          "emoji": "🔥",
-          "count": "48"
-        },
-        {
-          "emoji": "🤡",
-          "count": "9"
-        },
-        {
-          "emoji": "🍓",
-          "count": "7"
-        },
-        {
-          "emoji": "❤",
-          "count": "5"
-        }
-      ],
-      "views_label": "9.88K",
-      "posted_at": "2026-11-10T11:10:27+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Media_HB/110501"
     }
   ]
 }
