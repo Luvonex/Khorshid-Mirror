@@ -1,15 +1,495 @@
 {
   "schema": 2,
-  "fetched_at": "2026-11-17T05:06:27.832Z",
+  "fetched_at": "2026-11-17T08:38:44.670Z",
   "channel": {
     "username": "pm_afshaa",
     "title": "PMTV NEWS 🦁☀️",
     "description_html": "\"اخبار فوری و کوتاه مملکت\"<br>خبرگزاری PMTV یک رسانه مستقل و مردمی هست<br>اسپانسری و قرارداد پذیرفته میشود<br><br>300K<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F949D.png')\"><b>🔝</b></i>",
     "photo_url": "https://cdn4.telesco.pe/file/iVdFilWP8fDelQJiksIp8GQmgj-Zv1XLvB1mrsTsAtBW4Ad8ouanyP82YDRyvYUeIPIPJ7GkCr8enyfMNW1EUL7DP2DBnt5Z6WsjR06Nc7vttuAhhPJ3HLsG_Ad9ROGTrvLM-IpdkV1C1axmimuBaFGdAhQT8711EqeueGvH3I5cvw2KtaxUk-B6GLmy9UZA_CM04o30oMa7pFd3xoSS7ZPnYKpdw8HiQAvYOVVDRSn6qSvvXwNOJqGMkt-XIe4-ZDRvEL6EinMgV_ohGW-Tw_xuovG0C0Kxgzqe-bpf49e1i8FGqNGlYgAUXicJ0ELADepq_L-8t627_p2K_RHDgQ.jpg",
     "photo_path": "channels/pm_afshaa/media/1df77c90e6ad6ada168c2f29.jpg",
-    "subscriber_count": "224K"
+    "subscriber_count": "223K"
   },
   "posts": [
+    {
+      "id": "pm_afshaa/104574",
+      "author_name": "PMTV NEWS 🦁☀️",
+      "author_photo_url": "https://cdn4.telesco.pe/file/iVdFilWP8fDelQJiksIp8GQmgj-Zv1XLvB1mrsTsAtBW4Ad8ouanyP82YDRyvYUeIPIPJ7GkCr8enyfMNW1EUL7DP2DBnt5Z6WsjR06Nc7vttuAhhPJ3HLsG_Ad9ROGTrvLM-IpdkV1C1axmimuBaFGdAhQT8711EqeueGvH3I5cvw2KtaxUk-B6GLmy9UZA_CM04o30oMa7pFd3xoSS7ZPnYKpdw8HiQAvYOVVDRSn6qSvvXwNOJqGMkt-XIe4-ZDRvEL6EinMgV_ohGW-Tw_xuovG0C0Kxgzqe-bpf49e1i8FGqNGlYgAUXicJ0ELADepq_L-8t627_p2K_RHDgQ.jpg",
+      "author_photo_path": "channels/pm_afshaa/media/1df77c90e6ad6ada168c2f29.jpg",
+      "body_html": "جی‌دی ونس: امیدوارم دموکرات‌ها به وعده‌های انتخاباتی خود عمل کنند<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+      "plain_text": "جی‌دی ونس: امیدوارم دموکرات‌ها به وعده‌های انتخاباتی خود عمل کنند 😁 @Pm_Afshaa",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "46"
+        },
+        {
+          "emoji": "🖕",
+          "count": "18"
+        },
+        {
+          "emoji": "❤",
+          "count": "4"
+        },
+        {
+          "emoji": "🤬",
+          "count": "2"
+        }
+      ],
+      "views_label": "3.06K",
+      "posted_at": "2026-11-17T08:28:24+00:00",
+      "edited": false,
+      "permalink": "https://t.me/pm_afshaa/104574"
+    },
+    {
+      "id": "pm_afshaa/104573",
+      "author_name": "PMTV NEWS 🦁☀️",
+      "author_photo_url": "https://cdn4.telesco.pe/file/iVdFilWP8fDelQJiksIp8GQmgj-Zv1XLvB1mrsTsAtBW4Ad8ouanyP82YDRyvYUeIPIPJ7GkCr8enyfMNW1EUL7DP2DBnt5Z6WsjR06Nc7vttuAhhPJ3HLsG_Ad9ROGTrvLM-IpdkV1C1axmimuBaFGdAhQT8711EqeueGvH3I5cvw2KtaxUk-B6GLmy9UZA_CM04o30oMa7pFd3xoSS7ZPnYKpdw8HiQAvYOVVDRSn6qSvvXwNOJqGMkt-XIe4-ZDRvEL6EinMgV_ohGW-Tw_xuovG0C0Kxgzqe-bpf49e1i8FGqNGlYgAUXicJ0ELADepq_L-8t627_p2K_RHDgQ.jpg",
+      "author_photo_path": "channels/pm_afshaa/media/1df77c90e6ad6ada168c2f29.jpg",
+      "body_html": "ویدیویی از ورود گراز به محوطه بیمارستانی در تهرانپارس<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+      "plain_text": "ویدیویی از ورود گراز به محوطه بیمارستانی در تهرانپارس 😁 @Pm_Afshaa",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/pm_afshaa/104573",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/asrssp0jUzx2-LeLM3DgamS7K3e3Dv5tby0x1dlWXpqZdOSBdSdms8TsnAOqOGsLvMvfoBV2lCwYiEv3EbVq4AjgRUxLNXt4M9cppHEJnuB_Fb2XDjPRv9UG1LxjRenYG8iQ2Z5sdK3wpRtNQeBGDVTlPd7mhgy_xuxzTUTHam-J-g0W0Wzux6GrKkUbj2tiVQ1ayJ1VCs4l73XeszKjKLMfAE5YDP-t6CvBaqvxIm2zC8x3Z-MdStOfeTuR-DmihYgR4i0nD7lZ3EWVYjfdZTaZ2MU24r_yjy9ArrOfn3k1FNbocajYEgHUfugxhFKN8T6S87bsuRJcAmkXQK66Rw",
+          "thumbnail_path": "channels/pm_afshaa/media/5c6611e63f38d0072fe24fda.jpg",
+          "duration_label": "0:29",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "95"
+        },
+        {
+          "emoji": "❤",
+          "count": "19"
+        },
+        {
+          "emoji": "🤯",
+          "count": "11"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        }
+      ],
+      "views_label": "7.62K",
+      "posted_at": "2026-11-17T08:06:57+00:00",
+      "edited": false,
+      "permalink": "https://t.me/pm_afshaa/104573"
+    },
+    {
+      "id": "pm_afshaa/104572",
+      "author_name": "PMTV NEWS 🦁☀️",
+      "author_photo_url": "https://cdn4.telesco.pe/file/iVdFilWP8fDelQJiksIp8GQmgj-Zv1XLvB1mrsTsAtBW4Ad8ouanyP82YDRyvYUeIPIPJ7GkCr8enyfMNW1EUL7DP2DBnt5Z6WsjR06Nc7vttuAhhPJ3HLsG_Ad9ROGTrvLM-IpdkV1C1axmimuBaFGdAhQT8711EqeueGvH3I5cvw2KtaxUk-B6GLmy9UZA_CM04o30oMa7pFd3xoSS7ZPnYKpdw8HiQAvYOVVDRSn6qSvvXwNOJqGMkt-XIe4-ZDRvEL6EinMgV_ohGW-Tw_xuovG0C0Kxgzqe-bpf49e1i8FGqNGlYgAUXicJ0ELADepq_L-8t627_p2K_RHDgQ.jpg",
+      "author_photo_path": "channels/pm_afshaa/media/1df77c90e6ad6ada168c2f29.jpg",
+      "body_html": "رئیس مجلس پاکستان: همواره از ایران حمایت می‌کنیم<br>ـ نخستین پارلمانی بودیم که حمله به ایران را محکوم کردیم<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+      "plain_text": "رئیس مجلس پاکستان: همواره از ایران حمایت می‌کنیم ـ نخستین پارلمانی بودیم که حمله به ایران را محکوم کردیم 😁 @Pm_Afshaa",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🖕",
+          "count": "200"
+        },
+        {
+          "emoji": "🤬",
+          "count": "7"
+        },
+        {
+          "emoji": "🤣",
+          "count": "5"
+        },
+        {
+          "emoji": "👍",
+          "count": "3"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        }
+      ],
+      "views_label": "9.75K",
+      "posted_at": "2026-11-17T07:51:36+00:00",
+      "edited": false,
+      "permalink": "https://t.me/pm_afshaa/104572"
+    },
+    {
+      "id": "pm_afshaa/104571",
+      "author_name": "PMTV NEWS 🦁☀️",
+      "author_photo_url": "https://cdn4.telesco.pe/file/iVdFilWP8fDelQJiksIp8GQmgj-Zv1XLvB1mrsTsAtBW4Ad8ouanyP82YDRyvYUeIPIPJ7GkCr8enyfMNW1EUL7DP2DBnt5Z6WsjR06Nc7vttuAhhPJ3HLsG_Ad9ROGTrvLM-IpdkV1C1axmimuBaFGdAhQT8711EqeueGvH3I5cvw2KtaxUk-B6GLmy9UZA_CM04o30oMa7pFd3xoSS7ZPnYKpdw8HiQAvYOVVDRSn6qSvvXwNOJqGMkt-XIe4-ZDRvEL6EinMgV_ohGW-Tw_xuovG0C0Kxgzqe-bpf49e1i8FGqNGlYgAUXicJ0ELADepq_L-8t627_p2K_RHDgQ.jpg",
+      "author_photo_path": "channels/pm_afshaa/media/1df77c90e6ad6ada168c2f29.jpg",
+      "body_html": "نشریه «اکونومیست» که به پیشگویی هاش معروفه و هرسال روی جلد مجله ش اتفاقات سال بعد رو پیشگویی میکنه؛ روی جلد امروزش اتفاقات سال ۲۰۲۷ رو پیشگویی کرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+      "plain_text": "نشریه «اکونومیست» که به پیشگویی هاش معروفه و هرسال روی جلد مجله ش اتفاقات سال بعد رو پیشگویی میکنه؛ روی جلد امروزش اتفاقات سال ۲۰۲۷ رو پیشگویی کرد. 😁 @Pm_Afshaa",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/pm_afshaa/104571",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/D6Z861VNEJ_85F7Y0cld-gePK_6169lOw8fDEifv456FWP9jEEzuTwBHRalbN-quVra-ahsgismF-_AgsQgwdBuWXxyBsKRuVivaGgZHRWJoz6EkG9sl8W925ut7uWs8QBA3uHisohq0M92-Ja0nB8qSQFNvb_cSUU57N7NatJgUBDPTnk-6YokILzD22mbtwqrj04LwXvxKmdAG2opmTBbhnNcNdA9Y54KFIIBl-6lpAWQOeGP_znkpJT5CyfgQm8WwTvRgJlnjbCPLSmVm1ShODM7mdL8236Zw9h_wNecI09h86wry4LcR8S4C4Sv9z10_4sgdLuFNPhgk_ZjKCA.jpg",
+          "thumbnail_path": "channels/pm_afshaa/media/7d4c8bae5cc02b9896a553ed.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤯",
+          "count": "99"
+        },
+        {
+          "emoji": "🤣",
+          "count": "19"
+        },
+        {
+          "emoji": "❤",
+          "count": "4"
+        },
+        {
+          "emoji": "💔",
+          "count": "4"
+        },
+        {
+          "emoji": "🖕",
+          "count": "2"
+        }
+      ],
+      "views_label": "10.1K",
+      "posted_at": "2026-11-17T07:50:27+00:00",
+      "edited": false,
+      "permalink": "https://t.me/pm_afshaa/104571"
+    },
+    {
+      "id": "pm_afshaa/104570",
+      "author_name": "PMTV NEWS 🦁☀️",
+      "author_photo_url": "https://cdn4.telesco.pe/file/iVdFilWP8fDelQJiksIp8GQmgj-Zv1XLvB1mrsTsAtBW4Ad8ouanyP82YDRyvYUeIPIPJ7GkCr8enyfMNW1EUL7DP2DBnt5Z6WsjR06Nc7vttuAhhPJ3HLsG_Ad9ROGTrvLM-IpdkV1C1axmimuBaFGdAhQT8711EqeueGvH3I5cvw2KtaxUk-B6GLmy9UZA_CM04o30oMa7pFd3xoSS7ZPnYKpdw8HiQAvYOVVDRSn6qSvvXwNOJqGMkt-XIe4-ZDRvEL6EinMgV_ohGW-Tw_xuovG0C0Kxgzqe-bpf49e1i8FGqNGlYgAUXicJ0ELADepq_L-8t627_p2K_RHDgQ.jpg",
+      "author_photo_path": "channels/pm_afshaa/media/1df77c90e6ad6ada168c2f29.jpg",
+      "body_html": "وضعیت هوای امروز تهران.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+      "plain_text": "وضعیت هوای امروز تهران. 😁 @Pm_Afshaa",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/pm_afshaa/104570",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/HwkW5pQiFykg3eZrLcZ0iKfq3nXuQkHwRSNV23SlSI1jPQfwNqXMAuTctMFtL9WIcRoRpRpWn_kq47n-1UYgom5uz6HsLPmc3YTSB7q6AClKMSwfkMj3mT8EQIGd4Pyd-mOBaUOpkKulwj6Kb1WnU_G7B5FPcKomf51l59BLv-wAWABwUFC7JK3rDBduhlvjx-72j1VGDYKdbwnhf-YrHZOw5A9NMgwg2Qy_YFwCtpWz_4VIRoOnH0nYvk7iFc8L-DhlcaqKbvSapF0gPY1o1UzUWqNJjllc4NQ1q6-Sq0yMu1HW8tPacre9CaEXvhV38gMPnRv190fcQKVKZsUNOQ.jpg",
+          "thumbnail_path": "channels/pm_afshaa/media/987f6d29ef3ba4e35fa24e26.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤬",
+          "count": "152"
+        },
+        {
+          "emoji": "💔",
+          "count": "45"
+        },
+        {
+          "emoji": "🤣",
+          "count": "12"
+        },
+        {
+          "emoji": "🤯",
+          "count": "3"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
+        }
+      ],
+      "views_label": "13.2K",
+      "posted_at": "2026-11-17T07:25:46+00:00",
+      "edited": false,
+      "permalink": "https://t.me/pm_afshaa/104570"
+    },
+    {
+      "id": "pm_afshaa/104569",
+      "author_name": "PMTV NEWS 🦁☀️",
+      "author_photo_url": "https://cdn4.telesco.pe/file/iVdFilWP8fDelQJiksIp8GQmgj-Zv1XLvB1mrsTsAtBW4Ad8ouanyP82YDRyvYUeIPIPJ7GkCr8enyfMNW1EUL7DP2DBnt5Z6WsjR06Nc7vttuAhhPJ3HLsG_Ad9ROGTrvLM-IpdkV1C1axmimuBaFGdAhQT8711EqeueGvH3I5cvw2KtaxUk-B6GLmy9UZA_CM04o30oMa7pFd3xoSS7ZPnYKpdw8HiQAvYOVVDRSn6qSvvXwNOJqGMkt-XIe4-ZDRvEL6EinMgV_ohGW-Tw_xuovG0C0Kxgzqe-bpf49e1i8FGqNGlYgAUXicJ0ELADepq_L-8t627_p2K_RHDgQ.jpg",
+      "author_photo_path": "channels/pm_afshaa/media/1df77c90e6ad6ada168c2f29.jpg",
+      "body_html": "شهردار مسکو : نزدیک به ۸۰۰ پهپاد اوکراینی به‌سوی پایتخت در حرکت بودند و بیشترشان سرنگون شدند<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+      "plain_text": "شهردار مسکو : نزدیک به ۸۰۰ پهپاد اوکراینی به‌سوی پایتخت در حرکت بودند و بیشترشان سرنگون شدند 😁 @Pm_Afshaa",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "⭐",
+          "count": "1"
+        },
+        {
+          "emoji": "👍",
+          "count": "63"
+        },
+        {
+          "emoji": "🖕",
+          "count": "30"
+        },
+        {
+          "emoji": "🤣",
+          "count": "13"
+        },
+        {
+          "emoji": "❤",
+          "count": "5"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        },
+        {
+          "emoji": "🤬",
+          "count": "1"
+        }
+      ],
+      "views_label": "15.5K",
+      "posted_at": "2026-11-17T06:58:17+00:00",
+      "edited": false,
+      "permalink": "https://t.me/pm_afshaa/104569"
+    },
+    {
+      "id": "pm_afshaa/104568",
+      "author_name": "PMTV NEWS 🦁☀️",
+      "author_photo_url": "https://cdn4.telesco.pe/file/iVdFilWP8fDelQJiksIp8GQmgj-Zv1XLvB1mrsTsAtBW4Ad8ouanyP82YDRyvYUeIPIPJ7GkCr8enyfMNW1EUL7DP2DBnt5Z6WsjR06Nc7vttuAhhPJ3HLsG_Ad9ROGTrvLM-IpdkV1C1axmimuBaFGdAhQT8711EqeueGvH3I5cvw2KtaxUk-B6GLmy9UZA_CM04o30oMa7pFd3xoSS7ZPnYKpdw8HiQAvYOVVDRSn6qSvvXwNOJqGMkt-XIe4-ZDRvEL6EinMgV_ohGW-Tw_xuovG0C0Kxgzqe-bpf49e1i8FGqNGlYgAUXicJ0ELADepq_L-8t627_p2K_RHDgQ.jpg",
+      "author_photo_path": "channels/pm_afshaa/media/1df77c90e6ad6ada168c2f29.jpg",
+      "body_html": "واکنش قالیباف به گزارش به نیویورک تایمز درباره ارتباط سدها و سایت‌های موشکی:<br>ـ در حال زمینه‌چینی برای دور بعدی حملات به زیرساخت‌های غیرنظامی، «کارشناسان» آن‌ها به نیویورک‌تایمز می‌گویند: «سدهای نزدیک به سایت‌های موشکی ایران، کاربری دوگانه (نظامی-غیرنظامی) دارند.»<br>ـ بسیار خب. قانون جدید: هر سد، بندر یا نیروگاهی که در نزدیکی یک پایگاه آمریکایی یا اسرائیلی قرار دارد، دارای کاربری دوگانه است. ما فقط منطق خودتان را به همان شکل و بدون دخل و تصرف به کار می‌بریم.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+      "plain_text": "واکنش قالیباف به گزارش به نیویورک تایمز درباره ارتباط سدها و سایت‌های موشکی: ـ در حال زمینه‌چینی برای دور بعدی حملات به زیرساخت‌های غیرنظامی، «کارشناسان» آن‌ها به نیویورک‌تایمز می‌گویند: «سدهای نزدیک به سایت‌های موشکی ایران، کاربری دوگانه (نظامی-غیرنظامی) دارند.» ـ بسیار خب. قانون جدید: هر سد، بندر یا نیروگاهی که در نزدیکی یک پایگاه آمریکایی یا اسرائیلی قرار دارد، دارای کاربری دوگانه است. ما فقط منطق خودتان را به همان شکل و بدون دخل و تصرف به کار می‌بریم. 😁 @Pm_Afshaa",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "⭐",
+          "count": "1"
+        },
+        {
+          "emoji": "🖕",
+          "count": "193"
+        },
+        {
+          "emoji": "👍",
+          "count": "23"
+        },
+        {
+          "emoji": "🤣",
+          "count": "12"
+        },
+        {
+          "emoji": "❤",
+          "count": "10"
+        },
+        {
+          "emoji": "🔥",
+          "count": "5"
+        }
+      ],
+      "views_label": "17.8K",
+      "posted_at": "2026-11-17T06:31:06+00:00",
+      "edited": false,
+      "permalink": "https://t.me/pm_afshaa/104568"
+    },
+    {
+      "id": "pm_afshaa/104567",
+      "author_name": "PMTV NEWS 🦁☀️",
+      "author_photo_url": "https://cdn4.telesco.pe/file/iVdFilWP8fDelQJiksIp8GQmgj-Zv1XLvB1mrsTsAtBW4Ad8ouanyP82YDRyvYUeIPIPJ7GkCr8enyfMNW1EUL7DP2DBnt5Z6WsjR06Nc7vttuAhhPJ3HLsG_Ad9ROGTrvLM-IpdkV1C1axmimuBaFGdAhQT8711EqeueGvH3I5cvw2KtaxUk-B6GLmy9UZA_CM04o30oMa7pFd3xoSS7ZPnYKpdw8HiQAvYOVVDRSn6qSvvXwNOJqGMkt-XIe4-ZDRvEL6EinMgV_ohGW-Tw_xuovG0C0Kxgzqe-bpf49e1i8FGqNGlYgAUXicJ0ELADepq_L-8t627_p2K_RHDgQ.jpg",
+      "author_photo_path": "channels/pm_afshaa/media/1df77c90e6ad6ada168c2f29.jpg",
+      "body_html": "استعفای ناگهانی رئیس‌جمهور مغولستان<br>ـ خورلسوخ اوخنا، رئیس جمهور مغولستان به طور غیرمنتظره‌ای اعلام کرد، در حالی که با اتهامات سوء رفتار مواجه است، از سمت خود استعفا می‌دهد<br>ـ آسوشیتدپرس گزارش داد که این اقدام به دنبال اتهامات فساد از سوی حزب مخالف صورت گرفته است<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+      "plain_text": "استعفای ناگهانی رئیس‌جمهور مغولستان ـ خورلسوخ اوخنا، رئیس جمهور مغولستان به طور غیرمنتظره‌ای اعلام کرد، در حالی که با اتهامات سوء رفتار مواجه است، از سمت خود استعفا می‌دهد ـ آسوشیتدپرس گزارش داد که این اقدام به دنبال اتهامات فساد از سوی حزب مخالف صورت گرفته است 😁 @Pm_Afshaa",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/pm_afshaa/104567",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/GqtsWZR20aPy7D9vEg1DLtZCC3f05zuAsBXtKT7N-9BK6Uc9pnjOUbgpgppbEP9nbWLIBcZAG7qG3ZwcDB5f4sv7TRfgCK1cqjw-hh17hi6OEuqmHipqgqQ-Z2FyHE12zAjaFT7EeimXP0Cbzx2Xz3PQ4yxsUZU3KZjkchZb42WPtAIxhZ-Iu9e6mAzaEW5hEncGL6ehMcMVXqvvOJn_Mu4ehUvsR50PHbgkvxGzFxt15vUt8WZC4Z9akU4aMco5Xh6tYamjL4UTSlY1F6aslBFbDoPY1JLIyePYCWCT032JddOVCkEYp7M_m_6zGB8-CHD1L3LwbghWTAQFotI1eg.jpg",
+          "thumbnail_path": "channels/pm_afshaa/media/c626222a374f4ddbbecfc53c.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.4977973568281926
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "92"
+        },
+        {
+          "emoji": "👍",
+          "count": "13"
+        },
+        {
+          "emoji": "❤",
+          "count": "5"
+        },
+        {
+          "emoji": "🤯",
+          "count": "2"
+        },
+        {
+          "emoji": "🖕",
+          "count": "1"
+        }
+      ],
+      "views_label": "18.9K",
+      "posted_at": "2026-11-17T06:18:03+00:00",
+      "edited": false,
+      "permalink": "https://t.me/pm_afshaa/104567"
+    },
+    {
+      "id": "pm_afshaa/104566",
+      "author_name": "PMTV NEWS 🦁☀️",
+      "author_photo_url": "https://cdn4.telesco.pe/file/iVdFilWP8fDelQJiksIp8GQmgj-Zv1XLvB1mrsTsAtBW4Ad8ouanyP82YDRyvYUeIPIPJ7GkCr8enyfMNW1EUL7DP2DBnt5Z6WsjR06Nc7vttuAhhPJ3HLsG_Ad9ROGTrvLM-IpdkV1C1axmimuBaFGdAhQT8711EqeueGvH3I5cvw2KtaxUk-B6GLmy9UZA_CM04o30oMa7pFd3xoSS7ZPnYKpdw8HiQAvYOVVDRSn6qSvvXwNOJqGMkt-XIe4-ZDRvEL6EinMgV_ohGW-Tw_xuovG0C0Kxgzqe-bpf49e1i8FGqNGlYgAUXicJ0ELADepq_L-8t627_p2K_RHDgQ.jpg",
+      "author_photo_path": "channels/pm_afshaa/media/1df77c90e6ad6ada168c2f29.jpg",
+      "body_html": "نیویورک تایمز: برای خیلیا سواله ایران چرا این همه سد میسازه؟! دلیلیش اینه که این سدها رو کنار پایگاه های موشکی زیرزمینیش میسازه تا آب و برق نزدیکش باشه.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+      "plain_text": "نیویورک تایمز: برای خیلیا سواله ایران چرا این همه سد میسازه؟! دلیلیش اینه که این سدها رو کنار پایگاه های موشکی زیرزمینیش میسازه تا آب و برق نزدیکش باشه. 😁 @Pm_Afshaa",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "198"
+        },
+        {
+          "emoji": "👍",
+          "count": "74"
+        },
+        {
+          "emoji": "🤬",
+          "count": "41"
+        },
+        {
+          "emoji": "🖕",
+          "count": "12"
+        },
+        {
+          "emoji": "❤",
+          "count": "5"
+        },
+        {
+          "emoji": "🤯",
+          "count": "1"
+        }
+      ],
+      "views_label": "20K",
+      "posted_at": "2026-11-17T05:55:11+00:00",
+      "edited": false,
+      "permalink": "https://t.me/pm_afshaa/104566"
+    },
+    {
+      "id": "pm_afshaa/104565",
+      "author_name": "PMTV NEWS 🦁☀️",
+      "author_photo_url": "https://cdn4.telesco.pe/file/iVdFilWP8fDelQJiksIp8GQmgj-Zv1XLvB1mrsTsAtBW4Ad8ouanyP82YDRyvYUeIPIPJ7GkCr8enyfMNW1EUL7DP2DBnt5Z6WsjR06Nc7vttuAhhPJ3HLsG_Ad9ROGTrvLM-IpdkV1C1axmimuBaFGdAhQT8711EqeueGvH3I5cvw2KtaxUk-B6GLmy9UZA_CM04o30oMa7pFd3xoSS7ZPnYKpdw8HiQAvYOVVDRSn6qSvvXwNOJqGMkt-XIe4-ZDRvEL6EinMgV_ohGW-Tw_xuovG0C0Kxgzqe-bpf49e1i8FGqNGlYgAUXicJ0ELADepq_L-8t627_p2K_RHDgQ.jpg",
+      "author_photo_path": "channels/pm_afshaa/media/1df77c90e6ad6ada168c2f29.jpg",
+      "body_html": "مادر سرباز آمریکایی: ایران با پهپاد جوری زدش که فقط یه کلاه ازش موند برام<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+      "plain_text": "مادر سرباز آمریکایی: ایران با پهپاد جوری زدش که فقط یه کلاه ازش موند برام 😁 @Pm_Afshaa",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤬",
+          "count": "256"
+        },
+        {
+          "emoji": "💔",
+          "count": "176"
+        },
+        {
+          "emoji": "🤣",
+          "count": "94"
+        },
+        {
+          "emoji": "🔥",
+          "count": "12"
+        },
+        {
+          "emoji": "👍",
+          "count": "7"
+        },
+        {
+          "emoji": "🤯",
+          "count": "2"
+        },
+        {
+          "emoji": "🖕",
+          "count": "2"
+        }
+      ],
+      "views_label": "21.4K",
+      "posted_at": "2026-11-17T05:40:07+00:00",
+      "edited": false,
+      "permalink": "https://t.me/pm_afshaa/104565"
+    },
+    {
+      "id": "pm_afshaa/104564",
+      "author_name": "PMTV NEWS 🦁☀️",
+      "author_photo_url": "https://cdn4.telesco.pe/file/iVdFilWP8fDelQJiksIp8GQmgj-Zv1XLvB1mrsTsAtBW4Ad8ouanyP82YDRyvYUeIPIPJ7GkCr8enyfMNW1EUL7DP2DBnt5Z6WsjR06Nc7vttuAhhPJ3HLsG_Ad9ROGTrvLM-IpdkV1C1axmimuBaFGdAhQT8711EqeueGvH3I5cvw2KtaxUk-B6GLmy9UZA_CM04o30oMa7pFd3xoSS7ZPnYKpdw8HiQAvYOVVDRSn6qSvvXwNOJqGMkt-XIe4-ZDRvEL6EinMgV_ohGW-Tw_xuovG0C0Kxgzqe-bpf49e1i8FGqNGlYgAUXicJ0ELADepq_L-8t627_p2K_RHDgQ.jpg",
+      "author_photo_path": "channels/pm_afshaa/media/1df77c90e6ad6ada168c2f29.jpg",
+      "body_html": "متخصص کالبد شکافی جفری اپستین : او خودکشی نکرده، یکی کشته‌ش<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+      "plain_text": "متخصص کالبد شکافی جفری اپستین : او خودکشی نکرده، یکی کشته‌ش 😁 @Pm_Afshaa",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "229"
+        },
+        {
+          "emoji": "🖕",
+          "count": "10"
+        },
+        {
+          "emoji": "🤯",
+          "count": "8"
+        },
+        {
+          "emoji": "❤",
+          "count": "4"
+        }
+      ],
+      "views_label": "21.2K",
+      "posted_at": "2026-11-17T05:38:26+00:00",
+      "edited": false,
+      "permalink": "https://t.me/pm_afshaa/104564"
+    },
+    {
+      "id": "pm_afshaa/104563",
+      "author_name": "PMTV NEWS 🦁☀️",
+      "author_photo_url": "https://cdn4.telesco.pe/file/iVdFilWP8fDelQJiksIp8GQmgj-Zv1XLvB1mrsTsAtBW4Ad8ouanyP82YDRyvYUeIPIPJ7GkCr8enyfMNW1EUL7DP2DBnt5Z6WsjR06Nc7vttuAhhPJ3HLsG_Ad9ROGTrvLM-IpdkV1C1axmimuBaFGdAhQT8711EqeueGvH3I5cvw2KtaxUk-B6GLmy9UZA_CM04o30oMa7pFd3xoSS7ZPnYKpdw8HiQAvYOVVDRSn6qSvvXwNOJqGMkt-XIe4-ZDRvEL6EinMgV_ohGW-Tw_xuovG0C0Kxgzqe-bpf49e1i8FGqNGlYgAUXicJ0ELADepq_L-8t627_p2K_RHDgQ.jpg",
+      "author_photo_path": "channels/pm_afshaa/media/1df77c90e6ad6ada168c2f29.jpg",
+      "body_html": "دبیر: با افتخار ۳میلیون دلار از بودجه شهر تهران رو برداشتیم تا توی لبنان پارک بسازیم<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+      "plain_text": "دبیر: با افتخار ۳میلیون دلار از بودجه شهر تهران رو برداشتیم تا توی لبنان پارک بسازیم 😁 @Pm_Afshaa",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🖕",
+          "count": "965"
+        },
+        {
+          "emoji": "🤬",
+          "count": "89"
+        },
+        {
+          "emoji": "🤯",
+          "count": "26"
+        },
+        {
+          "emoji": "🤣",
+          "count": "12"
+        },
+        {
+          "emoji": "❤",
+          "count": "3"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        }
+      ],
+      "views_label": "23K",
+      "posted_at": "2026-11-17T05:15:26+00:00",
+      "edited": false,
+      "permalink": "https://t.me/pm_afshaa/104563"
+    },
     {
       "id": "pm_afshaa/104562",
       "author_name": "PMTV NEWS 🦁☀️",
@@ -21,18 +501,22 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "42"
+          "count": "471"
         },
         {
           "emoji": "🖕",
-          "count": "6"
+          "count": "55"
         },
         {
           "emoji": "❤",
+          "count": "7"
+        },
+        {
+          "emoji": "💔",
           "count": "1"
         }
       ],
-      "views_label": "1.6K",
+      "views_label": "23.6K",
       "posted_at": "2026-11-17T05:01:07+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/104562"
@@ -48,30 +532,30 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "602"
+          "count": "820"
         },
         {
           "emoji": "👍",
-          "count": "48"
+          "count": "61"
         },
         {
           "emoji": "🔥",
-          "count": "23"
+          "count": "27"
         },
         {
           "emoji": "❤",
-          "count": "15"
+          "count": "22"
         },
         {
           "emoji": "🖕",
-          "count": "8"
+          "count": "13"
         },
         {
           "emoji": "💔",
-          "count": "2"
+          "count": "4"
         }
       ],
-      "views_label": "21.9K",
+      "views_label": "33.7K",
       "posted_at": "2026-11-16T21:31:23+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/104561"
@@ -87,15 +571,15 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "290"
+          "count": "379"
         },
         {
           "emoji": "🔥",
-          "count": "64"
+          "count": "77"
         },
         {
           "emoji": "👍",
-          "count": "23"
+          "count": "27"
         },
         {
           "emoji": "🖕",
@@ -107,10 +591,14 @@
         },
         {
           "emoji": "💔",
+          "count": "3"
+        },
+        {
+          "emoji": "🤣",
           "count": "2"
         }
       ],
-      "views_label": "24.7K",
+      "views_label": "34.6K",
       "posted_at": "2026-11-16T20:58:51+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/104560"
@@ -126,18 +614,18 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "276"
+          "count": "333"
         },
         {
           "emoji": "👍",
-          "count": "58"
+          "count": "70"
         },
         {
           "emoji": "🤣",
-          "count": "2"
+          "count": "3"
         }
       ],
-      "views_label": "27K",
+      "views_label": "35.5K",
       "posted_at": "2026-11-16T20:40:51+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/104559"
@@ -163,34 +651,34 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "972"
+          "count": "1.17K"
         },
         {
           "emoji": "💔",
-          "count": "154"
+          "count": "177"
         },
         {
           "emoji": "🖕",
-          "count": "61"
+          "count": "74"
         },
         {
           "emoji": "🔥",
-          "count": "9"
+          "count": "10"
+        },
+        {
+          "emoji": "🤣",
+          "count": "8"
         },
         {
           "emoji": "👍",
           "count": "6"
         },
         {
-          "emoji": "🤣",
-          "count": "6"
-        },
-        {
           "emoji": "🤬",
-          "count": "4"
+          "count": "5"
         }
       ],
-      "views_label": "28.7K",
+      "views_label": "36.5K",
       "posted_at": "2026-11-16T20:22:54+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/104558"
@@ -206,26 +694,26 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "282"
+          "count": "317"
         },
         {
           "emoji": "🖕",
-          "count": "72"
+          "count": "84"
         },
         {
           "emoji": "❤",
-          "count": "7"
+          "count": "8"
         },
         {
           "emoji": "👍",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "🤬",
           "count": "3"
         }
       ],
-      "views_label": "28.8K",
+      "views_label": "34.3K",
       "posted_at": "2026-11-16T20:01:22+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/104557"
@@ -251,30 +739,30 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "138"
+          "count": "153"
         },
         {
           "emoji": "💔",
-          "count": "81"
+          "count": "92"
         },
         {
           "emoji": "🤣",
-          "count": "16"
+          "count": "23"
         },
         {
           "emoji": "🤬",
-          "count": "7"
+          "count": "9"
         },
         {
           "emoji": "🤯",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "🔥",
           "count": "2"
         }
       ],
-      "views_label": "30.1K",
+      "views_label": "35.2K",
       "posted_at": "2026-11-16T19:52:40+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/104556"
@@ -300,22 +788,22 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "270"
+          "count": "306"
         },
         {
           "emoji": "❤",
-          "count": "23"
+          "count": "29"
         },
         {
           "emoji": "🖕",
-          "count": "10"
+          "count": "11"
         },
         {
           "emoji": "👍",
           "count": "4"
         }
       ],
-      "views_label": "29.8K",
+      "views_label": "34.6K",
       "posted_at": "2026-11-16T19:49:10+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/104555"
@@ -3301,484 +3789,6 @@
       "posted_at": "2026-11-15T13:20:06+00:00",
       "edited": false,
       "permalink": "https://t.me/pm_afshaa/104475"
-    },
-    {
-      "id": "pm_afshaa/104474",
-      "author_name": "PMTV NEWS 🦁☀️",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fenWin3GDchrbM4He7hHrS1aytcuwOSBrO6mvKZnB9u6GAkC-71Qw7q3GG_PdhcuNqt6cIbZFyBTAkt0iLx3mT8o16TdPpNtpe5kRRQjmhJ_ZFBlEF9sr_1trmg3lu7AFu_Ch5fpSOUCKTpz401bCaMtTtHvSoiqUUdHOXq2eJe86cVrKt4LzQItx0hARc7n2-ZLH7MvzVvAVnGfP2N51At1i_iW_RJ-a04D-T-pRjHJINrJ-0nKm5ufnnPgEk2Sq6ZryuckZtPJsBePB01o_Itu3YS-T7436AklV6Nra7dQnihmEKQGkMfSONlBoKMGHflfjngZz43NRtw0UNyadw.jpg",
-      "author_photo_path": "channels/pm_afshaa/media/615ca5b1badfeaaee0a82706.jpg",
-      "body_html": "ایلان ماسک وطنی(بابک زنجانی )  :<br>اگه تا فردا همینطوری قیمت طلا ثابت بمونه؛ قیمت نفت افزایش پیدا کنه و قیمت بیت کوین هم ریزشی باشه یعنی به جنگ نزدیکیم.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-      "plain_text": "ایلان ماسک وطنی(بابک زنجانی ) : اگه تا فردا همینطوری قیمت طلا ثابت بمونه؛ قیمت نفت افزایش پیدا کنه و قیمت بیت کوین هم ریزشی باشه یعنی به جنگ نزدیکیم. 😁 @Pm_Afshaa",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "435"
-        },
-        {
-          "emoji": "🖕",
-          "count": "81"
-        },
-        {
-          "emoji": "❤",
-          "count": "7"
-        },
-        {
-          "emoji": "🤬",
-          "count": "7"
-        },
-        {
-          "emoji": "🔥",
-          "count": "5"
-        },
-        {
-          "emoji": "💔",
-          "count": "1"
-        }
-      ],
-      "views_label": "26.8K",
-      "posted_at": "2026-11-15T13:07:07+00:00",
-      "edited": false,
-      "permalink": "https://t.me/pm_afshaa/104474"
-    },
-    {
-      "id": "pm_afshaa/104473",
-      "author_name": "PMTV NEWS 🦁☀️",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fenWin3GDchrbM4He7hHrS1aytcuwOSBrO6mvKZnB9u6GAkC-71Qw7q3GG_PdhcuNqt6cIbZFyBTAkt0iLx3mT8o16TdPpNtpe5kRRQjmhJ_ZFBlEF9sr_1trmg3lu7AFu_Ch5fpSOUCKTpz401bCaMtTtHvSoiqUUdHOXq2eJe86cVrKt4LzQItx0hARc7n2-ZLH7MvzVvAVnGfP2N51At1i_iW_RJ-a04D-T-pRjHJINrJ-0nKm5ufnnPgEk2Sq6ZryuckZtPJsBePB01o_Itu3YS-T7436AklV6Nra7dQnihmEKQGkMfSONlBoKMGHflfjngZz43NRtw0UNyadw.jpg",
-      "author_photo_path": "channels/pm_afshaa/media/615ca5b1badfeaaee0a82706.jpg",
-      "body_html": "هم اکنون رزمایش سپاه و پرتاب موشک بالستیک از تبریز<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-      "plain_text": "هم اکنون رزمایش سپاه و پرتاب موشک بالستیک از تبریز 😁 @Pm_Afshaa",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/pm_afshaa/104473",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/mygcF6Nu2hBz1LhaCgbWdDtI75CLEjbGXWB30AqORDYBd4ni_oVCZN3fnKIFfVd2v0rg-l9H1O1r5fjIYOU6lfHQDRCF_z00M1c7gbtImBbcv0jBllCDyiKWnNL_O0mfPqkzPJ9wBntxdBi_4Ijn91-k-bEhBmqnJkHsIAbquhjKSy1QakFyc5bHB7Y-Gxgr9Ovt2w9EqMcp1LTQknyJ-R14V3sK2iD_2OhfGzrvQWrN0txGvJ82CvG572g2JKkWn35rf9us06glk_KKfnDu8QDXoD4IacwpgRpMXJo5ASTDQZ9FrQeu_U044uAEp2F2p1jpvjBboVN7EkHN48zaHg",
-          "thumbnail_path": "channels/pm_afshaa/media/f9be834798162db151b858c7.jpg",
-          "duration_label": "0:15",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🖕",
-          "count": "210"
-        },
-        {
-          "emoji": "❤",
-          "count": "26"
-        },
-        {
-          "emoji": "🤣",
-          "count": "14"
-        },
-        {
-          "emoji": "👍",
-          "count": "3"
-        }
-      ],
-      "views_label": "27.8K",
-      "posted_at": "2026-11-15T12:50:38+00:00",
-      "edited": false,
-      "permalink": "https://t.me/pm_afshaa/104473"
-    },
-    {
-      "id": "pm_afshaa/104472",
-      "author_name": "PMTV NEWS 🦁☀️",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fenWin3GDchrbM4He7hHrS1aytcuwOSBrO6mvKZnB9u6GAkC-71Qw7q3GG_PdhcuNqt6cIbZFyBTAkt0iLx3mT8o16TdPpNtpe5kRRQjmhJ_ZFBlEF9sr_1trmg3lu7AFu_Ch5fpSOUCKTpz401bCaMtTtHvSoiqUUdHOXq2eJe86cVrKt4LzQItx0hARc7n2-ZLH7MvzVvAVnGfP2N51At1i_iW_RJ-a04D-T-pRjHJINrJ-0nKm5ufnnPgEk2Sq6ZryuckZtPJsBePB01o_Itu3YS-T7436AklV6Nra7dQnihmEKQGkMfSONlBoKMGHflfjngZz43NRtw0UNyadw.jpg",
-      "author_photo_path": "channels/pm_afshaa/media/615ca5b1badfeaaee0a82706.jpg",
-      "body_html": "در پی انتشار سکانس بغل کردن یک زن و مرد در سریال یل، پخش این سریال به علت تحریک مردم متوقف شد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-      "plain_text": "در پی انتشار سکانس بغل کردن یک زن و مرد در سریال یل، پخش این سریال به علت تحریک مردم متوقف شد 😁 @Pm_Afshaa",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/pm_afshaa/104472",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/b9Jt87Vno4423WAvthKdv6lWIQtQN0OB5O98HI1V-_C6kmvgxPkuBahz6a2Rx1lS515MSuf3LqJWQ6xjBDUKE1fhm61YYCYuP3TyO125d3jLAl_F9OWrXDzVaE284PHuIyxYZJPR8D3pXnqsC07LSiqUQR-80rJim6NxbFBruTi3C0huETSi-Gx1YQoz75e9vYhZNYB6CAtO0lQjnBkPp89lRlEXc_Zog44c-GPYVUXCg785Z7UKyrDZ-9jjJZnFwknYVT7zbeKn9Ewh0YciN73W7IoeV1U6k-tX7GsKzcT5TmRN3-lZnHYea016CtG7iYjNB4__2OMu_EnWrpTOEA.jpg",
-          "thumbnail_path": "channels/pm_afshaa/media/a2e84b00c19f5a58b0ec61f4.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.075268817204301
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "976"
-        },
-        {
-          "emoji": "🤬",
-          "count": "170"
-        },
-        {
-          "emoji": "🖕",
-          "count": "82"
-        },
-        {
-          "emoji": "🤯",
-          "count": "13"
-        },
-        {
-          "emoji": "❤",
-          "count": "7"
-        }
-      ],
-      "views_label": "28.5K",
-      "posted_at": "2026-11-15T12:36:57+00:00",
-      "edited": false,
-      "permalink": "https://t.me/pm_afshaa/104472"
-    },
-    {
-      "id": "pm_afshaa/104471",
-      "author_name": "PMTV NEWS 🦁☀️",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fenWin3GDchrbM4He7hHrS1aytcuwOSBrO6mvKZnB9u6GAkC-71Qw7q3GG_PdhcuNqt6cIbZFyBTAkt0iLx3mT8o16TdPpNtpe5kRRQjmhJ_ZFBlEF9sr_1trmg3lu7AFu_Ch5fpSOUCKTpz401bCaMtTtHvSoiqUUdHOXq2eJe86cVrKt4LzQItx0hARc7n2-ZLH7MvzVvAVnGfP2N51At1i_iW_RJ-a04D-T-pRjHJINrJ-0nKm5ufnnPgEk2Sq6ZryuckZtPJsBePB01o_Itu3YS-T7436AklV6Nra7dQnihmEKQGkMfSONlBoKMGHflfjngZz43NRtw0UNyadw.jpg",
-      "author_photo_path": "channels/pm_afshaa/media/615ca5b1badfeaaee0a82706.jpg",
-      "body_html": "چین هواپیمای مسافربری تمام‌ برقی خود را به پرواز درآورد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-      "plain_text": "چین هواپیمای مسافربری تمام‌ برقی خود را به پرواز درآورد 😁 @Pm_Afshaa",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/pm_afshaa/104471",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/LqRtupKrOpV8igGraWuGcPwm6pV7QzkITzms06MXGZ5UdpNDNKo8vwnJdUIVKoo3P2AJzoUJhanTPNzSyTOxalpqkNXX4sgEgoP_36phXi0PEHoqFwzRQZah-P2mMO2XoM1htcTs5_MGbjYinw1nukhNPh7rVxDnggyWIzsNFwwQIDLW0rR60MBSrqInoTmj2j8OEIox5ClROs7Qu_ILzrC4SnGvqhOQeMfYOGZzkgU93EWoLgPhdkbitqmWRCHuS9FTC1kc4qITp8h_PQXGG_4j8dIp2UhbTGeyWT3RklSjuozxS5QrLE6mFT7ItDPVkJwHrdo9VJ08N-emfGghgw",
-          "thumbnail_path": "channels/pm_afshaa/media/a36b891dfbb6b316c1c0634d.jpg",
-          "duration_label": "0:16",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "212"
-        },
-        {
-          "emoji": "👍",
-          "count": "71"
-        },
-        {
-          "emoji": "❤",
-          "count": "32"
-        },
-        {
-          "emoji": "🤯",
-          "count": "21"
-        },
-        {
-          "emoji": "🖕",
-          "count": "6"
-        },
-        {
-          "emoji": "💔",
-          "count": "1"
-        }
-      ],
-      "views_label": "28.9K",
-      "posted_at": "2026-11-15T12:04:45+00:00",
-      "edited": false,
-      "permalink": "https://t.me/pm_afshaa/104471"
-    },
-    {
-      "id": "pm_afshaa/104470",
-      "author_name": "PMTV NEWS 🦁☀️",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fenWin3GDchrbM4He7hHrS1aytcuwOSBrO6mvKZnB9u6GAkC-71Qw7q3GG_PdhcuNqt6cIbZFyBTAkt0iLx3mT8o16TdPpNtpe5kRRQjmhJ_ZFBlEF9sr_1trmg3lu7AFu_Ch5fpSOUCKTpz401bCaMtTtHvSoiqUUdHOXq2eJe86cVrKt4LzQItx0hARc7n2-ZLH7MvzVvAVnGfP2N51At1i_iW_RJ-a04D-T-pRjHJINrJ-0nKm5ufnnPgEk2Sq6ZryuckZtPJsBePB01o_Itu3YS-T7436AklV6Nra7dQnihmEKQGkMfSONlBoKMGHflfjngZz43NRtw0UNyadw.jpg",
-      "author_photo_path": "channels/pm_afshaa/media/615ca5b1badfeaaee0a82706.jpg",
-      "body_html": "پزشکیان: مسئول بی‌توجه به مشکلات مردم، شایستگی پذیرش مسئولیت را ندارد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-      "plain_text": "پزشکیان: مسئول بی‌توجه به مشکلات مردم، شایستگی پذیرش مسئولیت را ندارد 😁 @Pm_Afshaa",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🖕",
-          "count": "339"
-        },
-        {
-          "emoji": "🤣",
-          "count": "56"
-        },
-        {
-          "emoji": "🤬",
-          "count": "16"
-        },
-        {
-          "emoji": "❤",
-          "count": "10"
-        },
-        {
-          "emoji": "👍",
-          "count": "5"
-        },
-        {
-          "emoji": "🤯",
-          "count": "2"
-        }
-      ],
-      "views_label": "30K",
-      "posted_at": "2026-11-15T11:32:08+00:00",
-      "edited": false,
-      "permalink": "https://t.me/pm_afshaa/104470"
-    },
-    {
-      "id": "pm_afshaa/104469",
-      "author_name": "PMTV NEWS 🦁☀️",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fenWin3GDchrbM4He7hHrS1aytcuwOSBrO6mvKZnB9u6GAkC-71Qw7q3GG_PdhcuNqt6cIbZFyBTAkt0iLx3mT8o16TdPpNtpe5kRRQjmhJ_ZFBlEF9sr_1trmg3lu7AFu_Ch5fpSOUCKTpz401bCaMtTtHvSoiqUUdHOXq2eJe86cVrKt4LzQItx0hARc7n2-ZLH7MvzVvAVnGfP2N51At1i_iW_RJ-a04D-T-pRjHJINrJ-0nKm5ufnnPgEk2Sq6ZryuckZtPJsBePB01o_Itu3YS-T7436AklV6Nra7dQnihmEKQGkMfSONlBoKMGHflfjngZz43NRtw0UNyadw.jpg",
-      "author_photo_path": "channels/pm_afshaa/media/615ca5b1badfeaaee0a82706.jpg",
-      "body_html": "لحظه عبور استارشیپ از روی تنگه هرمز<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-      "plain_text": "لحظه عبور استارشیپ از روی تنگه هرمز 😁 @Pm_Afshaa",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/pm_afshaa/104469",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/JzXXjpcxOHoGukgqPz1Wz6OmNrlVd7-pr9vdBgHETQBPKqHknGNN_YwzYwoX9eYfPX7PosRyaYs4HYWK8HhnHq0qRHwwlLl-JbUGrJylLaf4k4RpbWSSw8znmQVAcWpuFXTxAREdcAw5q5QEBGDMvnw5iRVUUzOwHN1ErY13bJQtGwnCs7y1blJcFEPGc6ASaR9Cw9f6lsU0ZiLxswRTl6aZb2BY8QazWABsW4yuxWO_wbWaQEMXhygf68wg4EBM_LZW5HeSj3NDxmXHdSwFBR06cildGas2M9p4Xy0A-KLdfyzhmaACgipvmBbaCp_zQ5Rds94nafNgorZCZ93j2Q",
-          "thumbnail_path": "channels/pm_afshaa/media/b581ed7e2676e0eedc9c286a.jpg",
-          "duration_label": "0:26",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "277"
-        },
-        {
-          "emoji": "🤣",
-          "count": "15"
-        },
-        {
-          "emoji": "🔥",
-          "count": "13"
-        },
-        {
-          "emoji": "🖕",
-          "count": "6"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        }
-      ],
-      "views_label": "31.7K",
-      "posted_at": "2026-11-15T11:12:13+00:00",
-      "edited": false,
-      "permalink": "https://t.me/pm_afshaa/104469"
-    },
-    {
-      "id": "pm_afshaa/104468",
-      "author_name": "PMTV NEWS 🦁☀️",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fenWin3GDchrbM4He7hHrS1aytcuwOSBrO6mvKZnB9u6GAkC-71Qw7q3GG_PdhcuNqt6cIbZFyBTAkt0iLx3mT8o16TdPpNtpe5kRRQjmhJ_ZFBlEF9sr_1trmg3lu7AFu_Ch5fpSOUCKTpz401bCaMtTtHvSoiqUUdHOXq2eJe86cVrKt4LzQItx0hARc7n2-ZLH7MvzVvAVnGfP2N51At1i_iW_RJ-a04D-T-pRjHJINrJ-0nKm5ufnnPgEk2Sq6ZryuckZtPJsBePB01o_Itu3YS-T7436AklV6Nra7dQnihmEKQGkMfSONlBoKMGHflfjngZz43NRtw0UNyadw.jpg",
-      "author_photo_path": "channels/pm_afshaa/media/615ca5b1badfeaaee0a82706.jpg",
-      "body_html": "طالبان : مردی که با زن نامحرم تحریک نشه ۲ حالت داره، یا دروغ میگه یا مرد نیست<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-      "plain_text": "طالبان : مردی که با زن نامحرم تحریک نشه ۲ حالت داره، یا دروغ میگه یا مرد نیست 😁 @Pm_Afshaa",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "777"
-        },
-        {
-          "emoji": "🖕",
-          "count": "142"
-        },
-        {
-          "emoji": "🤯",
-          "count": "29"
-        },
-        {
-          "emoji": "👍",
-          "count": "25"
-        },
-        {
-          "emoji": "🤬",
-          "count": "6"
-        },
-        {
-          "emoji": "❤",
-          "count": "5"
-        }
-      ],
-      "views_label": "32.8K",
-      "posted_at": "2026-11-15T10:51:23+00:00",
-      "edited": false,
-      "permalink": "https://t.me/pm_afshaa/104468"
-    },
-    {
-      "id": "pm_afshaa/104467",
-      "author_name": "PMTV NEWS 🦁☀️",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fenWin3GDchrbM4He7hHrS1aytcuwOSBrO6mvKZnB9u6GAkC-71Qw7q3GG_PdhcuNqt6cIbZFyBTAkt0iLx3mT8o16TdPpNtpe5kRRQjmhJ_ZFBlEF9sr_1trmg3lu7AFu_Ch5fpSOUCKTpz401bCaMtTtHvSoiqUUdHOXq2eJe86cVrKt4LzQItx0hARc7n2-ZLH7MvzVvAVnGfP2N51At1i_iW_RJ-a04D-T-pRjHJINrJ-0nKm5ufnnPgEk2Sq6ZryuckZtPJsBePB01o_Itu3YS-T7436AklV6Nra7dQnihmEKQGkMfSONlBoKMGHflfjngZz43NRtw0UNyadw.jpg",
-      "author_photo_path": "channels/pm_afshaa/media/615ca5b1badfeaaee0a82706.jpg",
-      "body_html": "گزارشات از زلزله در شرق‌ تهران.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-      "plain_text": "گزارشات از زلزله در شرق‌ تهران. 😁 @Pm_Afshaa",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "222"
-        },
-        {
-          "emoji": "🤯",
-          "count": "66"
-        },
-        {
-          "emoji": "❤",
-          "count": "13"
-        },
-        {
-          "emoji": "🔥",
-          "count": "1"
-        }
-      ],
-      "views_label": "33.1K",
-      "posted_at": "2026-11-15T10:42:51+00:00",
-      "edited": false,
-      "permalink": "https://t.me/pm_afshaa/104467"
-    },
-    {
-      "id": "pm_afshaa/104466",
-      "author_name": "PMTV NEWS 🦁☀️",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fenWin3GDchrbM4He7hHrS1aytcuwOSBrO6mvKZnB9u6GAkC-71Qw7q3GG_PdhcuNqt6cIbZFyBTAkt0iLx3mT8o16TdPpNtpe5kRRQjmhJ_ZFBlEF9sr_1trmg3lu7AFu_Ch5fpSOUCKTpz401bCaMtTtHvSoiqUUdHOXq2eJe86cVrKt4LzQItx0hARc7n2-ZLH7MvzVvAVnGfP2N51At1i_iW_RJ-a04D-T-pRjHJINrJ-0nKm5ufnnPgEk2Sq6ZryuckZtPJsBePB01o_Itu3YS-T7436AklV6Nra7dQnihmEKQGkMfSONlBoKMGHflfjngZz43NRtw0UNyadw.jpg",
-      "author_photo_path": "channels/pm_afshaa/media/615ca5b1badfeaaee0a82706.jpg",
-      "body_html": "بقایی : مسئله ایران و آمریکا، مذاکرات مستقیم و غیرمستقیم نیست<br>- ما با آمریکا مذاکره کردیم اما دو هفته هم دوام نیاورد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-      "plain_text": "بقایی : مسئله ایران و آمریکا، مذاکرات مستقیم و غیرمستقیم نیست - ما با آمریکا مذاکره کردیم اما دو هفته هم دوام نیاورد 😁 @Pm_Afshaa",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "213"
-        },
-        {
-          "emoji": "🖕",
-          "count": "10"
-        },
-        {
-          "emoji": "👍",
-          "count": "8"
-        },
-        {
-          "emoji": "❤",
-          "count": "5"
-        }
-      ],
-      "views_label": "33.2K",
-      "posted_at": "2026-11-15T10:29:42+00:00",
-      "edited": false,
-      "permalink": "https://t.me/pm_afshaa/104466"
-    },
-    {
-      "id": "pm_afshaa/104465",
-      "author_name": "PMTV NEWS 🦁☀️",
-      "author_photo_url": "https://cdn4.telesco.pe/file/VspMRo084QM0NlEdZgrIWYiaNmPKPvY0J95qVfbRbngVE0kWVUh4GkGIQFGf9shRjMXe3i_WNOyT8JqTopsCRbGsBHnNYew6Z_UdLerMFsGtljFMBn8geSUaBI5oi53L7xB7Ykq1cSbnrBKVIM8nUdTTwRyy8pvEuByiPEpQfzyeMM0uH4nz_IZ9MHY3bhok8NWmH4-VC8EYNANbHwmyq-cknlUvj35gBWgGR_8ajZHYFbiIQd9E8Z2UL6_Od_ieSWkO2WTQRnvSkaNGvIOazMKQEQK7PdPdE3yjfJ9kLYbynIallDS9zpGXFLZVeXSZLReEXvRsdajXV4RlqDgGWQ.jpg",
-      "author_photo_path": "channels/pm_afshaa/media/32bbceae4872d176d7d0eb9f.jpg",
-      "body_html": "برایان تریسی، نویسنده و سخنران انگیزشی کانادایی‌آمریکایی که با کتاب‌هایی چون «قورباغه‌ات را قورت بده» و «روان‌شناسی موفقیت» در سراسر جهان شناخته می‌شد، در ۸۲ سالگی درگذشت<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-      "plain_text": "برایان تریسی، نویسنده و سخنران انگیزشی کانادایی‌آمریکایی که با کتاب‌هایی چون «قورباغه‌ات را قورت بده» و «روان‌شناسی موفقیت» در سراسر جهان شناخته می‌شد، در ۸۲ سالگی درگذشت 😁 @Pm_Afshaa",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/pm_afshaa/104465",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/piEAQXhCuMtbbvHS9DT8Zw9JRo771-jQHgFKIw3v0182jBWZJPIQqezXVohQ33u5vF0NQW6iaKO5TzLSu1ov9bT8sUgd1Z926A3eRRyfhSTYoBxEaauhWKvcz4ifm7I29qm61HMGEC2WLLBpTfmKvHsbSo7pIscmRvlQyCzODCS474GGl-p6GfMB2tZ4QPk6Fkc4mVRjKHi1eMTy-Fhqzbu4NnsRQcO108DXsc9CuHp6s3tCZlc29m36s9nbQ4fURYw-pp5AfZvU6xiUt33f5qezxBqHeTRgWIb98m0OsRx7FBXu22dDzR15e1-a37OHWraKFiao9HOc1dGf0kkF1w.jpg",
-          "thumbnail_path": "channels/pm_afshaa/media/9bb6eaf86e499c9cc3c0b873.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.1173184357541899
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "💔",
-          "count": "665"
-        },
-        {
-          "emoji": "🤣",
-          "count": "37"
-        },
-        {
-          "emoji": "❤",
-          "count": "22"
-        },
-        {
-          "emoji": "👍",
-          "count": "7"
-        },
-        {
-          "emoji": "🖕",
-          "count": "3"
-        }
-      ],
-      "views_label": "30.8K",
-      "posted_at": "2026-11-15T10:06:06+00:00",
-      "edited": false,
-      "permalink": "https://t.me/pm_afshaa/104465"
-    },
-    {
-      "id": "pm_afshaa/104464",
-      "author_name": "PMTV NEWS 🦁☀️",
-      "author_photo_url": "https://cdn4.telesco.pe/file/VspMRo084QM0NlEdZgrIWYiaNmPKPvY0J95qVfbRbngVE0kWVUh4GkGIQFGf9shRjMXe3i_WNOyT8JqTopsCRbGsBHnNYew6Z_UdLerMFsGtljFMBn8geSUaBI5oi53L7xB7Ykq1cSbnrBKVIM8nUdTTwRyy8pvEuByiPEpQfzyeMM0uH4nz_IZ9MHY3bhok8NWmH4-VC8EYNANbHwmyq-cknlUvj35gBWgGR_8ajZHYFbiIQd9E8Z2UL6_Od_ieSWkO2WTQRnvSkaNGvIOazMKQEQK7PdPdE3yjfJ9kLYbynIallDS9zpGXFLZVeXSZLReEXvRsdajXV4RlqDgGWQ.jpg",
-      "author_photo_path": "channels/pm_afshaa/media/32bbceae4872d176d7d0eb9f.jpg",
-      "body_html": "آموزش‌وپرورش تهران: تعطیلی مدارس آخرین راهکار مقابله با آلودگی هواست!<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-      "plain_text": "آموزش‌وپرورش تهران: تعطیلی مدارس آخرین راهکار مقابله با آلودگی هواست! 😁 @Pm_Afshaa",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤬",
-          "count": "411"
-        },
-        {
-          "emoji": "🖕",
-          "count": "71"
-        },
-        {
-          "emoji": "🤣",
-          "count": "25"
-        },
-        {
-          "emoji": "👍",
-          "count": "21"
-        },
-        {
-          "emoji": "❤",
-          "count": "6"
-        },
-        {
-          "emoji": "🤯",
-          "count": "2"
-        }
-      ],
-      "views_label": "30.3K",
-      "posted_at": "2026-11-15T09:49:14+00:00",
-      "edited": false,
-      "permalink": "https://t.me/pm_afshaa/104464"
-    },
-    {
-      "id": "pm_afshaa/104463",
-      "author_name": "PMTV NEWS 🦁☀️",
-      "author_photo_url": "https://cdn4.telesco.pe/file/VspMRo084QM0NlEdZgrIWYiaNmPKPvY0J95qVfbRbngVE0kWVUh4GkGIQFGf9shRjMXe3i_WNOyT8JqTopsCRbGsBHnNYew6Z_UdLerMFsGtljFMBn8geSUaBI5oi53L7xB7Ykq1cSbnrBKVIM8nUdTTwRyy8pvEuByiPEpQfzyeMM0uH4nz_IZ9MHY3bhok8NWmH4-VC8EYNANbHwmyq-cknlUvj35gBWgGR_8ajZHYFbiIQd9E8Z2UL6_Od_ieSWkO2WTQRnvSkaNGvIOazMKQEQK7PdPdE3yjfJ9kLYbynIallDS9zpGXFLZVeXSZLReEXvRsdajXV4RlqDgGWQ.jpg",
-      "author_photo_path": "channels/pm_afshaa/media/32bbceae4872d176d7d0eb9f.jpg",
-      "body_html": "خبرنگار: آیا احتمال تعلیق غنی‌سازی اورانیوم یا کاهش سطح غنی‌سازی به پایین‌تر از سطح تعیین شده، وجود دارد؟<br>‏سخنگوی وزارت خارجه: خیر ، اصلا در این مرحله نیستیم<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-      "plain_text": "خبرنگار: آیا احتمال تعلیق غنی‌سازی اورانیوم یا کاهش سطح غنی‌سازی به پایین‌تر از سطح تعیین شده، وجود دارد؟ ‏سخنگوی وزارت خارجه: خیر ، اصلا در این مرحله نیستیم 😁 @Pm_Afshaa",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "3"
-        },
-        {
-          "emoji": "🤣",
-          "count": "207"
-        },
-        {
-          "emoji": "❤",
-          "count": "15"
-        },
-        {
-          "emoji": "🖕",
-          "count": "13"
-        },
-        {
-          "emoji": "👍",
-          "count": "4"
-        }
-      ],
-      "views_label": "30.9K",
-      "posted_at": "2026-11-15T09:23:40+00:00",
-      "edited": false,
-      "permalink": "https://t.me/pm_afshaa/104463"
     }
   ]
 }
