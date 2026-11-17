@@ -1,79 +1,645 @@
 {
   "schema": 2,
-  "fetched_at": "2026-11-17T08:38:32.364Z",
+  "fetched_at": "2026-11-17T14:22:14.596Z",
   "channel": {
     "username": "drtel",
     "title": "𝐃𝐫 𝐓𝐞𝐥",
     "description_html": "پوشش اخبار و اتفاقات جهان به سبک با ادب ترین دکترِ جهان<br><br>+ بدون وابستگی به هیچ گروه یا ارگانی",
-    "photo_url": "https://cdn4.telesco.pe/file/dULY3JvJTc5Rg3shY0KI7vnH_n1bJWCdKxv3nlSKTtTDT5rks5fO63529g3gXxrPehr6O-e2CB8JeqiY86UZIiJDty-UhcnmKdq8fxPgE1jwVVCu7RVdMkOkoSEeX4cgOAN0WtvvTDq5o7vqkVeYwHHZBqCeJlDkxuqiyidGmZkLQWa_Xi4aK2m2Fw7SypdJOBDwF9A-rIwhbq_-DW96824rhWDQBmzOT3haIuq9wO15Xff9fclrFQZJGh1sGaa84zK2NXxPEC-j8lphM0ehsAm3I5AGWZL4LyxqU5Cx7VGvcRXXvpoDlUWUz56EzkmW8qELJvcWDU8rLLxAvY-bbA.jpg",
-    "photo_path": "channels/drtel/media/fd6216d951cd7f5386146611.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/c6nzkYaLYbmVCvpF7IwqEwVkg8yGalyldo6MzGa_pIp42jxJ8lUw7C7ndsQtAYmOLobjpFwmiHMvCzLE5Ly6M_z2W0Ujb-mLaZQXv6XGa0DiotGp5MA7X6GDhKx_umkBVq7Oq61bhnnXWoJgDhxhM8URpbLFpnVscoYed6gY4eMiPHjui_pQOkkQp8tIFVlevNdoHYSNqemm0tNm0QyDaCG4y7Yu_-o8evupKpe4mDmRCbssLCQz44hRCEIkaLCXGW344_Umywxl5qdSeCvQb2in0QYAeXjzH9P2480YNnGytABbBiKHF8rtou8MoMnWtippyTa4qYkR5C3o4uRmKQ.jpg",
+    "photo_path": "channels/drtel/media/556c148737d2acf7c4fa28b3.jpg",
     "subscriber_count": "794K"
   },
   "posts": [
     {
-      "id": "drtel/72834",
+      "id": "drtel/72846",
       "author_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dULY3JvJTc5Rg3shY0KI7vnH_n1bJWCdKxv3nlSKTtTDT5rks5fO63529g3gXxrPehr6O-e2CB8JeqiY86UZIiJDty-UhcnmKdq8fxPgE1jwVVCu7RVdMkOkoSEeX4cgOAN0WtvvTDq5o7vqkVeYwHHZBqCeJlDkxuqiyidGmZkLQWa_Xi4aK2m2Fw7SypdJOBDwF9A-rIwhbq_-DW96824rhWDQBmzOT3haIuq9wO15Xff9fclrFQZJGh1sGaa84zK2NXxPEC-j8lphM0ehsAm3I5AGWZL4LyxqU5Cx7VGvcRXXvpoDlUWUz56EzkmW8qELJvcWDU8rLLxAvY-bbA.jpg",
-      "author_photo_path": "channels/drtel/media/fd6216d951cd7f5386146611.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>طبق گزارشات شما، از اهواز صدای انفجار بلندی شنیده شده.<br><br><a href=\"https://t.me/DrTeL\" target=\"_blank\">@DrTeL</a>",
-      "plain_text": "🔴طبق گزارشات شما، از اهواز صدای انفجار بلندی شنیده شده. @DrTeL",
-      "media": [],
+      "author_photo_url": "https://cdn4.telesco.pe/file/c6nzkYaLYbmVCvpF7IwqEwVkg8yGalyldo6MzGa_pIp42jxJ8lUw7C7ndsQtAYmOLobjpFwmiHMvCzLE5Ly6M_z2W0Ujb-mLaZQXv6XGa0DiotGp5MA7X6GDhKx_umkBVq7Oq61bhnnXWoJgDhxhM8URpbLFpnVscoYed6gY4eMiPHjui_pQOkkQp8tIFVlevNdoHYSNqemm0tNm0QyDaCG4y7Yu_-o8evupKpe4mDmRCbssLCQz44hRCEIkaLCXGW344_Umywxl5qdSeCvQb2in0QYAeXjzH9P2480YNnGytABbBiKHF8rtou8MoMnWtippyTa4qYkR5C3o4uRmKQ.jpg",
+      "author_photo_path": "channels/drtel/media/556c148737d2acf7c4fa28b3.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAB.png')\"><b>⚫️</b></i> متاسفانه ساعاتی پیش، حادثه‌ای بسیار تلخ برای مردم آبدانان پیش اومد؛  حدود ساعت 8 امشب، اتوبوس حامل کارگران شرکت نفت اهل آبدانان، تو محور جاده دشت‌عباس - مورموری دچار واژگونی شد؛  تا این لحظه 25 نفر مصدوم و11 نفر تو این حادثه فوت کردن.  @DrTeL",
+      "plain_text": "⚫️ متاسفانه ساعاتی پیش، حادثه‌ای بسیار تلخ برای مردم آبدانان پیش اومد؛ حدود ساعت 8 امشب، اتوبوس حامل کارگران شرکت نفت اهل آبدانان، تو محور جاده دشت‌عباس - مورموری دچار واژگونی شد؛ تا این لحظه 25 نفر مصدوم و11 نفر تو این حادثه فوت کردن. @DrTeL",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/drtel/72846?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Ay6Vn_a-h92rXRShCR3AJSBCTwuMV__r7monkElvsVFP_UuIehbmcZDFg_63cA3haDqop7qre06zYJcYhpAMafhHFOpHMx_xfxT92Mokp5aBNIy9TfsdFYYixoL2EaKZYg4FmtsnccCpyWLmi8ffmbRTIyfjjZ72A8CBJvYBJPXkNMoRkfQtZsKTwEHC1xHmAjyRLuX34f7-zZzg0PdS3nrjr6-7NimNjZUJlKl4TfVl7qAocYkxiSqBkaCXnq5BQJvqvpCe1jKYpomD7x3P-c_Apt5sYMODV3USG3BaiEya8cbO-6R84BU1oSdlPrVFSFmbm_dXUTddl-EDgpZcNw",
+          "thumbnail_path": "channels/drtel/media/23412e6d598ab80c09115489.jpg",
+          "duration_label": "0:18",
+          "aspect_ratio": null
+        },
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/drtel/72847?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/oNNWi6IhS5HtBz98oyzu2306mN_Vh5adacmse7vAjbV7oP9JNz7AVNip5FTRgB3Ze8-OP9BIWZ6DaETfPOCgigOAOTnD3ZTpbpHFO5AqiqwTvMBEWfHEgXn5xdyJRskEat1U0gHAkm00yksy2NY-S3r8iZpsz5_2f2SAD-BE6qzAjXkrCvN2_muy82ETVKxaVmvpxKAbVL9WAJO0sKJMI-gGgWyWPUDaVtTQHKwfF3HAe_EgaFfzfcGR5vFuqMaRKS_cRTuv0S7t27UmMAzQNJA9aF0_yV9VtE3odEJ2Q5vRT9FZcljFw9rDBbnxf8HXO8PQRKFGDw-stSQgRo-GRw",
+          "thumbnail_path": "channels/drtel/media/b46772574598fa62412cfb1b.jpg",
+          "duration_label": "0:08",
+          "aspect_ratio": null
+        },
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/drtel/72848?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/skRvTkaN7n3KQbZiljST5F4veedSedt91CA96wpYqXte5td1EJoPdCY8AtXuUqoDCP6A7kHaW1hHPPs3Y2-ZJoryD_jJEK4ZFw49C0gOUSjBmXiBMkTTtFVG3CFY53WjNYaepOVEMiCxwxGX7QaUKbBFdCwV_NgxSZZbEJulJSEh6QIqMBFambk-thMcXaEDzmiRvchHHhJnmH7JS5Q3m-2ToIVcjL0sVmg96B1B2ApPwqrQ5kkPun_dOLAtSq9nemo61coG2-RVZ7vmzQDkkNwPz2Ur_xm6d1TR4559IjeSutPVVNT-QHvf2OiOnK0tETK5r3a64_c15lD5TGvHDQ",
+          "thumbnail_path": "channels/drtel/media/a15b5c4c5331e135eea627cc.jpg",
+          "duration_label": "0:19",
+          "aspect_ratio": null
+        }
+      ],
       "reactions": [
         {
-          "emoji": "👍",
-          "count": "198"
-        },
-        {
-          "emoji": "🔥",
-          "count": "89"
-        },
-        {
-          "emoji": "👎",
-          "count": "29"
-        },
-        {
-          "emoji": "💔",
-          "count": "20"
-        },
-        {
-          "emoji": "🤣",
-          "count": "11"
+          "emoji": "⭐",
+          "count": "5"
         },
         {
           "emoji": "❤",
+          "count": "3.95K"
+        },
+        {
+          "emoji": "👎",
+          "count": "1.12K"
+        },
+        {
+          "emoji": "🔥",
+          "count": "472"
+        },
+        {
+          "emoji": "🤬",
+          "count": "271"
+        },
+        {
+          "emoji": "👏",
+          "count": "89"
+        },
+        {
+          "emoji": "💔",
+          "count": "67"
+        },
+        {
+          "emoji": "🖕",
+          "count": "64"
+        },
+        {
+          "emoji": "🤣",
+          "count": "38"
+        },
+        {
+          "emoji": "😐",
+          "count": "35"
+        },
+        {
+          "emoji": "👍",
+          "count": "30"
+        },
+        {
+          "emoji": "😁",
+          "count": "8"
+        }
+      ],
+      "views_label": "44.9K",
+      "posted_at": "2026-11-17T13:57:55+00:00",
+      "edited": false,
+      "permalink": "https://t.me/drtel/72846"
+    },
+    {
+      "id": "drtel/72845",
+      "author_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "author_photo_url": "https://cdn4.telesco.pe/file/c6nzkYaLYbmVCvpF7IwqEwVkg8yGalyldo6MzGa_pIp42jxJ8lUw7C7ndsQtAYmOLobjpFwmiHMvCzLE5Ly6M_z2W0Ujb-mLaZQXv6XGa0DiotGp5MA7X6GDhKx_umkBVq7Oq61bhnnXWoJgDhxhM8URpbLFpnVscoYed6gY4eMiPHjui_pQOkkQp8tIFVlevNdoHYSNqemm0tNm0QyDaCG4y7Yu_-o8evupKpe4mDmRCbssLCQz44hRCEIkaLCXGW344_Umywxl5qdSeCvQb2in0QYAeXjzH9P2480YNnGytABbBiKHF8rtou8MoMnWtippyTa4qYkR5C3o4uRmKQ.jpg",
+      "author_photo_path": "channels/drtel/media/556c148737d2acf7c4fa28b3.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>دقایقی پیش از قشم چندین انفجار پی در پی گزارش شد!  @DrTeL",
+      "plain_text": "🔴دقایقی پیش از قشم چندین انفجار پی در پی گزارش شد! @DrTeL",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "⭐",
+          "count": "1"
+        },
+        {
+          "emoji": "👎",
+          "count": "1.09K"
+        },
+        {
+          "emoji": "🔥",
+          "count": "844"
+        },
+        {
+          "emoji": "🤬",
+          "count": "318"
+        },
+        {
+          "emoji": "💔",
+          "count": "103"
+        },
+        {
+          "emoji": "❤",
+          "count": "44"
+        },
+        {
+          "emoji": "🤣",
+          "count": "37"
+        },
+        {
+          "emoji": "🖕",
+          "count": "11"
+        },
+        {
+          "emoji": "👍",
+          "count": "10"
+        },
+        {
+          "emoji": "😭",
+          "count": "2"
+        },
+        {
+          "emoji": "😁",
+          "count": "1"
+        }
+      ],
+      "views_label": "65.3K",
+      "posted_at": "2026-11-17T13:42:10+00:00",
+      "edited": false,
+      "permalink": "https://t.me/drtel/72845"
+    },
+    {
+      "id": "drtel/72842",
+      "author_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "author_photo_url": "https://cdn4.telesco.pe/file/c6nzkYaLYbmVCvpF7IwqEwVkg8yGalyldo6MzGa_pIp42jxJ8lUw7C7ndsQtAYmOLobjpFwmiHMvCzLE5Ly6M_z2W0Ujb-mLaZQXv6XGa0DiotGp5MA7X6GDhKx_umkBVq7Oq61bhnnXWoJgDhxhM8URpbLFpnVscoYed6gY4eMiPHjui_pQOkkQp8tIFVlevNdoHYSNqemm0tNm0QyDaCG4y7Yu_-o8evupKpe4mDmRCbssLCQz44hRCEIkaLCXGW344_Umywxl5qdSeCvQb2in0QYAeXjzH9P2480YNnGytABbBiKHF8rtou8MoMnWtippyTa4qYkR5C3o4uRmKQ.jpg",
+      "author_photo_path": "channels/drtel/media/556c148737d2acf7c4fa28b3.jpg",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>دقایقی پیش از قشم چندین انفجار پی در پی گزارش شد!<br><br><a href=\"https://t.me/DrTeL\" target=\"_blank\">@DrTeL</a></div>",
+      "plain_text": "🔴دقایقی پیش از قشم چندین انفجار پی در پی گزارش شد! @DrTeL",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/drtel/72842?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/GnjXcVx8Tlg-TmrIayBd-f9rng53DSA3VIdky5cEvdvSr0O9XYvviRliTDgFWirq6IL1Yfp1RunOURF_ymc_OpbAzByeDx9-mvSstZNh8axOvqFRIdzG_Ksfpmmr8IYP8CoVRZlAentdH66dZgWsZRPOKTLdbT4NBgtjmyVWpglbk2zfs3g8NrkDp5sGOf5FBOLPo7FvTa-nStqGiMHdRr9Vs3U06HkYw34oKsnKgkqT_slb96rndi_ggfhJCwokB3smfqZPKw8PO1rmRkeoizmCQi3F7MoYB7AwmvBjtxigBamtfWj4nMde73i_A_g-_uwXdEM1b__uCsXEFVRaaA",
+          "thumbnail_path": "channels/drtel/media/666230ebf10715559afc9ab3.jpg",
+          "duration_label": "0:18",
+          "aspect_ratio": null
+        },
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/drtel/72843?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/LNV4u9t9PtoNFPlnJ5ynZmEkqMk_skY6q98RtWobpO0aXj_oltljg2e6-sjE_GdDmhWn0qJEQKedR9zWSmW5Ri274HrIHoHoqZ1iygwgdP0Q_ZvBVm6HPGEqy6NniBwrItino5vtJuLolbVIEaKpO_4xNnQVAi7vB5mt56L9tSUcNN3T1lKES20c6C03dL1UKdlvGnNgEpHYSFDceeNYQLpMoxDY1D8-hI1009QPfzksiySHOTjXYPZSyVRPv2YpiR2pLszuHTbo80ujpp7VQpS8qeacZDnZt14RfgAJL1sTk34xg5xHmRctM3pjlHbR77POBaBi4HGNZ3iU-Reteg",
+          "thumbnail_path": "channels/drtel/media/e38e65f0be3d8ff40a0eef24.jpg",
+          "duration_label": "0:24",
+          "aspect_ratio": null
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "⭐",
+          "count": "2"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1.78K"
+        },
+        {
+          "emoji": "🤬",
+          "count": "428"
+        },
+        {
+          "emoji": "💔",
+          "count": "183"
+        },
+        {
+          "emoji": "🤯",
+          "count": "56"
+        },
+        {
+          "emoji": "❤",
+          "count": "48"
+        },
+        {
+          "emoji": "🖕",
+          "count": "42"
+        },
+        {
+          "emoji": "🤣",
+          "count": "40"
+        },
+        {
+          "emoji": "👍",
+          "count": "21"
+        },
+        {
+          "emoji": "😍",
           "count": "7"
         },
         {
           "emoji": "👏",
-          "count": "4"
+          "count": "5"
+        },
+        {
+          "emoji": "😭",
+          "count": "3"
+        }
+      ],
+      "views_label": "85.7K",
+      "posted_at": "2026-11-17T13:16:54+00:00",
+      "edited": false,
+      "permalink": "https://t.me/drtel/72842"
+    },
+    {
+      "id": "drtel/72840",
+      "author_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "author_photo_url": "https://cdn4.telesco.pe/file/c6nzkYaLYbmVCvpF7IwqEwVkg8yGalyldo6MzGa_pIp42jxJ8lUw7C7ndsQtAYmOLobjpFwmiHMvCzLE5Ly6M_z2W0Ujb-mLaZQXv6XGa0DiotGp5MA7X6GDhKx_umkBVq7Oq61bhnnXWoJgDhxhM8URpbLFpnVscoYed6gY4eMiPHjui_pQOkkQp8tIFVlevNdoHYSNqemm0tNm0QyDaCG4y7Yu_-o8evupKpe4mDmRCbssLCQz44hRCEIkaLCXGW344_Umywxl5qdSeCvQb2in0QYAeXjzH9P2480YNnGytABbBiKHF8rtou8MoMnWtippyTa4qYkR5C3o4uRmKQ.jpg",
+      "author_photo_path": "channels/drtel/media/556c148737d2acf7c4fa28b3.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>امروز مراسم تشییع جنازه سوگند صیادی با حضور پدرش که گفته میشه قاتلشه، تو کرمانشاه برگزار شد :  @DrTeL",
+      "plain_text": "🔴امروز مراسم تشییع جنازه سوگند صیادی با حضور پدرش که گفته میشه قاتلشه، تو کرمانشاه برگزار شد : @DrTeL",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/drtel/72840",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/b9pBB_qLshKJ88TvDqdsOwMy4TPVbHBuzIAXGc6VkyCuUmYtDI35UBTY29s0oIcf0j_DWQsU-_AhyCoi31644F2nDHWJYpReQ3x0skCWJEuCZH7e09oS-g7_opYpNJd-Y-eR1wydiPfFEK0UydNRD9ThKgVifKLyViKtp_7K9WeoQNNPQIGcS2T0W8pIzVy_F0JM0Hi1ayYu5I8RpN_e2XDOCicWyLgugxFwNdnU2Msx78ZTg1at7EnN9ChiS4hLrgfHoyJU-fd7mcCwb2ISKzVPRRCyPY8QMUY9_KwLq6vI1MSOc7i9Q5Aeh0bYqU2ltE4OWhFsTocRn8Ok90T0-g.jpg",
+          "thumbnail_path": "channels/drtel/media/8ed004a7e9f2e25603df3d73.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.1644832605531295
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "⭐",
+          "count": "2"
+        },
+        {
+          "emoji": "❤",
+          "count": "11.3K"
+        },
+        {
+          "emoji": "👍",
+          "count": "1.58K"
+        },
+        {
+          "emoji": "👏",
+          "count": "330"
         },
         {
           "emoji": "🖕",
-          "count": "4"
+          "count": "114"
         },
         {
-          "emoji": "🌚",
-          "count": "3"
+          "emoji": "💔",
+          "count": "110"
         },
         {
-          "emoji": "🤷‍♀",
-          "count": "2"
+          "emoji": "🔥",
+          "count": "98"
+        },
+        {
+          "emoji": "🤣",
+          "count": "52"
+        },
+        {
+          "emoji": "🤬",
+          "count": "23"
+        },
+        {
+          "emoji": "🤝",
+          "count": "9"
+        },
+        {
+          "emoji": "👌",
+          "count": "6"
         },
         {
           "emoji": "😡",
-          "count": "2"
+          "count": "6"
         }
       ],
-      "views_label": "4.11K",
-      "posted_at": "2026-11-17T08:36:18+00:00",
+      "views_label": "120K",
+      "posted_at": "2026-11-17T12:23:49+00:00",
       "edited": false,
+      "permalink": "https://t.me/drtel/72840"
+    },
+    {
+      "id": "drtel/72838",
+      "author_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "author_photo_url": "https://cdn4.telesco.pe/file/c6nzkYaLYbmVCvpF7IwqEwVkg8yGalyldo6MzGa_pIp42jxJ8lUw7C7ndsQtAYmOLobjpFwmiHMvCzLE5Ly6M_z2W0Ujb-mLaZQXv6XGa0DiotGp5MA7X6GDhKx_umkBVq7Oq61bhnnXWoJgDhxhM8URpbLFpnVscoYed6gY4eMiPHjui_pQOkkQp8tIFVlevNdoHYSNqemm0tNm0QyDaCG4y7Yu_-o8evupKpe4mDmRCbssLCQz44hRCEIkaLCXGW344_Umywxl5qdSeCvQb2in0QYAeXjzH9P2480YNnGytABbBiKHF8rtou8MoMnWtippyTa4qYkR5C3o4uRmKQ.jpg",
+      "author_photo_path": "channels/drtel/media/556c148737d2acf7c4fa28b3.jpg",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>تمرینات بدنسازی این خانم انقدر دقیق، کاربردی، به اندازه و صحيح بوده که؛<br><br><br>ایشون رو با دوتا ویدیو تبدیل به یکی از محبوب‌ترین مربی‌های فعلی این رشته کرده و کلی فالوور که همگی جهت آموزش اومدن، گرفته...<br><br><br><a href=\"https://t.me/FUTBALLI18\" target=\"_blank\">@FUTBALLI18</a></div>",
+      "plain_text": "🔴تمرینات بدنسازی این خانم انقدر دقیق، کاربردی، به اندازه و صحيح بوده که؛ ایشون رو با دوتا ویدیو تبدیل به یکی از محبوب‌ترین مربی‌های فعلی این رشته کرده و کلی فالوور که همگی جهت آموزش اومدن، گرفته... @FUTBALLI18",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/drtel/72838?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/pi78JHczJ_ymmgDrKaf4bh7iRYZowCySWkP9XcvF2rTOabd2Pdj36V-_f7ytQZfMkObaBRDx-ImDPOXH0v0BsR5WzuGGs4Vgip9HSrbGp6-nvOM7reUQG0K3T98BLF1MkIO5FB9_7q3m5qyQrLiQ1d6Mu5QxBu2F2QkMeHuTdxyBPcYrJkg8NXdQnAkqDl6hu8louqEyB70t1MO4_OlFx5-qapNd1yJyY2tTvsDqTq0twSgNYdLBQqvJYG06b5N_SlYWtB6XdZdAPRWpkanWdjUQt8Y6j6pSZEL-90Odc0Khu2Trm0qKY6H37BPPA71sldg2XCOO_WJh-EqX_nT56Q",
+          "thumbnail_path": "channels/drtel/media/7494f14cebea4d0aeb7edcab.jpg",
+          "duration_label": "0:25",
+          "aspect_ratio": null
+        },
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/drtel/72839?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ZCSECaTXHMz2GwNdY-xswkEhE5MQFpmPHQUIJ3RR_RcZi9bbAVIcb__02fsKF0BSo4LEIgWvqKxQ8mliotHAbpN6BC9O77WL--z-RbM8UlgDIbAHCVLuKbJtPxzaGmt17KyMHqH-FabTx6u9JnmJI-UzSauI0vhBHGOzIUqY1uzUJi410NAslrP3tzvtavVjzgVoz261cnW2LRMtO4mzMbWv5xZorw2Il6dP4cip0Xuecgzb0fOg-3geTOa5dU-hhE8piiKVHI7oKTOZoOq7t2JCmcwjw8Ni3aZDr7LAHzPVbmRwsVge2Qr1MrwprIMLbqDkUYP7czPo9-dsq2mw_Q",
+          "thumbnail_path": "channels/drtel/media/fd1cc08d016b143b2eb9f121.jpg",
+          "duration_label": "0:23",
+          "aspect_ratio": null
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "6.79K"
+        },
+        {
+          "emoji": "🤣",
+          "count": "1.12K"
+        },
+        {
+          "emoji": "🖕",
+          "count": "666"
+        },
+        {
+          "emoji": "😍",
+          "count": "104"
+        },
+        {
+          "emoji": "👎",
+          "count": "71"
+        },
+        {
+          "emoji": "🔥",
+          "count": "71"
+        },
+        {
+          "emoji": "💋",
+          "count": "52"
+        },
+        {
+          "emoji": "👍",
+          "count": "34"
+        },
+        {
+          "emoji": "👨‍💻",
+          "count": "21"
+        },
+        {
+          "emoji": "🤔",
+          "count": "16"
+        },
+        {
+          "emoji": "🤬",
+          "count": "9"
+        }
+      ],
+      "views_label": "108K",
+      "posted_at": "2026-11-17T10:31:43+00:00",
+      "edited": false,
+      "permalink": "https://t.me/drtel/72838"
+    },
+    {
+      "id": "drtel/72837",
+      "author_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "author_photo_url": "https://cdn4.telesco.pe/file/c6nzkYaLYbmVCvpF7IwqEwVkg8yGalyldo6MzGa_pIp42jxJ8lUw7C7ndsQtAYmOLobjpFwmiHMvCzLE5Ly6M_z2W0Ujb-mLaZQXv6XGa0DiotGp5MA7X6GDhKx_umkBVq7Oq61bhnnXWoJgDhxhM8URpbLFpnVscoYed6gY4eMiPHjui_pQOkkQp8tIFVlevNdoHYSNqemm0tNm0QyDaCG4y7Yu_-o8evupKpe4mDmRCbssLCQz44hRCEIkaLCXGW344_Umywxl5qdSeCvQb2in0QYAeXjzH9P2480YNnGytABbBiKHF8rtou8MoMnWtippyTa4qYkR5C3o4uRmKQ.jpg",
+      "author_photo_path": "channels/drtel/media/556c148737d2acf7c4fa28b3.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5884243008135634270\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87BA.png')\"><b>🇪🇺</b></i></tg-emoji><b> اژدهای سرخ در برابر دریانوردان؛ جدالی برای اثبات قدرت!</b><tg-emoji emoji-id=\"5420315771991497307\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></tg-emoji><br><br><b>[</b> <a href=\"http://Sportn5b2.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>ولز</b></a> <tg-emoji emoji-id=\"5294139949346476093\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8FB4F3A081A7F3A081A2F3A081B7F3A081ACF3A081B3F3A081BF.png')\"><b>🏴󠁧󠁢󠁷󠁬󠁳󠁿</b></i></tg-emoji> <tg-emoji emoji-id=\"5881739793821344050\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F869A.png')\"><b>🆚</b></i></tg-emoji><tg-emoji emoji-id=\"5294436555492973610\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87B5F09F87B9.png')\"><b>🇵🇹</b></i></tg-emoji> <a href=\"http://Sportn5b2.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>پرتغال</b></a><b> ]</b><br><br><tg-emoji emoji-id=\"5780755238562570238\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i></tg-emoji><b> [ نکات کلیدی و مهم ]:</b><tg-emoji emoji-id=\"5470177992950946662\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5785194576889258557\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/31E283A3.png')\"><b>1⃣</b></i></tg-emoji>. <b>برتری فنی پرتغال:</b> کیفیت بالاتر بازیکنان پرتغال در میانه میدان و فاز هجومی می‌تواند جریان بازی را به سود این تیم تغییر دهد.<br><tg-emoji emoji-id=\"5789526880335961698\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/32E283A3.png')\"><b>2⃣</b></i></tg-emoji>. <b>غیبت‌های تأثیرگذار:</b> ولز بدون ایتان آمپادو و نکو ویلیامز به میدان می‌رود؛ پرتغال نیز روبن دیاز و ژائو پالینیا را در اختیار ندارد.<br><tg-emoji emoji-id=\"5787238371436797705\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/33E283A3.png')\"><b>3⃣</b></i></tg-emoji>. <b>انگیزه دو تیم:</b> پرتغال برای تثبیت صدرنشینی به حداقل یک امتیاز نیاز دارد و ولز برای حفظ شانس حضور در پلی‌آف سقوط به دنبال امتیاز است.<br><tg-emoji emoji-id=\"5787678953476990151\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/34E283A3.png')\"><b>4⃣</b></i></tg-emoji>. <b>واکنش پرتغال:</b> شکست سنگین ۴-۱ مقابل دانمارک، فشار زیادی برای جبران روی شاگردان ژرژ ژسوس ایجاد کرده است.<br><br><blockquote><tg-emoji emoji-id=\"5787541587537960743\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')\"><b>🔵</b></i></tg-emoji> &nbsp;&nbsp; بونوس ویژه ثبت‌نام برای کاربران سایت، با شارژ حساب از طریق کریپتو ۴٪ بیشتر از مبلغ شارژ حساب دریافت کنید.<br></blockquote><tg-emoji emoji-id=\"5787272602326147993\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i></tg-emoji> <b>برای پیش‌بینی این دیدار همین حالا وارد ربات رسمی اسپورت‌نود شو و پیش‌بینی خودتو با بونوس ویژه ثبت کن: </b><tg-emoji emoji-id=\"5231102735817918643\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5785389950656586295\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')\"><b>🔵</b></i></tg-emoji> <a href=\"https://t.me/Sportnavad_bot\" target=\"_blank\">@Sportnavad_bot</a><br><tg-emoji emoji-id=\"5785389950656586295\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')\"><b>🔵</b></i></tg-emoji> <a href=\"https://t.me/Sportnavad_bot\" target=\"_blank\">@Sportnavad_bot</a><br><br><tg-emoji emoji-id=\"5787272602326147993\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i></tg-emoji> <b>کانال رسمی اسپورت نود:</b><tg-emoji emoji-id=\"5231102735817918643\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5785385999286673311\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')\"><b>🔵</b></i></tg-emoji> <a href=\"https://t.me/Sportnavad\" target=\"_blank\">@Sportnavad</a>",
+      "plain_text": "🇪🇺 اژدهای سرخ در برابر دریانوردان؛ جدالی برای اثبات قدرت!🔥 [ ولز 🏴󠁧󠁢󠁷󠁬󠁳󠁿 🆚🇵🇹 پرتغال ] ⚽️ [ نکات کلیدی و مهم ]:👇 1⃣. برتری فنی پرتغال: کیفیت بالاتر بازیکنان پرتغال در میانه میدان و فاز هجومی می‌تواند جریان بازی را به سود این تیم تغییر دهد. 2⃣. غیبت‌های تأثیرگذار: ولز بدون ایتان آمپادو و نکو ویلیامز به میدان می‌رود؛ پرتغال نیز روبن دیاز و ژائو پالینیا را در اختیار ندارد. 3⃣. انگیزه دو تیم: پرتغال برای تثبیت صدرنشینی به حداقل یک امتیاز نیاز دارد و ولز برای حفظ شانس حضور در پلی‌آف سقوط به دنبال امتیاز است. 4⃣. واکنش پرتغال: شکست سنگین ۴-۱ مقابل دانمارک، فشار زیادی برای جبران روی شاگردان ژرژ ژسوس ایجاد کرده است. 🔵 بونوس ویژه ثبت‌نام برای کاربران سایت، با شارژ حساب از طریق کریپتو ۴٪ بیشتر از مبلغ شارژ حساب دریافت کنید. 🔗 برای پیش‌بینی این دیدار همین حالا وارد ربات رسمی اسپورت‌نود شو و پیش‌بینی خودتو با بونوس ویژه ثبت کن: 👇 🔵 @Sportnavad_bot 🔵 @Sportnavad_bot 🔗 کانال رسمی اسپورت نود:👇 🔵 @Sportnavad",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/drtel/72837",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Mh48PjSdx-RgjCplLVOBUhdjfWlWMIDJG_HQBaCnSelZh5c0KMUTGzQM4taQgnzscrqQNMP5w2FBRFK5rUYhuBfGHtpB8so5hM84KgkBSMgU162I8joPtrTh0mCw8-hx-eCJ-znVVpzNIyiFBnAv66q5ppSJ9B1xuaLQ11MUZkk2ZOaqfmSpZbipR25l7Ngw9PEEuUInDrg53V29E72dNWrnSgDfGPGjf6oIWLgwyHPAbQtPpkv5LpVWfo6UFu15afDiY4z0_XYr-gSHv9-RCoBKh6kLANRj14RY-7yatgs7OXXDlNTeBHjUEjMnPOBWQSKI40awPHjAuXGtFB9gUA.jpg",
+          "thumbnail_path": "channels/drtel/media/6afe48ef9e53256a735dbee3.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🖕",
+          "count": "183"
+        },
+        {
+          "emoji": "❤",
+          "count": "29"
+        },
+        {
+          "emoji": "🤣",
+          "count": "8"
+        },
+        {
+          "emoji": "👎",
+          "count": "2"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        }
+      ],
+      "views_label": "136K",
+      "posted_at": "2026-11-17T10:31:41+00:00",
+      "edited": false,
+      "permalink": "https://t.me/drtel/72837"
+    },
+    {
+      "id": "drtel/72836",
+      "author_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "author_photo_url": "https://cdn4.telesco.pe/file/c6nzkYaLYbmVCvpF7IwqEwVkg8yGalyldo6MzGa_pIp42jxJ8lUw7C7ndsQtAYmOLobjpFwmiHMvCzLE5Ly6M_z2W0Ujb-mLaZQXv6XGa0DiotGp5MA7X6GDhKx_umkBVq7Oq61bhnnXWoJgDhxhM8URpbLFpnVscoYed6gY4eMiPHjui_pQOkkQp8tIFVlevNdoHYSNqemm0tNm0QyDaCG4y7Yu_-o8evupKpe4mDmRCbssLCQz44hRCEIkaLCXGW344_Umywxl5qdSeCvQb2in0QYAeXjzH9P2480YNnGytABbBiKHF8rtou8MoMnWtippyTa4qYkR5C3o4uRmKQ.jpg",
+      "author_photo_path": "channels/drtel/media/556c148737d2acf7c4fa28b3.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>خراسانی کامبک زد؛  + دفتر آخوند وحید خراسانی: خبرگزاری فارس کص میگه، وحید خراسانی هنوز زنده‌ست و روند درمانش ادامه داره، واسش دعا کنید.  @DrTeL",
+      "plain_text": "🔴خراسانی کامبک زد؛ + دفتر آخوند وحید خراسانی: خبرگزاری فارس کص میگه، وحید خراسانی هنوز زنده‌ست و روند درمانش ادامه داره، واسش دعا کنید. @DrTeL",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/drtel/72836",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/vN2MnYQ5B6n3X2ZOeT7BlOOI37PdV9qtv38_Ex_rgv9EPFzgn4XHLVrp-vmov6cJuay5GyvpupeOq254PjLBbnIa45A14K81lhfheJWD78GQtVzgJRa3b8QY6_u8S9_EFv8BJYBuAy9QdmxRXb2sxRh5Vuq4LIyE7WTlksWyxk0-Bax6hieH9ai8uHh2vvpQwBuSEPSIMNeMZfDrQAK8KdbcTKVskUc7k2rVBuqciOCgZTOj02nJYXpuEFtigD74zc68MtTnQDuuWHh5JIU_qGh3eSwz4ZATUZe1s73TfH7YTQg4HebTcymhzz4GbmO5X_cUs6fqs3o6mW8WDMjs3Q.jpg",
+          "thumbnail_path": "channels/drtel/media/b8365543f2a077fdbbde7116.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8237500000000311
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "9.82K"
+        },
+        {
+          "emoji": "💔",
+          "count": "1.5K"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1.03K"
+        },
+        {
+          "emoji": "🤬",
+          "count": "307"
+        },
+        {
+          "emoji": "❤",
+          "count": "144"
+        },
+        {
+          "emoji": "🕊",
+          "count": "71"
+        },
+        {
+          "emoji": "👏",
+          "count": "66"
+        },
+        {
+          "emoji": "😁",
+          "count": "31"
+        },
+        {
+          "emoji": "🗿",
+          "count": "29"
+        },
+        {
+          "emoji": "😢",
+          "count": "12"
+        },
+        {
+          "emoji": "😱",
+          "count": "11"
+        }
+      ],
+      "views_label": "138K",
+      "posted_at": "2026-11-17T10:08:27+00:00",
+      "edited": true,
+      "permalink": "https://t.me/drtel/72836"
+    },
+    {
+      "id": "drtel/72835",
+      "author_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "author_photo_url": "https://cdn4.telesco.pe/file/c6nzkYaLYbmVCvpF7IwqEwVkg8yGalyldo6MzGa_pIp42jxJ8lUw7C7ndsQtAYmOLobjpFwmiHMvCzLE5Ly6M_z2W0Ujb-mLaZQXv6XGa0DiotGp5MA7X6GDhKx_umkBVq7Oq61bhnnXWoJgDhxhM8URpbLFpnVscoYed6gY4eMiPHjui_pQOkkQp8tIFVlevNdoHYSNqemm0tNm0QyDaCG4y7Yu_-o8evupKpe4mDmRCbssLCQz44hRCEIkaLCXGW344_Umywxl5qdSeCvQb2in0QYAeXjzH9P2480YNnGytABbBiKHF8rtou8MoMnWtippyTa4qYkR5C3o4uRmKQ.jpg",
+      "author_photo_path": "channels/drtel/media/556c148737d2acf7c4fa28b3.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>سی‌ان‌ان | CNN، به نقل از هفت مقام آمریکایی :<br><br><b>اطلاعات جدیدی به دستمون رسیده که نشون میده ایران داره طرح‌هایی رو بررسی و آماده میکنه که بتونه با «بمب کثیف» (همون بمب معمولی که روش مواد رادیواکتیو میذارن تا آلودگی پخش کنه) یا سلاح شیمیایی، مقام‌های ارشد دولت ترامپ رو تو واشنگتن هدف بگیره!</b><br><br><a href=\"https://t.me/DrTeL\" target=\"_blank\">@DrTeL</a>",
+      "plain_text": "🔴سی‌ان‌ان | CNN، به نقل از هفت مقام آمریکایی : اطلاعات جدیدی به دستمون رسیده که نشون میده ایران داره طرح‌هایی رو بررسی و آماده میکنه که بتونه با «بمب کثیف» (همون بمب معمولی که روش مواد رادیواکتیو میذارن تا آلودگی پخش کنه) یا سلاح شیمیایی، مقام‌های ارشد دولت ترامپ رو تو واشنگتن هدف بگیره! @DrTeL",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/drtel/72835",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/G7-X_epwLjij1YHOx8kxUjMQbu0N5M13_9s09BSHgKEO9Nv8ff5GeVka3M85NkB6Rg7pykPbuVJDKF8DC5pNHLFmT5bZJHX_hVS-ZDvvHKJt0-Usx7HX3HAB5jqu788_GvFSVmUdUKgFpR7ia0t1NYlOirQRc-YUWmdCjcZypM2_v5MMy8EwmiPtuQkVznUE_lZeVLghSvhvFl79tQBKjC--QIIhffPxT_DaN_4XuBy_8-330Va0hgqChHbClqLRU7ii4iej3FApkkw3Ebn3zoEPwhnCR6aKl3ZotJ9aiE-Tktvne4Cx3Hvo0OIj8-e-_H8VFGeXOrwyk0ZSx0e3-g.jpg",
+          "thumbnail_path": "channels/drtel/media/bfe2b5df565008133c12d5cc.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🖕",
+          "count": "2.8K"
+        },
+        {
+          "emoji": "🤣",
+          "count": "1.74K"
+        },
+        {
+          "emoji": "👎",
+          "count": "1.43K"
+        },
+        {
+          "emoji": "🤬",
+          "count": "363"
+        },
+        {
+          "emoji": "🔥",
+          "count": "241"
+        },
+        {
+          "emoji": "❤",
+          "count": "129"
+        },
+        {
+          "emoji": "🤯",
+          "count": "74"
+        },
+        {
+          "emoji": "👍",
+          "count": "61"
+        },
+        {
+          "emoji": "😁",
+          "count": "16"
+        },
+        {
+          "emoji": "👏",
+          "count": "12"
+        },
+        {
+          "emoji": "🗿",
+          "count": "8"
+        }
+      ],
+      "views_label": "149K",
+      "posted_at": "2026-11-17T09:28:10+00:00",
+      "edited": false,
+      "permalink": "https://t.me/drtel/72835"
+    },
+    {
+      "id": "drtel/72834",
+      "author_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "author_photo_url": "https://cdn4.telesco.pe/file/c6nzkYaLYbmVCvpF7IwqEwVkg8yGalyldo6MzGa_pIp42jxJ8lUw7C7ndsQtAYmOLobjpFwmiHMvCzLE5Ly6M_z2W0Ujb-mLaZQXv6XGa0DiotGp5MA7X6GDhKx_umkBVq7Oq61bhnnXWoJgDhxhM8URpbLFpnVscoYed6gY4eMiPHjui_pQOkkQp8tIFVlevNdoHYSNqemm0tNm0QyDaCG4y7Yu_-o8evupKpe4mDmRCbssLCQz44hRCEIkaLCXGW344_Umywxl5qdSeCvQb2in0QYAeXjzH9P2480YNnGytABbBiKHF8rtou8MoMnWtippyTa4qYkR5C3o4uRmKQ.jpg",
+      "author_photo_path": "channels/drtel/media/556c148737d2acf7c4fa28b3.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>طبق گزارشات شما، از اهواز صدای انفجار بلندی شنیده شده.<br><br><tg-emoji emoji-id=\"5228919011235902013\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9484.png')\"><b>🔄</b></i></tg-emoji>آپدیت : اعلام شد که امحای کنترل شده مهمات بوده.<br><br><a href=\"https://t.me/DrTeL\" target=\"_blank\">@DrTeL</a>",
+      "plain_text": "🔴طبق گزارشات شما، از اهواز صدای انفجار بلندی شنیده شده. 🔄آپدیت : اعلام شد که امحای کنترل شده مهمات بوده. @DrTeL",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🖕",
+          "count": "4.15K"
+        },
+        {
+          "emoji": "👎",
+          "count": "1.6K"
+        },
+        {
+          "emoji": "👍",
+          "count": "940"
+        },
+        {
+          "emoji": "🔥",
+          "count": "404"
+        },
+        {
+          "emoji": "🤣",
+          "count": "136"
+        },
+        {
+          "emoji": "🤷‍♀",
+          "count": "79"
+        },
+        {
+          "emoji": "💔",
+          "count": "73"
+        },
+        {
+          "emoji": "❤",
+          "count": "46"
+        },
+        {
+          "emoji": "🌚",
+          "count": "23"
+        },
+        {
+          "emoji": "👏",
+          "count": "15"
+        },
+        {
+          "emoji": "😡",
+          "count": "7"
+        }
+      ],
+      "views_label": "157K",
+      "posted_at": "2026-11-17T08:36:18+00:00",
+      "edited": true,
       "permalink": "https://t.me/drtel/72834"
     },
     {
       "id": "drtel/72833",
       "author_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dULY3JvJTc5Rg3shY0KI7vnH_n1bJWCdKxv3nlSKTtTDT5rks5fO63529g3gXxrPehr6O-e2CB8JeqiY86UZIiJDty-UhcnmKdq8fxPgE1jwVVCu7RVdMkOkoSEeX4cgOAN0WtvvTDq5o7vqkVeYwHHZBqCeJlDkxuqiyidGmZkLQWa_Xi4aK2m2Fw7SypdJOBDwF9A-rIwhbq_-DW96824rhWDQBmzOT3haIuq9wO15Xff9fclrFQZJGh1sGaa84zK2NXxPEC-j8lphM0ehsAm3I5AGWZL4LyxqU5Cx7VGvcRXXvpoDlUWUz56EzkmW8qELJvcWDU8rLLxAvY-bbA.jpg",
-      "author_photo_path": "channels/drtel/media/fd6216d951cd7f5386146611.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/c6nzkYaLYbmVCvpF7IwqEwVkg8yGalyldo6MzGa_pIp42jxJ8lUw7C7ndsQtAYmOLobjpFwmiHMvCzLE5Ly6M_z2W0Ujb-mLaZQXv6XGa0DiotGp5MA7X6GDhKx_umkBVq7Oq61bhnnXWoJgDhxhM8URpbLFpnVscoYed6gY4eMiPHjui_pQOkkQp8tIFVlevNdoHYSNqemm0tNm0QyDaCG4y7Yu_-o8evupKpe4mDmRCbssLCQz44hRCEIkaLCXGW344_Umywxl5qdSeCvQb2in0QYAeXjzH9P2480YNnGytABbBiKHF8rtou8MoMnWtippyTa4qYkR5C3o4uRmKQ.jpg",
+      "author_photo_path": "channels/drtel/media/556c148737d2acf7c4fa28b3.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>بيانيه سپاه پاسداران:  دیشب در پاسخ به تجاوز هوایی دشمن به یه دکل مخابراتی تو سیریک ، رادار هشدار اولیه‌ی آمریکا<tg-emoji emoji-id=\"5202021044105257611\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')\"><b>🇺🇸</b></i></tg-emoji> تو جزیره بحرین<tg-emoji emoji-id=\"5229186179676517309\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A7F09F87AD.png')\"><b>🇧🇭</b></i></tg-emoji> رو منهدم کردیم.  @DrTeL",
       "plain_text": "🔴بيانيه سپاه پاسداران: دیشب در پاسخ به تجاوز هوایی دشمن به یه دکل مخابراتی تو سیریک ، رادار هشدار اولیه‌ی آمریکا🇺🇸 تو جزیره بحرین🇧🇭 رو منهدم کردیم. @DrTeL",
       "media": [
@@ -89,51 +655,51 @@
       ],
       "reactions": [
         {
+          "emoji": "🖕",
+          "count": "4.89K"
+        },
+        {
           "emoji": "🤣",
-          "count": "1.17K"
+          "count": "2.6K"
         },
         {
           "emoji": "🔥",
-          "count": "572"
-        },
-        {
-          "emoji": "🖕",
-          "count": "421"
+          "count": "1.28K"
         },
         {
           "emoji": "❤",
-          "count": "111"
-        },
-        {
-          "emoji": "😁",
-          "count": "11"
+          "count": "189"
         },
         {
           "emoji": "👍",
-          "count": "7"
+          "count": "16"
         },
         {
           "emoji": "👏",
-          "count": "6"
+          "count": "15"
+        },
+        {
+          "emoji": "😁",
+          "count": "15"
         },
         {
           "emoji": "👎",
-          "count": "4"
+          "count": "12"
         },
         {
           "emoji": "🤬",
-          "count": "4"
+          "count": "9"
         },
         {
           "emoji": "🌚",
-          "count": "2"
+          "count": "7"
         },
         {
           "emoji": "😡",
-          "count": "2"
+          "count": "7"
         }
       ],
-      "views_label": "49.1K",
+      "views_label": "161K",
       "posted_at": "2026-11-17T07:53:42+00:00",
       "edited": false,
       "permalink": "https://t.me/drtel/72833"
@@ -141,8 +707,8 @@
     {
       "id": "drtel/72832",
       "author_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dULY3JvJTc5Rg3shY0KI7vnH_n1bJWCdKxv3nlSKTtTDT5rks5fO63529g3gXxrPehr6O-e2CB8JeqiY86UZIiJDty-UhcnmKdq8fxPgE1jwVVCu7RVdMkOkoSEeX4cgOAN0WtvvTDq5o7vqkVeYwHHZBqCeJlDkxuqiyidGmZkLQWa_Xi4aK2m2Fw7SypdJOBDwF9A-rIwhbq_-DW96824rhWDQBmzOT3haIuq9wO15Xff9fclrFQZJGh1sGaa84zK2NXxPEC-j8lphM0ehsAm3I5AGWZL4LyxqU5Cx7VGvcRXXvpoDlUWUz56EzkmW8qELJvcWDU8rLLxAvY-bbA.jpg",
-      "author_photo_path": "channels/drtel/media/fd6216d951cd7f5386146611.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/c6nzkYaLYbmVCvpF7IwqEwVkg8yGalyldo6MzGa_pIp42jxJ8lUw7C7ndsQtAYmOLobjpFwmiHMvCzLE5Ly6M_z2W0Ujb-mLaZQXv6XGa0DiotGp5MA7X6GDhKx_umkBVq7Oq61bhnnXWoJgDhxhM8URpbLFpnVscoYed6gY4eMiPHjui_pQOkkQp8tIFVlevNdoHYSNqemm0tNm0QyDaCG4y7Yu_-o8evupKpe4mDmRCbssLCQz44hRCEIkaLCXGW344_Umywxl5qdSeCvQb2in0QYAeXjzH9P2480YNnGytABbBiKHF8rtou8MoMnWtippyTa4qYkR5C3o4uRmKQ.jpg",
+      "author_photo_path": "channels/drtel/media/556c148737d2acf7c4fa28b3.jpg",
       "body_html": "این بابک نی؟",
       "plain_text": "این بابک نی؟",
       "media": [
@@ -159,50 +725,50 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "6.41K"
+          "count": "13.7K"
         },
         {
           "emoji": "🖕",
-          "count": "656"
+          "count": "3.3K"
         },
         {
           "emoji": "👍",
-          "count": "58"
+          "count": "96"
         },
         {
           "emoji": "😁",
-          "count": "53"
+          "count": "68"
         },
         {
           "emoji": "❤",
-          "count": "17"
+          "count": "46"
         },
         {
           "emoji": "🔥",
-          "count": "11"
+          "count": "18"
         },
         {
           "emoji": "🦄",
-          "count": "5"
+          "count": "9"
         },
         {
           "emoji": "👎",
-          "count": "4"
+          "count": "6"
         },
         {
           "emoji": "🌚",
-          "count": "4"
+          "count": "6"
         },
         {
           "emoji": "💔",
-          "count": "4"
+          "count": "6"
         },
         {
           "emoji": "🐳",
-          "count": "2"
+          "count": "3"
         }
       ],
-      "views_label": "63.6K",
+      "views_label": "162K",
       "posted_at": "2026-11-17T07:35:50+00:00",
       "edited": false,
       "permalink": "https://t.me/drtel/72832"
@@ -210,8 +776,8 @@
     {
       "id": "drtel/72831",
       "author_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dULY3JvJTc5Rg3shY0KI7vnH_n1bJWCdKxv3nlSKTtTDT5rks5fO63529g3gXxrPehr6O-e2CB8JeqiY86UZIiJDty-UhcnmKdq8fxPgE1jwVVCu7RVdMkOkoSEeX4cgOAN0WtvvTDq5o7vqkVeYwHHZBqCeJlDkxuqiyidGmZkLQWa_Xi4aK2m2Fw7SypdJOBDwF9A-rIwhbq_-DW96824rhWDQBmzOT3haIuq9wO15Xff9fclrFQZJGh1sGaa84zK2NXxPEC-j8lphM0ehsAm3I5AGWZL4LyxqU5Cx7VGvcRXXvpoDlUWUz56EzkmW8qELJvcWDU8rLLxAvY-bbA.jpg",
-      "author_photo_path": "channels/drtel/media/fd6216d951cd7f5386146611.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/c6nzkYaLYbmVCvpF7IwqEwVkg8yGalyldo6MzGa_pIp42jxJ8lUw7C7ndsQtAYmOLobjpFwmiHMvCzLE5Ly6M_z2W0Ujb-mLaZQXv6XGa0DiotGp5MA7X6GDhKx_umkBVq7Oq61bhnnXWoJgDhxhM8URpbLFpnVscoYed6gY4eMiPHjui_pQOkkQp8tIFVlevNdoHYSNqemm0tNm0QyDaCG4y7Yu_-o8evupKpe4mDmRCbssLCQz44hRCEIkaLCXGW344_Umywxl5qdSeCvQb2in0QYAeXjzH9P2480YNnGytABbBiKHF8rtou8MoMnWtippyTa4qYkR5C3o4uRmKQ.jpg",
+      "author_photo_path": "channels/drtel/media/556c148737d2acf7c4fa28b3.jpg",
       "body_html": "اینم جوان ایرانیه",
       "plain_text": "اینم جوان ایرانیه",
       "media": [
@@ -228,50 +794,50 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "4.12K"
+          "count": "8.99K"
         },
         {
           "emoji": "🖕",
-          "count": "1.02K"
+          "count": "4.71K"
         },
         {
           "emoji": "🤣",
-          "count": "693"
+          "count": "931"
         },
         {
           "emoji": "👍",
-          "count": "72"
-        },
-        {
-          "emoji": "😢",
-          "count": "16"
+          "count": "122"
         },
         {
           "emoji": "❤",
-          "count": "14"
+          "count": "34"
+        },
+        {
+          "emoji": "😢",
+          "count": "29"
         },
         {
           "emoji": "😭",
-          "count": "11"
-        },
-        {
-          "emoji": "🗿",
-          "count": "8"
+          "count": "14"
         },
         {
           "emoji": "🦄",
-          "count": "8"
+          "count": "10"
+        },
+        {
+          "emoji": "🗿",
+          "count": "9"
         },
         {
           "emoji": "👌",
-          "count": "6"
+          "count": "8"
         },
         {
           "emoji": "🕊",
-          "count": "2"
+          "count": "7"
         }
       ],
-      "views_label": "67.9K",
+      "views_label": "160K",
       "posted_at": "2026-11-17T07:29:44+00:00",
       "edited": false,
       "permalink": "https://t.me/drtel/72831"
@@ -279,8 +845,8 @@
     {
       "id": "drtel/72830",
       "author_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dULY3JvJTc5Rg3shY0KI7vnH_n1bJWCdKxv3nlSKTtTDT5rks5fO63529g3gXxrPehr6O-e2CB8JeqiY86UZIiJDty-UhcnmKdq8fxPgE1jwVVCu7RVdMkOkoSEeX4cgOAN0WtvvTDq5o7vqkVeYwHHZBqCeJlDkxuqiyidGmZkLQWa_Xi4aK2m2Fw7SypdJOBDwF9A-rIwhbq_-DW96824rhWDQBmzOT3haIuq9wO15Xff9fclrFQZJGh1sGaa84zK2NXxPEC-j8lphM0ehsAm3I5AGWZL4LyxqU5Cx7VGvcRXXvpoDlUWUz56EzkmW8qELJvcWDU8rLLxAvY-bbA.jpg",
-      "author_photo_path": "channels/drtel/media/fd6216d951cd7f5386146611.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/c6nzkYaLYbmVCvpF7IwqEwVkg8yGalyldo6MzGa_pIp42jxJ8lUw7C7ndsQtAYmOLobjpFwmiHMvCzLE5Ly6M_z2W0Ujb-mLaZQXv6XGa0DiotGp5MA7X6GDhKx_umkBVq7Oq61bhnnXWoJgDhxhM8URpbLFpnVscoYed6gY4eMiPHjui_pQOkkQp8tIFVlevNdoHYSNqemm0tNm0QyDaCG4y7Yu_-o8evupKpe4mDmRCbssLCQz44hRCEIkaLCXGW344_Umywxl5qdSeCvQb2in0QYAeXjzH9P2480YNnGytABbBiKHF8rtou8MoMnWtippyTa4qYkR5C3o4uRmKQ.jpg",
+      "author_photo_path": "channels/drtel/media/556c148737d2acf7c4fa28b3.jpg",
       "body_html": "اینم دکل سیریکه؟",
       "plain_text": "اینم دکل سیریکه؟",
       "media": [
@@ -297,50 +863,50 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "3.62K"
+          "count": "7.3K"
         },
         {
           "emoji": "🖕",
-          "count": "911"
+          "count": "2.9K"
         },
         {
           "emoji": "👍",
-          "count": "54"
+          "count": "93"
         },
         {
           "emoji": "❤",
-          "count": "43"
+          "count": "67"
         },
         {
           "emoji": "💔",
-          "count": "10"
-        },
-        {
-          "emoji": "🌚",
-          "count": "7"
+          "count": "24"
         },
         {
           "emoji": "🤷‍♂",
-          "count": "6"
-        },
-        {
-          "emoji": "🦄",
-          "count": "6"
+          "count": "21"
         },
         {
           "emoji": "😁",
-          "count": "4"
+          "count": "13"
+        },
+        {
+          "emoji": "🌚",
+          "count": "10"
+        },
+        {
+          "emoji": "🦄",
+          "count": "8"
         },
         {
           "emoji": "👎",
-          "count": "3"
+          "count": "5"
         },
         {
           "emoji": "🤝",
-          "count": "3"
+          "count": "4"
         }
       ],
-      "views_label": "69.9K",
+      "views_label": "159K",
       "posted_at": "2026-11-17T07:26:53+00:00",
       "edited": false,
       "permalink": "https://t.me/drtel/72830"
@@ -348,8 +914,8 @@
     {
       "id": "drtel/72829",
       "author_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dULY3JvJTc5Rg3shY0KI7vnH_n1bJWCdKxv3nlSKTtTDT5rks5fO63529g3gXxrPehr6O-e2CB8JeqiY86UZIiJDty-UhcnmKdq8fxPgE1jwVVCu7RVdMkOkoSEeX4cgOAN0WtvvTDq5o7vqkVeYwHHZBqCeJlDkxuqiyidGmZkLQWa_Xi4aK2m2Fw7SypdJOBDwF9A-rIwhbq_-DW96824rhWDQBmzOT3haIuq9wO15Xff9fclrFQZJGh1sGaa84zK2NXxPEC-j8lphM0ehsAm3I5AGWZL4LyxqU5Cx7VGvcRXXvpoDlUWUz56EzkmW8qELJvcWDU8rLLxAvY-bbA.jpg",
-      "author_photo_path": "channels/drtel/media/fd6216d951cd7f5386146611.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/c6nzkYaLYbmVCvpF7IwqEwVkg8yGalyldo6MzGa_pIp42jxJ8lUw7C7ndsQtAYmOLobjpFwmiHMvCzLE5Ly6M_z2W0Ujb-mLaZQXv6XGa0DiotGp5MA7X6GDhKx_umkBVq7Oq61bhnnXWoJgDhxhM8URpbLFpnVscoYed6gY4eMiPHjui_pQOkkQp8tIFVlevNdoHYSNqemm0tNm0QyDaCG4y7Yu_-o8evupKpe4mDmRCbssLCQz44hRCEIkaLCXGW344_Umywxl5qdSeCvQb2in0QYAeXjzH9P2480YNnGytABbBiKHF8rtou8MoMnWtippyTa4qYkR5C3o4uRmKQ.jpg",
+      "author_photo_path": "channels/drtel/media/556c148737d2acf7c4fa28b3.jpg",
       "body_html": "این کوه کلنگ نیست؟",
       "plain_text": "این کوه کلنگ نیست؟",
       "media": [
@@ -366,50 +932,50 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "3.52K"
+          "count": "6.7K"
         },
         {
           "emoji": "👍",
-          "count": "367"
+          "count": "592"
         },
         {
           "emoji": "🤔",
-          "count": "70"
+          "count": "120"
         },
         {
           "emoji": "🤷‍♂",
-          "count": "29"
-        },
-        {
-          "emoji": "👎",
-          "count": "23"
+          "count": "54"
         },
         {
           "emoji": "❤",
-          "count": "16"
+          "count": "40"
+        },
+        {
+          "emoji": "👎",
+          "count": "34"
         },
         {
           "emoji": "🔥",
-          "count": "12"
-        },
-        {
-          "emoji": "💔",
-          "count": "8"
-        },
-        {
-          "emoji": "🤷‍♀",
-          "count": "4"
-        },
-        {
-          "emoji": "👏",
-          "count": "4"
+          "count": "17"
         },
         {
           "emoji": "😁",
-          "count": "4"
+          "count": "14"
+        },
+        {
+          "emoji": "💔",
+          "count": "12"
+        },
+        {
+          "emoji": "👏",
+          "count": "11"
+        },
+        {
+          "emoji": "🤷‍♀",
+          "count": "6"
         }
       ],
-      "views_label": "72.4K",
+      "views_label": "156K",
       "posted_at": "2026-11-17T07:21:58+00:00",
       "edited": false,
       "permalink": "https://t.me/drtel/72829"
@@ -417,8 +983,8 @@
     {
       "id": "drtel/72828",
       "author_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dULY3JvJTc5Rg3shY0KI7vnH_n1bJWCdKxv3nlSKTtTDT5rks5fO63529g3gXxrPehr6O-e2CB8JeqiY86UZIiJDty-UhcnmKdq8fxPgE1jwVVCu7RVdMkOkoSEeX4cgOAN0WtvvTDq5o7vqkVeYwHHZBqCeJlDkxuqiyidGmZkLQWa_Xi4aK2m2Fw7SypdJOBDwF9A-rIwhbq_-DW96824rhWDQBmzOT3haIuq9wO15Xff9fclrFQZJGh1sGaa84zK2NXxPEC-j8lphM0ehsAm3I5AGWZL4LyxqU5Cx7VGvcRXXvpoDlUWUz56EzkmW8qELJvcWDU8rLLxAvY-bbA.jpg",
-      "author_photo_path": "channels/drtel/media/fd6216d951cd7f5386146611.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/c6nzkYaLYbmVCvpF7IwqEwVkg8yGalyldo6MzGa_pIp42jxJ8lUw7C7ndsQtAYmOLobjpFwmiHMvCzLE5Ly6M_z2W0Ujb-mLaZQXv6XGa0DiotGp5MA7X6GDhKx_umkBVq7Oq61bhnnXWoJgDhxhM8URpbLFpnVscoYed6gY4eMiPHjui_pQOkkQp8tIFVlevNdoHYSNqemm0tNm0QyDaCG4y7Yu_-o8evupKpe4mDmRCbssLCQz44hRCEIkaLCXGW344_Umywxl5qdSeCvQb2in0QYAeXjzH9P2480YNnGytABbBiKHF8rtou8MoMnWtippyTa4qYkR5C3o4uRmKQ.jpg",
+      "author_photo_path": "channels/drtel/media/556c148737d2acf7c4fa28b3.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> مجله اکونومیست با این کاور جدیدش، پیش‌بینی خودش از سال 2026 رو منتشر کرد؛  این مجله هیچ‌وقت یه عکس الکی نمیذاره، هر جزئیات کاورش یه معنی داره و داره از اتفاق‌هایی میگه که احتمالاً سال 2026 در انتظارمونه.  @DrTeL | The Economist",
       "plain_text": "🔴 مجله اکونومیست با این کاور جدیدش، پیش‌بینی خودش از سال 2026 رو منتشر کرد؛ این مجله هیچ‌وقت یه عکس الکی نمیذاره، هر جزئیات کاورش یه معنی داره و داره از اتفاق‌هایی میگه که احتمالاً سال 2026 در انتظارمونه. @DrTeL | The Economist",
       "media": [
@@ -434,51 +1000,51 @@
       ],
       "reactions": [
         {
-          "emoji": "❤",
-          "count": "1.24K"
+          "emoji": "🖕",
+          "count": "5.4K"
         },
         {
-          "emoji": "🖕",
-          "count": "858"
+          "emoji": "❤",
+          "count": "1.84K"
         },
         {
           "emoji": "🔥",
-          "count": "160"
+          "count": "241"
         },
         {
           "emoji": "🤣",
-          "count": "93"
+          "count": "159"
         },
         {
           "emoji": "👍",
-          "count": "50"
+          "count": "103"
         },
         {
           "emoji": "💔",
-          "count": "26"
-        },
-        {
-          "emoji": "👎",
-          "count": "8"
-        },
-        {
-          "emoji": "🐳",
-          "count": "8"
+          "count": "58"
         },
         {
           "emoji": "🤔",
-          "count": "6"
+          "count": "21"
+        },
+        {
+          "emoji": "🐳",
+          "count": "17"
         },
         {
           "emoji": "👨‍💻",
-          "count": "6"
+          "count": "12"
+        },
+        {
+          "emoji": "👎",
+          "count": "9"
         },
         {
           "emoji": "😁",
-          "count": "2"
+          "count": "3"
         }
       ],
-      "views_label": "78.7K",
+      "views_label": "169K",
       "posted_at": "2026-11-17T07:13:57+00:00",
       "edited": false,
       "permalink": "https://t.me/drtel/72828"
@@ -486,8 +1052,8 @@
     {
       "id": "drtel/72822",
       "author_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dULY3JvJTc5Rg3shY0KI7vnH_n1bJWCdKxv3nlSKTtTDT5rks5fO63529g3gXxrPehr6O-e2CB8JeqiY86UZIiJDty-UhcnmKdq8fxPgE1jwVVCu7RVdMkOkoSEeX4cgOAN0WtvvTDq5o7vqkVeYwHHZBqCeJlDkxuqiyidGmZkLQWa_Xi4aK2m2Fw7SypdJOBDwF9A-rIwhbq_-DW96824rhWDQBmzOT3haIuq9wO15Xff9fclrFQZJGh1sGaa84zK2NXxPEC-j8lphM0ehsAm3I5AGWZL4LyxqU5Cx7VGvcRXXvpoDlUWUz56EzkmW8qELJvcWDU8rLLxAvY-bbA.jpg",
-      "author_photo_path": "channels/drtel/media/fd6216d951cd7f5386146611.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/c6nzkYaLYbmVCvpF7IwqEwVkg8yGalyldo6MzGa_pIp42jxJ8lUw7C7ndsQtAYmOLobjpFwmiHMvCzLE5Ly6M_z2W0Ujb-mLaZQXv6XGa0DiotGp5MA7X6GDhKx_umkBVq7Oq61bhnnXWoJgDhxhM8URpbLFpnVscoYed6gY4eMiPHjui_pQOkkQp8tIFVlevNdoHYSNqemm0tNm0QyDaCG4y7Yu_-o8evupKpe4mDmRCbssLCQz44hRCEIkaLCXGW344_Umywxl5qdSeCvQb2in0QYAeXjzH9P2480YNnGytABbBiKHF8rtou8MoMnWtippyTa4qYkR5C3o4uRmKQ.jpg",
+      "author_photo_path": "channels/drtel/media/556c148737d2acf7c4fa28b3.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>تست کنید جالبه، تست کردم باحال بود؛</b><br><br><br><br><br>فقط کافیه یه عکس واضح از  خودتون برای چت جی پی تی <tg-emoji emoji-id=\"5438386438867548769\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji>بفرستین و بهش بگین :<br><br><blockquote><code>از هرچی که ازم میدونی داستان زندگیم رو به یه سریال کامل نتفلیکس تبدیل کن با پوستر و عکس کاملش</code></blockquote><br><br><br><a href=\"https://t.me/DrTeL\" target=\"_blank\">@DrTeL</a>",
       "plain_text": "🔴تست کنید جالبه، تست کردم باحال بود؛ فقط کافیه یه عکس واضح از خودتون برای چت جی پی تی 📱بفرستین و بهش بگین : از هرچی که ازم میدونی داستان زندگیم رو به یه سریال کامل نتفلیکس تبدیل کن با پوستر و عکس کاملش @DrTeL",
       "media": [
@@ -504,39 +1070,39 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "5.63K"
+          "count": "5.94K"
         },
         {
           "emoji": "🤣",
-          "count": "1.05K"
+          "count": "1.22K"
         },
         {
           "emoji": "❤",
-          "count": "257"
+          "count": "292"
         },
         {
           "emoji": "👍",
-          "count": "55"
+          "count": "64"
         },
         {
           "emoji": "🗿",
-          "count": "28"
+          "count": "30"
         },
         {
           "emoji": "👎",
-          "count": "19"
+          "count": "23"
         },
         {
           "emoji": "🐳",
-          "count": "15"
+          "count": "19"
         },
         {
           "emoji": "💔",
-          "count": "12"
+          "count": "14"
         },
         {
           "emoji": "🌚",
-          "count": "11"
+          "count": "12"
         },
         {
           "emoji": "💋",
@@ -547,7 +1113,7 @@
           "count": "2"
         }
       ],
-      "views_label": "156K",
+      "views_label": "193K",
       "posted_at": "2026-11-16T22:46:53+00:00",
       "edited": true,
       "permalink": "https://t.me/drtel/72822"
@@ -6324,562 +6890,6 @@
       "posted_at": "2026-11-14T18:52:24+00:00",
       "edited": false,
       "permalink": "https://t.me/drtel/72688"
-    },
-    {
-      "id": "drtel/72687",
-      "author_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "author_photo_url": "https://cdn4.telesco.pe/file/ROtS-ljtDikEBnaLU1TsqivGYjSw4MFiFg68UQ6vRammR_ctf3HBghTFmYOzOrHg3CVUlOCu2vg-0ARapEkFD3RhimA0FgdMPA7wlfSLMsxLuSs147WfUobPp5ZOb3ZECNnS8xI_yxt7msi9nxNyiddCx3wHMwon4vC_zmbbSc1SAVBXEfS8PsSP7asJg95xEt5ATEE2HDw8oUSS0Ld3facaMsi3LQLAvwqbzJ6L9AipO95rPsXNaF0-F8tHv0mue0eNLX-fJLCwKE8kPDsPjiZFF8H5ilCoyhPWAcXJ_fiqc9EvlC9JxeR61IqdvwrGO6aVV7rHaBqBzm9HF98o5g.jpg",
-      "author_photo_path": "channels/drtel/media/ac66708b9642514b7a7d77f7.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> نتانیاهو <tg-emoji emoji-id=\"6017218696018138916\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AEF09F87B1.png')\"><b>🇮🇱</b></i></tg-emoji> :<br><br><b>رژیم ایران که داره برای نابودی اسرائیل تلاش میکنه، دوباره داره برنامه هسته‌ایش رو راه میندازه؛</b><br><blockquote>این رژیم قاتل که برای کشتن هزاران نفر از مردم خودش هم لحظه‌ای شک نکرد، قطعاً برای استفاده از سلاح هسته‌ای علیه ما هم تردید نمیکنه.<br></blockquote><blockquote>ما باید هر کاری از دستمون برمیاد بکنیم، واقعاً هر کاری، تا مثل عملیات‌های «شیر خیزان» و «شیر غرّان» جلوشون رو بگیریم.<br></blockquote><blockquote>باید این تهدید وجودی رو یه بار برای همیشه از سر خودمون رفع کنیم.</blockquote><br><blockquote>یه دولت وحدت ملی که تهدید ایران رو برای همیشه از بین ببره، دایره صلح رو هم کلی بزرگ‌تر میکنه.<br></blockquote>- خطاب به رقیب انتخاباتیم گادی آیزنکوت:<br><b>من ازت یه درخواستی میکنم، به جای اینکه بخوای یه دولت خطرناک درست کنی... بیا کاری که لازمه رو انجام بدیم و باهم متحد بشیم؛</b><br><blockquote>بیا بدون هیچ پیش‌شرطی بریم تو اتاق، همه اختلاف‌ها و تحریم‌ها رو بذاریم کنار.</blockquote><br>‌<br><a href=\"https://t.me/DrTeL\" target=\"_blank\">@DrTeL</a>",
-      "plain_text": "🔴 نتانیاهو 🇮🇱 : رژیم ایران که داره برای نابودی اسرائیل تلاش میکنه، دوباره داره برنامه هسته‌ایش رو راه میندازه؛ این رژیم قاتل که برای کشتن هزاران نفر از مردم خودش هم لحظه‌ای شک نکرد، قطعاً برای استفاده از سلاح هسته‌ای علیه ما هم تردید نمیکنه. ما باید هر کاری از دستمون برمیاد بکنیم، واقعاً هر کاری، تا مثل عملیات‌های «شیر خیزان» و «شیر غرّان» جلوشون رو بگیریم. باید این تهدید وجودی رو یه بار برای همیشه از سر خودمون رفع کنیم. یه دولت وحدت ملی که تهدید ایران رو برای همیشه از بین ببره، دایره صلح رو هم کلی بزرگ‌تر میکنه. - خطاب به رقیب انتخاباتیم گادی آیزنکوت: من ازت یه درخواستی میکنم، به جای اینکه بخوای یه دولت خطرناک درست کنی... بیا کاری که لازمه رو انجام بدیم و باهم متحد بشیم؛ بیا بدون هیچ پیش‌شرطی بریم تو اتاق، همه اختلاف‌ها و تحریم‌ها رو بذاریم کنار. ‌ @DrTeL",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/drtel/72687",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/s9rTPmo-KIVsmSeadzrpRFsjTVNTlkJyAyBTpdzn1zticEc3SmetINeSV869y4zph4QqDqMzFJnA9uxX9U_WRueiAtHHqKTzFN9nWUleVqNWg3LWL-flCqDd4UPWMfyr9sS2TSHpOM6znWoKjBfknKj_E--xNpB3Vinyv7fPiokzhTzdFdz5VzWGg8A436U8csqRsSnnAIQ8keGrR4wusqn1e9NbVUHdw2ZL9YarIrmH1JQPFFuIJDDBYdDcdF6eSpl6loVf5ARIfxivhjIcTRM_eza7G8n8kmCdD5IggYludVW4bW7KuO2T4u_65uD78glNuatyATJAvOV1CRG9aA",
-          "thumbnail_path": "channels/drtel/media/c171a0f09f7a27c71290c2b8.jpg",
-          "duration_label": "4:13",
-          "aspect_ratio": 1.8181818181818181
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🖕",
-          "count": "7.44K"
-        },
-        {
-          "emoji": "❤",
-          "count": "4.56K"
-        },
-        {
-          "emoji": "🤣",
-          "count": "276"
-        },
-        {
-          "emoji": "👍",
-          "count": "160"
-        },
-        {
-          "emoji": "🔥",
-          "count": "58"
-        },
-        {
-          "emoji": "👏",
-          "count": "17"
-        },
-        {
-          "emoji": "😁",
-          "count": "15"
-        },
-        {
-          "emoji": "🗿",
-          "count": "10"
-        },
-        {
-          "emoji": "💔",
-          "count": "7"
-        },
-        {
-          "emoji": "😎",
-          "count": "5"
-        },
-        {
-          "emoji": "😭",
-          "count": "1"
-        }
-      ],
-      "views_label": "185K",
-      "posted_at": "2026-11-14T18:07:52+00:00",
-      "edited": false,
-      "permalink": "https://t.me/drtel/72687"
-    },
-    {
-      "id": "drtel/72686",
-      "author_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "author_photo_url": "https://cdn4.telesco.pe/file/ROtS-ljtDikEBnaLU1TsqivGYjSw4MFiFg68UQ6vRammR_ctf3HBghTFmYOzOrHg3CVUlOCu2vg-0ARapEkFD3RhimA0FgdMPA7wlfSLMsxLuSs147WfUobPp5ZOb3ZECNnS8xI_yxt7msi9nxNyiddCx3wHMwon4vC_zmbbSc1SAVBXEfS8PsSP7asJg95xEt5ATEE2HDw8oUSS0Ld3facaMsi3LQLAvwqbzJ6L9AipO95rPsXNaF0-F8tHv0mue0eNLX-fJLCwKE8kPDsPjiZFF8H5ilCoyhPWAcXJ_fiqc9EvlC9JxeR61IqdvwrGO6aVV7rHaBqBzm9HF98o5g.jpg",
-      "author_photo_path": "channels/drtel/media/ac66708b9642514b7a7d77f7.jpg",
-      "body_html": "یکی این کصکشو با تیر بزنه شاید ایران درست شد",
-      "plain_text": "یکی این کصکشو با تیر بزنه شاید ایران درست شد",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "8"
-        },
-        {
-          "emoji": "🤣",
-          "count": "14.3K"
-        },
-        {
-          "emoji": "🖕",
-          "count": "4.24K"
-        },
-        {
-          "emoji": "👎",
-          "count": "2.02K"
-        },
-        {
-          "emoji": "👍",
-          "count": "276"
-        },
-        {
-          "emoji": "😡",
-          "count": "56"
-        },
-        {
-          "emoji": "❤",
-          "count": "41"
-        },
-        {
-          "emoji": "😁",
-          "count": "31"
-        },
-        {
-          "emoji": "😭",
-          "count": "23"
-        },
-        {
-          "emoji": "💔",
-          "count": "15"
-        },
-        {
-          "emoji": "🤝",
-          "count": "7"
-        },
-        {
-          "emoji": "💋",
-          "count": "6"
-        }
-      ],
-      "views_label": "183K",
-      "posted_at": "2026-11-14T17:49:10+00:00",
-      "edited": false,
-      "permalink": "https://t.me/drtel/72686"
-    },
-    {
-      "id": "drtel/72685",
-      "author_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "author_photo_url": "https://cdn4.telesco.pe/file/ROtS-ljtDikEBnaLU1TsqivGYjSw4MFiFg68UQ6vRammR_ctf3HBghTFmYOzOrHg3CVUlOCu2vg-0ARapEkFD3RhimA0FgdMPA7wlfSLMsxLuSs147WfUobPp5ZOb3ZECNnS8xI_yxt7msi9nxNyiddCx3wHMwon4vC_zmbbSc1SAVBXEfS8PsSP7asJg95xEt5ATEE2HDw8oUSS0Ld3facaMsi3LQLAvwqbzJ6L9AipO95rPsXNaF0-F8tHv0mue0eNLX-fJLCwKE8kPDsPjiZFF8H5ilCoyhPWAcXJ_fiqc9EvlC9JxeR61IqdvwrGO6aVV7rHaBqBzm9HF98o5g.jpg",
-      "author_photo_path": "channels/drtel/media/ac66708b9642514b7a7d77f7.jpg",
-      "body_html": "حداقل سه بار از زمانی که من عضو کانالم اینو نوشتید و ما هر بار بدتر از قبل بگا رفتیم",
-      "plain_text": "حداقل سه بار از زمانی که من عضو کانالم اینو نوشتید و ما هر بار بدتر از قبل بگا رفتیم",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "12.3K"
-        },
-        {
-          "emoji": "👎",
-          "count": "1.7K"
-        },
-        {
-          "emoji": "👍",
-          "count": "1.38K"
-        },
-        {
-          "emoji": "💔",
-          "count": "72"
-        },
-        {
-          "emoji": "❤",
-          "count": "47"
-        },
-        {
-          "emoji": "😁",
-          "count": "25"
-        },
-        {
-          "emoji": "🔥",
-          "count": "7"
-        },
-        {
-          "emoji": "👌",
-          "count": "7"
-        },
-        {
-          "emoji": "🐳",
-          "count": "7"
-        },
-        {
-          "emoji": "🌚",
-          "count": "7"
-        },
-        {
-          "emoji": "💋",
-          "count": "6"
-        }
-      ],
-      "views_label": "171K",
-      "posted_at": "2026-11-14T17:44:59+00:00",
-      "edited": false,
-      "permalink": "https://t.me/drtel/72685"
-    },
-    {
-      "id": "drtel/72684",
-      "author_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "author_photo_url": "https://cdn4.telesco.pe/file/ROtS-ljtDikEBnaLU1TsqivGYjSw4MFiFg68UQ6vRammR_ctf3HBghTFmYOzOrHg3CVUlOCu2vg-0ARapEkFD3RhimA0FgdMPA7wlfSLMsxLuSs147WfUobPp5ZOb3ZECNnS8xI_yxt7msi9nxNyiddCx3wHMwon4vC_zmbbSc1SAVBXEfS8PsSP7asJg95xEt5ATEE2HDw8oUSS0Ld3facaMsi3LQLAvwqbzJ6L9AipO95rPsXNaF0-F8tHv0mue0eNLX-fJLCwKE8kPDsPjiZFF8H5ilCoyhPWAcXJ_fiqc9EvlC9JxeR61IqdvwrGO6aVV7rHaBqBzm9HF98o5g.jpg",
-      "author_photo_path": "channels/drtel/media/ac66708b9642514b7a7d77f7.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>دیده شدن همای سعادت تو ارتفاعات طالقان در حال پرواز؛<br><br>+طبق باورهای قدیمی، دیده شدن این پرنده نشونه‌ی اومدنِ روزهای خوبه.</b><br><br><a href=\"https://t.me/DrTeL\" target=\"_blank\">@DrTeL</a>",
-      "plain_text": "🔴دیده شدن همای سعادت تو ارتفاعات طالقان در حال پرواز؛ +طبق باورهای قدیمی، دیده شدن این پرنده نشونه‌ی اومدنِ روزهای خوبه. @DrTeL",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/drtel/72684",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/OchtNf0zi3NqhZJNQRB4ks4nZxpaoNovadfBWAaj06W7x9QM1JCrd4qWOsb6apqgv29zLJdzYK0GeKAcfzSvZ9j3eaj7hOTRme1N_9gfYTjEej8hwCZhnDRRIiGvS_BJ32QjZsnvNMCqankz9CSLK4fpy9UYCe5BRFGOixIb2rf2ZswAUk5FDPuiS3EwRhpKiDgTEzUj4oWGf2gusxGPIlsIF56BXBcrMNT_510bo-ScViKsaD5isiPkFqO1qlnuYhAwVCSUVeOWqmELFWjwAdDm3SVHXcgEPNNua5DdOrJCOcA-z7FwfaOdv_sX3YbPGni-g6JLMLT6ec9Nu4fb4w",
-          "thumbnail_path": "channels/drtel/media/698e3530158eadc1d00ccb1f.jpg",
-          "duration_label": "0:25",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "3"
-        },
-        {
-          "emoji": "❤",
-          "count": "11.9K"
-        },
-        {
-          "emoji": "🤣",
-          "count": "2.75K"
-        },
-        {
-          "emoji": "🖕",
-          "count": "406"
-        },
-        {
-          "emoji": "😍",
-          "count": "100"
-        },
-        {
-          "emoji": "🔥",
-          "count": "98"
-        },
-        {
-          "emoji": "💔",
-          "count": "66"
-        },
-        {
-          "emoji": "👎",
-          "count": "51"
-        },
-        {
-          "emoji": "☃",
-          "count": "16"
-        },
-        {
-          "emoji": "👍",
-          "count": "15"
-        },
-        {
-          "emoji": "😁",
-          "count": "15"
-        },
-        {
-          "emoji": "😡",
-          "count": "8"
-        }
-      ],
-      "views_label": "155K",
-      "posted_at": "2026-11-14T17:20:28+00:00",
-      "edited": false,
-      "permalink": "https://t.me/drtel/72684"
-    },
-    {
-      "id": "drtel/72683",
-      "author_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "author_photo_url": "https://cdn4.telesco.pe/file/ROtS-ljtDikEBnaLU1TsqivGYjSw4MFiFg68UQ6vRammR_ctf3HBghTFmYOzOrHg3CVUlOCu2vg-0ARapEkFD3RhimA0FgdMPA7wlfSLMsxLuSs147WfUobPp5ZOb3ZECNnS8xI_yxt7msi9nxNyiddCx3wHMwon4vC_zmbbSc1SAVBXEfS8PsSP7asJg95xEt5ATEE2HDw8oUSS0Ld3facaMsi3LQLAvwqbzJ6L9AipO95rPsXNaF0-F8tHv0mue0eNLX-fJLCwKE8kPDsPjiZFF8H5ilCoyhPWAcXJ_fiqc9EvlC9JxeR61IqdvwrGO6aVV7rHaBqBzm9HF98o5g.jpg",
-      "author_photo_path": "channels/drtel/media/ac66708b9642514b7a7d77f7.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>چهار روز پیش تو اسلامشهر - تهران، یه جوون 22 ساله به نام \"محمد مهدی ارجمند\" که تو کار پخش لوازم زیبایی بود، گُم شد و نهايتا امروز جنازه‌اش تو یکی از باغ‌های اسلامشهر پیدا شد! بعد بررسی دوربین‌ها، تو آخرین عکس ثبت شده ازش متوجه شدن که یه نفر داخل ماشینِ گرون…",
-      "plain_text": "🔴چهار روز پیش تو اسلامشهر - تهران، یه جوون 22 ساله به نام \"محمد مهدی ارجمند\" که تو کار پخش لوازم زیبایی بود، گُم شد و نهايتا امروز جنازه‌اش تو یکی از باغ‌های اسلامشهر پیدا شد! بعد بررسی دوربین‌ها، تو آخرین عکس ثبت شده ازش متوجه شدن که یه نفر داخل ماشینِ گرون…",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/drtel/72683",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/VxyU2CuOsGqXVxvw-cLKp5MTmktTqZD_DaVZVdr5HPabnRUdRGR8H2NcicfajocKKBl2GfHEqJookjTFMHpRYqp5XdiZzvjgNeePyuk9KXK-uTojS-S67aKxesPxkS0TluYDmAZFsctivaiDt7mCF--ajHKaCFOq0hhrbehdhWph_WiCbKw6O9DPFOwR2Q5hg-o1IMuOn1KYS7-A9C3OUs89WgpFOQmpuwu712M_wWOLm2L_dNYW-JjnsyxJS8Tg2FzamLm5vbarwynnLwbEzjKnKlAUsxpcRP6Smib6NAvczhFDgSybxvMmrOnKQaH0R4lcspuB1nghEMj0n_5cdg.jpg",
-          "thumbnail_path": "channels/drtel/media/a2f12898bdec5269ed7ed028.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🖕",
-          "count": "3.92K"
-        },
-        {
-          "emoji": "💔",
-          "count": "882"
-        },
-        {
-          "emoji": "🤬",
-          "count": "216"
-        },
-        {
-          "emoji": "😐",
-          "count": "101"
-        },
-        {
-          "emoji": "❤",
-          "count": "78"
-        },
-        {
-          "emoji": "🤣",
-          "count": "52"
-        },
-        {
-          "emoji": "🤯",
-          "count": "19"
-        },
-        {
-          "emoji": "🔥",
-          "count": "12"
-        },
-        {
-          "emoji": "😢",
-          "count": "10"
-        },
-        {
-          "emoji": "👎",
-          "count": "5"
-        },
-        {
-          "emoji": "💋",
-          "count": "3"
-        }
-      ],
-      "views_label": "147K",
-      "posted_at": "2026-11-14T16:56:27+00:00",
-      "edited": false,
-      "permalink": "https://t.me/drtel/72683"
-    },
-    {
-      "id": "drtel/72679",
-      "author_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "author_photo_url": "https://cdn4.telesco.pe/file/ROtS-ljtDikEBnaLU1TsqivGYjSw4MFiFg68UQ6vRammR_ctf3HBghTFmYOzOrHg3CVUlOCu2vg-0ARapEkFD3RhimA0FgdMPA7wlfSLMsxLuSs147WfUobPp5ZOb3ZECNnS8xI_yxt7msi9nxNyiddCx3wHMwon4vC_zmbbSc1SAVBXEfS8PsSP7asJg95xEt5ATEE2HDw8oUSS0Ld3facaMsi3LQLAvwqbzJ6L9AipO95rPsXNaF0-F8tHv0mue0eNLX-fJLCwKE8kPDsPjiZFF8H5ilCoyhPWAcXJ_fiqc9EvlC9JxeR61IqdvwrGO6aVV7rHaBqBzm9HF98o5g.jpg",
-      "author_photo_path": "channels/drtel/media/ac66708b9642514b7a7d77f7.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>یه سازمان آمریکایی به اسم LFC که مسابقات کشتی و مبارزه زنان رو برگزار می‌کنه، یه رقابت جدید به اسم «Power Spank» راه انداخته<tg-emoji emoji-id=\"5375191900686927814\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8D91.png')\"><b>🍑</b></i></tg-emoji><br><blockquote>توی این رقابت، دخترا به‌ جای سیلی زدن به صورت همدیگه، به کون هم دیگه سیلی می‌زنن!</blockquote><br><blockquote>اولین دوره این مسابقات 11 اکتبر تو ایالت فلوریدای آمریکا با حضور 8 زن، از جمله مبارزای MMA، رقصنده‌ها و بازیگرای فیلم‌های بزرگسالان برگزار شده!<br></blockquote><blockquote>طبق قوانین این رقابت، شرکت‌کننده‌ها به‌ نوبت به کون همدیگه سیلی می‌زنن و داورها بر اساس شدت ضربه، نحوه اجرای سیلی و واکنش تماشاگرها بهشون امتیاز میدن.<br></blockquote>در نهایت هم یه شرکت‌کننده با اسم «Bebe» قهرمان اولین دوره این مسابقات شده و 500 دلار جایزه گرفته!<br><br><a href=\"https://t.me/FUTBALLI18\" target=\"_blank\">@FUTBALLI18</a>",
-      "plain_text": "🔴یه سازمان آمریکایی به اسم LFC که مسابقات کشتی و مبارزه زنان رو برگزار می‌کنه، یه رقابت جدید به اسم «Power Spank» راه انداخته🍑 توی این رقابت، دخترا به‌ جای سیلی زدن به صورت همدیگه، به کون هم دیگه سیلی می‌زنن! اولین دوره این مسابقات 11 اکتبر تو ایالت فلوریدای آمریکا با حضور 8 زن، از جمله مبارزای MMA، رقصنده‌ها و بازیگرای فیلم‌های بزرگسالان برگزار شده! طبق قوانین این رقابت، شرکت‌کننده‌ها به‌ نوبت به کون همدیگه سیلی می‌زنن و داورها بر اساس شدت ضربه، نحوه اجرای سیلی و واکنش تماشاگرها بهشون امتیاز میدن. در نهایت هم یه شرکت‌کننده با اسم «Bebe» قهرمان اولین دوره این مسابقات شده و 500 دلار جایزه گرفته! @FUTBALLI18",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/drtel/72680?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/GsnqBHrfTL0eS3IUWHloKAmXF19690LP4HsQxsP802k5Gpa0K-6zB_-HW8nl20-S-WLE5FuoBuWZnfCAihVUt9VCfxuHlS_YFkl8CAvP6E7ITnNcH_h2OYwjpVKzDytW6s4zxp0EONaLXResH3ygSw8s52VQcZMp7UIZ6ZhUeZ68odnUTh1d2QXHn3LYqQKbmwCW9sgzf8NdnGHXvQtPK3kio3s3VSBeNpLIg9c86L-6r3i0dXmaPePXOnsA_-_cfuw0G1Zy74q77i3lVWtVeK7uwjRkwHYSPlB50-eJVl-fuGs5D4KXJwEIjYDwt78xOD0Rc7YPIUJqEfN6yr1bHw.jpg",
-          "thumbnail_path": "channels/drtel/media/fa8457153dd73483937577ea.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.3333333333333
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/drtel/72681?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn5.telesco.pe/file/b_UZFJ0dgJwsYErf1Mth0f05TBkZZB_og5x9oCW0zCIQOJgInTh5FWdjhOPpe5BzA8lgJPu7Bp3L7jFRzKd1LOwHcqIHdLJYWa8F9XXZGeqk06BqISBnaCVwCn_QKJNEcJZFUxkZpshvWoRpiOSgsub9C1ts9TGdHX64wNd0Lqg-0kWeAj4uSxdH1Bf50n0h775dSKAlo6-ig-3qZ87iVJOYXPvHe6cyznGi-D47rjHFvHAtFv-fMQ11y0St7DudCiJJol8qjZxFmAMmqF4X3tSTJqN2HQdw1xediaNRfEZcdct5m5SrZwjeP2k23s0Y3mlOoOF4wnI0FN0W0MQ-mw.jpg",
-          "thumbnail_path": "channels/drtel/media/7aa9dde23b660e8ecf22ba4e.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.5009380863039
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/drtel/72682?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/YIw4B9x6Lv_cfdmuBMT5QwTKNWb6TwYay6CHz7HAdHwW5ovYYB715hTKzmgF2Ztvn0u_X1mtxiIVt7os2oqOvgarpnI8NV_VPnXf0a48-acO1zKVu4rKZ7HdgIrjYppe8Y5ExxVnraGbBwVFaCSY0fQFourRNvI4CxN3P5nYlzdiGp2lAokb-lWgxzakNBy10ap7XoQpcM-w8zuYPNIfti14MN3mutelrB_VTdEZIfDfWUeUtARIBVt4TFVlEs5-sj-N51_yGnAOISsu6gMiXu2ijXfDGdM70bYt5R546-vplnQBPFL10ju2AVAvFskN1Ge24CyWa-zg3wQAvsKdeQ.jpg",
-          "thumbnail_path": "channels/drtel/media/03e5aba018f60c890234fcac.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/drtel/72679?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/WffnaQ4j3R4XdrxCdlXwjshOfR3iAP0pvmcDjq2dBIimT2snlPP3pe8igFnV3B217CANFAGw4dlFtw5aIbq1w0iSBLeqXHf-Hbu7mPbXYPWBb2KwFWr0E9r1Hyiu_WyW3X_AMw2rR45J1IPUnYR8ybDTA-hmjcQqsJHbAj3s_fXfZMadlSTl3TelXYnCO6HlBKYDPhUyhcqaxGCBMM6aovw12GDI1ttt7mr4GkGlo7wvwKm2WP-EdFS1kwklg2JtQsHZMuDDSnnF-OImujhU7FHn-xuus62Fh19kiOL1Q0WyzK51j1o3GrcDJhc2wd5qqjR3-Gm7WgZoD7YL5PrzVw",
-          "thumbnail_path": "channels/drtel/media/ca9c38cb2a66b43ce129c2f8.jpg",
-          "duration_label": "0:27",
-          "aspect_ratio": null
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🖕",
-          "count": "5.23K"
-        },
-        {
-          "emoji": "👎",
-          "count": "2.57K"
-        },
-        {
-          "emoji": "🤣",
-          "count": "2.17K"
-        },
-        {
-          "emoji": "❤",
-          "count": "285"
-        },
-        {
-          "emoji": "😐",
-          "count": "258"
-        },
-        {
-          "emoji": "🔥",
-          "count": "62"
-        },
-        {
-          "emoji": "💋",
-          "count": "62"
-        },
-        {
-          "emoji": "😍",
-          "count": "16"
-        },
-        {
-          "emoji": "😁",
-          "count": "10"
-        },
-        {
-          "emoji": "🐳",
-          "count": "9"
-        },
-        {
-          "emoji": "😎",
-          "count": "5"
-        }
-      ],
-      "views_label": "118K",
-      "posted_at": "2026-11-14T16:13:22+00:00",
-      "edited": false,
-      "permalink": "https://t.me/drtel/72679"
-    },
-    {
-      "id": "drtel/72678",
-      "author_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "author_photo_url": "https://cdn4.telesco.pe/file/ROtS-ljtDikEBnaLU1TsqivGYjSw4MFiFg68UQ6vRammR_ctf3HBghTFmYOzOrHg3CVUlOCu2vg-0ARapEkFD3RhimA0FgdMPA7wlfSLMsxLuSs147WfUobPp5ZOb3ZECNnS8xI_yxt7msi9nxNyiddCx3wHMwon4vC_zmbbSc1SAVBXEfS8PsSP7asJg95xEt5ATEE2HDw8oUSS0Ld3facaMsi3LQLAvwqbzJ6L9AipO95rPsXNaF0-F8tHv0mue0eNLX-fJLCwKE8kPDsPjiZFF8H5ilCoyhPWAcXJ_fiqc9EvlC9JxeR61IqdvwrGO6aVV7rHaBqBzm9HF98o5g.jpg",
-      "author_photo_path": "channels/drtel/media/ac66708b9642514b7a7d77f7.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5884243008135634270\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87BA.png')\"><b>🇪🇺</b></i></tg-emoji><b> دانمارک یا جادوی سلسائو؛ شبِ تعیین‌کننده در لیسبون! </b><tg-emoji emoji-id=\"5420315771991497307\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></tg-emoji><br><br><b>[</b> <a href=\"http://Sportn5b2.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>پرتغال</b></a> <tg-emoji emoji-id=\"5294436555492973610\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87B5F09F87B9.png')\"><b>🇵🇹</b></i></tg-emoji> <tg-emoji emoji-id=\"5881739793821344050\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F869A.png')\"><b>🆚</b></i></tg-emoji><tg-emoji emoji-id=\"5294531860817268837\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A9F09F87B0.png')\"><b>🇩🇰</b></i></tg-emoji> <a href=\"http://Sportn5b2.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>دانمارک</b></a><b> ]</b><br><br><tg-emoji emoji-id=\"5780755238562570238\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i></tg-emoji><b> [ نکات کلیدی و مهم ]:</b><tg-emoji emoji-id=\"5470177992950946662\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5785194576889258557\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/31E283A3.png')\"><b>1⃣</b></i></tg-emoji>. پرتغال با ۴ برد متوالی و صدرنشینی مقتدرانه وارد این مسابقه می‌شود.<br><tg-emoji emoji-id=\"5789526880335961698\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/32E283A3.png')\"><b>2⃣</b></i></tg-emoji>. غیبت رونالدو، رافائل لیائو و ژائو کانسلو می‌تواند روی ساختار هجومی و دفاعی پرتغال تأثیر بگذارد.<br><tg-emoji emoji-id=\"5787238371436797705\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/33E283A3.png')\"><b>3⃣</b></i></tg-emoji>. دانمارک با تکیه بر سرعت هویلوند و انتقال‌های سریع، توانایی تهدید خط دفاع میزبان را دارد.<br><tg-emoji emoji-id=\"5787678953476990151\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/34E283A3.png')\"><b>4⃣</b></i></tg-emoji>. تقابل خط میانی دو تیم و عملکرد برونو فرناندز در خلق موقعیت، از عوامل تعیین‌کننده بازی خواهد بود.<br><br><blockquote><tg-emoji emoji-id=\"5787541587537960743\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')\"><b>🔵</b></i></tg-emoji> &nbsp;&nbsp; بونوس ویژه ثبت‌نام برای کاربران سایت، با شارژ حساب از طریق کریپتو ۴٪ بیشتر از مبلغ شارژ حساب دریافت کنید.<br></blockquote><tg-emoji emoji-id=\"5787272602326147993\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i></tg-emoji> <b>برای پیش‌بینی این دیدار همین حالا وارد ربات رسمی اسپورت‌نود شو و پیش‌بینی خودتو با بونوس ویژه ثبت کن: </b><tg-emoji emoji-id=\"5231102735817918643\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5785389950656586295\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')\"><b>🔵</b></i></tg-emoji> <a href=\"https://t.me/Sportnavad_bot\" target=\"_blank\">@Sportnavad_bot</a><br><tg-emoji emoji-id=\"5785389950656586295\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')\"><b>🔵</b></i></tg-emoji> <a href=\"https://t.me/Sportnavad_bot\" target=\"_blank\">@Sportnavad_bot</a><br><br><tg-emoji emoji-id=\"5787272602326147993\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i></tg-emoji> <b>کانال رسمی اسپورت نود:</b><tg-emoji emoji-id=\"5231102735817918643\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5785385999286673311\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')\"><b>🔵</b></i></tg-emoji> <a href=\"https://t.me/Sportnavad\" target=\"_blank\">@Sportnavad</a>",
-      "plain_text": "🇪🇺 دانمارک یا جادوی سلسائو؛ شبِ تعیین‌کننده در لیسبون! 🔥 [ پرتغال 🇵🇹 🆚🇩🇰 دانمارک ] ⚽️ [ نکات کلیدی و مهم ]:👇 1⃣. پرتغال با ۴ برد متوالی و صدرنشینی مقتدرانه وارد این مسابقه می‌شود. 2⃣. غیبت رونالدو، رافائل لیائو و ژائو کانسلو می‌تواند روی ساختار هجومی و دفاعی پرتغال تأثیر بگذارد. 3⃣. دانمارک با تکیه بر سرعت هویلوند و انتقال‌های سریع، توانایی تهدید خط دفاع میزبان را دارد. 4⃣. تقابل خط میانی دو تیم و عملکرد برونو فرناندز در خلق موقعیت، از عوامل تعیین‌کننده بازی خواهد بود. 🔵 بونوس ویژه ثبت‌نام برای کاربران سایت، با شارژ حساب از طریق کریپتو ۴٪ بیشتر از مبلغ شارژ حساب دریافت کنید. 🔗 برای پیش‌بینی این دیدار همین حالا وارد ربات رسمی اسپورت‌نود شو و پیش‌بینی خودتو با بونوس ویژه ثبت کن: 👇 🔵 @Sportnavad_bot 🔵 @Sportnavad_bot 🔗 کانال رسمی اسپورت نود:👇 🔵 @Sportnavad",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/drtel/72678",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/rNcO_ur7LqgwrbVfo1CM0bwU3wfynpL-f2p0ikxn5hQqWfkeXEoInuNsQ-Abw6V1XrQP4g5z5lxy_d8UgbP5n2MFlvXBDybbmb9mibje6tWeBraHLaX2fyfcy8twNEpozC-cVoSBkRtLOXBBh467F46gLX6IA46wNhDtCnPXIuvGk26G5zcQMH0lKpAK1WxZwnuyL5Gu44N3-Kd_ILXSPk4Vyv_-yLEyuJo5oxsy7Kr_lZ_40dQr2XzJc5W7cv1xUbOECRouCOhVG83EoiwGcgn6UsG1pCxi9RekrXaH3k2WtIvjgQX8trjA_TthWZ4J9OL_Jq61--G7ezUX3fdlpA.jpg",
-          "thumbnail_path": "channels/drtel/media/800975da799a5ee40e839528.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🖕",
-          "count": "522"
-        },
-        {
-          "emoji": "❤",
-          "count": "21"
-        },
-        {
-          "emoji": "👎",
-          "count": "7"
-        },
-        {
-          "emoji": "👍",
-          "count": "3"
-        },
-        {
-          "emoji": "🦄",
-          "count": "1"
-        }
-      ],
-      "views_label": "145K",
-      "posted_at": "2026-11-14T16:13:16+00:00",
-      "edited": false,
-      "permalink": "https://t.me/drtel/72678"
-    },
-    {
-      "id": "drtel/72676",
-      "author_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "author_photo_url": "https://cdn4.telesco.pe/file/ROtS-ljtDikEBnaLU1TsqivGYjSw4MFiFg68UQ6vRammR_ctf3HBghTFmYOzOrHg3CVUlOCu2vg-0ARapEkFD3RhimA0FgdMPA7wlfSLMsxLuSs147WfUobPp5ZOb3ZECNnS8xI_yxt7msi9nxNyiddCx3wHMwon4vC_zmbbSc1SAVBXEfS8PsSP7asJg95xEt5ATEE2HDw8oUSS0Ld3facaMsi3LQLAvwqbzJ6L9AipO95rPsXNaF0-F8tHv0mue0eNLX-fJLCwKE8kPDsPjiZFF8H5ilCoyhPWAcXJ_fiqc9EvlC9JxeR61IqdvwrGO6aVV7rHaBqBzm9HF98o5g.jpg",
-      "author_photo_path": "channels/drtel/media/ac66708b9642514b7a7d77f7.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> حال‌و‌هوای نیویورک 5 روز مونده به انتشار  GTA VI<tg-emoji emoji-id=\"5857155207745510408\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></tg-emoji> .  تاریخ انتشار : 19 نوامبر ( 5 روز دیگه )  @DrTeL",
-      "plain_text": "🔴 حال‌و‌هوای نیویورک 5 روز مونده به انتشار GTA VI🔥 . تاریخ انتشار : 19 نوامبر ( 5 روز دیگه ) @DrTeL",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/drtel/72676?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/a9AoZy9wMbx5d9OZWx7lk9H8E02nkXBnxlBp_8qMGxqJLltZ8JTA5CtAqVt2DiTZWv0obQ_xJrqSw3i853lkF0EG3xK4Kc3Csyv72_LeJFs4cNs6Xr5RIFxxb6BpV6chRdEtSK9B0_URQZlaCElbmW5sBYHswh2mVEeYnXXfnLRo45bXUPSeKaHWvRfzh9PHFS99fhA1bptpZOix46vnWUiYmKmn1chp1pDQciuk8IyLL7-ZBdGqiShLbqoCxe18tJeA2t3gToNq3OnAmOe2SvqUKO_y5KwpvSpx68ypYoB1dRQTvNMBUd6YUCCOfGKLQCNiDIABf4iuAaFUfH_bNw",
-          "thumbnail_path": "channels/drtel/media/34e5c84bb795014924e0e87f.jpg",
-          "duration_label": "0:20",
-          "aspect_ratio": null
-        },
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/drtel/72677?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/f5ap3DDXUh4HWnlxjr9bmfdbo2HZRAbvsxMzY9kSkKKd3HuqTHM6gEmzHFB1D2fzA9NwOno1lx6l46xilV6HtmZ3dTnocV1IlRO3lzfJkzawo0PNBhzAFGVXpQLgy9LyOOpYJ8zVbmujNVCBzTzE-0K0neYbbyGdXdac4NOtFQEOZyymhwNnHWekRLcf1iz8BiRqb8uoVUU-pZnDOiO21xAKFY6vf2Tkp22ScYpEiUQ55AGBgWHdBUOCi9u46Yf_zXjs9wkqbPJAHBHlZkAZB0SrexJhqAGLCXfUx1hiKUpiuMEvvlED5KR67uRNh4V3R5Ot_2GFB5pPcwUQfvxXBQ",
-          "thumbnail_path": "channels/drtel/media/e394a54c94fedef4074a3a0d.jpg",
-          "duration_label": "0:26",
-          "aspect_ratio": null
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "3"
-        },
-        {
-          "emoji": "❤",
-          "count": "3.8K"
-        },
-        {
-          "emoji": "🖕",
-          "count": "2.04K"
-        },
-        {
-          "emoji": "👍",
-          "count": "206"
-        },
-        {
-          "emoji": "🔥",
-          "count": "186"
-        },
-        {
-          "emoji": "💔",
-          "count": "167"
-        },
-        {
-          "emoji": "🤯",
-          "count": "141"
-        },
-        {
-          "emoji": "👎",
-          "count": "101"
-        },
-        {
-          "emoji": "🤣",
-          "count": "28"
-        },
-        {
-          "emoji": "😢",
-          "count": "12"
-        },
-        {
-          "emoji": "☃",
-          "count": "6"
-        },
-        {
-          "emoji": "🐳",
-          "count": "6"
-        }
-      ],
-      "views_label": "155K",
-      "posted_at": "2026-11-14T15:18:58+00:00",
-      "edited": false,
-      "permalink": "https://t.me/drtel/72676"
     }
   ]
 }
