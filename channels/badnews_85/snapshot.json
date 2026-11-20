@@ -1,20 +1,420 @@
 {
   "schema": 2,
-  "fetched_at": "2026-11-20T17:51:40.875Z",
+  "fetched_at": "2026-11-20T23:20:03.817Z",
   "channel": {
     "username": "badnews_85",
     "title": "BadNews85 | بدنیوز",
     "description_html": null,
-    "photo_url": "https://cdn4.telesco.pe/file/X9_9lNK08xtFSDOp8qj2CvtnaGlFRUnKN8sZzvgNnAieq24rww5ln9rb01BDXZg43AN9iSeF8wK2rxFPz7Uwd8PZr4CQmyagcL-jBPWr2qc2IU_0xlzrtba_6CXd0a6-3EkFxUy2_azOVKS1nY9TZUpA6YMYtexJrifX-NML9SKS1wRDDpdPeRFSNKAP3bL2ltr4qi_4bciL9s9VqR9vT6Jt3SY4QpYx7To-SIc9v3Ct8HdB8ltO2tNRicMW5r5N6_XGQaLRX3DNmHE_1Y6O4hNqJFK6TvTXH2UAaw75boPyt01GMPsttpts692UScmboaLHuWzh3eYTTMN2FpMpeQ.jpg",
-    "photo_path": "channels/badnews_85/media/c9f961ecbe7f6fd21ec0d7e7.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/HDZHyulalrfsfF0lHS7TneexCJErr3zPxEGCOYyfKwOOLaD4pHzao5exIC7ak9HmnO4xNbSHpoVy64Tp7Fybb-n13imAebHN4LMvqqZW5NPERtl07bZ6P96ynoN_DiRLXv-iy3fSzte64b0yTO5WCgqiDKg1vDQ8bV7tO1tALuQpl_yYy7vY92scCRiCqzq2Nj4dPGIO0pk8rt8QQJeQ25NPiAbr6xT8l82HD4b3Nu7FK4BfM4d6Z4kx5UrVvvlfa6Lxk7zz5tG2RkLf8XiF5tiZFSyYi7C7-Jbc7zgcjl-8HVNuNtTLeaLsiLzejRLHgmSI2KZV9wU-BZe8OfoFuw.jpg",
+    "photo_path": "channels/badnews_85/media/512fad054dd3b85c7e50787b.jpg",
     "subscriber_count": "224K"
   },
   "posts": [
     {
+      "id": "BadNews_85/30490",
+      "author_name": "BadNews85 | بدنیوز",
+      "author_photo_url": "https://cdn4.telesco.pe/file/HDZHyulalrfsfF0lHS7TneexCJErr3zPxEGCOYyfKwOOLaD4pHzao5exIC7ak9HmnO4xNbSHpoVy64Tp7Fybb-n13imAebHN4LMvqqZW5NPERtl07bZ6P96ynoN_DiRLXv-iy3fSzte64b0yTO5WCgqiDKg1vDQ8bV7tO1tALuQpl_yYy7vY92scCRiCqzq2Nj4dPGIO0pk8rt8QQJeQ25NPiAbr6xT8l82HD4b3Nu7FK4BfM4d6Z4kx5UrVvvlfa6Lxk7zz5tG2RkLf8XiF5tiZFSyYi7C7-Jbc7zgcjl-8HVNuNtTLeaLsiLzejRLHgmSI2KZV9wU-BZe8OfoFuw.jpg",
+      "author_photo_path": "channels/badnews_85/media/512fad054dd3b85c7e50787b.jpg",
+      "body_html": "ویدیو وایرال شده از وضعیت پوشش کنار دریاچه چیتگر تهران که حسابی طرفدارهای حکومت رو فشاری کرده : <br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
+      "plain_text": "ویدیو وایرال شده از وضعیت پوشش کنار دریاچه چیتگر تهران که حسابی طرفدارهای حکومت رو فشاری کرده : @BadNews_85",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/BadNews_85/30490",
+          "asset_path": null,
+          "thumbnail_url": null,
+          "thumbnail_path": null,
+          "duration_label": "0:00",
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "72"
+        },
+        {
+          "emoji": "👍",
+          "count": "5"
+        },
+        {
+          "emoji": "🔥",
+          "count": "3"
+        },
+        {
+          "emoji": "🤣",
+          "count": "2"
+        },
+        {
+          "emoji": "💔",
+          "count": "1"
+        }
+      ],
+      "views_label": "1.98K",
+      "posted_at": "2026-11-20T23:01:50+00:00",
+      "edited": false,
+      "permalink": "https://t.me/BadNews_85/30490"
+    },
+    {
+      "id": "BadNews_85/30489",
+      "author_name": "BadNews85 | بدنیوز",
+      "author_photo_url": "https://cdn4.telesco.pe/file/HDZHyulalrfsfF0lHS7TneexCJErr3zPxEGCOYyfKwOOLaD4pHzao5exIC7ak9HmnO4xNbSHpoVy64Tp7Fybb-n13imAebHN4LMvqqZW5NPERtl07bZ6P96ynoN_DiRLXv-iy3fSzte64b0yTO5WCgqiDKg1vDQ8bV7tO1tALuQpl_yYy7vY92scCRiCqzq2Nj4dPGIO0pk8rt8QQJeQ25NPiAbr6xT8l82HD4b3Nu7FK4BfM4d6Z4kx5UrVvvlfa6Lxk7zz5tG2RkLf8XiF5tiZFSyYi7C7-Jbc7zgcjl-8HVNuNtTLeaLsiLzejRLHgmSI2KZV9wU-BZe8OfoFuw.jpg",
+      "author_photo_path": "channels/badnews_85/media/512fad054dd3b85c7e50787b.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>هم‌اکنون پرواز نفتکش‌های جمهوری‌اسلامی از روی محاصره دریایی آمریکا با رمز \"یا موش‌علی\" :<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
+      "plain_text": "🔴هم‌اکنون پرواز نفتکش‌های جمهوری‌اسلامی از روی محاصره دریایی آمریکا با رمز \"یا موش‌علی\" : @BadNews_85",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/BadNews_85/30489",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/je5of7jnzudqSB0UwERg4-hzE7MQGjo6a3XCr7kwgL0cg9FA0fW2D1v3RO93eoZpKiftwhsUsAehQ1I5kwzUdM0i4HrtH91D-l7Z-HDwZF2NMn2g4kV9NyLE-uag7mYxNXigLFz1g-eMaz5-0iUu-oXq6GO87UoCFh5VhucdATyqn_m7TZiaqbvDpLHs72cWu8P7VBv0jEbvG-YaaI4JAF29Wv-NAYM6kSKqiRIiTA0nRqrRUtA7_187i6e7YTRhviqJ7VHmCI08F6C8l45ifXpA5WJ3U0zlg2gMWJNLNPcXf7yNyhNpNOajbuR48TZJsXAkyAWT3fmeGhZ-yRfsVA.jpg",
+          "thumbnail_path": "channels/badnews_85/media/7e77a737c2a18030d53fe773.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "314"
+        },
+        {
+          "emoji": "🖕",
+          "count": "15"
+        },
+        {
+          "emoji": "😐",
+          "count": "4"
+        }
+      ],
+      "views_label": "5.61K",
+      "posted_at": "2026-11-20T22:19:03+00:00",
+      "edited": false,
+      "permalink": "https://t.me/BadNews_85/30489"
+    },
+    {
+      "id": "BadNews_85/30487",
+      "author_name": "BadNews85 | بدنیوز",
+      "author_photo_url": "https://cdn4.telesco.pe/file/HDZHyulalrfsfF0lHS7TneexCJErr3zPxEGCOYyfKwOOLaD4pHzao5exIC7ak9HmnO4xNbSHpoVy64Tp7Fybb-n13imAebHN4LMvqqZW5NPERtl07bZ6P96ynoN_DiRLXv-iy3fSzte64b0yTO5WCgqiDKg1vDQ8bV7tO1tALuQpl_yYy7vY92scCRiCqzq2Nj4dPGIO0pk8rt8QQJeQ25NPiAbr6xT8l82HD4b3Nu7FK4BfM4d6Z4kx5UrVvvlfa6Lxk7zz5tG2RkLf8XiF5tiZFSyYi7C7-Jbc7zgcjl-8HVNuNtTLeaLsiLzejRLHgmSI2KZV9wU-BZe8OfoFuw.jpg",
+      "author_photo_path": "channels/badnews_85/media/512fad054dd3b85c7e50787b.jpg",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> تو توییتر دخترا دارن میگن پسرا اینقدر خیانت کارن که حتی تو بازی GTA به دوس دخترشون خیانت میکنن :<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a></div>",
+      "plain_text": "🔴 تو توییتر دخترا دارن میگن پسرا اینقدر خیانت کارن که حتی تو بازی GTA به دوس دخترشون خیانت میکنن : @BadNews_85",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/BadNews_85/30487?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/EeTowxkeujDp2hiVHKARAOcLgttRDOgQszN3GHEREKY-0-NyhvYam9xo96KzszKeS5qOsjba1FLbKl2zXIW1K2o-Aa4SFx_QROMsESEwF0UOAG8hWbPGIJaEs79j-nBduL3vMUWADHelHb9hOsoL25x4QtxTo19zEKe-Bz70v4opWMx86qzB54CN1oc_mdwIrMyZKsUsOpR8hAYbGyg0gDt2JyGjOJT0RkclcrT8-7G80ek5Anp6dYoja_vVQVJYAbH0aT5FXkoqHkrERw2ykcfNEkgDD6Liih54l5DkvLx_m5-KAsY2xghsEdW4hS9CLCEWJmEPs3qmoN71JAe-1w.jpg",
+          "thumbnail_path": "channels/badnews_85/media/232001bfc84a73e74fe1e3cb.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.6725
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/BadNews_85/30488?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/dMjaetz_Roj9KJAArSmpukIP39fRYZTTOxoxpaxkv3ui1v4QWkGWj1V66OzgGsKXKbGBIMf_8bdTwhHP0aaC-7qRzr5uzRhzYjvqoe-tBauC-HiqIcq8fhtb5AyZM_aPMYFfX-J6Sn-LDhUGTuR_Xf7g4cDEk4DTYb1calM2TCnNSKfB6fZiX9uDtloszNcyXHiwZEJ5sqHFa26sR7_9azlaeGI_g7GslVKh-WdVGMqJE9APWbyFfZ2vf-KzihMC39lKZI7vcwUxWWC0tks1T754Wd85_szsPAihOdmMPcETkF30zEsBFcKc5u545OIuqibVgUfKXfi-8ORdPzeuRQ.jpg",
+          "thumbnail_path": "channels/badnews_85/media/b73b570574c1290cb79287f0.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.50875
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "292"
+        },
+        {
+          "emoji": "👍",
+          "count": "82"
+        },
+        {
+          "emoji": "💔",
+          "count": "45"
+        },
+        {
+          "emoji": "🖕",
+          "count": "17"
+        },
+        {
+          "emoji": "❤",
+          "count": "10"
+        }
+      ],
+      "views_label": "11K",
+      "posted_at": "2026-11-20T21:13:46+00:00",
+      "edited": false,
+      "permalink": "https://t.me/BadNews_85/30487"
+    },
+    {
+      "id": "BadNews_85/30486",
+      "author_name": "BadNews85 | بدنیوز",
+      "author_photo_url": "https://cdn4.telesco.pe/file/HDZHyulalrfsfF0lHS7TneexCJErr3zPxEGCOYyfKwOOLaD4pHzao5exIC7ak9HmnO4xNbSHpoVy64Tp7Fybb-n13imAebHN4LMvqqZW5NPERtl07bZ6P96ynoN_DiRLXv-iy3fSzte64b0yTO5WCgqiDKg1vDQ8bV7tO1tALuQpl_yYy7vY92scCRiCqzq2Nj4dPGIO0pk8rt8QQJeQ25NPiAbr6xT8l82HD4b3Nu7FK4BfM4d6Z4kx5UrVvvlfa6Lxk7zz5tG2RkLf8XiF5tiZFSyYi7C7-Jbc7zgcjl-8HVNuNtTLeaLsiLzejRLHgmSI2KZV9wU-BZe8OfoFuw.jpg",
+      "author_photo_path": "channels/badnews_85/media/512fad054dd3b85c7e50787b.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5857330652864581645\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')\"><b>🎁</b></i></tg-emoji> <b>بیمه صد درصدی لالیگا اسپانیا ویژه تولد ۱۱ سالگی بت‌فوروارد </b><tg-emoji emoji-id=\"5206318837489743801\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AF.png')\"><b>💯</b></i></tg-emoji><br><tg-emoji emoji-id=\"6032727578110857505\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28FA9.png')\"><b>⏩</b></i></tg-emoji> به مناسبت یازدهمین سالگرد تولد بت فوروارد،‌ در روزهای شنبه سی‌ام آبان و یک‌شنبه یکم آذر ماه، روزانه با ثبت حداقل ۶ میلیون ریال پیش‌بینی میکس بر روی رقابت‌های هفته سیزدهم لالیگا اسپانیا، در صورت ناموفق شدن نتیجه پیش‌بینی، بت‌فوروارد در هر روز از رقابت‌ها، معادل ۱۰۰ درصد مبلغ پیش‌بینی را تا سقف ۲۰۰٫۰۰۰٫۰۰۰ ریال به عنوان اعتبار پیش‌بینی رایگان ورزشی به شما هدیه خواهد داد.<b><br><br><br>اطلاعات بیش‌تر و قوانین بونوس: <br></b><tg-emoji emoji-id=\"5940331256637034364\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i></tg-emoji> <a href=\"http://bwrd.link/11THLA\" target=\"_blank\" rel=\"noopener\">bwrd.link/11THLA</a><br><br><tg-emoji emoji-id=\"6039789934569590038\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918D.png')\"><b>👍</b></i></tg-emoji> ورود به سایت با فیلترشکن<br><br><b> کلیک کنید </b><a href=\"http://BetForward.com/\" target=\"_blank\" rel=\"noopener\">BetForward.com</a><b><br> کلیک کنید </b><a href=\"http://BetForward.com/\" target=\"_blank\" rel=\"noopener\">BetForward.com</a><br><br><tg-emoji emoji-id=\"5118445232542712963\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i></tg-emoji><a href=\"https://t.me/betforward_bot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"> </a><a href=\"https://t.me/betforward_bot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>دریافت سرورفیلترشکن رایگان</b></a><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰</b></i>29<br><b><tg-emoji emoji-id=\"5431376038628171216\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92BB.png')\"><b>💻</b></i></tg-emoji></b><b> </b><a href=\"https://t.me/BetForward\" target=\"_blank\">@BetForward</a>",
+      "plain_text": "🎁 بیمه صد درصدی لالیگا اسپانیا ویژه تولد ۱۱ سالگی بت‌فوروارد 💯 ⏩ به مناسبت یازدهمین سالگرد تولد بت فوروارد،‌ در روزهای شنبه سی‌ام آبان و یک‌شنبه یکم آذر ماه، روزانه با ثبت حداقل ۶ میلیون ریال پیش‌بینی میکس بر روی رقابت‌های هفته سیزدهم لالیگا اسپانیا، در صورت ناموفق شدن نتیجه پیش‌بینی، بت‌فوروارد در هر روز از رقابت‌ها، معادل ۱۰۰ درصد مبلغ پیش‌بینی را تا سقف ۲۰۰٫۰۰۰٫۰۰۰ ریال به عنوان اعتبار پیش‌بینی رایگان ورزشی به شما هدیه خواهد داد. اطلاعات بیش‌تر و قوانین بونوس: 🔗 bwrd.link/11THLA 👍 ورود به سایت با فیلترشکن کلیک کنید BetForward.com کلیک کنید BetForward.com 🟢 دریافت سرورفیلترشکن رایگان 🅰29 💻 @BetForward",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/BadNews_85/30486",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/vQaxexO6-NC5Q9vc5mDsoaUGHstoMr34taUvUGNsmi2UZOSFTwA3QZvT2cY9Rynlm7lpN40p3v9svXBEnwy5GXcnkE-KUr5vq09zrgQV3l_Xw9GTp9gyd-o44SLbyxO-q8u0V4hc1nK0Q4MKlZAxi7GMxCX0B38bRn9SyYHYZYSBua5vS9_sotD0mWXJKogkiFmAVBJDd6koDjzLCFcgagVRa36npZwKEzZrtAe_GwcBFtYjGE0VY5ui2_0K0-L2tKOwBZvm7BlNHvTd9B6a89-jFDzA0uFYBoTLToWEmDXzT334KCi2_B1RgaQTua56sXQDdZ20x64K2pL_3Cv1fQ.jpg",
+          "thumbnail_path": "channels/badnews_85/media/bb904d047408347f06187cc6.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "3"
+        }
+      ],
+      "views_label": "10.7K",
+      "posted_at": "2026-11-20T21:13:44+00:00",
+      "edited": false,
+      "permalink": "https://t.me/BadNews_85/30486"
+    },
+    {
+      "id": "BadNews_85/30485",
+      "author_name": "BadNews85 | بدنیوز",
+      "author_photo_url": "https://cdn4.telesco.pe/file/HDZHyulalrfsfF0lHS7TneexCJErr3zPxEGCOYyfKwOOLaD4pHzao5exIC7ak9HmnO4xNbSHpoVy64Tp7Fybb-n13imAebHN4LMvqqZW5NPERtl07bZ6P96ynoN_DiRLXv-iy3fSzte64b0yTO5WCgqiDKg1vDQ8bV7tO1tALuQpl_yYy7vY92scCRiCqzq2Nj4dPGIO0pk8rt8QQJeQ25NPiAbr6xT8l82HD4b3Nu7FK4BfM4d6Z4kx5UrVvvlfa6Lxk7zz5tG2RkLf8XiF5tiZFSyYi7C7-Jbc7zgcjl-8HVNuNtTLeaLsiLzejRLHgmSI2KZV9wU-BZe8OfoFuw.jpg",
+      "author_photo_path": "channels/badnews_85/media/512fad054dd3b85c7e50787b.jpg",
+      "body_html": "بیت کوین سقوط آزاد کرده و رسید به قیمت 57 هزار دلار<br><br><tg-spoiler>ریزشش بوی جنگ میده</tg-spoiler><br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
+      "plain_text": "بیت کوین سقوط آزاد کرده و رسید به قیمت 57 هزار دلار ریزشش بوی جنگ میده @BadNews_85",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/BadNews_85/30485",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/NSO0W4GENUDW6eBfzlvFIp9-3p451oivTv5UOhQb53YUyqN4PkAb1oZDfRKEBXdPLfzWowEvBTdcdfEaDVC7DeVaUeKcb5mjF6KmTejV6U_AL5Mgo-yWT9oDOeZMyHggh1l7VQj10HC1QD6UhtwPDjFVAqhLAdKJML1nn664sS_mtLekAskbexC76teGQDU4qpmNTBUniaKO1VsGN-oEMnXjr1ua_YBtdJKIolEuEO_k_8ohmSar--b72Z9Qd0NX3_crKt34ilxVv4gKwxFGPvQYg30l93FkzsFz2TMjpkai9VSOkV94CW-qooJpSUgoMV55LyWmqrcZGp1qVIDEig.jpg",
+          "thumbnail_path": "channels/badnews_85/media/1addf0fe2cd20802b66903ea.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.8181818181818181
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "145"
+        },
+        {
+          "emoji": "🤣",
+          "count": "27"
+        },
+        {
+          "emoji": "👍",
+          "count": "16"
+        },
+        {
+          "emoji": "🔥",
+          "count": "6"
+        },
+        {
+          "emoji": "🤯",
+          "count": "2"
+        },
+        {
+          "emoji": "🖕",
+          "count": "1"
+        }
+      ],
+      "views_label": "12.6K",
+      "posted_at": "2026-11-20T20:42:51+00:00",
+      "edited": false,
+      "permalink": "https://t.me/BadNews_85/30485"
+    },
+    {
+      "id": "BadNews_85/30484",
+      "author_name": "BadNews85 | بدنیوز",
+      "author_photo_url": "https://cdn4.telesco.pe/file/HDZHyulalrfsfF0lHS7TneexCJErr3zPxEGCOYyfKwOOLaD4pHzao5exIC7ak9HmnO4xNbSHpoVy64Tp7Fybb-n13imAebHN4LMvqqZW5NPERtl07bZ6P96ynoN_DiRLXv-iy3fSzte64b0yTO5WCgqiDKg1vDQ8bV7tO1tALuQpl_yYy7vY92scCRiCqzq2Nj4dPGIO0pk8rt8QQJeQ25NPiAbr6xT8l82HD4b3Nu7FK4BfM4d6Z4kx5UrVvvlfa6Lxk7zz5tG2RkLf8XiF5tiZFSyYi7C7-Jbc7zgcjl-8HVNuNtTLeaLsiLzejRLHgmSI2KZV9wU-BZe8OfoFuw.jpg",
+      "author_photo_path": "channels/badnews_85/media/512fad054dd3b85c7e50787b.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D8C.png')\"><b>❌</b></i> <b>هشدار اسپویل GTA6</b><br><br><tg-spoiler>اسپید یوتیوبر معروف بعد از ۵۲ ساعت بازی، GTA6 رو تموم کرد و نکته اینجاست که بازی خیلی تلخ تموم میشه! پلیس لوسیا و جیسون رو میکُشه و اسپید هم میزنه زیر گریه.</tg-spoiler><br><br>+ <tg-spoiler>جالبه بدونید که بازی چند پایان مختلف داره که اسپید بدترینش رو انتخاب کرد</tg-spoiler><br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
+      "plain_text": "⚠️❌ هشدار اسپویل GTA6 اسپید یوتیوبر معروف بعد از ۵۲ ساعت بازی، GTA6 رو تموم کرد و نکته اینجاست که بازی خیلی تلخ تموم میشه! پلیس لوسیا و جیسون رو میکُشه و اسپید هم میزنه زیر گریه. + جالبه بدونید که بازی چند پایان مختلف داره که اسپید بدترینش رو انتخاب کرد @BadNews_85",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/BadNews_85/30484",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/XdjFFclRDCJNYep4oKIWq6nL_C-qF7hFEVabpk6jYN6SzuYVurkqER_yqQp1I-JvG-FlLBKUF0x33jPObdxp-H0TsviVb13KNOHBx6rrHjlEHxRnWqmoh3sytEqhbSTRilXdp7emHMQsW3YTDVuIEwZRpistHLa0Bkhao13noZfY0sa-4D3MoN5Z0bf37yBQn24XbW46puasVr-6koDcmRxTlU9P9ecRNvtpYsn-R0ZuBR876036JKekjF8Xrac98GvYHcd8HfdULEqo8TloXBLxXs97C3TZVB7EPiyNHLfiMUTVWuOwcGq5hylG__a4iO0WyCr2MZBHtQSf5Xzunw",
+          "thumbnail_path": "channels/badnews_85/media/33205af755380f1f172cbe38.jpg",
+          "duration_label": "1:07",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "486"
+        },
+        {
+          "emoji": "💔",
+          "count": "107"
+        },
+        {
+          "emoji": "🤯",
+          "count": "22"
+        },
+        {
+          "emoji": "🖕",
+          "count": "17"
+        },
+        {
+          "emoji": "❤",
+          "count": "16"
+        },
+        {
+          "emoji": "😭",
+          "count": "4"
+        },
+        {
+          "emoji": "👍",
+          "count": "3"
+        }
+      ],
+      "views_label": "16.9K",
+      "posted_at": "2026-11-20T19:50:33+00:00",
+      "edited": true,
+      "permalink": "https://t.me/BadNews_85/30484"
+    },
+    {
+      "id": "BadNews_85/30483",
+      "author_name": "BadNews85 | بدنیوز",
+      "author_photo_url": "https://cdn4.telesco.pe/file/HDZHyulalrfsfF0lHS7TneexCJErr3zPxEGCOYyfKwOOLaD4pHzao5exIC7ak9HmnO4xNbSHpoVy64Tp7Fybb-n13imAebHN4LMvqqZW5NPERtl07bZ6P96ynoN_DiRLXv-iy3fSzte64b0yTO5WCgqiDKg1vDQ8bV7tO1tALuQpl_yYy7vY92scCRiCqzq2Nj4dPGIO0pk8rt8QQJeQ25NPiAbr6xT8l82HD4b3Nu7FK4BfM4d6Z4kx5UrVvvlfa6Lxk7zz5tG2RkLf8XiF5tiZFSyYi7C7-Jbc7zgcjl-8HVNuNtTLeaLsiLzejRLHgmSI2KZV9wU-BZe8OfoFuw.jpg",
+      "author_photo_path": "channels/badnews_85/media/512fad054dd3b85c7e50787b.jpg",
+      "body_html": "محسن یگانه برای سوگند صیادی پست گذاشته بعد یه حکومتی اومده همچین کامنتی براش گذاشته و محسن یگانه هم گفته : از جنوب ایران فدای جنوب لبنان شروع کنم؟ دارک میشه‌ها...!<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
+      "plain_text": "محسن یگانه برای سوگند صیادی پست گذاشته بعد یه حکومتی اومده همچین کامنتی براش گذاشته و محسن یگانه هم گفته : از جنوب ایران فدای جنوب لبنان شروع کنم؟ دارک میشه‌ها...! @BadNews_85",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/BadNews_85/30483",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/Zh6lyGfLF9Rul0Fn64z9HyjX-RhbDUHIhveR9czq1befPeQkwz1X9VTOeUOlfTx35pNJekgLUEq86myGtdMYNqIZx2KAUzGMkxCTId-XRyMUWU3uMKDptfuwu1UjHlqzNTfqonND52QwYOUbZMPAQuicOlkY6DSm9KJG8lelgilWMKogB_1G_v0hFRqFkD334rdEZoj5sKPjs0FTA0r2a4v95KNSoxkbmX07ZMh6FA0-W1A-SwRhjqu6xid3sCFLKfhebQfedHT3Sxs8ILnNtt6DYjHchzLnBjNrOFvOLUtDepaBwlUbQohcpOlB5KiLpzpSemgXugVdLQAjtcXbBg.jpg",
+          "thumbnail_path": "channels/badnews_85/media/888aa8865947f95881cad365.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8737499999999963
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "840"
+        },
+        {
+          "emoji": "🖕",
+          "count": "22"
+        },
+        {
+          "emoji": "👍",
+          "count": "15"
+        },
+        {
+          "emoji": "🔥",
+          "count": "5"
+        },
+        {
+          "emoji": "🤣",
+          "count": "2"
+        }
+      ],
+      "views_label": "16.6K",
+      "posted_at": "2026-11-20T19:43:57+00:00",
+      "edited": false,
+      "permalink": "https://t.me/BadNews_85/30483"
+    },
+    {
+      "id": "BadNews_85/30482",
+      "author_name": "BadNews85 | بدنیوز",
+      "author_photo_url": "https://cdn4.telesco.pe/file/HDZHyulalrfsfF0lHS7TneexCJErr3zPxEGCOYyfKwOOLaD4pHzao5exIC7ak9HmnO4xNbSHpoVy64Tp7Fybb-n13imAebHN4LMvqqZW5NPERtl07bZ6P96ynoN_DiRLXv-iy3fSzte64b0yTO5WCgqiDKg1vDQ8bV7tO1tALuQpl_yYy7vY92scCRiCqzq2Nj4dPGIO0pk8rt8QQJeQ25NPiAbr6xT8l82HD4b3Nu7FK4BfM4d6Z4kx5UrVvvlfa6Lxk7zz5tG2RkLf8XiF5tiZFSyYi7C7-Jbc7zgcjl-8HVNuNtTLeaLsiLzejRLHgmSI2KZV9wU-BZe8OfoFuw.jpg",
+      "author_photo_path": "channels/badnews_85/media/512fad054dd3b85c7e50787b.jpg",
+      "body_html": "یه کانال دیدم اسپویل کرده آخر بازی GTA رو بدون هیچ هشداری یا اسپویلری... یعنی با این حرکتش چه کسایی که بازیو خریدن چه کسایی ندارن ریده میشه تو ذوقشون طرف 30 میل پول نداده که تو <tg-spoiler>مادرجنده</tg-spoiler> بچه سال بیای اسپویل کنی بدون هشدار اسپویلر از همینجا <tg-spoiler>کیر</tg-spoiler> تک تک کسایی که اسپویل شدن تو <tg-spoiler>چوچول ناموست</tg-spoiler> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i><br><br>+ بخاطر این <tg-spoiler>مادرجنده</tg-spoiler> خودمم اسپویل شدم",
+      "plain_text": "یه کانال دیدم اسپویل کرده آخر بازی GTA رو بدون هیچ هشداری یا اسپویلری... یعنی با این حرکتش چه کسایی که بازیو خریدن چه کسایی ندارن ریده میشه تو ذوقشون طرف 30 میل پول نداده که تو مادرجنده بچه سال بیای اسپویل کنی بدون هشدار اسپویلر از همینجا کیر تک تک کسایی که اسپویل شدن تو چوچول ناموست ❤️ + بخاطر این مادرجنده خودمم اسپویل شدم",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "359"
+        },
+        {
+          "emoji": "🤣",
+          "count": "76"
+        },
+        {
+          "emoji": "❤",
+          "count": "17"
+        },
+        {
+          "emoji": "😐",
+          "count": "8"
+        },
+        {
+          "emoji": "🖕",
+          "count": "5"
+        },
+        {
+          "emoji": "💔",
+          "count": "4"
+        },
+        {
+          "emoji": "🤯",
+          "count": "2"
+        }
+      ],
+      "views_label": "17.3K",
+      "posted_at": "2026-11-20T19:26:36+00:00",
+      "edited": true,
+      "permalink": "https://t.me/BadNews_85/30482"
+    },
+    {
+      "id": "BadNews_85/30481",
+      "author_name": "BadNews85 | بدنیوز",
+      "author_photo_url": "https://cdn4.telesco.pe/file/HDZHyulalrfsfF0lHS7TneexCJErr3zPxEGCOYyfKwOOLaD4pHzao5exIC7ak9HmnO4xNbSHpoVy64Tp7Fybb-n13imAebHN4LMvqqZW5NPERtl07bZ6P96ynoN_DiRLXv-iy3fSzte64b0yTO5WCgqiDKg1vDQ8bV7tO1tALuQpl_yYy7vY92scCRiCqzq2Nj4dPGIO0pk8rt8QQJeQ25NPiAbr6xT8l82HD4b3Nu7FK4BfM4d6Z4kx5UrVvvlfa6Lxk7zz5tG2RkLf8XiF5tiZFSyYi7C7-Jbc7zgcjl-8HVNuNtTLeaLsiLzejRLHgmSI2KZV9wU-BZe8OfoFuw.jpg",
+      "author_photo_path": "channels/badnews_85/media/512fad054dd3b85c7e50787b.jpg",
+      "body_html": "چند شب پیش یه دختره که از طرفدارای ترویس اسکات بوده پاشده رفته ممه هاشو ریخته تو صورت ترویس <br><br> بنده خدا ترویس اسکات گرخید یهو.<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
+      "plain_text": "چند شب پیش یه دختره که از طرفدارای ترویس اسکات بوده پاشده رفته ممه هاشو ریخته تو صورت ترویس بنده خدا ترویس اسکات گرخید یهو. @BadNews_85",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/BadNews_85/30481",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/TIQEaRQ-4wJtIpAgaUNR8uF6OXFFZ5Hxahk58kliB87Sq1Z-3SJiEeoZBQQy5IB5gXZwtc0Mxiq_nx0No8QdUovRunLVAwYsE-0e7slKP9y9PVIn0IYOq9JpUvNWD2kgR4zAp3h0_MrZFlT7lPXZCjOWuBLwiirubErV9KU4uZMoBY8Iny3LNswW_maB6HKz0V9MplWZO0cmChpzFwknN3xPkYiZ_vsj4DuhjJzgjog9jTByo_Lp69vRufso2O7WL2hiNrciB34gOlodGq5oopcPyJ7ILGQGdyh1b8SyJE17P2aEATeKGUniZKBnD9zxApill0YZTtSGyec6RoEDog",
+          "thumbnail_path": "channels/badnews_85/media/d8597f8142b7448623c8132b.jpg",
+          "duration_label": "0:08",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "369"
+        },
+        {
+          "emoji": "😐",
+          "count": "33"
+        },
+        {
+          "emoji": "❤",
+          "count": "11"
+        },
+        {
+          "emoji": "🖕",
+          "count": "9"
+        },
+        {
+          "emoji": "🤯",
+          "count": "1"
+        }
+      ],
+      "views_label": "20.3K",
+      "posted_at": "2026-11-20T18:10:49+00:00",
+      "edited": false,
+      "permalink": "https://t.me/BadNews_85/30481"
+    },
+    {
       "id": "BadNews_85/30480",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/X9_9lNK08xtFSDOp8qj2CvtnaGlFRUnKN8sZzvgNnAieq24rww5ln9rb01BDXZg43AN9iSeF8wK2rxFPz7Uwd8PZr4CQmyagcL-jBPWr2qc2IU_0xlzrtba_6CXd0a6-3EkFxUy2_azOVKS1nY9TZUpA6YMYtexJrifX-NML9SKS1wRDDpdPeRFSNKAP3bL2ltr4qi_4bciL9s9VqR9vT6Jt3SY4QpYx7To-SIc9v3Ct8HdB8ltO2tNRicMW5r5N6_XGQaLRX3DNmHE_1Y6O4hNqJFK6TvTXH2UAaw75boPyt01GMPsttpts692UScmboaLHuWzh3eYTTMN2FpMpeQ.jpg",
-      "author_photo_path": "channels/badnews_85/media/c9f961ecbe7f6fd21ec0d7e7.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/HDZHyulalrfsfF0lHS7TneexCJErr3zPxEGCOYyfKwOOLaD4pHzao5exIC7ak9HmnO4xNbSHpoVy64Tp7Fybb-n13imAebHN4LMvqqZW5NPERtl07bZ6P96ynoN_DiRLXv-iy3fSzte64b0yTO5WCgqiDKg1vDQ8bV7tO1tALuQpl_yYy7vY92scCRiCqzq2Nj4dPGIO0pk8rt8QQJeQ25NPiAbr6xT8l82HD4b3Nu7FK4BfM4d6Z4kx5UrVvvlfa6Lxk7zz5tG2RkLf8XiF5tiZFSyYi7C7-Jbc7zgcjl-8HVNuNtTLeaLsiLzejRLHgmSI2KZV9wU-BZe8OfoFuw.jpg",
+      "author_photo_path": "channels/badnews_85/media/512fad054dd3b85c7e50787b.jpg",
       "body_html": "وقتی دوست دخترت گفته بیا خونمون GTA VI برات خریدم بازی کنیم ؛ ولی میری اونجا‌ و‌ میبینی خبری از GTA نیست و داره لباساشو درمیاره : <br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
       "plain_text": "وقتی دوست دخترت گفته بیا خونمون GTA VI برات خریدم بازی کنیم ؛ ولی میری اونجا‌ و‌ میبینی خبری از GTA نیست و داره لباساشو درمیاره : @BadNews_85",
       "media": [
@@ -31,22 +431,30 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "256"
+          "count": "517"
         },
         {
           "emoji": "💔",
-          "count": "12"
+          "count": "26"
         },
         {
           "emoji": "🖕",
-          "count": "4"
+          "count": "9"
         },
         {
           "emoji": "❤",
+          "count": "3"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        },
+        {
+          "emoji": "😭",
           "count": "1"
         }
       ],
-      "views_label": "6.68K",
+      "views_label": "21.5K",
       "posted_at": "2026-11-20T16:51:20+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/30480"
@@ -54,8 +462,8 @@
     {
       "id": "BadNews_85/30478",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/X9_9lNK08xtFSDOp8qj2CvtnaGlFRUnKN8sZzvgNnAieq24rww5ln9rb01BDXZg43AN9iSeF8wK2rxFPz7Uwd8PZr4CQmyagcL-jBPWr2qc2IU_0xlzrtba_6CXd0a6-3EkFxUy2_azOVKS1nY9TZUpA6YMYtexJrifX-NML9SKS1wRDDpdPeRFSNKAP3bL2ltr4qi_4bciL9s9VqR9vT6Jt3SY4QpYx7To-SIc9v3Ct8HdB8ltO2tNRicMW5r5N6_XGQaLRX3DNmHE_1Y6O4hNqJFK6TvTXH2UAaw75boPyt01GMPsttpts692UScmboaLHuWzh3eYTTMN2FpMpeQ.jpg",
-      "author_photo_path": "channels/badnews_85/media/c9f961ecbe7f6fd21ec0d7e7.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/HDZHyulalrfsfF0lHS7TneexCJErr3zPxEGCOYyfKwOOLaD4pHzao5exIC7ak9HmnO4xNbSHpoVy64Tp7Fybb-n13imAebHN4LMvqqZW5NPERtl07bZ6P96ynoN_DiRLXv-iy3fSzte64b0yTO5WCgqiDKg1vDQ8bV7tO1tALuQpl_yYy7vY92scCRiCqzq2Nj4dPGIO0pk8rt8QQJeQ25NPiAbr6xT8l82HD4b3Nu7FK4BfM4d6Z4kx5UrVvvlfa6Lxk7zz5tG2RkLf8XiF5tiZFSyYi7C7-Jbc7zgcjl-8HVNuNtTLeaLsiLzejRLHgmSI2KZV9wU-BZe8OfoFuw.jpg",
+      "author_photo_path": "channels/badnews_85/media/512fad054dd3b85c7e50787b.jpg",
       "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> لیل بلک پ*ورن استار معروف ژاپنی بلافاصله بعد از مسلمون شدن تمام پست های سکسیشو پاک کرد اونلی فنزشو پاک کرد و الان بسیار محجبه شده و تو مصاحبه ی جدیدش از مردم جهان خواسته به هیچ عنوان فیلمای دوران پ*ورن استاریشو نگاه نکنن و پاکشون کنن، چون باعث میشن گناهشون بیفته گردنش.<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a></div>",
       "plain_text": "🔴 لیل بلک پ*ورن استار معروف ژاپنی بلافاصله بعد از مسلمون شدن تمام پست های سکسیشو پاک کرد اونلی فنزشو پاک کرد و الان بسیار محجبه شده و تو مصاحبه ی جدیدش از مردم جهان خواسته به هیچ عنوان فیلمای دوران پ*ورن استاریشو نگاه نکنن و پاکشون کنن، چون باعث میشن گناهشون بیفته گردنش. @BadNews_85",
       "media": [
@@ -81,34 +489,34 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "650"
+          "count": "881"
         },
         {
           "emoji": "❤",
-          "count": "40"
+          "count": "69"
         },
         {
           "emoji": "🖕",
-          "count": "38"
+          "count": "55"
         },
         {
           "emoji": "😐",
-          "count": "16"
+          "count": "22"
         },
         {
           "emoji": "👍",
-          "count": "10"
+          "count": "16"
         },
         {
           "emoji": "💔",
-          "count": "3"
+          "count": "5"
         },
         {
           "emoji": "❤‍🔥",
           "count": "1"
         }
       ],
-      "views_label": "14.3K",
+      "views_label": "24.1K",
       "posted_at": "2026-11-20T14:57:15+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/30478"
@@ -116,8 +524,8 @@
     {
       "id": "BadNews_85/30477",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/X9_9lNK08xtFSDOp8qj2CvtnaGlFRUnKN8sZzvgNnAieq24rww5ln9rb01BDXZg43AN9iSeF8wK2rxFPz7Uwd8PZr4CQmyagcL-jBPWr2qc2IU_0xlzrtba_6CXd0a6-3EkFxUy2_azOVKS1nY9TZUpA6YMYtexJrifX-NML9SKS1wRDDpdPeRFSNKAP3bL2ltr4qi_4bciL9s9VqR9vT6Jt3SY4QpYx7To-SIc9v3Ct8HdB8ltO2tNRicMW5r5N6_XGQaLRX3DNmHE_1Y6O4hNqJFK6TvTXH2UAaw75boPyt01GMPsttpts692UScmboaLHuWzh3eYTTMN2FpMpeQ.jpg",
-      "author_photo_path": "channels/badnews_85/media/c9f961ecbe7f6fd21ec0d7e7.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/HDZHyulalrfsfF0lHS7TneexCJErr3zPxEGCOYyfKwOOLaD4pHzao5exIC7ak9HmnO4xNbSHpoVy64Tp7Fybb-n13imAebHN4LMvqqZW5NPERtl07bZ6P96ynoN_DiRLXv-iy3fSzte64b0yTO5WCgqiDKg1vDQ8bV7tO1tALuQpl_yYy7vY92scCRiCqzq2Nj4dPGIO0pk8rt8QQJeQ25NPiAbr6xT8l82HD4b3Nu7FK4BfM4d6Z4kx5UrVvvlfa6Lxk7zz5tG2RkLf8XiF5tiZFSyYi7C7-Jbc7zgcjl-8HVNuNtTLeaLsiLzejRLHgmSI2KZV9wU-BZe8OfoFuw.jpg",
+      "author_photo_path": "channels/badnews_85/media/512fad054dd3b85c7e50787b.jpg",
       "body_html": "<b>سود 19 میلیونی ما از میکس شب گذشته</b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F988D.png')\"><b>😍</b></i><tg-emoji emoji-id=\"5197434882321567830\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B5.png')\"><b>💵</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5226726877107864033\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></tg-emoji>توم میخوای هر شب سود کنی؟<br>همین حالا بیا توی کانال انتن بت<br><br><tg-emoji emoji-id=\"5197434882321567830\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B5.png')\"><b>💵</b></i></tg-emoji>اگ هر شب با 500هزارتومن بیای کانال ما حداقل با 5 میلیون برمیگردی <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F988D.png')\"><b>😍</b></i><br><br><tg-emoji emoji-id=\"5226726877107864033\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></tg-emoji>عضو کانال شو و ببین چطور همه دارن سود میکنن<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918C.png')\"><b>👌</b></i><br><br>ادرس عضویت کانال<tg-emoji emoji-id=\"5231102735817918643\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰</b></i>g28<br><a href=\"https://t.me/+gYDRnUG5OX03MWJk\" target=\"_blank\" rel=\"noopener\">https://t.me/+gYDRnUG5OX03MWJk</a><br><a href=\"https://t.me/+gYDRnUG5OX03MWJk\" target=\"_blank\" rel=\"noopener\">https://t.me/+gYDRnUG5OX03MWJk</a>",
       "plain_text": "سود 19 میلیونی ما از میکس شب گذشته😍💵 🔥توم میخوای هر شب سود کنی؟ همین حالا بیا توی کانال انتن بت 💵اگ هر شب با 500هزارتومن بیای کانال ما حداقل با 5 میلیون برمیگردی 😍 🔥عضو کانال شو و ببین چطور همه دارن سود میکنن👌 ادرس عضویت کانال👇🅰g28 https://t.me/+gYDRnUG5OX03MWJk https://t.me/+gYDRnUG5OX03MWJk",
       "media": [
@@ -137,7 +545,7 @@
           "count": "2"
         }
       ],
-      "views_label": "13.5K",
+      "views_label": "22.9K",
       "posted_at": "2026-11-20T14:57:09+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/30477"
@@ -145,8 +553,8 @@
     {
       "id": "BadNews_85/30474",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/X9_9lNK08xtFSDOp8qj2CvtnaGlFRUnKN8sZzvgNnAieq24rww5ln9rb01BDXZg43AN9iSeF8wK2rxFPz7Uwd8PZr4CQmyagcL-jBPWr2qc2IU_0xlzrtba_6CXd0a6-3EkFxUy2_azOVKS1nY9TZUpA6YMYtexJrifX-NML9SKS1wRDDpdPeRFSNKAP3bL2ltr4qi_4bciL9s9VqR9vT6Jt3SY4QpYx7To-SIc9v3Ct8HdB8ltO2tNRicMW5r5N6_XGQaLRX3DNmHE_1Y6O4hNqJFK6TvTXH2UAaw75boPyt01GMPsttpts692UScmboaLHuWzh3eYTTMN2FpMpeQ.jpg",
-      "author_photo_path": "channels/badnews_85/media/c9f961ecbe7f6fd21ec0d7e7.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/HDZHyulalrfsfF0lHS7TneexCJErr3zPxEGCOYyfKwOOLaD4pHzao5exIC7ak9HmnO4xNbSHpoVy64Tp7Fybb-n13imAebHN4LMvqqZW5NPERtl07bZ6P96ynoN_DiRLXv-iy3fSzte64b0yTO5WCgqiDKg1vDQ8bV7tO1tALuQpl_yYy7vY92scCRiCqzq2Nj4dPGIO0pk8rt8QQJeQ25NPiAbr6xT8l82HD4b3Nu7FK4BfM4d6Z4kx5UrVvvlfa6Lxk7zz5tG2RkLf8XiF5tiZFSyYi7C7-Jbc7zgcjl-8HVNuNtTLeaLsiLzejRLHgmSI2KZV9wU-BZe8OfoFuw.jpg",
+      "author_photo_path": "channels/badnews_85/media/512fad054dd3b85c7e50787b.jpg",
       "body_html": "اسپید داره میمیره از بی خوابی<br><br>تا الان ۶۴ میلیون بازدید داشته و ۲۵۰ هزار دلار (۶۸ میلیارد تومن) درآمد کسب کرده.<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
       "plain_text": "اسپید داره میمیره از بی خوابی تا الان ۶۴ میلیون بازدید داشته و ۲۵۰ هزار دلار (۶۸ میلیارد تومن) درآمد کسب کرده. @BadNews_85",
       "media": [
@@ -163,38 +571,38 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "462"
+          "count": "596"
         },
         {
           "emoji": "🤯",
-          "count": "83"
+          "count": "125"
         },
         {
           "emoji": "❤",
-          "count": "23"
+          "count": "33"
         },
         {
           "emoji": "🖕",
-          "count": "14"
+          "count": "17"
         },
         {
           "emoji": "😐",
-          "count": "5"
+          "count": "11"
         },
         {
           "emoji": "🔥",
-          "count": "4"
+          "count": "7"
         },
         {
           "emoji": "😭",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "👍",
           "count": "1"
         }
       ],
-      "views_label": "16K",
+      "views_label": "23.6K",
       "posted_at": "2026-11-20T14:10:26+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/30474"
@@ -202,8 +610,8 @@
     {
       "id": "BadNews_85/30473",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/X9_9lNK08xtFSDOp8qj2CvtnaGlFRUnKN8sZzvgNnAieq24rww5ln9rb01BDXZg43AN9iSeF8wK2rxFPz7Uwd8PZr4CQmyagcL-jBPWr2qc2IU_0xlzrtba_6CXd0a6-3EkFxUy2_azOVKS1nY9TZUpA6YMYtexJrifX-NML9SKS1wRDDpdPeRFSNKAP3bL2ltr4qi_4bciL9s9VqR9vT6Jt3SY4QpYx7To-SIc9v3Ct8HdB8ltO2tNRicMW5r5N6_XGQaLRX3DNmHE_1Y6O4hNqJFK6TvTXH2UAaw75boPyt01GMPsttpts692UScmboaLHuWzh3eYTTMN2FpMpeQ.jpg",
-      "author_photo_path": "channels/badnews_85/media/c9f961ecbe7f6fd21ec0d7e7.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/HDZHyulalrfsfF0lHS7TneexCJErr3zPxEGCOYyfKwOOLaD4pHzao5exIC7ak9HmnO4xNbSHpoVy64Tp7Fybb-n13imAebHN4LMvqqZW5NPERtl07bZ6P96ynoN_DiRLXv-iy3fSzte64b0yTO5WCgqiDKg1vDQ8bV7tO1tALuQpl_yYy7vY92scCRiCqzq2Nj4dPGIO0pk8rt8QQJeQ25NPiAbr6xT8l82HD4b3Nu7FK4BfM4d6Z4kx5UrVvvlfa6Lxk7zz5tG2RkLf8XiF5tiZFSyYi7C7-Jbc7zgcjl-8HVNuNtTLeaLsiLzejRLHgmSI2KZV9wU-BZe8OfoFuw.jpg",
+      "author_photo_path": "channels/badnews_85/media/512fad054dd3b85c7e50787b.jpg",
       "body_html": "اسپید بالای 40 ساعته که نان استاپ روی لایو استریمه و داره GTA VI بازی میکنه تا الانم 81% بازی رو رفته جلو.<br><br>ازش میپرسن خوابت نمیاد 40 ساعته بیداری؟ بلند میشه پُشتَک میزنه<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9890.png')\"><b>😐</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
       "plain_text": "اسپید بالای 40 ساعته که نان استاپ روی لایو استریمه و داره GTA VI بازی میکنه تا الانم 81% بازی رو رفته جلو. ازش میپرسن خوابت نمیاد 40 ساعته بیداری؟ بلند میشه پُشتَک میزنه😐😂 @BadNews_85",
       "media": [
@@ -220,26 +628,26 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "489"
+          "count": "604"
         },
         {
           "emoji": "😐",
-          "count": "53"
+          "count": "72"
         },
         {
           "emoji": "❤",
-          "count": "10"
+          "count": "13"
         },
         {
           "emoji": "🖕",
-          "count": "5"
+          "count": "13"
         },
         {
           "emoji": "💔",
-          "count": "3"
+          "count": "4"
         }
       ],
-      "views_label": "17.1K",
+      "views_label": "23.9K",
       "posted_at": "2026-11-20T13:42:06+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/30473"
@@ -247,8 +655,8 @@
     {
       "id": "BadNews_85/30472",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/X9_9lNK08xtFSDOp8qj2CvtnaGlFRUnKN8sZzvgNnAieq24rww5ln9rb01BDXZg43AN9iSeF8wK2rxFPz7Uwd8PZr4CQmyagcL-jBPWr2qc2IU_0xlzrtba_6CXd0a6-3EkFxUy2_azOVKS1nY9TZUpA6YMYtexJrifX-NML9SKS1wRDDpdPeRFSNKAP3bL2ltr4qi_4bciL9s9VqR9vT6Jt3SY4QpYx7To-SIc9v3Ct8HdB8ltO2tNRicMW5r5N6_XGQaLRX3DNmHE_1Y6O4hNqJFK6TvTXH2UAaw75boPyt01GMPsttpts692UScmboaLHuWzh3eYTTMN2FpMpeQ.jpg",
-      "author_photo_path": "channels/badnews_85/media/c9f961ecbe7f6fd21ec0d7e7.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/HDZHyulalrfsfF0lHS7TneexCJErr3zPxEGCOYyfKwOOLaD4pHzao5exIC7ak9HmnO4xNbSHpoVy64Tp7Fybb-n13imAebHN4LMvqqZW5NPERtl07bZ6P96ynoN_DiRLXv-iy3fSzte64b0yTO5WCgqiDKg1vDQ8bV7tO1tALuQpl_yYy7vY92scCRiCqzq2Nj4dPGIO0pk8rt8QQJeQ25NPiAbr6xT8l82HD4b3Nu7FK4BfM4d6Z4kx5UrVvvlfa6Lxk7zz5tG2RkLf8XiF5tiZFSyYi7C7-Jbc7zgcjl-8HVNuNtTLeaLsiLzejRLHgmSI2KZV9wU-BZe8OfoFuw.jpg",
+      "author_photo_path": "channels/badnews_85/media/512fad054dd3b85c7e50787b.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>بازی \"Grand Theft Auto VI\" در کمتر از 24 ساعت بعد از انتشار حدود 2.36 میلیارد دلار فروش ناخالص داشته<br><br>بزرگ‌ترین عرضه یک بازی ویدیویی در تاریخ<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
       "plain_text": "🔴بازی \"Grand Theft Auto VI\" در کمتر از 24 ساعت بعد از انتشار حدود 2.36 میلیارد دلار فروش ناخالص داشته بزرگ‌ترین عرضه یک بازی ویدیویی در تاریخ @BadNews_85",
       "media": [
@@ -265,30 +673,30 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "324"
+          "count": "384"
         },
         {
           "emoji": "🔥",
-          "count": "52"
+          "count": "65"
         },
         {
           "emoji": "❤",
-          "count": "18"
+          "count": "20"
         },
         {
           "emoji": "🤣",
-          "count": "13"
+          "count": "14"
         },
         {
           "emoji": "😐",
-          "count": "2"
+          "count": "5"
         },
         {
           "emoji": "🖕",
           "count": "2"
         }
       ],
-      "views_label": "18.9K",
+      "views_label": "24.6K",
       "posted_at": "2026-11-20T11:57:42+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/30472"
@@ -296,8 +704,8 @@
     {
       "id": "BadNews_85/30471",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/X9_9lNK08xtFSDOp8qj2CvtnaGlFRUnKN8sZzvgNnAieq24rww5ln9rb01BDXZg43AN9iSeF8wK2rxFPz7Uwd8PZr4CQmyagcL-jBPWr2qc2IU_0xlzrtba_6CXd0a6-3EkFxUy2_azOVKS1nY9TZUpA6YMYtexJrifX-NML9SKS1wRDDpdPeRFSNKAP3bL2ltr4qi_4bciL9s9VqR9vT6Jt3SY4QpYx7To-SIc9v3Ct8HdB8ltO2tNRicMW5r5N6_XGQaLRX3DNmHE_1Y6O4hNqJFK6TvTXH2UAaw75boPyt01GMPsttpts692UScmboaLHuWzh3eYTTMN2FpMpeQ.jpg",
-      "author_photo_path": "channels/badnews_85/media/c9f961ecbe7f6fd21ec0d7e7.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/HDZHyulalrfsfF0lHS7TneexCJErr3zPxEGCOYyfKwOOLaD4pHzao5exIC7ak9HmnO4xNbSHpoVy64Tp7Fybb-n13imAebHN4LMvqqZW5NPERtl07bZ6P96ynoN_DiRLXv-iy3fSzte64b0yTO5WCgqiDKg1vDQ8bV7tO1tALuQpl_yYy7vY92scCRiCqzq2Nj4dPGIO0pk8rt8QQJeQ25NPiAbr6xT8l82HD4b3Nu7FK4BfM4d6Z4kx5UrVvvlfa6Lxk7zz5tG2RkLf8XiF5tiZFSyYi7C7-Jbc7zgcjl-8HVNuNtTLeaLsiLzejRLHgmSI2KZV9wU-BZe8OfoFuw.jpg",
+      "author_photo_path": "channels/badnews_85/media/512fad054dd3b85c7e50787b.jpg",
       "body_html": "امروز 20 November روز جهانی بچه هاست.<br><br>+ این پستو بفرست برای اونی که قراره در آینده باهاش یه بچه‌ی ناز بسازی. <br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
       "plain_text": "امروز 20 November روز جهانی بچه هاست. + این پستو بفرست برای اونی که قراره در آینده باهاش یه بچه‌ی ناز بسازی. @BadNews_85",
       "media": [
@@ -314,30 +722,30 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "203"
+          "count": "251"
         },
         {
           "emoji": "🤣",
-          "count": "35"
+          "count": "39"
         },
         {
           "emoji": "😐",
-          "count": "14"
+          "count": "16"
         },
         {
           "emoji": "💔",
+          "count": "6"
+        },
+        {
+          "emoji": "🍓",
           "count": "5"
         },
         {
           "emoji": "🥰",
           "count": "4"
-        },
-        {
-          "emoji": "🍓",
-          "count": "4"
         }
       ],
-      "views_label": "19.8K",
+      "views_label": "25.4K",
       "posted_at": "2026-11-20T11:20:20+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/30471"
@@ -345,8 +753,8 @@
     {
       "id": "BadNews_85/30469",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/X9_9lNK08xtFSDOp8qj2CvtnaGlFRUnKN8sZzvgNnAieq24rww5ln9rb01BDXZg43AN9iSeF8wK2rxFPz7Uwd8PZr4CQmyagcL-jBPWr2qc2IU_0xlzrtba_6CXd0a6-3EkFxUy2_azOVKS1nY9TZUpA6YMYtexJrifX-NML9SKS1wRDDpdPeRFSNKAP3bL2ltr4qi_4bciL9s9VqR9vT6Jt3SY4QpYx7To-SIc9v3Ct8HdB8ltO2tNRicMW5r5N6_XGQaLRX3DNmHE_1Y6O4hNqJFK6TvTXH2UAaw75boPyt01GMPsttpts692UScmboaLHuWzh3eYTTMN2FpMpeQ.jpg",
-      "author_photo_path": "channels/badnews_85/media/c9f961ecbe7f6fd21ec0d7e7.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/HDZHyulalrfsfF0lHS7TneexCJErr3zPxEGCOYyfKwOOLaD4pHzao5exIC7ak9HmnO4xNbSHpoVy64Tp7Fybb-n13imAebHN4LMvqqZW5NPERtl07bZ6P96ynoN_DiRLXv-iy3fSzte64b0yTO5WCgqiDKg1vDQ8bV7tO1tALuQpl_yYy7vY92scCRiCqzq2Nj4dPGIO0pk8rt8QQJeQ25NPiAbr6xT8l82HD4b3Nu7FK4BfM4d6Z4kx5UrVvvlfa6Lxk7zz5tG2RkLf8XiF5tiZFSyYi7C7-Jbc7zgcjl-8HVNuNtTLeaLsiLzejRLHgmSI2KZV9wU-BZe8OfoFuw.jpg",
+      "author_photo_path": "channels/badnews_85/media/512fad054dd3b85c7e50787b.jpg",
       "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">‏ایشون که میبیید سوفیا رین هستش که پردآمد ترین مدل اونلی فنز تو دنیاس، سوفی شغلش خدمتکاری بود اما بخاطر اینکه با بدنش صاحب خونه هارو تحریک میکرد اخراج میشه و همون لحظه یه فکری میزنه به سرش که اکانت اونلی فنز بزنه و الان سالیانه 60 میلیون دلار درآمد داره.<br><br>نتیجه اخلاقی داستان رو نمی‌دونم، خودتون یه درسی ازش بگیرید<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a></div>",
       "plain_text": "‏ایشون که میبیید سوفیا رین هستش که پردآمد ترین مدل اونلی فنز تو دنیاس، سوفی شغلش خدمتکاری بود اما بخاطر اینکه با بدنش صاحب خونه هارو تحریک میکرد اخراج میشه و همون لحظه یه فکری میزنه به سرش که اکانت اونلی فنز بزنه و الان سالیانه 60 میلیون دلار درآمد داره. نتیجه اخلاقی داستان رو نمی‌دونم، خودتون یه درسی ازش بگیرید @BadNews_85",
       "media": [
@@ -372,26 +780,26 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "385"
+          "count": "424"
         },
         {
           "emoji": "❤",
-          "count": "25"
-        },
-        {
-          "emoji": "🍓",
-          "count": "5"
+          "count": "31"
         },
         {
           "emoji": "🖕",
-          "count": "5"
+          "count": "8"
         },
         {
           "emoji": "💔",
-          "count": "3"
+          "count": "6"
+        },
+        {
+          "emoji": "🍓",
+          "count": "6"
         }
       ],
-      "views_label": "20.6K",
+      "views_label": "25.2K",
       "posted_at": "2026-11-20T10:26:02+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/30469"
@@ -4449,431 +4857,6 @@
       "posted_at": "2026-11-15T09:49:45+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/30376"
-    },
-    {
-      "id": "BadNews_85/30375",
-      "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Nz-yeCzILzQSfH2ogoOCFzbXBsYan5w4U4Xsb_YAlXCyae2WSvezOntGqQ4Z0suFa7Ipgd-vuAW5cOTLGfyEzAmzvGm-XsTeVSaH_EJwKuV0zGIAl7Wf728j8iKoUA0Wbsztl_6e2W16BAwE3mqyLl1aGbsz0qfpQ2oKWjzbBX9xmrnYtbr1SSeDlhxAhVTVyhKL5sLF1dF1Qz4pW4cSTkyJaEADdNSQE94DHVESU6kQl2pe5G83pMEoaNILbX8Jwft8H0Kba85nv72DNeynwX5HqxY5DI1MeDIkAw131i22rZiD1305GpdzcsvARSkD7szQGMStURQePRTHxuvYfw.jpg",
-      "author_photo_path": "channels/badnews_85/media/4c19ebd05d23c2b6434e6057.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5897848502456685775\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i></tg-emoji> <b>هیجان فوتبال رو با پیش‌بینی در یک پلتفرم حرفه ای جهانی چند برابر کن </b><br><br><tg-emoji emoji-id=\"5926968513867550458\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29891.png')\"><b>☑️</b></i></tg-emoji>فینالی که در نیویورک منتظرش بودیم در متروپولیکانوی مادرید  ساعت 23:15 به وقت تهران برگذار خواهد شد <br><br><tg-emoji emoji-id=\"5920247461279962831\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/31E283A3.png')\"><b>1️⃣</b></i></tg-emoji>ضرایب رقابتی با سایت های جهانی<br><tg-emoji emoji-id=\"5920371229352531174\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/32E283A3.png')\"><b>2️⃣</b></i></tg-emoji>داشتن گواهی نامه های معتبر اروپایی ریتزوبت <br><tg-emoji emoji-id=\"5920361703115068778\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/33E283A3.png')\"><b>3️⃣</b></i></tg-emoji> 100% بونوس اولین واریز <br><tg-emoji emoji-id=\"5920488065347884879\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/34E283A3.png')\"><b>4️⃣</b></i></tg-emoji> هدیه پروموکد هفتگی<br><br><tg-emoji emoji-id=\"5891156273394617658\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B3.png')\"><b>💳</b></i></tg-emoji>  درگاه کارت فعال برای کاربران ایرانی <br><br><tg-emoji emoji-id=\"5445284980978621387\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji><b>همین حالا ثبت‌نام کن و تجربه‌ای متفاوت از شرط‌بندی آنلاین رو شروع کن.</b><br><br><tg-emoji emoji-id=\"5406809207947142040\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B2.png')\"><b>📲</b></i></tg-emoji><a href=\"https://t.me/Ritzobet_ir/3504\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">اپلیکیشن موبایل برای اندروید</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i> <a href=\"https://RitzoBet.com/\" target=\"_blank\" rel=\"noopener\">https://RitzoBet.com</a><br><br>پشتیبان فارسی سایت ریتزوبت <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰</b></i>r24<br><tg-emoji emoji-id=\"5900217365898990777\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i></tg-emoji><a href=\"https://t.me/RitzoBetsupports\" target=\"_blank\">@RitzoBetsupports</a>",
-      "plain_text": "⚡️ هیجان فوتبال رو با پیش‌بینی در یک پلتفرم حرفه ای جهانی چند برابر کن ☑️فینالی که در نیویورک منتظرش بودیم در متروپولیکانوی مادرید ساعت 23:15 به وقت تهران برگذار خواهد شد 1️⃣ضرایب رقابتی با سایت های جهانی 2️⃣داشتن گواهی نامه های معتبر اروپایی ریتزوبت 3️⃣ 100% بونوس اولین واریز 4️⃣ هدیه پروموکد هفتگی 💳 درگاه کارت فعال برای کاربران ایرانی 🚀همین حالا ثبت‌نام کن و تجربه‌ای متفاوت از شرط‌بندی آنلاین رو شروع کن. 📲اپلیکیشن موبایل برای اندروید 🌐 https://RitzoBet.com پشتیبان فارسی سایت ریتزوبت 👇🅰r24 ⚡️@RitzoBetsupports",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/BadNews_85/30375",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/CxQh1-BomXmMkkyUs08yifcuYu5JJSuEaHCIvrftnB6qVEqxaa-rH9epyxm8xwlYnT3LmRkdFqJxX_68Pm4-R6BxRtpJ4O30RYrWPENwQ56CwXVkyb7UGxKe2Bw7RdfxRyANdumDFYC9lv-M4_oprquXP76yY0YqIRJO_GqDsapx7nxGSzP1dTGNlV798KzYAWADe63gSn2Plks9zyYpf12ahjtqbc6VKqmjJpxBw-qAOubFOOz1tpUFL4FX6t1wva4OMQcVctxyrWFvWfOJM30fnWZ_VpGtyUO7PmbPyEjzRvAGchy4DUA_51iGqQ3sXOmGTXFn5HefL9BI6Vsw3A.jpg",
-          "thumbnail_path": "channels/badnews_85/media/c02363ad5de62d52421b2655.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.7987500000000295
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "7"
-        },
-        {
-          "emoji": "🖕",
-          "count": "2"
-        }
-      ],
-      "views_label": "28.2K",
-      "posted_at": "2026-11-15T09:49:43+00:00",
-      "edited": false,
-      "permalink": "https://t.me/BadNews_85/30375"
-    },
-    {
-      "id": "BadNews_85/30374",
-      "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Nz-yeCzILzQSfH2ogoOCFzbXBsYan5w4U4Xsb_YAlXCyae2WSvezOntGqQ4Z0suFa7Ipgd-vuAW5cOTLGfyEzAmzvGm-XsTeVSaH_EJwKuV0zGIAl7Wf728j8iKoUA0Wbsztl_6e2W16BAwE3mqyLl1aGbsz0qfpQ2oKWjzbBX9xmrnYtbr1SSeDlhxAhVTVyhKL5sLF1dF1Qz4pW4cSTkyJaEADdNSQE94DHVESU6kQl2pe5G83pMEoaNILbX8Jwft8H0Kba85nv72DNeynwX5HqxY5DI1MeDIkAw131i22rZiD1305GpdzcsvARSkD7szQGMStURQePRTHxuvYfw.jpg",
-      "author_photo_path": "channels/badnews_85/media/4c19ebd05d23c2b6434e6057.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> ی دانشجوی دانشگاه آزاد با هزار زحمت میره سر جلسه امتحان گوشی درمیاره و عکس برگه امتحانو میفرسته برا هوش مصنوعی تا کمکش کنه اما در کمال تعجب هوش مصنوعی در حرکتی ناجوانمردانه میگه کمکت نمیکنم چون داری تقلب میکنی و این دانشجو صفر میگیره.<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
-      "plain_text": "🔴 ی دانشجوی دانشگاه آزاد با هزار زحمت میره سر جلسه امتحان گوشی درمیاره و عکس برگه امتحانو میفرسته برا هوش مصنوعی تا کمکش کنه اما در کمال تعجب هوش مصنوعی در حرکتی ناجوانمردانه میگه کمکت نمیکنم چون داری تقلب میکنی و این دانشجو صفر میگیره. @BadNews_85",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/BadNews_85/30374",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/i3jHR1voTMbQKEBkzU-xnEizmhws4V7Hz_29IsMMjnkyq0_5-dayVN8HJjePvWsLdb3kFXkF8rHm2xgD3lVsAwvUNbSJeZSf0SRMfsa41OuCf1S9uriVPGs2jqhMymstDgRe_Cz41zp9PzKkWfs0QYYMdRU0RkIH3tAjDFcWm9Y7FbuhGluh1-q1fExa7gHI51yfozHN5jCHcigRmEBKk5qYASkgNUgWFgR_fRXDZNr0d8-exelx-k8xrdEvGxCcpd0UQ--EtjbPFo8ZFWFV-Bk5T-CXfZ7p-WvDPPg526naFBtIZIr-56FFhpkB-po-oppYBFDOy4LB5i3QYLJ_8A.jpg",
-          "thumbnail_path": "channels/badnews_85/media/4873a819326f6c438bfa54f6.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.9228723404255321
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "1.21K"
-        },
-        {
-          "emoji": "😐",
-          "count": "102"
-        },
-        {
-          "emoji": "🖕",
-          "count": "24"
-        },
-        {
-          "emoji": "❤",
-          "count": "12"
-        },
-        {
-          "emoji": "👍",
-          "count": "5"
-        },
-        {
-          "emoji": "💔",
-          "count": "5"
-        },
-        {
-          "emoji": "🤯",
-          "count": "3"
-        }
-      ],
-      "views_label": "27K",
-      "posted_at": "2026-11-15T08:54:42+00:00",
-      "edited": false,
-      "permalink": "https://t.me/BadNews_85/30374"
-    },
-    {
-      "id": "BadNews_85/30373",
-      "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Nz-yeCzILzQSfH2ogoOCFzbXBsYan5w4U4Xsb_YAlXCyae2WSvezOntGqQ4Z0suFa7Ipgd-vuAW5cOTLGfyEzAmzvGm-XsTeVSaH_EJwKuV0zGIAl7Wf728j8iKoUA0Wbsztl_6e2W16BAwE3mqyLl1aGbsz0qfpQ2oKWjzbBX9xmrnYtbr1SSeDlhxAhVTVyhKL5sLF1dF1Qz4pW4cSTkyJaEADdNSQE94DHVESU6kQl2pe5G83pMEoaNILbX8Jwft8H0Kba85nv72DNeynwX5HqxY5DI1MeDIkAw131i22rZiD1305GpdzcsvARSkD7szQGMStURQePRTHxuvYfw.jpg",
-      "author_photo_path": "channels/badnews_85/media/4c19ebd05d23c2b6434e6057.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> این ویدیو از یه خانوم محجبه پادشاهی‌خواه باعث فشاری شدنه حامیای حکومت شده :<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
-      "plain_text": "🔴 این ویدیو از یه خانوم محجبه پادشاهی‌خواه باعث فشاری شدنه حامیای حکومت شده : @BadNews_85",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/BadNews_85/30373",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/BORW7UHxnVyCnT7QHcLcgXLuBXGlgDnpj55NS1G4yIqHLW2uKtU8P1X6mznbbjX-eY1vUA29cGDcWF3uM7zHgxsTp0ZflR6mkH8m3k8-H9c_shtpy-PbThYes3DrpofJbt19MhAN8Y4r3R96D1_tBnFZDWXgK4uQm4Einplv7p3sDEXxePbrlbZlJurkmd7WM1My1lUh30BhCxmojgu4twS9yLvQd56yMbsVUIg6TplbE8Aymbjl1UuruTp-eMWdnCutsIHhZQpxm0Z200FPEgh6GhFG9S8u2ty_60i_sUfLg0PWoo_1thoHWgi2DTXW6sZy1XvgcZOOjqvhyxLmHQ",
-          "thumbnail_path": "channels/badnews_85/media/41ce4ab73683900ee4d6ea5c.jpg",
-          "duration_label": "0:20",
-          "aspect_ratio": 1.7722222222222301
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "1.55K"
-        },
-        {
-          "emoji": "🤣",
-          "count": "142"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "42"
-        },
-        {
-          "emoji": "🖕",
-          "count": "34"
-        },
-        {
-          "emoji": "👍",
-          "count": "12"
-        },
-        {
-          "emoji": "🔥",
-          "count": "11"
-        },
-        {
-          "emoji": "😐",
-          "count": "9"
-        },
-        {
-          "emoji": "🥰",
-          "count": "3"
-        },
-        {
-          "emoji": "🍓",
-          "count": "3"
-        }
-      ],
-      "views_label": "28.7K",
-      "posted_at": "2026-11-14T21:57:21+00:00",
-      "edited": false,
-      "permalink": "https://t.me/BadNews_85/30373"
-    },
-    {
-      "id": "BadNews_85/30372",
-      "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Nz-yeCzILzQSfH2ogoOCFzbXBsYan5w4U4Xsb_YAlXCyae2WSvezOntGqQ4Z0suFa7Ipgd-vuAW5cOTLGfyEzAmzvGm-XsTeVSaH_EJwKuV0zGIAl7Wf728j8iKoUA0Wbsztl_6e2W16BAwE3mqyLl1aGbsz0qfpQ2oKWjzbBX9xmrnYtbr1SSeDlhxAhVTVyhKL5sLF1dF1Qz4pW4cSTkyJaEADdNSQE94DHVESU6kQl2pe5G83pMEoaNILbX8Jwft8H0Kba85nv72DNeynwX5HqxY5DI1MeDIkAw131i22rZiD1305GpdzcsvARSkD7szQGMStURQePRTHxuvYfw.jpg",
-      "author_photo_path": "channels/badnews_85/media/4c19ebd05d23c2b6434e6057.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> دعوای دسته جمعی چندتا دختر تو تبریز بر سر مسائل ناموسی(ی پسر ۱۶ ساله) :  +طی این درگیری سنگین یک هودی پاره و یک شورت جر خورد.  @BadNews_85",
-      "plain_text": "🔴 دعوای دسته جمعی چندتا دختر تو تبریز بر سر مسائل ناموسی(ی پسر ۱۶ ساله) : +طی این درگیری سنگین یک هودی پاره و یک شورت جر خورد. @BadNews_85",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/BadNews_85/30372",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/AI8EDf_7jTaq-kcLaFiipOEEsRUcPUcbQHADLWOlPh6-DrZzo2fET1xOdDuE1Pd_NDOU174AMbD1oZ-wGtqcS_-nGJOGtlc4iCV77U9uOzXMjN_Thi7Ta_gkqDXpeC0Hl7-1sdF3HfRwppqDi5z2vZ5FZLIUjI72UOpHy48AZLhBykjspa7CjQRoLNY6a-XvnsNVJPpRFgwfE-iHPphznrumrpBUZSoIZzoX7xBk-4Yq3LO-nna9uLgEtNBAgxyFqliY3WuqSZxJuRkswklswZ0VtBnGsNq9e7CFPcajsMZG0u675f-57q87L9ja7WYhIgAbuLoNeOA8mj-RRJyinw",
-          "thumbnail_path": "channels/badnews_85/media/a74fbdc8f68e9a7dca68fc5a.jpg",
-          "duration_label": "0:28",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🖕",
-          "count": "767"
-        },
-        {
-          "emoji": "😐",
-          "count": "118"
-        },
-        {
-          "emoji": "🤣",
-          "count": "80"
-        },
-        {
-          "emoji": "💔",
-          "count": "23"
-        },
-        {
-          "emoji": "❤",
-          "count": "5"
-        },
-        {
-          "emoji": "🔥",
-          "count": "3"
-        },
-        {
-          "emoji": "🤯",
-          "count": "3"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        }
-      ],
-      "views_label": "29.1K",
-      "posted_at": "2026-11-14T21:18:52+00:00",
-      "edited": false,
-      "permalink": "https://t.me/BadNews_85/30372"
-    },
-    {
-      "id": "BadNews_85/30371",
-      "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/YAYcYnpSPtxxLQt65fgzYK2P7pms72iq37oul4y_hCPfsFXgjwMLpl4RcDPu31orkwTzXhTgCFQSeD8Td881wTbkYTotZRxo6261dJJfILG1zKtayehp7OrjhBW-NWsMdtzL-f1z8qiZcqdRUB6oHoMs4L3igNrzF_RZV35uUPBm9G5kwR1U17_29JDu4wgKd1261jTE7EgLf63BQo-06aQ-x2K0GDQDfRTO3yqiKuQCvPXnzWfBaXtbnw2t918PPI1WeHU9eR1RrOPGc1xJR39y_EMbJAOtxG7M0IEC_b2yBCg2Sy9-W6Qp6kjg6DkXmw2rylrzGpHmDY8FtW_cXw.jpg",
-      "author_photo_path": "channels/badnews_85/media/beda057c7ffbb44b947ccae7.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5821281398916389297\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918F.png')\"><b>👏</b></i></tg-emoji><b>یک بار شارژ کن ، دوبار شارژشو‌ این طرح اختصاصی ریتزوبت برای کاربرای فارسی زبان خودش رو از دست نده </b><br><br><tg-emoji emoji-id=\"5764718573708647883\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')\"><b>🔵</b></i></tg-emoji><b>اولین پلتفرم جهانی و اسپانسر لیگ هلند محیط امن و حرفه ای برای عاشقان&nbsp;شرط بندی فوتبال </b><br><br><tg-emoji emoji-id=\"5897848502456685775\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i></tg-emoji> واریز آنی با کریپتو<br><tg-emoji emoji-id=\"5897848502456685775\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i></tg-emoji> تسویه‌حساب سریع و مطمئن<br><tg-emoji emoji-id=\"5897848502456685775\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i></tg-emoji> دسترسی آسان و بدون دردسر<br><tg-emoji emoji-id=\"5897848502456685775\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i></tg-emoji> محیط حرفه‌ای برای شرط‌بندی و کازینو<br><br><tg-emoji emoji-id=\"5445284980978621387\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> <b>همین حالا ثبت‌نام کن و تجربه‌ای متفاوت از شرط‌بندی آنلاین رو شروع کن.</b><br><br><tg-emoji emoji-id=\"5406809207947142040\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B2.png')\"><b>📲</b></i></tg-emoji><a href=\"https://t.me/Ritzobet_ir/3504\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">اپلیکیشن موبایل برای اندروید</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i> <a href=\"https://RitzoBet.com/\" target=\"_blank\" rel=\"noopener\">https://RitzoBet.com</a><br><br>پشتیبان فارسی سایت ریتزوبت <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰</b></i>23<br><tg-emoji emoji-id=\"5900217365898990777\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i></tg-emoji><a href=\"https://t.me/RitzoBetsupports\" target=\"_blank\">@RitzoBetsupports</a>",
-      "plain_text": "👏یک بار شارژ کن ، دوبار شارژشو‌ این طرح اختصاصی ریتزوبت برای کاربرای فارسی زبان خودش رو از دست نده 🔵اولین پلتفرم جهانی و اسپانسر لیگ هلند محیط امن و حرفه ای برای عاشقان شرط بندی فوتبال ⚡️ واریز آنی با کریپتو ⚡️ تسویه‌حساب سریع و مطمئن ⚡️ دسترسی آسان و بدون دردسر ⚡️ محیط حرفه‌ای برای شرط‌بندی و کازینو 🚀 همین حالا ثبت‌نام کن و تجربه‌ای متفاوت از شرط‌بندی آنلاین رو شروع کن. 📲اپلیکیشن موبایل برای اندروید 🌐 https://RitzoBet.com پشتیبان فارسی سایت ریتزوبت 👇🅰23 ⚡️@RitzoBetsupports",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/BadNews_85/30371",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/lL7Dao3M4Map2gaOZ0pV__Sq45GxYEBl6TU6oZe2PZLDTKmvG4ZJ_tfWXwtZPGDAvHmxHPWfy62ZVTZWWa9jGoRXlHwpcynhBXhrQtzH9Izk2UcX7d69t7PtWm3Dyi-TONCRhjULlpQqntuzLxCTxqoEr3uWlqs0lfqMoUHyiZALc89H5AoXblhBNCXIkfFjurasXZ-qYc1VixbGquxhrAVEl9n-Axy3oGvOIkiccy_ywqiQpCfWL8_HzhJj1SLe95v8RdYi-V6xrivUDb0QjuTq_9ydcfmIzCaFsyPmGY1PR8GpOP1oxFebLktiL9rzk113KgzHfwWXK4ulWrAJjQ.jpg",
-          "thumbnail_path": "channels/badnews_85/media/dd0c1982f6d4266b06154337.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.7987500000000295
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "4"
-        }
-      ],
-      "views_label": "26.2K",
-      "posted_at": "2026-11-14T21:18:50+00:00",
-      "edited": false,
-      "permalink": "https://t.me/BadNews_85/30371"
-    },
-    {
-      "id": "BadNews_85/30370",
-      "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/YAYcYnpSPtxxLQt65fgzYK2P7pms72iq37oul4y_hCPfsFXgjwMLpl4RcDPu31orkwTzXhTgCFQSeD8Td881wTbkYTotZRxo6261dJJfILG1zKtayehp7OrjhBW-NWsMdtzL-f1z8qiZcqdRUB6oHoMs4L3igNrzF_RZV35uUPBm9G5kwR1U17_29JDu4wgKd1261jTE7EgLf63BQo-06aQ-x2K0GDQDfRTO3yqiKuQCvPXnzWfBaXtbnw2t918PPI1WeHU9eR1RrOPGc1xJR39y_EMbJAOtxG7M0IEC_b2yBCg2Sy9-W6Qp6kjg6DkXmw2rylrzGpHmDY8FtW_cXw.jpg",
-      "author_photo_path": "channels/badnews_85/media/beda057c7ffbb44b947ccae7.jpg",
-      "body_html": "ویدیو وایرال شده از بانو شکیرا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8D93.png')\"><b>🍓</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8D91.png')\"><b>🍑</b></i><br><br>خاک تو سرت پیکه چی رو از دست دادی ..<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
-      "plain_text": "ویدیو وایرال شده از بانو شکیرا🍓🍑 خاک تو سرت پیکه چی رو از دست دادی .. @BadNews_85",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/BadNews_85/30370",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/CFwd-ZhZwvYiSYYkz3C_w1N2m9YSvGdmVcypEJd-9q44eAmd0RSftmdKNw6lKVphuqWRqDu0iypb7G4K7c93eh9UiPG_22NSlgIuiiSUMg_GknYD7H4BsQsV8W_KWS2ifHMEhkM2IXUZNADSElWEpkegMmJxHzeEM_uT1CyvEJrovkTE56lbqNjssJwQOXsez9u7zEzNZ8Z1CF-7VVf3l_HlDIbIOBiNJ2vNWpsBZetcJTkqsMsPP_9txH35Jx9Y_VQbPa3K13hn5N8FAftavbwijLR4aqhS1zc2J6ONV_1u8sjHSkUXJdZFJ0dslZN44KGPm6g4hCpOJC2Keq0RYA",
-          "thumbnail_path": "channels/badnews_85/media/196ad81b0e0af8521ad86960.jpg",
-          "duration_label": "0:06",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤‍🔥",
-          "count": "384"
-        },
-        {
-          "emoji": "🤣",
-          "count": "77"
-        },
-        {
-          "emoji": "❤",
-          "count": "24"
-        },
-        {
-          "emoji": "🍓",
-          "count": "17"
-        },
-        {
-          "emoji": "🖕",
-          "count": "16"
-        }
-      ],
-      "views_label": "27K",
-      "posted_at": "2026-11-14T20:36:21+00:00",
-      "edited": false,
-      "permalink": "https://t.me/BadNews_85/30370"
-    },
-    {
-      "id": "BadNews_85/30369",
-      "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/YAYcYnpSPtxxLQt65fgzYK2P7pms72iq37oul4y_hCPfsFXgjwMLpl4RcDPu31orkwTzXhTgCFQSeD8Td881wTbkYTotZRxo6261dJJfILG1zKtayehp7OrjhBW-NWsMdtzL-f1z8qiZcqdRUB6oHoMs4L3igNrzF_RZV35uUPBm9G5kwR1U17_29JDu4wgKd1261jTE7EgLf63BQo-06aQ-x2K0GDQDfRTO3yqiKuQCvPXnzWfBaXtbnw2t918PPI1WeHU9eR1RrOPGc1xJR39y_EMbJAOtxG7M0IEC_b2yBCg2Sy9-W6Qp6kjg6DkXmw2rylrzGpHmDY8FtW_cXw.jpg",
-      "author_photo_path": "channels/badnews_85/media/beda057c7ffbb44b947ccae7.jpg",
-      "body_html": "یکی‌از دلایل اینکه همیشه هرجا میرم روی مبل‌های تک نفره میشینم :<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
-      "plain_text": "یکی‌از دلایل اینکه همیشه هرجا میرم روی مبل‌های تک نفره میشینم : @BadNews_85",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/BadNews_85/30369",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/nzj39aMZzeTOEru37-iKlDPWzgE6BC645n_6kiO11l6pw2dKnDK3_pUw4WNpvNBHWkU066zC8hKzAXREBPvdcGHEQ158OHQqraCUUYysCqKhnVvAJFbQ1ha_Rmri8MpSenQJe0gsDVDzt3qIbknqp16hPY8r1KQZRLXa2Bf-t5Egd2AAJAX2ozKKRARljD6VExvhUoDoKMHmwgjsEaD_AQDdtloWePilIrDs0rVjjNPhuiZsOYC6-6rQmhbVkGkgHELBCiTuXP9p2GxNaIz_4oynTRjX0Rgny6OdG6G6zWpcwgzQZ2QjnOE6A69sJyYaA0d6GoxZVcJ7lsjexzgRGg.jpg",
-          "thumbnail_path": "channels/badnews_85/media/9c086c314d0d57b1d0538ba8.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.2000000000000048
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "957"
-        },
-        {
-          "emoji": "😐",
-          "count": "72"
-        },
-        {
-          "emoji": "🖕",
-          "count": "24"
-        },
-        {
-          "emoji": "❤",
-          "count": "6"
-        },
-        {
-          "emoji": "🍓",
-          "count": "5"
-        }
-      ],
-      "views_label": "26.9K",
-      "posted_at": "2026-11-14T19:54:40+00:00",
-      "edited": false,
-      "permalink": "https://t.me/BadNews_85/30369"
-    },
-    {
-      "id": "BadNews_85/30368",
-      "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/YAYcYnpSPtxxLQt65fgzYK2P7pms72iq37oul4y_hCPfsFXgjwMLpl4RcDPu31orkwTzXhTgCFQSeD8Td881wTbkYTotZRxo6261dJJfILG1zKtayehp7OrjhBW-NWsMdtzL-f1z8qiZcqdRUB6oHoMs4L3igNrzF_RZV35uUPBm9G5kwR1U17_29JDu4wgKd1261jTE7EgLf63BQo-06aQ-x2K0GDQDfRTO3yqiKuQCvPXnzWfBaXtbnw2t918PPI1WeHU9eR1RrOPGc1xJR39y_EMbJAOtxG7M0IEC_b2yBCg2Sy9-W6Qp6kjg6DkXmw2rylrzGpHmDY8FtW_cXw.jpg",
-      "author_photo_path": "channels/badnews_85/media/beda057c7ffbb44b947ccae7.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> توییت وایرال شده از یه ترنس :<br><br>خلاصه ماجرا سوار اسنپ میشه موقعی که میخواسته پیاده بشه راننده خیلی محترمانه بهش میگه ای کاش میذاشتی دودولتو بخورم.<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
-      "plain_text": "🔴 توییت وایرال شده از یه ترنس : خلاصه ماجرا سوار اسنپ میشه موقعی که میخواسته پیاده بشه راننده خیلی محترمانه بهش میگه ای کاش میذاشتی دودولتو بخورم. @BadNews_85",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/BadNews_85/30368",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/nQzqk-cFEDJCHPuO_SPrEwIxPTdQ36TLyk7_bGXIntqTmHR0FqFlrA-h6KDIyWYzVBW3S9yltayMunoP6pXwpsv_DBpUFFelzRGAcqY75y7ujqaTnMrR_YyADybUGsQGaOd6-sPhYjTnCWpfX7-4-HzDz8OVW1lnr8mIQcbxOG9jRDjAlpL7Bi7fz-Rw5OdJkB1kKvoZW8LanhU5F2aMIhF73b-3cmHt4iecWELgUcCE2swYXyzsE8zHmmxWdQusPX3Z7jshDe-er8a9dl9Tnuk4DYcPIEWJyGLzcALx9n0BQbzEvzMubjJ8LzLPNaBnVxakVCkmfrqFmOg1dqsGRA.jpg",
-          "thumbnail_path": "channels/badnews_85/media/4b68c1213b3e627404a9f51c.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.2678288431061806
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "744"
-        },
-        {
-          "emoji": "😐",
-          "count": "130"
-        },
-        {
-          "emoji": "💔",
-          "count": "21"
-        },
-        {
-          "emoji": "❤",
-          "count": "12"
-        },
-        {
-          "emoji": "🖕",
-          "count": "9"
-        },
-        {
-          "emoji": "🤯",
-          "count": "4"
-        }
-      ],
-      "views_label": "26.8K",
-      "posted_at": "2026-11-14T18:54:32+00:00",
-      "edited": false,
-      "permalink": "https://t.me/BadNews_85/30368"
-    },
-    {
-      "id": "BadNews_85/30367",
-      "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/YAYcYnpSPtxxLQt65fgzYK2P7pms72iq37oul4y_hCPfsFXgjwMLpl4RcDPu31orkwTzXhTgCFQSeD8Td881wTbkYTotZRxo6261dJJfILG1zKtayehp7OrjhBW-NWsMdtzL-f1z8qiZcqdRUB6oHoMs4L3igNrzF_RZV35uUPBm9G5kwR1U17_29JDu4wgKd1261jTE7EgLf63BQo-06aQ-x2K0GDQDfRTO3yqiKuQCvPXnzWfBaXtbnw2t918PPI1WeHU9eR1RrOPGc1xJR39y_EMbJAOtxG7M0IEC_b2yBCg2Sy9-W6Qp6kjg6DkXmw2rylrzGpHmDY8FtW_cXw.jpg",
-      "author_photo_path": "channels/badnews_85/media/beda057c7ffbb44b947ccae7.jpg",
-      "body_html": "این ویدیو بفرستید برای اونی که قصد ازدواج باهاتون نداره،<br><br>تضمینی میگیره شمارو<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
-      "plain_text": "این ویدیو بفرستید برای اونی که قصد ازدواج باهاتون نداره، تضمینی میگیره شمارو @BadNews_85",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/BadNews_85/30367",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/YlRcTBvvgPmN91LNAKKVcy_hK-deze9xnYT5exOhi_xzcYaz3TEbCQR_wCXmrAbRtAuPyWsipeXfQV47Nd_e8InSHJtVOUByBCDGDToIM4Kbbd8sEhk-iGqbs65-s791doQU7pYMGdQqdyhQQWOpHsNX_-Ys56JmvWX3O-veFPz34Thi0TFXHkgbCcyL37AeH2MvCkLYvO6gOGxpNWNqAB7prf1Z58CgtEOzYhkTn-AEfNcEnH3j9afnIg7ug2k4hJfOwvVdEOyihUysBnBdOPZD2depk54ZS5y8pHnBprMmBI3HNn44K-X6mtMRor-4TVCZLpOQ-O-qCHFN-NfaIg",
-          "thumbnail_path": "channels/badnews_85/media/21878f3cc503a1a0a402e884.jpg",
-          "duration_label": "0:09",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "362"
-        },
-        {
-          "emoji": "🤣",
-          "count": "36"
-        },
-        {
-          "emoji": "🍓",
-          "count": "22"
-        },
-        {
-          "emoji": "🖕",
-          "count": "18"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "3"
-        },
-        {
-          "emoji": "😐",
-          "count": "3"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        }
-      ],
-      "views_label": "25.7K",
-      "posted_at": "2026-11-14T18:18:07+00:00",
-      "edited": false,
-      "permalink": "https://t.me/BadNews_85/30367"
     }
   ]
 }
