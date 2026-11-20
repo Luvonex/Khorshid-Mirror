@@ -1,38 +1,69 @@
 {
   "schema": 2,
-  "fetched_at": "2026-11-20T01:57:49.517Z",
+  "fetched_at": "2026-11-20T08:44:13.982Z",
   "channel": {
     "username": "media_hb",
     "title": "مدیا هاب | اخبار جنگ",
     "description_html": "برای تبلیغات و همکاری پیوی پیام بدید<br><br><a href=\"https://t.me/Behdad_ps\" target=\"_blank\">@Behdad_ps</a>",
-    "photo_url": "https://cdn4.telesco.pe/file/cBLKq75E0FVeLMV3JtFirQ_FHiloQMf9rDcM-be4MF133K3hqzCePS96v6t9KyKRUTb0d6l_wBIdyZZLHowxuc3Ua8zmPASettUZMK-71b3P16Oeyq3oTE82k9gDLc30850ieOsWeqmoKuN7pfuK98Wl4RCGTZfCdcpAyXFCNtNrlMWtxn1KFwrKqyRWAZuiWUNGmAIHBKb3wsJioZz_6pWAJuMp0RSGtTmiifiV_yI5d0KuxXVk9Vaex8pRmbwpUZQlAiXyPeNIK89Xijvny8F3b7zGc7g22ZxYVfVVpKaLju3h7exhoX8SRCRlipi8W4qjaM2O1rO90_cDDogFtg.jpg",
-    "photo_path": "channels/media_hb/media/d3c868d29764fd61b4c1c97a.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/NqSIhGxTJgQxy2rTYQDzvaIKMY5e0FhA7wW0amv_ZDbAqEz1uxnZWMbXlS4fas9tAkfnZjmv50Y486L5M82aYmntUDv8uYM0pVy_0mm2yW56iv5q_3coG7cxzOivz0urLXqs7tfrRnuGEhYnfSfANpLBuhqedAmxUXQk02A7xm2EK9i4xMz5NvINPuXszuw6kGDHC1ooa6wZr9riWA-DPZmZbgyJDXdYV2KIpnwB5RI_MM7igXlT4tHC5eK5k0n5qRkmSCSpYSqOlTnPdeIn_JS5q2sf36OLe5t1ZuxJog_shZIZ6Ob28r3Hkiy4vC3uitwaoRgFWBKiKVcqLG9loA.jpg",
+    "photo_path": "channels/media_hb/media/5dd94bd82ca8bbbde154ca52.jpg",
     "subscriber_count": "128K"
   },
   "posts": [
     {
+      "id": "Media_HB/110913",
+      "author_name": "مدیا هاب | اخبار جنگ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NqSIhGxTJgQxy2rTYQDzvaIKMY5e0FhA7wW0amv_ZDbAqEz1uxnZWMbXlS4fas9tAkfnZjmv50Y486L5M82aYmntUDv8uYM0pVy_0mm2yW56iv5q_3coG7cxzOivz0urLXqs7tfrRnuGEhYnfSfANpLBuhqedAmxUXQk02A7xm2EK9i4xMz5NvINPuXszuw6kGDHC1ooa6wZr9riWA-DPZmZbgyJDXdYV2KIpnwB5RI_MM7igXlT4tHC5eK5k0n5qRkmSCSpYSqOlTnPdeIn_JS5q2sf36OLe5t1ZuxJog_shZIZ6Ob28r3Hkiy4vC3uitwaoRgFWBKiKVcqLG9loA.jpg",
+      "author_photo_path": "channels/media_hb/media/5dd94bd82ca8bbbde154ca52.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i><b>بنظر یک پهباد در اصفهان رهگیری شده!</b>",
+      "plain_text": "❗️بنظر یک پهباد در اصفهان رهگیری شده!",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👎",
+          "count": "6"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        }
+      ],
+      "views_label": "763",
+      "posted_at": "2026-11-20T08:38:39+00:00",
+      "edited": true,
+      "permalink": "https://t.me/Media_HB/110913"
+    },
+    {
       "id": "Media_HB/110912",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/cBLKq75E0FVeLMV3JtFirQ_FHiloQMf9rDcM-be4MF133K3hqzCePS96v6t9KyKRUTb0d6l_wBIdyZZLHowxuc3Ua8zmPASettUZMK-71b3P16Oeyq3oTE82k9gDLc30850ieOsWeqmoKuN7pfuK98Wl4RCGTZfCdcpAyXFCNtNrlMWtxn1KFwrKqyRWAZuiWUNGmAIHBKb3wsJioZz_6pWAJuMp0RSGtTmiifiV_yI5d0KuxXVk9Vaex8pRmbwpUZQlAiXyPeNIK89Xijvny8F3b7zGc7g22ZxYVfVVpKaLju3h7exhoX8SRCRlipi8W4qjaM2O1rO90_cDDogFtg.jpg",
-      "author_photo_path": "channels/media_hb/media/d3c868d29764fd61b4c1c97a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NqSIhGxTJgQxy2rTYQDzvaIKMY5e0FhA7wW0amv_ZDbAqEz1uxnZWMbXlS4fas9tAkfnZjmv50Y486L5M82aYmntUDv8uYM0pVy_0mm2yW56iv5q_3coG7cxzOivz0urLXqs7tfrRnuGEhYnfSfANpLBuhqedAmxUXQk02A7xm2EK9i4xMz5NvINPuXszuw6kGDHC1ooa6wZr9riWA-DPZmZbgyJDXdYV2KIpnwB5RI_MM7igXlT4tHC5eK5k0n5qRkmSCSpYSqOlTnPdeIn_JS5q2sf36OLe5t1ZuxJog_shZIZ6Ob28r3Hkiy4vC3uitwaoRgFWBKiKVcqLG9loA.jpg",
+      "author_photo_path": "channels/media_hb/media/5dd94bd82ca8bbbde154ca52.jpg",
       "body_html": "دم بچه های که امشب توی استریم بودن گرم خیلییی خوش گذشت<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i>",
       "plain_text": "دم بچه های که امشب توی استریم بودن گرم خیلییی خوش گذشت❤️",
       "media": [],
       "reactions": [
         {
           "emoji": "❤",
-          "count": "25"
+          "count": "54"
         },
         {
           "emoji": "😭",
-          "count": "2"
+          "count": "5"
+        },
+        {
+          "emoji": "🤡",
+          "count": "4"
+        },
+        {
+          "emoji": "👎",
+          "count": "3"
         },
         {
           "emoji": "👍",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "2.74K",
+      "views_label": "7.43K",
       "posted_at": "2026-11-19T23:23:06+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110912"
@@ -40,26 +71,30 @@
     {
       "id": "Media_HB/110911",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/cBLKq75E0FVeLMV3JtFirQ_FHiloQMf9rDcM-be4MF133K3hqzCePS96v6t9KyKRUTb0d6l_wBIdyZZLHowxuc3Ua8zmPASettUZMK-71b3P16Oeyq3oTE82k9gDLc30850ieOsWeqmoKuN7pfuK98Wl4RCGTZfCdcpAyXFCNtNrlMWtxn1KFwrKqyRWAZuiWUNGmAIHBKb3wsJioZz_6pWAJuMp0RSGtTmiifiV_yI5d0KuxXVk9Vaex8pRmbwpUZQlAiXyPeNIK89Xijvny8F3b7zGc7g22ZxYVfVVpKaLju3h7exhoX8SRCRlipi8W4qjaM2O1rO90_cDDogFtg.jpg",
-      "author_photo_path": "channels/media_hb/media/d3c868d29764fd61b4c1c97a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NqSIhGxTJgQxy2rTYQDzvaIKMY5e0FhA7wW0amv_ZDbAqEz1uxnZWMbXlS4fas9tAkfnZjmv50Y486L5M82aYmntUDv8uYM0pVy_0mm2yW56iv5q_3coG7cxzOivz0urLXqs7tfrRnuGEhYnfSfANpLBuhqedAmxUXQk02A7xm2EK9i4xMz5NvINPuXszuw6kGDHC1ooa6wZr9riWA-DPZmZbgyJDXdYV2KIpnwB5RI_MM7igXlT4tHC5eK5k0n5qRkmSCSpYSqOlTnPdeIn_JS5q2sf36OLe5t1ZuxJog_shZIZ6Ob28r3Hkiy4vC3uitwaoRgFWBKiKVcqLG9loA.jpg",
+      "author_photo_path": "channels/media_hb/media/5dd94bd82ca8bbbde154ca52.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i><b>اکسیوس: <br><br>مدیر امنیت سایبری ملی در دولت ترامپ، از سمت خود استعفا داد.</b>",
       "plain_text": "❗️اکسیوس: مدیر امنیت سایبری ملی در دولت ترامپ، از سمت خود استعفا داد.",
       "media": [],
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "80"
+          "count": "115"
         },
         {
           "emoji": "❤",
-          "count": "2"
+          "count": "6"
         },
         {
           "emoji": "👍",
           "count": "1"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
         }
       ],
-      "views_label": "4.79K",
+      "views_label": "8.85K",
       "posted_at": "2026-11-19T22:24:35+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110911"
@@ -67,23 +102,23 @@
     {
       "id": "Media_HB/110908",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/cBLKq75E0FVeLMV3JtFirQ_FHiloQMf9rDcM-be4MF133K3hqzCePS96v6t9KyKRUTb0d6l_wBIdyZZLHowxuc3Ua8zmPASettUZMK-71b3P16Oeyq3oTE82k9gDLc30850ieOsWeqmoKuN7pfuK98Wl4RCGTZfCdcpAyXFCNtNrlMWtxn1KFwrKqyRWAZuiWUNGmAIHBKb3wsJioZz_6pWAJuMp0RSGtTmiifiV_yI5d0KuxXVk9Vaex8pRmbwpUZQlAiXyPeNIK89Xijvny8F3b7zGc7g22ZxYVfVVpKaLju3h7exhoX8SRCRlipi8W4qjaM2O1rO90_cDDogFtg.jpg",
-      "author_photo_path": "channels/media_hb/media/d3c868d29764fd61b4c1c97a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NqSIhGxTJgQxy2rTYQDzvaIKMY5e0FhA7wW0amv_ZDbAqEz1uxnZWMbXlS4fas9tAkfnZjmv50Y486L5M82aYmntUDv8uYM0pVy_0mm2yW56iv5q_3coG7cxzOivz0urLXqs7tfrRnuGEhYnfSfANpLBuhqedAmxUXQk02A7xm2EK9i4xMz5NvINPuXszuw6kGDHC1ooa6wZr9riWA-DPZmZbgyJDXdYV2KIpnwB5RI_MM7igXlT4tHC5eK5k0n5qRkmSCSpYSqOlTnPdeIn_JS5q2sf36OLe5t1ZuxJog_shZIZ6Ob28r3Hkiy4vC3uitwaoRgFWBKiKVcqLG9loA.jpg",
+      "author_photo_path": "channels/media_hb/media/5dd94bd82ca8bbbde154ca52.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i>پناهگاه‌ها در ایلات، در جنوب   اسرائیل باز شده‌اند.",
       "plain_text": "🚨🚨پناهگاه‌ها در ایلات، در جنوب اسرائیل باز شده‌اند.",
       "media": [],
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "68"
+          "count": "78"
         },
         {
           "emoji": "🤣",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "❤",
-          "count": "1"
+          "count": "4"
         },
         {
           "emoji": "👍",
@@ -94,7 +129,7 @@
           "count": "1"
         }
       ],
-      "views_label": "7.39K",
+      "views_label": "10.4K",
       "posted_at": "2026-11-19T21:15:51+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110908"
@@ -102,15 +137,19 @@
     {
       "id": "Media_HB/110905",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/cBLKq75E0FVeLMV3JtFirQ_FHiloQMf9rDcM-be4MF133K3hqzCePS96v6t9KyKRUTb0d6l_wBIdyZZLHowxuc3Ua8zmPASettUZMK-71b3P16Oeyq3oTE82k9gDLc30850ieOsWeqmoKuN7pfuK98Wl4RCGTZfCdcpAyXFCNtNrlMWtxn1KFwrKqyRWAZuiWUNGmAIHBKb3wsJioZz_6pWAJuMp0RSGtTmiifiV_yI5d0KuxXVk9Vaex8pRmbwpUZQlAiXyPeNIK89Xijvny8F3b7zGc7g22ZxYVfVVpKaLju3h7exhoX8SRCRlipi8W4qjaM2O1rO90_cDDogFtg.jpg",
-      "author_photo_path": "channels/media_hb/media/d3c868d29764fd61b4c1c97a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NqSIhGxTJgQxy2rTYQDzvaIKMY5e0FhA7wW0amv_ZDbAqEz1uxnZWMbXlS4fas9tAkfnZjmv50Y486L5M82aYmntUDv8uYM0pVy_0mm2yW56iv5q_3coG7cxzOivz0urLXqs7tfrRnuGEhYnfSfANpLBuhqedAmxUXQk02A7xm2EK9i4xMz5NvINPuXszuw6kGDHC1ooa6wZr9riWA-DPZmZbgyJDXdYV2KIpnwB5RI_MM7igXlT4tHC5eK5k0n5qRkmSCSpYSqOlTnPdeIn_JS5q2sf36OLe5t1ZuxJog_shZIZ6Ob28r3Hkiy4vC3uitwaoRgFWBKiKVcqLG9loA.jpg",
+      "author_photo_path": "channels/media_hb/media/5dd94bd82ca8bbbde154ca52.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i><b>یک دسته از جنگنده‌های اف-۳۵ نیروی هوایی ایالات متحده از پایگاه نیروی هوایی سلطنتی «لیکنهیث» در شرق انگلستان برخاسته‌اند. مقصد آن‌ها در حال حاضر نامشخص است.</b>",
       "plain_text": "❗️یک دسته از جنگنده‌های اف-۳۵ نیروی هوایی ایالات متحده از پایگاه نیروی هوایی سلطنتی «لیکنهیث» در شرق انگلستان برخاسته‌اند. مقصد آن‌ها در حال حاضر نامشخص است.",
       "media": [],
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "92"
+          "count": "100"
+        },
+        {
+          "emoji": "👍",
+          "count": "2"
         },
         {
           "emoji": "🤣",
@@ -119,13 +158,9 @@
         {
           "emoji": "❤",
           "count": "1"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
         }
       ],
-      "views_label": "8.39K",
+      "views_label": "10.8K",
       "posted_at": "2026-11-19T20:52:37+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110905"
@@ -133,19 +168,19 @@
     {
       "id": "Media_HB/110904",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/cBLKq75E0FVeLMV3JtFirQ_FHiloQMf9rDcM-be4MF133K3hqzCePS96v6t9KyKRUTb0d6l_wBIdyZZLHowxuc3Ua8zmPASettUZMK-71b3P16Oeyq3oTE82k9gDLc30850ieOsWeqmoKuN7pfuK98Wl4RCGTZfCdcpAyXFCNtNrlMWtxn1KFwrKqyRWAZuiWUNGmAIHBKb3wsJioZz_6pWAJuMp0RSGtTmiifiV_yI5d0KuxXVk9Vaex8pRmbwpUZQlAiXyPeNIK89Xijvny8F3b7zGc7g22ZxYVfVVpKaLju3h7exhoX8SRCRlipi8W4qjaM2O1rO90_cDDogFtg.jpg",
-      "author_photo_path": "channels/media_hb/media/d3c868d29764fd61b4c1c97a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NqSIhGxTJgQxy2rTYQDzvaIKMY5e0FhA7wW0amv_ZDbAqEz1uxnZWMbXlS4fas9tAkfnZjmv50Y486L5M82aYmntUDv8uYM0pVy_0mm2yW56iv5q_3coG7cxzOivz0urLXqs7tfrRnuGEhYnfSfANpLBuhqedAmxUXQk02A7xm2EK9i4xMz5NvINPuXszuw6kGDHC1ooa6wZr9riWA-DPZmZbgyJDXdYV2KIpnwB5RI_MM7igXlT4tHC5eK5k0n5qRkmSCSpYSqOlTnPdeIn_JS5q2sf36OLe5t1ZuxJog_shZIZ6Ob28r3Hkiy4vC3uitwaoRgFWBKiKVcqLG9loA.jpg",
+      "author_photo_path": "channels/media_hb/media/5dd94bd82ca8bbbde154ca52.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i> <b>یدیعوت آحارونوت: <br><br>ارتش اسرائیل در حال به‌روزرسانی اهداف خود و آماده‌سازی برای انجام حمله احتمالی به تنهایی و بدون مشارکت آمریکا است.</b>",
       "plain_text": "🚨 یدیعوت آحارونوت: ارتش اسرائیل در حال به‌روزرسانی اهداف خود و آماده‌سازی برای انجام حمله احتمالی به تنهایی و بدون مشارکت آمریکا است.",
       "media": [],
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "97"
+          "count": "107"
         },
         {
           "emoji": "🤣",
-          "count": "4"
+          "count": "6"
         },
         {
           "emoji": "❤",
@@ -156,7 +191,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.73K",
+      "views_label": "11.1K",
       "posted_at": "2026-11-19T20:44:27+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110904"
@@ -164,8 +199,8 @@
     {
       "id": "Media_HB/110903",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/cBLKq75E0FVeLMV3JtFirQ_FHiloQMf9rDcM-be4MF133K3hqzCePS96v6t9KyKRUTb0d6l_wBIdyZZLHowxuc3Ua8zmPASettUZMK-71b3P16Oeyq3oTE82k9gDLc30850ieOsWeqmoKuN7pfuK98Wl4RCGTZfCdcpAyXFCNtNrlMWtxn1KFwrKqyRWAZuiWUNGmAIHBKb3wsJioZz_6pWAJuMp0RSGtTmiifiV_yI5d0KuxXVk9Vaex8pRmbwpUZQlAiXyPeNIK89Xijvny8F3b7zGc7g22ZxYVfVVpKaLju3h7exhoX8SRCRlipi8W4qjaM2O1rO90_cDDogFtg.jpg",
-      "author_photo_path": "channels/media_hb/media/d3c868d29764fd61b4c1c97a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NqSIhGxTJgQxy2rTYQDzvaIKMY5e0FhA7wW0amv_ZDbAqEz1uxnZWMbXlS4fas9tAkfnZjmv50Y486L5M82aYmntUDv8uYM0pVy_0mm2yW56iv5q_3coG7cxzOivz0urLXqs7tfrRnuGEhYnfSfANpLBuhqedAmxUXQk02A7xm2EK9i4xMz5NvINPuXszuw6kGDHC1ooa6wZr9riWA-DPZmZbgyJDXdYV2KIpnwB5RI_MM7igXlT4tHC5eK5k0n5qRkmSCSpYSqOlTnPdeIn_JS5q2sf36OLe5t1ZuxJog_shZIZ6Ob28r3Hkiy4vC3uitwaoRgFWBKiKVcqLG9loA.jpg",
+      "author_photo_path": "channels/media_hb/media/5dd94bd82ca8bbbde154ca52.jpg",
       "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>منابع عبری: در پی احتمال از سرگیری عملیات نظامی علیه ایران، پناهگا‌ه‌های بیت شمش و ایلات برای عموم مردم باز شدند</b>",
       "plain_text": "🔴منابع عبری: در پی احتمال از سرگیری عملیات نظامی علیه ایران، پناهگا‌ه‌های بیت شمش و ایلات برای عموم مردم باز شدند",
       "media": [],
@@ -176,11 +211,11 @@
         },
         {
           "emoji": "❤",
-          "count": "68"
+          "count": "71"
         },
         {
           "emoji": "🤣",
-          "count": "4"
+          "count": "6"
         },
         {
           "emoji": "👍",
@@ -195,7 +230,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.91K",
+      "views_label": "11.1K",
       "posted_at": "2026-11-19T20:40:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110903"
@@ -203,23 +238,23 @@
     {
       "id": "Media_HB/110901",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/cBLKq75E0FVeLMV3JtFirQ_FHiloQMf9rDcM-be4MF133K3hqzCePS96v6t9KyKRUTb0d6l_wBIdyZZLHowxuc3Ua8zmPASettUZMK-71b3P16Oeyq3oTE82k9gDLc30850ieOsWeqmoKuN7pfuK98Wl4RCGTZfCdcpAyXFCNtNrlMWtxn1KFwrKqyRWAZuiWUNGmAIHBKb3wsJioZz_6pWAJuMp0RSGtTmiifiV_yI5d0KuxXVk9Vaex8pRmbwpUZQlAiXyPeNIK89Xijvny8F3b7zGc7g22ZxYVfVVpKaLju3h7exhoX8SRCRlipi8W4qjaM2O1rO90_cDDogFtg.jpg",
-      "author_photo_path": "channels/media_hb/media/d3c868d29764fd61b4c1c97a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NqSIhGxTJgQxy2rTYQDzvaIKMY5e0FhA7wW0amv_ZDbAqEz1uxnZWMbXlS4fas9tAkfnZjmv50Y486L5M82aYmntUDv8uYM0pVy_0mm2yW56iv5q_3coG7cxzOivz0urLXqs7tfrRnuGEhYnfSfANpLBuhqedAmxUXQk02A7xm2EK9i4xMz5NvINPuXszuw6kGDHC1ooa6wZr9riWA-DPZmZbgyJDXdYV2KIpnwB5RI_MM7igXlT4tHC5eK5k0n5qRkmSCSpYSqOlTnPdeIn_JS5q2sf36OLe5t1ZuxJog_shZIZ6Ob28r3Hkiy4vC3uitwaoRgFWBKiKVcqLG9loA.jpg",
+      "author_photo_path": "channels/media_hb/media/5dd94bd82ca8bbbde154ca52.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><b>پناهگاه‌ها در ایلات، در جنوب  <br>اسرائیل باز شده‌اند.</b>",
       "plain_text": "🚨🚨پناهگاه‌ها در ایلات، در جنوب اسرائیل باز شده‌اند.",
       "media": [],
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "83"
+          "count": "87"
         },
         {
           "emoji": "🤣",
-          "count": "10"
+          "count": "12"
         },
         {
           "emoji": "❤",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "👎",
@@ -230,7 +265,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.7K",
+      "views_label": "10.9K",
       "posted_at": "2026-11-19T20:36:25+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/110901"
@@ -238,34 +273,34 @@
     {
       "id": "Media_HB/110900",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/cBLKq75E0FVeLMV3JtFirQ_FHiloQMf9rDcM-be4MF133K3hqzCePS96v6t9KyKRUTb0d6l_wBIdyZZLHowxuc3Ua8zmPASettUZMK-71b3P16Oeyq3oTE82k9gDLc30850ieOsWeqmoKuN7pfuK98Wl4RCGTZfCdcpAyXFCNtNrlMWtxn1KFwrKqyRWAZuiWUNGmAIHBKb3wsJioZz_6pWAJuMp0RSGtTmiifiV_yI5d0KuxXVk9Vaex8pRmbwpUZQlAiXyPeNIK89Xijvny8F3b7zGc7g22ZxYVfVVpKaLju3h7exhoX8SRCRlipi8W4qjaM2O1rO90_cDDogFtg.jpg",
-      "author_photo_path": "channels/media_hb/media/d3c868d29764fd61b4c1c97a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NqSIhGxTJgQxy2rTYQDzvaIKMY5e0FhA7wW0amv_ZDbAqEz1uxnZWMbXlS4fas9tAkfnZjmv50Y486L5M82aYmntUDv8uYM0pVy_0mm2yW56iv5q_3coG7cxzOivz0urLXqs7tfrRnuGEhYnfSfANpLBuhqedAmxUXQk02A7xm2EK9i4xMz5NvINPuXszuw6kGDHC1ooa6wZr9riWA-DPZmZbgyJDXdYV2KIpnwB5RI_MM7igXlT4tHC5eK5k0n5qRkmSCSpYSqOlTnPdeIn_JS5q2sf36OLe5t1ZuxJog_shZIZ6Ob28r3Hkiy4vC3uitwaoRgFWBKiKVcqLG9loA.jpg",
+      "author_photo_path": "channels/media_hb/media/5dd94bd82ca8bbbde154ca52.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i><b>رسانه های اسرائیلی همگی از نزدیک بودن عملیات مشترک آمریکا و اسرائیل خبر میدن</b>",
       "plain_text": "❗️رسانه های اسرائیلی همگی از نزدیک بودن عملیات مشترک آمریکا و اسرائیل خبر میدن",
       "media": [],
       "reactions": [
         {
           "emoji": "❤",
-          "count": "95"
+          "count": "100"
         },
         {
           "emoji": "🤣",
-          "count": "15"
+          "count": "16"
         },
         {
           "emoji": "🔥",
           "count": "7"
         },
         {
-          "emoji": "👍",
-          "count": "2"
+          "emoji": "😡",
+          "count": "3"
         },
         {
-          "emoji": "😡",
-          "count": "1"
+          "emoji": "👍",
+          "count": "2"
         }
       ],
-      "views_label": "9.01K",
+      "views_label": "11K",
       "posted_at": "2026-11-19T20:23:42+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110900"
@@ -273,26 +308,26 @@
     {
       "id": "Media_HB/110899",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/cBLKq75E0FVeLMV3JtFirQ_FHiloQMf9rDcM-be4MF133K3hqzCePS96v6t9KyKRUTb0d6l_wBIdyZZLHowxuc3Ua8zmPASettUZMK-71b3P16Oeyq3oTE82k9gDLc30850ieOsWeqmoKuN7pfuK98Wl4RCGTZfCdcpAyXFCNtNrlMWtxn1KFwrKqyRWAZuiWUNGmAIHBKb3wsJioZz_6pWAJuMp0RSGtTmiifiV_yI5d0KuxXVk9Vaex8pRmbwpUZQlAiXyPeNIK89Xijvny8F3b7zGc7g22ZxYVfVVpKaLju3h7exhoX8SRCRlipi8W4qjaM2O1rO90_cDDogFtg.jpg",
-      "author_photo_path": "channels/media_hb/media/d3c868d29764fd61b4c1c97a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NqSIhGxTJgQxy2rTYQDzvaIKMY5e0FhA7wW0amv_ZDbAqEz1uxnZWMbXlS4fas9tAkfnZjmv50Y486L5M82aYmntUDv8uYM0pVy_0mm2yW56iv5q_3coG7cxzOivz0urLXqs7tfrRnuGEhYnfSfANpLBuhqedAmxUXQk02A7xm2EK9i4xMz5NvINPuXszuw6kGDHC1ooa6wZr9riWA-DPZmZbgyJDXdYV2KIpnwB5RI_MM7igXlT4tHC5eK5k0n5qRkmSCSpYSqOlTnPdeIn_JS5q2sf36OLe5t1ZuxJog_shZIZ6Ob28r3Hkiy4vC3uitwaoRgFWBKiKVcqLG9loA.jpg",
+      "author_photo_path": "channels/media_hb/media/5dd94bd82ca8bbbde154ca52.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><b>کانال ۱۵ اسرائیل:<br><br>با ادامه حملات ایران به اهداف و پایگاه‌های آمریکا و انفجار نفتکش‌ها در تنگه، مقام‌ها از نزدیک بودن دور تازه‌ای از رویارویی با ایران صحبت می‌کنند.</b>",
       "plain_text": "🚨کانال ۱۵ اسرائیل: با ادامه حملات ایران به اهداف و پایگاه‌های آمریکا و انفجار نفتکش‌ها در تنگه، مقام‌ها از نزدیک بودن دور تازه‌ای از رویارویی با ایران صحبت می‌کنند.",
       "media": [],
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "73"
+          "count": "74"
         },
         {
           "emoji": "🤣",
-          "count": "7"
+          "count": "8"
         },
         {
           "emoji": "❤",
-          "count": "2"
+          "count": "5"
         }
       ],
-      "views_label": "9.3K",
+      "views_label": "11K",
       "posted_at": "2026-11-19T20:07:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110899"
@@ -319,19 +354,19 @@
     {
       "id": "Media_HB/110897",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/cBLKq75E0FVeLMV3JtFirQ_FHiloQMf9rDcM-be4MF133K3hqzCePS96v6t9KyKRUTb0d6l_wBIdyZZLHowxuc3Ua8zmPASettUZMK-71b3P16Oeyq3oTE82k9gDLc30850ieOsWeqmoKuN7pfuK98Wl4RCGTZfCdcpAyXFCNtNrlMWtxn1KFwrKqyRWAZuiWUNGmAIHBKb3wsJioZz_6pWAJuMp0RSGtTmiifiV_yI5d0KuxXVk9Vaex8pRmbwpUZQlAiXyPeNIK89Xijvny8F3b7zGc7g22ZxYVfVVpKaLju3h7exhoX8SRCRlipi8W4qjaM2O1rO90_cDDogFtg.jpg",
-      "author_photo_path": "channels/media_hb/media/d3c868d29764fd61b4c1c97a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NqSIhGxTJgQxy2rTYQDzvaIKMY5e0FhA7wW0amv_ZDbAqEz1uxnZWMbXlS4fas9tAkfnZjmv50Y486L5M82aYmntUDv8uYM0pVy_0mm2yW56iv5q_3coG7cxzOivz0urLXqs7tfrRnuGEhYnfSfANpLBuhqedAmxUXQk02A7xm2EK9i4xMz5NvINPuXszuw6kGDHC1ooa6wZr9riWA-DPZmZbgyJDXdYV2KIpnwB5RI_MM7igXlT4tHC5eK5k0n5qRkmSCSpYSqOlTnPdeIn_JS5q2sf36OLe5t1ZuxJog_shZIZ6Ob28r3Hkiy4vC3uitwaoRgFWBKiKVcqLG9loA.jpg",
+      "author_photo_path": "channels/media_hb/media/5dd94bd82ca8bbbde154ca52.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><b>سنای آمریکا با ۵۱ رأی موافق در برابر ۴۸ رأی مخالف، به قطعنامه الزام ترامپ به توقف عملیات نظامی علیه ایران رأی منفی داد</b>",
       "plain_text": "🚨سنای آمریکا با ۵۱ رأی موافق در برابر ۴۸ رأی مخالف، به قطعنامه الزام ترامپ به توقف عملیات نظامی علیه ایران رأی منفی داد",
       "media": [],
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "228"
+          "count": "240"
         },
         {
           "emoji": "🤡",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "🏆",
@@ -346,7 +381,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.89K",
+      "views_label": "11.2K",
       "posted_at": "2026-11-19T19:47:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110897"
@@ -354,15 +389,15 @@
     {
       "id": "Media_HB/110896",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/cBLKq75E0FVeLMV3JtFirQ_FHiloQMf9rDcM-be4MF133K3hqzCePS96v6t9KyKRUTb0d6l_wBIdyZZLHowxuc3Ua8zmPASettUZMK-71b3P16Oeyq3oTE82k9gDLc30850ieOsWeqmoKuN7pfuK98Wl4RCGTZfCdcpAyXFCNtNrlMWtxn1KFwrKqyRWAZuiWUNGmAIHBKb3wsJioZz_6pWAJuMp0RSGtTmiifiV_yI5d0KuxXVk9Vaex8pRmbwpUZQlAiXyPeNIK89Xijvny8F3b7zGc7g22ZxYVfVVpKaLju3h7exhoX8SRCRlipi8W4qjaM2O1rO90_cDDogFtg.jpg",
-      "author_photo_path": "channels/media_hb/media/d3c868d29764fd61b4c1c97a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NqSIhGxTJgQxy2rTYQDzvaIKMY5e0FhA7wW0amv_ZDbAqEz1uxnZWMbXlS4fas9tAkfnZjmv50Y486L5M82aYmntUDv8uYM0pVy_0mm2yW56iv5q_3coG7cxzOivz0urLXqs7tfrRnuGEhYnfSfANpLBuhqedAmxUXQk02A7xm2EK9i4xMz5NvINPuXszuw6kGDHC1ooa6wZr9riWA-DPZmZbgyJDXdYV2KIpnwB5RI_MM7igXlT4tHC5eK5k0n5qRkmSCSpYSqOlTnPdeIn_JS5q2sf36OLe5t1ZuxJog_shZIZ6Ob28r3Hkiy4vC3uitwaoRgFWBKiKVcqLG9loA.jpg",
+      "author_photo_path": "channels/media_hb/media/5dd94bd82ca8bbbde154ca52.jpg",
       "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>ترامپ:<br><br> این جلسه بیشتر بر اوکراین متمرکز بود و  من فکر می‌کنم که او تمایل به پایان دادن به جنگ دارد</b>",
       "plain_text": "🔴ترامپ: این جلسه بیشتر بر اوکراین متمرکز بود و من فکر می‌کنم که او تمایل به پایان دادن به جنگ دارد",
       "media": [],
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "79"
+          "count": "82"
         },
         {
           "emoji": "❤",
@@ -377,7 +412,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.66K",
+      "views_label": "10.9K",
       "posted_at": "2026-11-19T19:44:42+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110896"
@@ -385,15 +420,15 @@
     {
       "id": "Media_HB/110895",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/cBLKq75E0FVeLMV3JtFirQ_FHiloQMf9rDcM-be4MF133K3hqzCePS96v6t9KyKRUTb0d6l_wBIdyZZLHowxuc3Ua8zmPASettUZMK-71b3P16Oeyq3oTE82k9gDLc30850ieOsWeqmoKuN7pfuK98Wl4RCGTZfCdcpAyXFCNtNrlMWtxn1KFwrKqyRWAZuiWUNGmAIHBKb3wsJioZz_6pWAJuMp0RSGtTmiifiV_yI5d0KuxXVk9Vaex8pRmbwpUZQlAiXyPeNIK89Xijvny8F3b7zGc7g22ZxYVfVVpKaLju3h7exhoX8SRCRlipi8W4qjaM2O1rO90_cDDogFtg.jpg",
-      "author_photo_path": "channels/media_hb/media/d3c868d29764fd61b4c1c97a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NqSIhGxTJgQxy2rTYQDzvaIKMY5e0FhA7wW0amv_ZDbAqEz1uxnZWMbXlS4fas9tAkfnZjmv50Y486L5M82aYmntUDv8uYM0pVy_0mm2yW56iv5q_3coG7cxzOivz0urLXqs7tfrRnuGEhYnfSfANpLBuhqedAmxUXQk02A7xm2EK9i4xMz5NvINPuXszuw6kGDHC1ooa6wZr9riWA-DPZmZbgyJDXdYV2KIpnwB5RI_MM7igXlT4tHC5eK5k0n5qRkmSCSpYSqOlTnPdeIn_JS5q2sf36OLe5t1ZuxJog_shZIZ6Ob28r3Hkiy4vC3uitwaoRgFWBKiKVcqLG9loA.jpg",
+      "author_photo_path": "channels/media_hb/media/5dd94bd82ca8bbbde154ca52.jpg",
       "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i>ترامپ به شبکه ان‌بی‌سی گفت: <br><br>ما درباره جنگ با ایران صحبت کردیم، و پوتین و من تمایل داریم این جنگ را پایان دهیم و این موضوع را به تهران اطلاع دادیم</b>",
       "plain_text": "‼️ترامپ به شبکه ان‌بی‌سی گفت: ما درباره جنگ با ایران صحبت کردیم، و پوتین و من تمایل داریم این جنگ را پایان دهیم و این موضوع را به تهران اطلاع دادیم",
       "media": [],
       "reactions": [
         {
           "emoji": "😐",
-          "count": "124"
+          "count": "127"
         },
         {
           "emoji": "🤣",
@@ -401,14 +436,14 @@
         },
         {
           "emoji": "👍",
-          "count": "1"
+          "count": "2"
         },
         {
           "emoji": "😡",
           "count": "1"
         }
       ],
-      "views_label": "9.58K",
+      "views_label": "10.8K",
       "posted_at": "2026-11-19T19:43:47+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110895"
@@ -443,15 +478,15 @@
     {
       "id": "Media_HB/110893",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/cBLKq75E0FVeLMV3JtFirQ_FHiloQMf9rDcM-be4MF133K3hqzCePS96v6t9KyKRUTb0d6l_wBIdyZZLHowxuc3Ua8zmPASettUZMK-71b3P16Oeyq3oTE82k9gDLc30850ieOsWeqmoKuN7pfuK98Wl4RCGTZfCdcpAyXFCNtNrlMWtxn1KFwrKqyRWAZuiWUNGmAIHBKb3wsJioZz_6pWAJuMp0RSGtTmiifiV_yI5d0KuxXVk9Vaex8pRmbwpUZQlAiXyPeNIK89Xijvny8F3b7zGc7g22ZxYVfVVpKaLju3h7exhoX8SRCRlipi8W4qjaM2O1rO90_cDDogFtg.jpg",
-      "author_photo_path": "channels/media_hb/media/d3c868d29764fd61b4c1c97a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NqSIhGxTJgQxy2rTYQDzvaIKMY5e0FhA7wW0amv_ZDbAqEz1uxnZWMbXlS4fas9tAkfnZjmv50Y486L5M82aYmntUDv8uYM0pVy_0mm2yW56iv5q_3coG7cxzOivz0urLXqs7tfrRnuGEhYnfSfANpLBuhqedAmxUXQk02A7xm2EK9i4xMz5NvINPuXszuw6kGDHC1ooa6wZr9riWA-DPZmZbgyJDXdYV2KIpnwB5RI_MM7igXlT4tHC5eK5k0n5qRkmSCSpYSqOlTnPdeIn_JS5q2sf36OLe5t1ZuxJog_shZIZ6Ob28r3Hkiy4vC3uitwaoRgFWBKiKVcqLG9loA.jpg",
+      "author_photo_path": "channels/media_hb/media/5dd94bd82ca8bbbde154ca52.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i>مرور اخبار ساعات گذشته برای شفاف سازی:  <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i>جریان حرکت نفتکش ها؟ فیک نیوز. هیچ رسانه معتبری این خبر رو کار نکرده و صرفا از روی تویت یک فرد که جزو حامیان فارس هست و نه حتی خبرنگار رسمی کانالای تلگرامی دارن خبرشو میزنن  <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i>حرکت ناو جدید؟ ناو جدید تا ده روز آینده…",
       "plain_text": "❗️مرور اخبار ساعات گذشته برای شفاف سازی: ❗️جریان حرکت نفتکش ها؟ فیک نیوز. هیچ رسانه معتبری این خبر رو کار نکرده و صرفا از روی تویت یک فرد که جزو حامیان فارس هست و نه حتی خبرنگار رسمی کانالای تلگرامی دارن خبرشو میزنن ❗️حرکت ناو جدید؟ ناو جدید تا ده روز آینده…",
       "media": [],
       "reactions": [
         {
           "emoji": "💔",
-          "count": "124"
+          "count": "132"
         },
         {
           "emoji": "🤣",
@@ -468,9 +503,13 @@
         {
           "emoji": "👎",
           "count": "3"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
         }
       ],
-      "views_label": "10.3K",
+      "views_label": "11.2K",
       "posted_at": "2026-11-19T19:15:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110893"
@@ -478,8 +517,8 @@
     {
       "id": "Media_HB/110892",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/cBLKq75E0FVeLMV3JtFirQ_FHiloQMf9rDcM-be4MF133K3hqzCePS96v6t9KyKRUTb0d6l_wBIdyZZLHowxuc3Ua8zmPASettUZMK-71b3P16Oeyq3oTE82k9gDLc30850ieOsWeqmoKuN7pfuK98Wl4RCGTZfCdcpAyXFCNtNrlMWtxn1KFwrKqyRWAZuiWUNGmAIHBKb3wsJioZz_6pWAJuMp0RSGtTmiifiV_yI5d0KuxXVk9Vaex8pRmbwpUZQlAiXyPeNIK89Xijvny8F3b7zGc7g22ZxYVfVVpKaLju3h7exhoX8SRCRlipi8W4qjaM2O1rO90_cDDogFtg.jpg",
-      "author_photo_path": "channels/media_hb/media/d3c868d29764fd61b4c1c97a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NqSIhGxTJgQxy2rTYQDzvaIKMY5e0FhA7wW0amv_ZDbAqEz1uxnZWMbXlS4fas9tAkfnZjmv50Y486L5M82aYmntUDv8uYM0pVy_0mm2yW56iv5q_3coG7cxzOivz0urLXqs7tfrRnuGEhYnfSfANpLBuhqedAmxUXQk02A7xm2EK9i4xMz5NvINPuXszuw6kGDHC1ooa6wZr9riWA-DPZmZbgyJDXdYV2KIpnwB5RI_MM7igXlT4tHC5eK5k0n5qRkmSCSpYSqOlTnPdeIn_JS5q2sf36OLe5t1ZuxJog_shZIZ6Ob28r3Hkiy4vC3uitwaoRgFWBKiKVcqLG9loA.jpg",
+      "author_photo_path": "channels/media_hb/media/5dd94bd82ca8bbbde154ca52.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i><b>انفجار در تنگه هرمز</b>",
       "plain_text": "❗️انفجار در تنگه هرمز",
       "media": [],
@@ -497,7 +536,7 @@
           "count": "1"
         }
       ],
-      "views_label": "10.1K",
+      "views_label": "11K",
       "posted_at": "2026-11-19T19:01:19+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110892"
@@ -577,15 +616,15 @@
     {
       "id": "Media_HB/110887",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/cBLKq75E0FVeLMV3JtFirQ_FHiloQMf9rDcM-be4MF133K3hqzCePS96v6t9KyKRUTb0d6l_wBIdyZZLHowxuc3Ua8zmPASettUZMK-71b3P16Oeyq3oTE82k9gDLc30850ieOsWeqmoKuN7pfuK98Wl4RCGTZfCdcpAyXFCNtNrlMWtxn1KFwrKqyRWAZuiWUNGmAIHBKb3wsJioZz_6pWAJuMp0RSGtTmiifiV_yI5d0KuxXVk9Vaex8pRmbwpUZQlAiXyPeNIK89Xijvny8F3b7zGc7g22ZxYVfVVpKaLju3h7exhoX8SRCRlipi8W4qjaM2O1rO90_cDDogFtg.jpg",
-      "author_photo_path": "channels/media_hb/media/d3c868d29764fd61b4c1c97a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NqSIhGxTJgQxy2rTYQDzvaIKMY5e0FhA7wW0amv_ZDbAqEz1uxnZWMbXlS4fas9tAkfnZjmv50Y486L5M82aYmntUDv8uYM0pVy_0mm2yW56iv5q_3coG7cxzOivz0urLXqs7tfrRnuGEhYnfSfANpLBuhqedAmxUXQk02A7xm2EK9i4xMz5NvINPuXszuw6kGDHC1ooa6wZr9riWA-DPZmZbgyJDXdYV2KIpnwB5RI_MM7igXlT4tHC5eK5k0n5qRkmSCSpYSqOlTnPdeIn_JS5q2sf36OLe5t1ZuxJog_shZIZ6Ob28r3Hkiy4vC3uitwaoRgFWBKiKVcqLG9loA.jpg",
+      "author_photo_path": "channels/media_hb/media/5dd94bd82ca8bbbde154ca52.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i><b>مرور اخبار ساعات گذشته برای شفاف سازی:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i>جریان حرکت نفتکش ها؟ فیک نیوز. هیچ رسانه معتبری این خبر رو کار نکرده و صرفا از روی تویت یک فرد که جزو حامیان فارس هست و نه حتی خبرنگار رسمی کانالای تلگرامی دارن خبرشو میزنن<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i>حرکت ناو جدید؟ ناو جدید تا ده روز آینده به خاورميانه میرسه که احتمالا جایگزین ناو باکسر خواهد بود و درکل خبر اهمیت خاصی نداره.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i>ترامپ گفته تا کریسمس نمیزنم؟ خیر ترامپ همچین چیزی نگفته و صرفا توی صحبتاش به سال نو اشاره کرده. ممکنه عملیات قبل یا بعد سال جدید شروع بشه<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i>قتل پدر سوگند؟ احتمال زیاد  فیک نیوز چون این شخص در بازداشت به سر میبره طبق گزارش رسانه ها</b>",
       "plain_text": "❗️مرور اخبار ساعات گذشته برای شفاف سازی: ❗️جریان حرکت نفتکش ها؟ فیک نیوز. هیچ رسانه معتبری این خبر رو کار نکرده و صرفا از روی تویت یک فرد که جزو حامیان فارس هست و نه حتی خبرنگار رسمی کانالای تلگرامی دارن خبرشو میزنن ❗️حرکت ناو جدید؟ ناو جدید تا ده روز آینده به خاورميانه میرسه که احتمالا جایگزین ناو باکسر خواهد بود و درکل خبر اهمیت خاصی نداره. ❗️ترامپ گفته تا کریسمس نمیزنم؟ خیر ترامپ همچین چیزی نگفته و صرفا توی صحبتاش به سال نو اشاره کرده. ممکنه عملیات قبل یا بعد سال جدید شروع بشه ❗️قتل پدر سوگند؟ احتمال زیاد فیک نیوز چون این شخص در بازداشت به سر میبره طبق گزارش رسانه ها",
       "media": [],
       "reactions": [
         {
           "emoji": "👍",
-          "count": "69"
+          "count": "70"
         },
         {
           "emoji": "❤",
@@ -596,7 +635,7 @@
           "count": "1"
         }
       ],
-      "views_label": "10K",
+      "views_label": "10.8K",
       "posted_at": "2026-11-19T18:24:44+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/110887"
@@ -604,8 +643,8 @@
     {
       "id": "Media_HB/110886",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/cBLKq75E0FVeLMV3JtFirQ_FHiloQMf9rDcM-be4MF133K3hqzCePS96v6t9KyKRUTb0d6l_wBIdyZZLHowxuc3Ua8zmPASettUZMK-71b3P16Oeyq3oTE82k9gDLc30850ieOsWeqmoKuN7pfuK98Wl4RCGTZfCdcpAyXFCNtNrlMWtxn1KFwrKqyRWAZuiWUNGmAIHBKb3wsJioZz_6pWAJuMp0RSGtTmiifiV_yI5d0KuxXVk9Vaex8pRmbwpUZQlAiXyPeNIK89Xijvny8F3b7zGc7g22ZxYVfVVpKaLju3h7exhoX8SRCRlipi8W4qjaM2O1rO90_cDDogFtg.jpg",
-      "author_photo_path": "channels/media_hb/media/d3c868d29764fd61b4c1c97a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NqSIhGxTJgQxy2rTYQDzvaIKMY5e0FhA7wW0amv_ZDbAqEz1uxnZWMbXlS4fas9tAkfnZjmv50Y486L5M82aYmntUDv8uYM0pVy_0mm2yW56iv5q_3coG7cxzOivz0urLXqs7tfrRnuGEhYnfSfANpLBuhqedAmxUXQk02A7xm2EK9i4xMz5NvINPuXszuw6kGDHC1ooa6wZr9riWA-DPZmZbgyJDXdYV2KIpnwB5RI_MM7igXlT4tHC5eK5k0n5qRkmSCSpYSqOlTnPdeIn_JS5q2sf36OLe5t1ZuxJog_shZIZ6Ob28r3Hkiy4vC3uitwaoRgFWBKiKVcqLG9loA.jpg",
+      "author_photo_path": "channels/media_hb/media/5dd94bd82ca8bbbde154ca52.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i> ترامپ:   عجله‌ای در تصمیم‌گیری برای ایران ندارم. خواهیم دید تا بعد از سال نو چه اتفاقی می‌افتد",
       "plain_text": "❗️ ترامپ: عجله‌ای در تصمیم‌گیری برای ایران ندارم. خواهیم دید تا بعد از سال نو چه اتفاقی می‌افتد",
       "media": [],
@@ -623,7 +662,7 @@
           "count": "3"
         }
       ],
-      "views_label": "9.53K",
+      "views_label": "10.2K",
       "posted_at": "2026-11-19T18:21:33+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110886"
@@ -631,8 +670,8 @@
     {
       "id": "Media_HB/110885",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/cBLKq75E0FVeLMV3JtFirQ_FHiloQMf9rDcM-be4MF133K3hqzCePS96v6t9KyKRUTb0d6l_wBIdyZZLHowxuc3Ua8zmPASettUZMK-71b3P16Oeyq3oTE82k9gDLc30850ieOsWeqmoKuN7pfuK98Wl4RCGTZfCdcpAyXFCNtNrlMWtxn1KFwrKqyRWAZuiWUNGmAIHBKb3wsJioZz_6pWAJuMp0RSGtTmiifiV_yI5d0KuxXVk9Vaex8pRmbwpUZQlAiXyPeNIK89Xijvny8F3b7zGc7g22ZxYVfVVpKaLju3h7exhoX8SRCRlipi8W4qjaM2O1rO90_cDDogFtg.jpg",
-      "author_photo_path": "channels/media_hb/media/d3c868d29764fd61b4c1c97a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NqSIhGxTJgQxy2rTYQDzvaIKMY5e0FhA7wW0amv_ZDbAqEz1uxnZWMbXlS4fas9tAkfnZjmv50Y486L5M82aYmntUDv8uYM0pVy_0mm2yW56iv5q_3coG7cxzOivz0urLXqs7tfrRnuGEhYnfSfANpLBuhqedAmxUXQk02A7xm2EK9i4xMz5NvINPuXszuw6kGDHC1ooa6wZr9riWA-DPZmZbgyJDXdYV2KIpnwB5RI_MM7igXlT4tHC5eK5k0n5qRkmSCSpYSqOlTnPdeIn_JS5q2sf36OLe5t1ZuxJog_shZIZ6Ob28r3Hkiy4vC3uitwaoRgFWBKiKVcqLG9loA.jpg",
+      "author_photo_path": "channels/media_hb/media/5dd94bd82ca8bbbde154ca52.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i> ترامپ:   عجله‌ای در تصمیم‌گیری برای ایران ندارم. خواهیم دید تا بعد از سال نو چه اتفاقی می‌افتد",
       "plain_text": "❗️ ترامپ: عجله‌ای در تصمیم‌گیری برای ایران ندارم. خواهیم دید تا بعد از سال نو چه اتفاقی می‌افتد",
       "media": [],
@@ -650,7 +689,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.73K",
+      "views_label": "10.3K",
       "posted_at": "2026-11-19T18:12:45+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110885"
@@ -658,15 +697,15 @@
     {
       "id": "Media_HB/110884",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/cBLKq75E0FVeLMV3JtFirQ_FHiloQMf9rDcM-be4MF133K3hqzCePS96v6t9KyKRUTb0d6l_wBIdyZZLHowxuc3Ua8zmPASettUZMK-71b3P16Oeyq3oTE82k9gDLc30850ieOsWeqmoKuN7pfuK98Wl4RCGTZfCdcpAyXFCNtNrlMWtxn1KFwrKqyRWAZuiWUNGmAIHBKb3wsJioZz_6pWAJuMp0RSGtTmiifiV_yI5d0KuxXVk9Vaex8pRmbwpUZQlAiXyPeNIK89Xijvny8F3b7zGc7g22ZxYVfVVpKaLju3h7exhoX8SRCRlipi8W4qjaM2O1rO90_cDDogFtg.jpg",
-      "author_photo_path": "channels/media_hb/media/d3c868d29764fd61b4c1c97a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NqSIhGxTJgQxy2rTYQDzvaIKMY5e0FhA7wW0amv_ZDbAqEz1uxnZWMbXlS4fas9tAkfnZjmv50Y486L5M82aYmntUDv8uYM0pVy_0mm2yW56iv5q_3coG7cxzOivz0urLXqs7tfrRnuGEhYnfSfANpLBuhqedAmxUXQk02A7xm2EK9i4xMz5NvINPuXszuw6kGDHC1ooa6wZr9riWA-DPZmZbgyJDXdYV2KIpnwB5RI_MM7igXlT4tHC5eK5k0n5qRkmSCSpYSqOlTnPdeIn_JS5q2sf36OLe5t1ZuxJog_shZIZ6Ob28r3Hkiy4vC3uitwaoRgFWBKiKVcqLG9loA.jpg",
+      "author_photo_path": "channels/media_hb/media/5dd94bd82ca8bbbde154ca52.jpg",
       "body_html": "بابانوئل بیاد و بره زدن",
       "plain_text": "بابانوئل بیاد و بره زدن",
       "media": [],
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "181"
+          "count": "186"
         },
         {
           "emoji": "👍",
@@ -677,7 +716,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.75K",
+      "views_label": "10.4K",
       "posted_at": "2026-11-19T18:11:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110884"
@@ -685,15 +724,15 @@
     {
       "id": "Media_HB/110883",
       "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/cBLKq75E0FVeLMV3JtFirQ_FHiloQMf9rDcM-be4MF133K3hqzCePS96v6t9KyKRUTb0d6l_wBIdyZZLHowxuc3Ua8zmPASettUZMK-71b3P16Oeyq3oTE82k9gDLc30850ieOsWeqmoKuN7pfuK98Wl4RCGTZfCdcpAyXFCNtNrlMWtxn1KFwrKqyRWAZuiWUNGmAIHBKb3wsJioZz_6pWAJuMp0RSGtTmiifiV_yI5d0KuxXVk9Vaex8pRmbwpUZQlAiXyPeNIK89Xijvny8F3b7zGc7g22ZxYVfVVpKaLju3h7exhoX8SRCRlipi8W4qjaM2O1rO90_cDDogFtg.jpg",
-      "author_photo_path": "channels/media_hb/media/d3c868d29764fd61b4c1c97a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NqSIhGxTJgQxy2rTYQDzvaIKMY5e0FhA7wW0amv_ZDbAqEz1uxnZWMbXlS4fas9tAkfnZjmv50Y486L5M82aYmntUDv8uYM0pVy_0mm2yW56iv5q_3coG7cxzOivz0urLXqs7tfrRnuGEhYnfSfANpLBuhqedAmxUXQk02A7xm2EK9i4xMz5NvINPuXszuw6kGDHC1ooa6wZr9riWA-DPZmZbgyJDXdYV2KIpnwB5RI_MM7igXlT4tHC5eK5k0n5qRkmSCSpYSqOlTnPdeIn_JS5q2sf36OLe5t1ZuxJog_shZIZ6Ob28r3Hkiy4vC3uitwaoRgFWBKiKVcqLG9loA.jpg",
+      "author_photo_path": "channels/media_hb/media/5dd94bd82ca8bbbde154ca52.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i> <b>ترامپ: <br><br>عجله‌ای در تصمیم‌گیری برای ایران ندارم. خواهیم دید تا بعد از سال نو چه اتفاقی می‌افتد</b>",
       "plain_text": "❗️ ترامپ: عجله‌ای در تصمیم‌گیری برای ایران ندارم. خواهیم دید تا بعد از سال نو چه اتفاقی می‌افتد",
       "media": [],
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "172"
+          "count": "174"
         },
         {
           "emoji": "😐",
@@ -712,7 +751,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.98K",
+      "views_label": "10.6K",
       "posted_at": "2026-11-19T18:09:47+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/110883"
@@ -3378,55 +3417,6 @@
       "posted_at": "2026-11-17T21:21:45+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/110782"
-    },
-    {
-      "id": "Media_HB/110781",
-      "author_name": "مدیا هاب | اخبار جنگ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/gQqtZ_chSHsYTCxW7pjr06e-hIqRhQoy1UgcxpNYPW99oimc1MkV2z0sXd_zAU_o-XV1cCenielZ8ZPQV0OJMsqenVi1pH0nI7l9Nb_Dp07P9CYDv9kKVOwt9KyC8rLmQQ3ahpAI5VKvE8946u1BegSIjehyyQiDPWsrwz1HnBMDbHMOkDRlBFVVg2AkTMQtKjrZ113tCMWHxKrBgDu1ZHVA09FneFa3ezy_SRd_1KlTml_9b0QSwjgGgNdyhxD20jYznqM80yuJCJoKxS-1PynD6DPTOWI1ddtxCXa3fS4OKGfNELFkyVRIEsm8B7tRL6fLz3Dnj66wwUO3VLaxSQ.jpg",
-      "author_photo_path": "channels/media_hb/media/6350ede18d0547525ceae80e.jpg",
-      "body_html": "الان که خبری نیست یه فکت برای سرگرمی بگم<br><br><b>ارلینگ هالند در بازی با دانمارک تا به الان با 2 گلی که به ثمر رسونده 68مین بار موفق شد برای نروژ گلزنی کنه<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>هالند در تیم ملی نروژ:<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F919F.png')\"><b>👟</b></i>61 بازی<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i>68 گل<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i>7 پاسگل<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>هالند در چمپیونزلیگ:<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F919F.png')\"><b>👟</b></i>60 بازی<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i>61 گل</b><br><br><b>هالند انقدر زیاد گل میزنه که دیگه برای همه عادی شده و از خفن بودنش حرف نمیزنن، اون فقط 26 سالشه<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></b>",
-      "plain_text": "الان که خبری نیست یه فکت برای سرگرمی بگم ارلینگ هالند در بازی با دانمارک تا به الان با 2 گلی که به ثمر رسونده 68مین بار موفق شد برای نروژ گلزنی کنه 🔴هالند در تیم ملی نروژ: 👟61 بازی ⚽️68 گل ⚡️7 پاسگل 🔴هالند در چمپیونزلیگ: 👟60 بازی ⚽️61 گل هالند انقدر زیاد گل میزنه که دیگه برای همه عادی شده و از خفن بودنش حرف نمیزنن، اون فقط 26 سالشه🔥",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/110781",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ULb5Yo3jyxD-F9sXoSk5f2vNWt0MZFLGCBv8FB8V0A7qjOIpWT0ITVZNWjVmm8Q-aLghvVOHc6vQWM2JXJTvbXBk_drsZKmgpmlZWdeY5KdAT0r1Ls9l0obTEW-YLMNlBo8lBJyRNayz1nZxQdBDPRx4mve5E2eqU80OOk93T_Xs3GMVaLy41JsQqS8mmO5beflxi3vdJHn21aZ1BpEbg2XGmtYM9dHy3O-sqczGDQHA3YHUrDPGr6DkmUXESKJFp4Auh3NwtstaxGWpSGIXr6YLmtcWjqF64QmNGC2tZcdcFYZQ3QKu1tMe1a3MGh3caqnlgeVpK6xobWQ6WX_VFA.jpg",
-          "thumbnail_path": "channels/media_hb/media/616c01321dfc6a064e9e4ffd.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.07095046854083
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "136"
-        },
-        {
-          "emoji": "🔥",
-          "count": "10"
-        },
-        {
-          "emoji": "👍",
-          "count": "4"
-        },
-        {
-          "emoji": "👎",
-          "count": "3"
-        },
-        {
-          "emoji": "😍",
-          "count": "1"
-        },
-        {
-          "emoji": "🤣",
-          "count": "1"
-        }
-      ],
-      "views_label": "11.2K",
-      "posted_at": "2026-11-17T21:06:28+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Media_HB/110781"
     }
   ]
 }
