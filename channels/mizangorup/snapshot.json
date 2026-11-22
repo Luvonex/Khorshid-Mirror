@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-11-22T20:59:33.737Z",
+  "fetched_at": "2026-11-22T23:53:38.598Z",
   "channel": {
     "username": "mizangorup",
     "title": "💻 MIZAN | میزان 💻",
@@ -10,6 +10,84 @@
     "subscriber_count": "243K"
   },
   "posts": [
+    {
+      "id": "mizangorup/70848",
+      "author_name": "💻 MIZAN | میزان 💻",
+      "author_photo_url": "https://cdn4.telesco.pe/file/L7wb5IWfBKC7URvTAcU03pSrMCwZ-OjyUEtPcrhyvv_FGyj-44EUzSZyz3c-cTrZRsq-6gPYDqZMdl1DSwHGatggcHmqcEtZtZYt7tHvzMD5hd7erPSellKcAnzCvcHRKnIrZeP0ZhSIiv0LTuBnhIUhw8-QeQZNkXS_5kAIChecNgNO-eNP_IHoL9_g9AxurnAITnSvZrthhLkH6z8Ou71-vVHPAFZTpJl5ZiKfgIqssKC2I0EbSL6z_Enrg33iYxC4qQGIxWS14PNKp_NdXjrFHH0NNnmh3V60a3JElK9EfPXb_bheSTtPLTnXgipcynCTZv4zSKhBq6CGpAEGiQ.jpg",
+      "author_photo_path": "channels/mizangorup/media/b7ebb0b8bbb7c6632c490862.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> <a href=\"?q=%23%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4_%D8%B4%D9%85%D8%A7\">#گزارش_شما</a> <br><br><br>شنیده شدن صدای جنگنده در اطراف تهران <br><br><br><br><br><br><br><a href=\"https://t.me/mizangorup\" target=\"_blank\">@mizangorup</a>",
+      "plain_text": "🔴 #گزارش_شما شنیده شدن صدای جنگنده در اطراف تهران @mizangorup",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "210"
+        },
+        {
+          "emoji": "👍",
+          "count": "39"
+        },
+        {
+          "emoji": "🎉",
+          "count": "16"
+        },
+        {
+          "emoji": "😢",
+          "count": "9"
+        },
+        {
+          "emoji": "❤",
+          "count": "5"
+        },
+        {
+          "emoji": "💔",
+          "count": "5"
+        },
+        {
+          "emoji": "🍾",
+          "count": "2"
+        }
+      ],
+      "views_label": "12K",
+      "posted_at": "2026-11-22T21:48:00+00:00",
+      "edited": false,
+      "permalink": "https://t.me/mizangorup/70848"
+    },
+    {
+      "id": "mizangorup/70847",
+      "author_name": "💻 MIZAN | میزان 💻",
+      "author_photo_url": "https://cdn4.telesco.pe/file/L7wb5IWfBKC7URvTAcU03pSrMCwZ-OjyUEtPcrhyvv_FGyj-44EUzSZyz3c-cTrZRsq-6gPYDqZMdl1DSwHGatggcHmqcEtZtZYt7tHvzMD5hd7erPSellKcAnzCvcHRKnIrZeP0ZhSIiv0LTuBnhIUhw8-QeQZNkXS_5kAIChecNgNO-eNP_IHoL9_g9AxurnAITnSvZrthhLkH6z8Ou71-vVHPAFZTpJl5ZiKfgIqssKC2I0EbSL6z_Enrg33iYxC4qQGIxWS14PNKp_NdXjrFHH0NNnmh3V60a3JElK9EfPXb_bheSTtPLTnXgipcynCTZv4zSKhBq6CGpAEGiQ.jpg",
+      "author_photo_path": "channels/mizangorup/media/b7ebb0b8bbb7c6632c490862.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> خطاب به رهبر <br><br>طناب دار گرده <br>آسیاب به نوبت<br><br><br><a href=\"https://t.me/mizangorup\" target=\"_blank\">@mizangorup</a>",
+      "plain_text": "🔴 خطاب به رهبر طناب دار گرده آسیاب به نوبت @mizangorup",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👌",
+          "count": "86"
+        },
+        {
+          "emoji": "👍",
+          "count": "14"
+        },
+        {
+          "emoji": "🔥",
+          "count": "8"
+        },
+        {
+          "emoji": "❤",
+          "count": "6"
+        },
+        {
+          "emoji": "😍",
+          "count": "1"
+        }
+      ],
+      "views_label": "12.1K",
+      "posted_at": "2026-11-22T21:45:54+00:00",
+      "edited": false,
+      "permalink": "https://t.me/mizangorup/70847"
+    },
     {
       "id": "mizangorup/70846",
       "author_name": "💻 MIZAN | میزان 💻",
@@ -21,46 +99,50 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "517"
+          "count": "635"
         },
         {
           "emoji": "❤",
-          "count": "108"
+          "count": "126"
         },
         {
           "emoji": "🙏",
-          "count": "24"
+          "count": "27"
         },
         {
           "emoji": "👏",
-          "count": "15"
+          "count": "22"
         },
         {
           "emoji": "🔥",
-          "count": "10"
+          "count": "11"
         },
         {
           "emoji": "😍",
-          "count": "8"
+          "count": "9"
         },
         {
           "emoji": "💔",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "😢",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "🍾",
-          "count": "2"
+          "count": "4"
         },
         {
           "emoji": "🤝",
           "count": "1"
+        },
+        {
+          "emoji": "🫡",
+          "count": "1"
         }
       ],
-      "views_label": "21.1K",
+      "views_label": "30.6K",
       "posted_at": "2026-11-22T19:02:11+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70846"
@@ -86,15 +168,15 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "1.34K"
+          "count": "1.38K"
         },
         {
           "emoji": "❤",
-          "count": "357"
+          "count": "366"
         },
         {
           "emoji": "👏",
-          "count": "144"
+          "count": "149"
         },
         {
           "emoji": "👌",
@@ -121,7 +203,7 @@
           "count": "2"
         }
       ],
-      "views_label": "55.2K",
+      "views_label": "59.3K",
       "posted_at": "2026-11-20T07:24:03+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70845"
@@ -147,15 +229,15 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "2.29K"
+          "count": "2.32K"
         },
         {
           "emoji": "💔",
-          "count": "473"
+          "count": "477"
         },
         {
           "emoji": "👍",
-          "count": "101"
+          "count": "104"
         },
         {
           "emoji": "😢",
@@ -167,7 +249,7 @@
         },
         {
           "emoji": "👌",
-          "count": "17"
+          "count": "18"
         },
         {
           "emoji": "🙏",
@@ -175,7 +257,7 @@
         },
         {
           "emoji": "🔥",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "😍",
@@ -186,7 +268,7 @@
           "count": "1"
         }
       ],
-      "views_label": "69.9K",
+      "views_label": "75.7K",
       "posted_at": "2026-11-19T08:55:26+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70844"
@@ -206,11 +288,11 @@
         },
         {
           "emoji": "❤",
-          "count": "46"
+          "count": "47"
         },
         {
           "emoji": "💔",
-          "count": "19"
+          "count": "20"
         },
         {
           "emoji": "👌",
@@ -237,7 +319,7 @@
           "count": "1"
         }
       ],
-      "views_label": "61.7K",
+      "views_label": "64.9K",
       "posted_at": "2026-11-19T07:52:09+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70843"
@@ -263,7 +345,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "675"
+          "count": "678"
         },
         {
           "emoji": "👍",
@@ -271,7 +353,7 @@
         },
         {
           "emoji": "💔",
-          "count": "93"
+          "count": "94"
         },
         {
           "emoji": "🙏",
@@ -306,7 +388,7 @@
           "count": "1"
         }
       ],
-      "views_label": "69.2K",
+      "views_label": "71.5K",
       "posted_at": "2026-11-18T20:52:00+00:00",
       "edited": true,
       "permalink": "https://t.me/mizangorup/70842"
@@ -332,7 +414,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "616"
+          "count": "619"
         },
         {
           "emoji": "😢",
@@ -340,7 +422,7 @@
         },
         {
           "emoji": "❤",
-          "count": "43"
+          "count": "44"
         },
         {
           "emoji": "👍",
@@ -363,7 +445,7 @@
           "count": "1"
         }
       ],
-      "views_label": "62.4K",
+      "views_label": "64.1K",
       "posted_at": "2026-11-18T20:45:15+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70841"
@@ -389,7 +471,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "538"
+          "count": "539"
         },
         {
           "emoji": "👌",
@@ -416,7 +498,7 @@
           "count": "2"
         }
       ],
-      "views_label": "59K",
+      "views_label": "61.8K",
       "posted_at": "2026-11-18T20:37:30+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70840"
@@ -432,7 +514,7 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "794"
+          "count": "796"
         },
         {
           "emoji": "❤",
@@ -467,7 +549,7 @@
           "count": "2"
         }
       ],
-      "views_label": "62.1K",
+      "views_label": "64.7K",
       "posted_at": "2026-11-18T20:35:26+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70839"
@@ -493,11 +575,11 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "708"
+          "count": "711"
         },
         {
           "emoji": "❤",
-          "count": "140"
+          "count": "141"
         },
         {
           "emoji": "👍",
@@ -532,7 +614,7 @@
           "count": "1"
         }
       ],
-      "views_label": "64.2K",
+      "views_label": "66.7K",
       "posted_at": "2026-11-18T19:53:40+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70838"
@@ -587,7 +669,7 @@
           "count": "2"
         }
       ],
-      "views_label": "63.2K",
+      "views_label": "64K",
       "posted_at": "2026-11-17T20:49:41+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70837"
@@ -656,7 +738,7 @@
           "count": "1"
         }
       ],
-      "views_label": "63.3K",
+      "views_label": "64.3K",
       "posted_at": "2026-11-17T20:46:15+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70836"
@@ -713,7 +795,7 @@
           "count": "3"
         }
       ],
-      "views_label": "63.6K",
+      "views_label": "66.3K",
       "posted_at": "2026-11-17T18:56:58+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70835"
@@ -729,7 +811,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "583"
+          "count": "582"
         },
         {
           "emoji": "👏",
@@ -752,7 +834,7 @@
           "count": "1"
         }
       ],
-      "views_label": "64.5K",
+      "views_label": "66.6K",
       "posted_at": "2026-11-17T18:55:26+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70834"
@@ -768,7 +850,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "325"
+          "count": "324"
         },
         {
           "emoji": "🔥",
@@ -787,7 +869,7 @@
           "count": "2"
         }
       ],
-      "views_label": "65.9K",
+      "views_label": "68.3K",
       "posted_at": "2026-11-17T18:05:10+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70833"
@@ -834,7 +916,7 @@
           "count": "1"
         }
       ],
-      "views_label": "61.6K",
+      "views_label": "62.7K",
       "posted_at": "2026-11-17T18:00:02+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70832"
@@ -881,7 +963,7 @@
           "count": "3"
         }
       ],
-      "views_label": "60.4K",
+      "views_label": "61.3K",
       "posted_at": "2026-11-17T17:55:02+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70831"
@@ -897,7 +979,7 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "374"
+          "count": "373"
         },
         {
           "emoji": "💔",
@@ -920,7 +1002,7 @@
           "count": "1"
         }
       ],
-      "views_label": "60.5K",
+      "views_label": "61.2K",
       "posted_at": "2026-11-17T17:50:28+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70830"
@@ -954,7 +1036,7 @@
         },
         {
           "emoji": "👌",
-          "count": "86"
+          "count": "85"
         },
         {
           "emoji": "🔥",
@@ -985,7 +1067,7 @@
           "count": "1"
         }
       ],
-      "views_label": "63.8K",
+      "views_label": "64.3K",
       "posted_at": "2026-11-17T14:45:46+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70829"
@@ -5494,126 +5576,6 @@
       "posted_at": "2026-11-02T05:19:16+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70743"
-    },
-    {
-      "id": "mizangorup/70742",
-      "author_name": "💻 MIZAN | میزان 💻",
-      "author_photo_url": "https://cdn4.telesco.pe/file/GN2qcetCtMyUnWk-HBq7mhIHrn_K2Sz96LCFOJnyvUgR4_kfQJkNcqm8zEJoG6690Dr5DR2aW22bbKpjUWKEoru5ShOqdhXqUPUze92VkXN17w9b35-6dCimONC-mDUvsZ8BpcCwbXAOP5RXprW0uU9KGfwWuVPSV78b-ZmvNC-sJcXzBRVoNB8EoSl3stnEXmnUHBOltz-wYTu9NBfvh8k-KCJIHw_iBNAd8ejTZfcPkFMvN8PjWKk_07jIpwYPasRfB4BeGuBMjYMceus1Z33NsCy2ubokGeckT3-GjMd7BoxDfKuCogiML9LfTEpx2vT0YLwNFHy9xzHNxN-70Q.jpg",
-      "author_photo_path": "channels/mizangorup/media/862e42c61e290f1ce78ed619.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> رسانه های مرتبط با اسرائیل مقامات ارشد ایران رو به ترور تهدید کردن :<br><br><br><br><br><a href=\"https://t.me/mizangorup\" target=\"_blank\">@mizangorup</a>",
-      "plain_text": "🔴 رسانه های مرتبط با اسرائیل مقامات ارشد ایران رو به ترور تهدید کردن : @mizangorup",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/mizangorup/70742",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Ei2zafsdYQFCpY4kYADhATqRiipBS_HRkfYVPULMvn33Wa3P_5F3fwprisyY9qHREYZurCE7HQKyPHnEimCmaCpg_nk6ovYXsgaKM9GHpboywC83iAvzqM9OtPpKjySMNPbPe4k8Uytep_DVLv0yuuWlCsILc3Ka9U9T2a3jKtcpsg1QEfivyvMnI2LMUbCU7fGjxD0434MMDKsMe2lflXH0QhBc0tu356UCCjjMLcRKcCFN07zo-7Cvaf0El3puX4utGhoonuiFQ-LsW4yv-5jcaRlrTNDJjMyO09Q8Zk7ANQ6yylsBiRxu9_baZJ08CYHejncmENrGtjulCtUMZw.jpg",
-          "thumbnail_path": "channels/mizangorup/media/0f9a7dcacf66d8e9b660ae84.jpg",
-          "duration_label": null,
-          "aspect_ratio": 3.278688524590164
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👌",
-          "count": "1.65K"
-        },
-        {
-          "emoji": "👏",
-          "count": "264"
-        },
-        {
-          "emoji": "❤",
-          "count": "80"
-        },
-        {
-          "emoji": "😍",
-          "count": "47"
-        },
-        {
-          "emoji": "😁",
-          "count": "42"
-        },
-        {
-          "emoji": "🍾",
-          "count": "26"
-        },
-        {
-          "emoji": "🙏",
-          "count": "15"
-        },
-        {
-          "emoji": "👍",
-          "count": "11"
-        },
-        {
-          "emoji": "🎉",
-          "count": "11"
-        },
-        {
-          "emoji": "🔥",
-          "count": "7"
-        },
-        {
-          "emoji": "💔",
-          "count": "6"
-        }
-      ],
-      "views_label": "68.2K",
-      "posted_at": "2026-11-01T11:00:08+00:00",
-      "edited": false,
-      "permalink": "https://t.me/mizangorup/70742"
-    },
-    {
-      "id": "mizangorup/70740",
-      "author_name": "💻 MIZAN | میزان 💻",
-      "author_photo_url": "https://cdn4.telesco.pe/file/GN2qcetCtMyUnWk-HBq7mhIHrn_K2Sz96LCFOJnyvUgR4_kfQJkNcqm8zEJoG6690Dr5DR2aW22bbKpjUWKEoru5ShOqdhXqUPUze92VkXN17w9b35-6dCimONC-mDUvsZ8BpcCwbXAOP5RXprW0uU9KGfwWuVPSV78b-ZmvNC-sJcXzBRVoNB8EoSl3stnEXmnUHBOltz-wYTu9NBfvh8k-KCJIHw_iBNAd8ejTZfcPkFMvN8PjWKk_07jIpwYPasRfB4BeGuBMjYMceus1Z33NsCy2ubokGeckT3-GjMd7BoxDfKuCogiML9LfTEpx2vT0YLwNFHy9xzHNxN-70Q.jpg",
-      "author_photo_path": "channels/mizangorup/media/862e42c61e290f1ce78ed619.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>ابتدا کار ایران را تمام می‌کنیم و سپس به سراغ کوبا می‌رویم<br><br>ترامپ ادعا کرد:<br><br>فکر نمی‌کنم حکومت کوبا مدت زیادی دوام بیاورد، کوبا کشوری شکست‌خورده است و خیلی زود مردم را به آنجا بازمی‌گردانیم.<br><br>ببینید با ونزوئلا چه کردیم؛ اوضاع آنجا فوق‌العاده پیش رفته است. ابتدا کار یکی را تمام می‌کنیم و بعد شاید به سراغ دیگری برویم.<br><br>اکنون درگیر کشوری به نام ایران هستیم و در حال گرفتن سلاح هسته‌ای از آن هستیم، ایران هرگز سلاح هسته‌ای نخواهد داشت و این روند بسیار خوب پیش می‌رود.<br><br>مساله کوبا قطعاً ظرف دو سال و نیم آینده حل خواهد شد.<br><br><a href=\"https://t.me/mizangorup\" target=\"_blank\">@mizangorup</a>",
-      "plain_text": "🔴ابتدا کار ایران را تمام می‌کنیم و سپس به سراغ کوبا می‌رویم ترامپ ادعا کرد: فکر نمی‌کنم حکومت کوبا مدت زیادی دوام بیاورد، کوبا کشوری شکست‌خورده است و خیلی زود مردم را به آنجا بازمی‌گردانیم. ببینید با ونزوئلا چه کردیم؛ اوضاع آنجا فوق‌العاده پیش رفته است. ابتدا کار یکی را تمام می‌کنیم و بعد شاید به سراغ دیگری برویم. اکنون درگیر کشوری به نام ایران هستیم و در حال گرفتن سلاح هسته‌ای از آن هستیم، ایران هرگز سلاح هسته‌ای نخواهد داشت و این روند بسیار خوب پیش می‌رود. مساله کوبا قطعاً ظرف دو سال و نیم آینده حل خواهد شد. @mizangorup",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "654"
-        },
-        {
-          "emoji": "❤",
-          "count": "95"
-        },
-        {
-          "emoji": "😁",
-          "count": "51"
-        },
-        {
-          "emoji": "👏",
-          "count": "22"
-        },
-        {
-          "emoji": "👌",
-          "count": "14"
-        },
-        {
-          "emoji": "💔",
-          "count": "7"
-        },
-        {
-          "emoji": "🔥",
-          "count": "6"
-        },
-        {
-          "emoji": "🤝",
-          "count": "2"
-        },
-        {
-          "emoji": "🫡",
-          "count": "2"
-        }
-      ],
-      "views_label": "72.1K",
-      "posted_at": "2026-10-31T18:28:41+00:00",
-      "edited": false,
-      "permalink": "https://t.me/mizangorup/70740"
     }
   ]
 }
