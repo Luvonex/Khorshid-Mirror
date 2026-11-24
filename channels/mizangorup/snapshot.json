@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-11-24T11:44:34.896Z",
+  "fetched_at": "2026-11-24T16:29:44.556Z",
   "channel": {
     "username": "mizangorup",
     "title": "💻 MIZAN | میزان 💻",
@@ -10,6 +10,71 @@
     "subscriber_count": "243K"
   },
   "posts": [
+    {
+      "id": "mizangorup/70852",
+      "author_name": "💻 MIZAN | میزان 💻",
+      "author_photo_url": "https://cdn4.telesco.pe/file/YCOkcTpJdl0f9QyPEhJglQ22Eoc1xqoMCvipxJGY7D5dpXHTaSKJG20dYDXDtOLRYNZjzTfNCRAW2524O0_X3uwk-DUiXHzeEoRhEI3SvyyvtldyDTQu55HR6s48GuRCRfJ9xX9sCqa_JxGNnlTLChEUePYrKFGMiZ4QejtbgyLccUpy_y5BriPC8jyKUEdLG4sDzL1al9cRB4kCNH1akaByq6Fxn2V9IS8MEOspx2_z3onDctSOuGgny8cxE6qK-_RL-dir11DNAhx-mrgiQQwKwfk9C1rwy9OjA9yAW97pnLWgBm1P5PFMzfFs9m3GI-y1jHTaiRO5oQFvggaxAw.jpg",
+      "author_photo_path": "channels/mizangorup/media/eeed0d76b97bc52a446f0777.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> تبریز اوشاخلاری <br><br><br><br><br><br><br><br><br><a href=\"https://t.me/mizangorup\" target=\"_blank\">@mizangorup</a>",
+      "plain_text": "🔴 تبریز اوشاخلاری @mizangorup",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mizangorup/70852",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/rLI6fwjSIsp1w9pv0oRiphslXaMoW6bRFiFJbjqj4y8BbjXLheNDDKnr-6wNbjHYgEd8T8CZogfC4ewPdNTz2EZZQNrpt9jfQTag2_sl9rdi9wYV6CpidVP7xx5UG9TNofKYwOcqfNFdNZ6ThruwN-ChQkVbB68WmacpN1FwT2P6yGlzGICL8-aWP5qLqZDV48J2ev80-xAH5tRaglHGVmpLXTB78qaVv1uV6gN0LQKaM1WQmBcm1cciSLwjVSz9fpHF-9gJNrxRX2o9z1tmiH3ofW5RkBk0FmjCXPKrDadcjF6K6jSpt-SWP7nNAdOfEbZ4SDSECaoSZ_KYNVMmNw",
+          "thumbnail_path": "channels/mizangorup/media/1006723e23474e0dcb73c26f.jpg",
+          "duration_label": "0:27",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "633"
+        },
+        {
+          "emoji": "❤",
+          "count": "104"
+        },
+        {
+          "emoji": "😢",
+          "count": "27"
+        },
+        {
+          "emoji": "👏",
+          "count": "11"
+        },
+        {
+          "emoji": "💔",
+          "count": "11"
+        },
+        {
+          "emoji": "👍",
+          "count": "7"
+        },
+        {
+          "emoji": "🍾",
+          "count": "7"
+        },
+        {
+          "emoji": "🫡",
+          "count": "4"
+        },
+        {
+          "emoji": "🕊",
+          "count": "3"
+        },
+        {
+          "emoji": "🎉",
+          "count": "1"
+        }
+      ],
+      "views_label": "23.8K",
+      "posted_at": "2026-11-24T11:59:50+00:00",
+      "edited": false,
+      "permalink": "https://t.me/mizangorup/70852"
+    },
     {
       "id": "mizangorup/70851",
       "author_name": "💻 MIZAN | میزان 💻",
@@ -21,38 +86,42 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "235"
+          "count": "440"
         },
         {
           "emoji": "🔥",
-          "count": "46"
+          "count": "75"
         },
         {
           "emoji": "😢",
-          "count": "24"
+          "count": "39"
         },
         {
           "emoji": "❤",
-          "count": "8"
+          "count": "14"
         },
         {
           "emoji": "🍾",
-          "count": "7"
+          "count": "10"
         },
         {
           "emoji": "😍",
-          "count": "5"
+          "count": "6"
+        },
+        {
+          "emoji": "👍",
+          "count": "4"
         },
         {
           "emoji": "👏",
-          "count": "1"
+          "count": "3"
         },
         {
           "emoji": "👌",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "12.4K",
+      "views_label": "30.3K",
       "posted_at": "2026-11-24T10:26:34+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70851"
@@ -68,19 +137,19 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "1.87K"
+          "count": "2.03K"
         },
         {
           "emoji": "👍",
-          "count": "208"
+          "count": "222"
         },
         {
           "emoji": "😢",
-          "count": "133"
+          "count": "140"
         },
         {
           "emoji": "❤",
-          "count": "44"
+          "count": "50"
         },
         {
           "emoji": "😍",
@@ -88,7 +157,7 @@
         },
         {
           "emoji": "🔥",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "🕊",
@@ -96,10 +165,10 @@
         },
         {
           "emoji": "🍾",
-          "count": "3"
+          "count": "4"
         }
       ],
-      "views_label": "40.2K",
+      "views_label": "47.1K",
       "posted_at": "2026-11-23T20:22:55+00:00",
       "edited": true,
       "permalink": "https://t.me/mizangorup/70850"
@@ -115,30 +184,30 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "179"
+          "count": "193"
         },
         {
           "emoji": "❤",
-          "count": "16"
+          "count": "20"
         },
         {
           "emoji": "👍",
-          "count": "10"
-        },
-        {
-          "emoji": "😢",
-          "count": "4"
+          "count": "11"
         },
         {
           "emoji": "🕊",
-          "count": "4"
+          "count": "6"
+        },
+        {
+          "emoji": "😢",
+          "count": "5"
         },
         {
           "emoji": "🍾",
           "count": "1"
         }
       ],
-      "views_label": "39.5K",
+      "views_label": "45.6K",
       "posted_at": "2026-11-23T20:20:26+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70849"
@@ -154,15 +223,15 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "606"
+          "count": "614"
         },
         {
           "emoji": "👍",
-          "count": "104"
+          "count": "105"
         },
         {
           "emoji": "❤",
-          "count": "42"
+          "count": "43"
         },
         {
           "emoji": "🎉",
@@ -185,7 +254,7 @@
           "count": "2"
         }
       ],
-      "views_label": "57.8K",
+      "views_label": "60.3K",
       "posted_at": "2026-11-22T21:48:00+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70848"
@@ -201,11 +270,11 @@
       "reactions": [
         {
           "emoji": "👌",
-          "count": "336"
+          "count": "343"
         },
         {
           "emoji": "👍",
-          "count": "48"
+          "count": "49"
         },
         {
           "emoji": "❤",
@@ -213,14 +282,14 @@
         },
         {
           "emoji": "🔥",
-          "count": "17"
+          "count": "18"
         },
         {
           "emoji": "😍",
           "count": "5"
         }
       ],
-      "views_label": "56.4K",
+      "views_label": "58.8K",
       "posted_at": "2026-11-22T21:45:54+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70847"
@@ -236,19 +305,19 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "857"
+          "count": "862"
         },
         {
           "emoji": "❤",
-          "count": "148"
+          "count": "151"
         },
         {
           "emoji": "🙏",
-          "count": "39"
+          "count": "40"
         },
         {
           "emoji": "👏",
-          "count": "35"
+          "count": "36"
         },
         {
           "emoji": "😍",
@@ -279,7 +348,7 @@
           "count": "1"
         }
       ],
-      "views_label": "59.6K",
+      "views_label": "61.5K",
       "posted_at": "2026-11-22T19:02:11+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70846"
@@ -305,26 +374,26 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "1.48K"
+          "count": "1.49K"
         },
         {
           "emoji": "❤",
-          "count": "390"
+          "count": "391"
         },
         {
           "emoji": "👏",
-          "count": "164"
+          "count": "166"
         },
         {
           "emoji": "👌",
           "count": "12"
         },
         {
-          "emoji": "🙏",
-          "count": "10"
+          "emoji": "😍",
+          "count": "11"
         },
         {
-          "emoji": "😍",
+          "emoji": "🙏",
           "count": "10"
         },
         {
@@ -340,7 +409,7 @@
           "count": "3"
         }
       ],
-      "views_label": "88.2K",
+      "views_label": "91.4K",
       "posted_at": "2026-11-20T07:24:03+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70845"
@@ -366,11 +435,11 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "2.42K"
+          "count": "2.43K"
         },
         {
           "emoji": "💔",
-          "count": "498"
+          "count": "499"
         },
         {
           "emoji": "👍",
@@ -405,7 +474,7 @@
           "count": "1"
         }
       ],
-      "views_label": "94.4K",
+      "views_label": "96.7K",
       "posted_at": "2026-11-19T08:55:26+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70844"
@@ -456,7 +525,7 @@
           "count": "1"
         }
       ],
-      "views_label": "75.4K",
+      "views_label": "76.3K",
       "posted_at": "2026-11-19T07:52:09+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70843"
@@ -482,7 +551,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "697"
+          "count": "700"
         },
         {
           "emoji": "👍",
@@ -525,7 +594,7 @@
           "count": "1"
         }
       ],
-      "views_label": "88K",
+      "views_label": "89.5K",
       "posted_at": "2026-11-18T20:52:00+00:00",
       "edited": true,
       "permalink": "https://t.me/mizangorup/70842"
@@ -551,11 +620,11 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "633"
+          "count": "634"
         },
         {
           "emoji": "😢",
-          "count": "84"
+          "count": "85"
         },
         {
           "emoji": "❤",
@@ -567,7 +636,7 @@
         },
         {
           "emoji": "🕊",
-          "count": "8"
+          "count": "9"
         },
         {
           "emoji": "👌",
@@ -586,7 +655,7 @@
           "count": "1"
         }
       ],
-      "views_label": "69.5K",
+      "views_label": "70.1K",
       "posted_at": "2026-11-18T20:45:15+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70841"
@@ -612,7 +681,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "552"
+          "count": "554"
         },
         {
           "emoji": "👌",
@@ -628,7 +697,7 @@
         },
         {
           "emoji": "🍾",
-          "count": "9"
+          "count": "10"
         },
         {
           "emoji": "🕊",
@@ -639,7 +708,7 @@
           "count": "3"
         }
       ],
-      "views_label": "71K",
+      "views_label": "74.6K",
       "posted_at": "2026-11-18T20:37:30+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70840"
@@ -690,7 +759,7 @@
           "count": "2"
         }
       ],
-      "views_label": "77K",
+      "views_label": "81.1K",
       "posted_at": "2026-11-18T20:35:26+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70839"
@@ -755,7 +824,7 @@
           "count": "1"
         }
       ],
-      "views_label": "79.4K",
+      "views_label": "83.5K",
       "posted_at": "2026-11-18T19:53:40+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70838"
@@ -814,7 +883,7 @@
           "count": "1"
         }
       ],
-      "views_label": "77.7K",
+      "views_label": "79.4K",
       "posted_at": "2026-11-17T20:49:41+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70837"
@@ -883,7 +952,7 @@
           "count": "1"
         }
       ],
-      "views_label": "77.4K",
+      "views_label": "79.1K",
       "posted_at": "2026-11-17T20:46:15+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70836"
@@ -940,7 +1009,7 @@
           "count": "3"
         }
       ],
-      "views_label": "75.3K",
+      "views_label": "75.7K",
       "posted_at": "2026-11-17T18:56:58+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70835"
@@ -979,7 +1048,7 @@
           "count": "1"
         }
       ],
-      "views_label": "74K",
+      "views_label": "74.5K",
       "posted_at": "2026-11-17T18:55:26+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70834"
@@ -1014,7 +1083,7 @@
           "count": "2"
         }
       ],
-      "views_label": "76.7K",
+      "views_label": "77.3K",
       "posted_at": "2026-11-17T18:05:10+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70833"
@@ -5485,57 +5554,6 @@
       "posted_at": "2026-11-02T17:17:05+00:00",
       "edited": false,
       "permalink": "https://t.me/mizangorup/70747"
-    },
-    {
-      "id": "mizangorup/70746",
-      "author_name": "💻 MIZAN | میزان 💻",
-      "author_photo_url": "https://cdn4.telesco.pe/file/GN2qcetCtMyUnWk-HBq7mhIHrn_K2Sz96LCFOJnyvUgR4_kfQJkNcqm8zEJoG6690Dr5DR2aW22bbKpjUWKEoru5ShOqdhXqUPUze92VkXN17w9b35-6dCimONC-mDUvsZ8BpcCwbXAOP5RXprW0uU9KGfwWuVPSV78b-ZmvNC-sJcXzBRVoNB8EoSl3stnEXmnUHBOltz-wYTu9NBfvh8k-KCJIHw_iBNAd8ejTZfcPkFMvN8PjWKk_07jIpwYPasRfB4BeGuBMjYMceus1Z33NsCy2ubokGeckT3-GjMd7BoxDfKuCogiML9LfTEpx2vT0YLwNFHy9xzHNxN-70Q.jpg",
-      "author_photo_path": "channels/mizangorup/media/862e42c61e290f1ce78ed619.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>ترامپ ممکن است تا ۷ نوامبر به ایران حمله اتمی کند</b><br><br> تاکر کارلسون مدعی شده ترامپ ممکن است تا ۷ نوامبر حمله اتمی به ایران انجام دهد. به گفته او، نتانیاهو ترامپ را به استفاده از بمب هسته‌ای سنگرشکن علیه تأسیساتی که در عمق کوه‌های ایران قرار دارد فشار می‌آورد.<br><br> کارلسون می‌گوید نتانیاهو پس از ناکامی در کسب اکثریت در انتخابات اسرائیل به این جنگ نیاز دارد. این هشدار تنها بر یک منبع بی‌نام تکیه دارد و نه واشینگتن و نه اسرائیل آن را تأیید نکرده‌اند. ترامپ خود ماه گذشته استفاده از سلاح هسته‌ای را رد کرده بود.<br><br><a href=\"https://t.me/mizangorup\" target=\"_blank\">@mizangorup</a>",
-      "plain_text": "🔴ترامپ ممکن است تا ۷ نوامبر به ایران حمله اتمی کند تاکر کارلسون مدعی شده ترامپ ممکن است تا ۷ نوامبر حمله اتمی به ایران انجام دهد. به گفته او، نتانیاهو ترامپ را به استفاده از بمب هسته‌ای سنگرشکن علیه تأسیساتی که در عمق کوه‌های ایران قرار دارد فشار می‌آورد. کارلسون می‌گوید نتانیاهو پس از ناکامی در کسب اکثریت در انتخابات اسرائیل به این جنگ نیاز دارد. این هشدار تنها بر یک منبع بی‌نام تکیه دارد و نه واشینگتن و نه اسرائیل آن را تأیید نکرده‌اند. ترامپ خود ماه گذشته استفاده از سلاح هسته‌ای را رد کرده بود. @mizangorup",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "356"
-        },
-        {
-          "emoji": "💔",
-          "count": "79"
-        },
-        {
-          "emoji": "😁",
-          "count": "27"
-        },
-        {
-          "emoji": "👍",
-          "count": "19"
-        },
-        {
-          "emoji": "😢",
-          "count": "10"
-        },
-        {
-          "emoji": "🔥",
-          "count": "8"
-        },
-        {
-          "emoji": "🤩",
-          "count": "7"
-        },
-        {
-          "emoji": "🍾",
-          "count": "5"
-        },
-        {
-          "emoji": "😍",
-          "count": "4"
-        }
-      ],
-      "views_label": "55.5K",
-      "posted_at": "2026-11-02T17:16:30+00:00",
-      "edited": false,
-      "permalink": "https://t.me/mizangorup/70746"
     }
   ]
 }
