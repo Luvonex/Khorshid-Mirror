@@ -1,38 +1,794 @@
 {
   "schema": 2,
-  "fetched_at": "2026-11-26T15:09:40.007Z",
+  "fetched_at": "2026-11-26T20:32:49.425Z",
   "channel": {
     "username": "iranianminds",
     "title": "Iranian Minds",
     "description_html": "Manager : <a href=\"https://t.me/AmirrPower\" target=\"_blank\">@AmirrPower</a>",
-    "photo_url": "https://cdn4.telesco.pe/file/GOhSbvCYZNxr7GA07ccFtVX5fVmGkhojMKL9Er08pjyct64Hf2sOz7w8wdnZ_mEgwvx42dHutFOJw7Q_DV1RapQJbEnFi37RE7FApYgmt-rc-BT9QoCEXQIBE1ZP-wYdOI5i81oyKr8XpeiEnCh08TiI0cukGoNdR1GzQthfxqdFVQQ5GlZ3YkGHDzCxtX3S95cESdNCQrvp_SEI3IWxH_vI1TBTduROxHdS5lS-jPihPjVhrmXl4oJWc3JXQFSOCzuOAaKTvfJqtWQ0X3hcEznP7mtTJJpre9406ZCtXqOF3WtciM3CFdBV_ETXo9rgZUPWeApGssMUu2Fu2DPl2g.jpg",
-    "photo_path": "channels/iranianminds/media/06fa3c76f6e459dd5a45efe6.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/ndlCXjkw_KfVN1gkKmSOARrZ9JBZi5_KJmYCO-5kzASGXRpZR-nJymMoAeF1rKN0V5H3MFhUksrpHsN6MNDfUZKn1sd0PWtPFautS2spYk-i0bRTshWoOkjSWSuKe1waFd7WGd7B0ReK1cZTYI6l2alK5rr0f5gF6tIn2eThLvWctLvHw1fJ-jths1q05M29WwgKNfdPMiyKguDBd_K-1kAoZZs5odLFaDz0oA_KSFX4yYh6bCdy94FcLIm0IT3vXFrfaqlW9uRRm6hJPvBmCoU5gUj7wfw3ABWYEvggzK7D4jj7TDS6aWDBbHcFY8zmM3RVmNW9hihQOrBH27BSwg.jpg",
+    "photo_path": "channels/iranianminds/media/e01038a5b89c87d97a605c30.jpg",
     "subscriber_count": "231K"
   },
   "posts": [
     {
+      "id": "IranianMinds/33025",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ndlCXjkw_KfVN1gkKmSOARrZ9JBZi5_KJmYCO-5kzASGXRpZR-nJymMoAeF1rKN0V5H3MFhUksrpHsN6MNDfUZKn1sd0PWtPFautS2spYk-i0bRTshWoOkjSWSuKe1waFd7WGd7B0ReK1cZTYI6l2alK5rr0f5gF6tIn2eThLvWctLvHw1fJ-jths1q05M29WwgKNfdPMiyKguDBd_K-1kAoZZs5odLFaDz0oA_KSFX4yYh6bCdy94FcLIm0IT3vXFrfaqlW9uRRm6hJPvBmCoU5gUj7wfw3ABWYEvggzK7D4jj7TDS6aWDBbHcFY8zmM3RVmNW9hihQOrBH27BSwg.jpg",
+      "author_photo_path": "channels/iranianminds/media/e01038a5b89c87d97a605c30.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> عباس عراقچی:<br><br>در گفتگو با همتایان ایتالیایی و کویتی خود، ضمن ابراز همدردی، به خاطر جان باختن شهروندان ایتالیایی در کویت تسلیت گفتم.<br><br>این حادثه مشکوک است و به نظر می‌رسد سناریویی از پیش طراحی‌شده برای جنگ باشد.<br><br>ما آمادگی داریم تا برای مشخص شدن علت این حادثه، با کویت و ایتالیا همکاری کنیم.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "🔴 عباس عراقچی: در گفتگو با همتایان ایتالیایی و کویتی خود، ضمن ابراز همدردی، به خاطر جان باختن شهروندان ایتالیایی در کویت تسلیت گفتم. این حادثه مشکوک است و به نظر می‌رسد سناریویی از پیش طراحی‌شده برای جنگ باشد. ما آمادگی داریم تا برای مشخص شدن علت این حادثه، با کویت و ایتالیا همکاری کنیم. @IranianMinds",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranianMinds/33025",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/i_QZ-n-5A4avsRgOqLs2rSacmfCU9v_-9wfne3MGZCDK1If6gryIpCjiwZuzKuG3HDYiTGkAY7pt_5dPT7jdpsde-fde-KAOGdtA5VTweWZQLXaXhE_3y7N5J79Z8FMupcLuLpZHDpPBnHyrCEp_2nxTx533659KFEagk0kaE_m7AZ1AWjobNLzCZ-_et-QjjMbRtUND9RjYN1ccBXqDUljBWWL9ENRPlU0jH6vaZuWitxc2ZdZczzsIHayXY0HQ4LIm4xb6YiYDyMWU8z3Oh87IVo_anfIrSMwaVvgokbVQk8yRu_uOokg4Y_rvjmqkUzoj_XDtq-ej6MYzV3dfZw.jpg",
+          "thumbnail_path": "channels/iranianminds/media/3b4fe2de3cede949f65296eb.jpg",
+          "duration_label": null,
+          "aspect_ratio": 2.1563342318059298
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "1.23K"
+        },
+        {
+          "emoji": "👍",
+          "count": "535"
+        },
+        {
+          "emoji": "🤣",
+          "count": "238"
+        },
+        {
+          "emoji": "🖕",
+          "count": "49"
+        },
+        {
+          "emoji": "🔥",
+          "count": "2"
+        }
+      ],
+      "views_label": "12.3K",
+      "posted_at": "2026-11-26T19:57:23+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/33025"
+    },
+    {
+      "id": "IranianMinds/33024",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ndlCXjkw_KfVN1gkKmSOARrZ9JBZi5_KJmYCO-5kzASGXRpZR-nJymMoAeF1rKN0V5H3MFhUksrpHsN6MNDfUZKn1sd0PWtPFautS2spYk-i0bRTshWoOkjSWSuKe1waFd7WGd7B0ReK1cZTYI6l2alK5rr0f5gF6tIn2eThLvWctLvHw1fJ-jths1q05M29WwgKNfdPMiyKguDBd_K-1kAoZZs5odLFaDz0oA_KSFX4yYh6bCdy94FcLIm0IT3vXFrfaqlW9uRRm6hJPvBmCoU5gUj7wfw3ABWYEvggzK7D4jj7TDS6aWDBbHcFY8zmM3RVmNW9hihQOrBH27BSwg.jpg",
+      "author_photo_path": "channels/iranianminds/media/e01038a5b89c87d97a605c30.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> عوامل اصلی&nbsp;شبکه تولید و توزیع&nbsp; مشروبات الکلی حاوی متانول در نیشابور بازداشت شدند.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "🔴 عوامل اصلی شبکه تولید و توزیع مشروبات الکلی حاوی متانول در نیشابور بازداشت شدند. @IranianMinds",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "1.45K"
+        },
+        {
+          "emoji": "👍",
+          "count": "712"
+        },
+        {
+          "emoji": "🔥",
+          "count": "41"
+        },
+        {
+          "emoji": "🤣",
+          "count": "16"
+        },
+        {
+          "emoji": "💔",
+          "count": "4"
+        },
+        {
+          "emoji": "🖕",
+          "count": "3"
+        }
+      ],
+      "views_label": "18.9K",
+      "posted_at": "2026-11-26T19:30:25+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/33024"
+    },
+    {
+      "id": "IranianMinds/33023",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ndlCXjkw_KfVN1gkKmSOARrZ9JBZi5_KJmYCO-5kzASGXRpZR-nJymMoAeF1rKN0V5H3MFhUksrpHsN6MNDfUZKn1sd0PWtPFautS2spYk-i0bRTshWoOkjSWSuKe1waFd7WGd7B0ReK1cZTYI6l2alK5rr0f5gF6tIn2eThLvWctLvHw1fJ-jths1q05M29WwgKNfdPMiyKguDBd_K-1kAoZZs5odLFaDz0oA_KSFX4yYh6bCdy94FcLIm0IT3vXFrfaqlW9uRRm6hJPvBmCoU5gUj7wfw3ABWYEvggzK7D4jj7TDS6aWDBbHcFY8zmM3RVmNW9hihQOrBH27BSwg.jpg",
+      "author_photo_path": "channels/iranianminds/media/e01038a5b89c87d97a605c30.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> حاوی تصاویر دلخراش<br><br>این ویدیو‌ از مدارس یکی از روستاهای دزفوله؛ ببینید حرومزاده بچه های بیگناه رو چطوری کتک میزنه ! اصلا نظارتی روی این مدارس میشه ؟ آدم اینارو میبینه نابود میشه بی وجدان حرومی بچه ی ۱۰ ساله رو داره  اینطوری میزنه ؛ انقدر پخشش کنید تا شاید این مسئولای بدرد نخور یه گوهی بخورن …<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "🔴 حاوی تصاویر دلخراش این ویدیو‌ از مدارس یکی از روستاهای دزفوله؛ ببینید حرومزاده بچه های بیگناه رو چطوری کتک میزنه ! اصلا نظارتی روی این مدارس میشه ؟ آدم اینارو میبینه نابود میشه بی وجدان حرومی بچه ی ۱۰ ساله رو داره اینطوری میزنه ؛ انقدر پخشش کنید تا شاید این مسئولای بدرد نخور یه گوهی بخورن … @IranianMinds",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranianMinds/33023",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/Wiaj-UXukTidPa0S_OKoaE3Q2ReZfVQd7VCwLDVy3qpy9MP8VZByGsE8GIOSNhdR5flHgm2LCBk23YFwDIMYSqUGMITMxYzGwF3hybKv3cFp_boC8tFlzW9e7LjW2QwqpxNceFa9AfN1SdD5Hrh_qqCl9KtmbREhu9FEPnRSqdTjKVpLaJ60y0S_KQuJzXXwY-AFVzVwsdaZ8TPgXYLEVaVXFGVC1uqKxrJPH4EX-1bufFxMAXGJQ4HYjvfp4B5ZtarMrPf8PksfBG1HGUGAo-MfazH0hNwxb5U2ZzNvVwlb9Kr7jNN5BFct8EqTWD_l_h5FOb_YrdKwtQQzDVc0Gw",
+          "thumbnail_path": "channels/iranianminds/media/d65af27d724101a209ad583f.jpg",
+          "duration_label": "0:26",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "1.46K"
+        },
+        {
+          "emoji": "👍",
+          "count": "744"
+        },
+        {
+          "emoji": "💔",
+          "count": "549"
+        },
+        {
+          "emoji": "🖕",
+          "count": "46"
+        },
+        {
+          "emoji": "🤣",
+          "count": "8"
+        },
+        {
+          "emoji": "🔥",
+          "count": "2"
+        },
+        {
+          "emoji": "👏",
+          "count": "1"
+        }
+      ],
+      "views_label": "28K",
+      "posted_at": "2026-11-26T18:48:38+00:00",
+      "edited": true,
+      "permalink": "https://t.me/IranianMinds/33023"
+    },
+    {
+      "id": "IranianMinds/33022",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ndlCXjkw_KfVN1gkKmSOARrZ9JBZi5_KJmYCO-5kzASGXRpZR-nJymMoAeF1rKN0V5H3MFhUksrpHsN6MNDfUZKn1sd0PWtPFautS2spYk-i0bRTshWoOkjSWSuKe1waFd7WGd7B0ReK1cZTYI6l2alK5rr0f5gF6tIn2eThLvWctLvHw1fJ-jths1q05M29WwgKNfdPMiyKguDBd_K-1kAoZZs5odLFaDz0oA_KSFX4yYh6bCdy94FcLIm0IT3vXFrfaqlW9uRRm6hJPvBmCoU5gUj7wfw3ABWYEvggzK7D4jj7TDS6aWDBbHcFY8zmM3RVmNW9hihQOrBH27BSwg.jpg",
+      "author_photo_path": "channels/iranianminds/media/e01038a5b89c87d97a605c30.jpg",
+      "body_html": "<a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "@IranianMinds",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranianMinds/33022",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/uuToe3em0LNC68ZkTwby_eyNDjVUUELa3b4WKPUhCPoywbGfRTw2ydq03vUzwe-sK9u6ZOv6NCrKrn0VY0ReGybbGOL1H7PtoO7y016dVud1Q939AVyyuB7QhPxjfaBNMKzfLa7T2vKtu_w8F762-vp-ybw09WntW9Na3J9Hko7VcE_IvVhdle6xJ0fhMdRtP-2-YFd8ilsh_MaNANpybKRnrwbuWmTgmWLrra8Z_1xTe1NUak0EKXh02O6Cii9UtX3pP80TQ9q84UDQ4bQIuQVu6uZBwYAqhLX0WXruxs4z23K9TKhLTHtqCx3GUUqWCLk-kXrpvqraJImA0kAxBQ.jpg",
+          "thumbnail_path": "channels/iranianminds/media/ca79ba1cb83dee3eb2fcf1c4.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.0695187165775402
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "1.67K"
+        },
+        {
+          "emoji": "👍",
+          "count": "814"
+        },
+        {
+          "emoji": "🤣",
+          "count": "156"
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "21"
+        },
+        {
+          "emoji": "🖕",
+          "count": "4"
+        },
+        {
+          "emoji": "💔",
+          "count": "2"
+        },
+        {
+          "emoji": "👏",
+          "count": "1"
+        }
+      ],
+      "views_label": "26.5K",
+      "posted_at": "2026-11-26T18:42:03+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/33022"
+    },
+    {
+      "id": "IranianMinds/33021",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ndlCXjkw_KfVN1gkKmSOARrZ9JBZi5_KJmYCO-5kzASGXRpZR-nJymMoAeF1rKN0V5H3MFhUksrpHsN6MNDfUZKn1sd0PWtPFautS2spYk-i0bRTshWoOkjSWSuKe1waFd7WGd7B0ReK1cZTYI6l2alK5rr0f5gF6tIn2eThLvWctLvHw1fJ-jths1q05M29WwgKNfdPMiyKguDBd_K-1kAoZZs5odLFaDz0oA_KSFX4yYh6bCdy94FcLIm0IT3vXFrfaqlW9uRRm6hJPvBmCoU5gUj7wfw3ABWYEvggzK7D4jj7TDS6aWDBbHcFY8zmM3RVmNW9hihQOrBH27BSwg.jpg",
+      "author_photo_path": "channels/iranianminds/media/e01038a5b89c87d97a605c30.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> الکس جونز، مجری آمریکایی: <br><br>پنتاگون داره آماده میشه نیروی زمینی آمریکا رو از شرق عراق بفرسته داخل ایران تا «<b>قیام مردم</b>» رو راه بندازه! ولی این یه تله‌ست!<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "🔴 الکس جونز، مجری آمریکایی: پنتاگون داره آماده میشه نیروی زمینی آمریکا رو از شرق عراق بفرسته داخل ایران تا «قیام مردم» رو راه بندازه! ولی این یه تله‌ست! @IranianMinds",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranianMinds/33021",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/gVp8xmpV7a_YoSYxIrcAPddurb4MF8yA4J7gesnK6yXlA-MxPpfZJLrveEHgznPBIIuy8-qd4Ldx9i0hrRx5sdX4iSDbB4gNsynAIpcLBXSYmTEKTyGdDLK9fy7mxqNRHec0NJxZ14ofTQcSZRYtUAjQ30y4H0qFyMa9X3mEMsTYZi13JSjMKJ0oBSPtVZS8D-z0GAaHAaKebNC_Gvvx5oTIb7TcHl92_-ZKGE9tgI5Vd4vgMRN0zmCPNaFwP426-cD74KmuBwkDxDZk3KetleDSsXL9UYFrWlyrrjfakCR7DO0WNxu7jlezM2F7Dq0TpuWe9iHDNjkkLZJkvt55_w.jpg",
+          "thumbnail_path": "channels/iranianminds/media/b3ae7f219f76f26494035342.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "1.54K"
+        },
+        {
+          "emoji": "👍",
+          "count": "704"
+        },
+        {
+          "emoji": "🤣",
+          "count": "55"
+        },
+        {
+          "emoji": "🔥",
+          "count": "19"
+        },
+        {
+          "emoji": "🖕",
+          "count": "9"
+        },
+        {
+          "emoji": "👏",
+          "count": "1"
+        }
+      ],
+      "views_label": "26.5K",
+      "posted_at": "2026-11-26T18:40:07+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/33021"
+    },
+    {
+      "id": "IranianMinds/33020",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ndlCXjkw_KfVN1gkKmSOARrZ9JBZi5_KJmYCO-5kzASGXRpZR-nJymMoAeF1rKN0V5H3MFhUksrpHsN6MNDfUZKn1sd0PWtPFautS2spYk-i0bRTshWoOkjSWSuKe1waFd7WGd7B0ReK1cZTYI6l2alK5rr0f5gF6tIn2eThLvWctLvHw1fJ-jths1q05M29WwgKNfdPMiyKguDBd_K-1kAoZZs5odLFaDz0oA_KSFX4yYh6bCdy94FcLIm0IT3vXFrfaqlW9uRRm6hJPvBmCoU5gUj7wfw3ABWYEvggzK7D4jj7TDS6aWDBbHcFY8zmM3RVmNW9hihQOrBH27BSwg.jpg",
+      "author_photo_path": "channels/iranianminds/media/e01038a5b89c87d97a605c30.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> طالبان : <br><br>۸۰۰ کیلو جانماز و ۳۰۵ جاروبرقی وارداتی از ایران رو به دلیل کیفیت بد پس فرستادیم براشون.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "🔴 طالبان : ۸۰۰ کیلو جانماز و ۳۰۵ جاروبرقی وارداتی از ایران رو به دلیل کیفیت بد پس فرستادیم براشون. @IranianMinds",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranianMinds/33020",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Xx3qz_8KnzXNJ8bw1tWzluMpikEUZtfY8NjHO-QAQrAPS68vfElUopbrpCOQA6a6KIKYs-ZdWVBXzD2aWyreAKBIFHO2QeKc6F2tEqjB33msxfvZbor9VmyeqEjytPbWn24yu_9kDtOH4lP_W5DaKrQIE6Wqvn-NtatKNR2UsZ7nFKMyQvBNxJRHovg1YGwRlM16pRENx3hSBZGNaMfDD522NLL9PVBb0vzZzzt6MrQ1h9BKXjrLPx3qnhLQjmiPf3fCSwiHBmQkwF5wWcohhSJp9WQWPK8OVoTH0DkdyVUpERZXNZcu2aAjKjWxTxGiad3wmgxgxgNS8aRdRns1mA.jpg",
+          "thumbnail_path": "channels/iranianminds/media/6b517bc5659b3605eb8ee09a.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "1.36K"
+        },
+        {
+          "emoji": "👍",
+          "count": "630"
+        },
+        {
+          "emoji": "🤣",
+          "count": "390"
+        },
+        {
+          "emoji": "🖕",
+          "count": "20"
+        },
+        {
+          "emoji": "💔",
+          "count": "4"
+        },
+        {
+          "emoji": "🔥",
+          "count": "2"
+        }
+      ],
+      "views_label": "26.5K",
+      "posted_at": "2026-11-26T18:35:14+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/33020"
+    },
+    {
+      "id": "IranianMinds/33019",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ndlCXjkw_KfVN1gkKmSOARrZ9JBZi5_KJmYCO-5kzASGXRpZR-nJymMoAeF1rKN0V5H3MFhUksrpHsN6MNDfUZKn1sd0PWtPFautS2spYk-i0bRTshWoOkjSWSuKe1waFd7WGd7B0ReK1cZTYI6l2alK5rr0f5gF6tIn2eThLvWctLvHw1fJ-jths1q05M29WwgKNfdPMiyKguDBd_K-1kAoZZs5odLFaDz0oA_KSFX4yYh6bCdy94FcLIm0IT3vXFrfaqlW9uRRm6hJPvBmCoU5gUj7wfw3ABWYEvggzK7D4jj7TDS6aWDBbHcFY8zmM3RVmNW9hihQOrBH27BSwg.jpg",
+      "author_photo_path": "channels/iranianminds/media/e01038a5b89c87d97a605c30.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> هم اکنون قیمت نفت خام برنت 91.32 دلار.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "🔴 هم اکنون قیمت نفت خام برنت 91.32 دلار. @IranianMinds",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranianMinds/33019",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/iH8gIlIzffKGwHj9s_ygYvIIWEE0H5twZ1Z5mmWQcEjMfmVCtFlwCzRuIJMJ-5Lz4c3F0hLlna6k2uz0JbIyaTjBTYllNO35Dn08LMp2LKTyqgCxPx21FwaAb3F1Gr5x6LBZXjGqHcQiXKkrK6_4f5zxd_Wp9mp96bjKo9RHErFKEBscb5vgfGkauIfdXS0AD8zjhhtR5puO6wmzyMZNnv5-E4OgVIoW3H_u2rc94u401xLpSUqshbq_o-inJEQFB9xHtK8qSNLZyVZtvtCssABR_EGd49t76c6HVxvHoGnlhpGPLkHvSdMk0AEBs2IzooA_vewC9L7T0u95erpV9g.jpg",
+          "thumbnail_path": "channels/iranianminds/media/60a5ec41af7b89ebb7ea474f.jpg",
+          "duration_label": null,
+          "aspect_ratio": 3.225806451612903
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "1.35K"
+        },
+        {
+          "emoji": "👍",
+          "count": "663"
+        },
+        {
+          "emoji": "🖕",
+          "count": "13"
+        },
+        {
+          "emoji": "🔥",
+          "count": "4"
+        },
+        {
+          "emoji": "🤣",
+          "count": "3"
+        }
+      ],
+      "views_label": "26.5K",
+      "posted_at": "2026-11-26T18:22:20+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/33019"
+    },
+    {
+      "id": "IranianMinds/33018",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ndlCXjkw_KfVN1gkKmSOARrZ9JBZi5_KJmYCO-5kzASGXRpZR-nJymMoAeF1rKN0V5H3MFhUksrpHsN6MNDfUZKn1sd0PWtPFautS2spYk-i0bRTshWoOkjSWSuKe1waFd7WGd7B0ReK1cZTYI6l2alK5rr0f5gF6tIn2eThLvWctLvHw1fJ-jths1q05M29WwgKNfdPMiyKguDBd_K-1kAoZZs5odLFaDz0oA_KSFX4yYh6bCdy94FcLIm0IT3vXFrfaqlW9uRRm6hJPvBmCoU5gUj7wfw3ABWYEvggzK7D4jj7TDS6aWDBbHcFY8zmM3RVmNW9hihQOrBH27BSwg.jpg",
+      "author_photo_path": "channels/iranianminds/media/e01038a5b89c87d97a605c30.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> امتحان یکی از دروس دانشگاه لغو شده و حالا واکنش یکی از دانشجو ها:<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "🔴 امتحان یکی از دروس دانشگاه لغو شده و حالا واکنش یکی از دانشجو ها: @IranianMinds",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranianMinds/33018",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/CUnPhIOgxerTZOeWo8IrxFJWHaDKQfMq9CMOqtgVEiRLjVu__EpdYVN-UxGvuukd8wugXPLtAcOPvE4HYjCrvebwQs3Oux23rLIGdmT36mQGnGjE8iwB4lOtxmq0XW2aMARPG0kdbF26rEKgyrAgkJ822P9seaeq6TDgpYZuLPLhEO63o0tExSb_qWAtd0Ji77q8U8shGJZLQpDQ4WSBFwYtmLhuVV__sQ963RyLKpa2h-gCGkNHa606LPNARNza6MHNpTnAz1udEP1-UY2bJVJblxpVVgPhLVynsinDYLSSTAY9DOTdSha9fLp2jsziNLjQBPvkLC7JM6wYw-GnoQ.jpg",
+          "thumbnail_path": "channels/iranianminds/media/4f187119041d75fa984a4beb.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7787499999999932
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "1.41K"
+        },
+        {
+          "emoji": "👍",
+          "count": "702"
+        },
+        {
+          "emoji": "🖕",
+          "count": "431"
+        },
+        {
+          "emoji": "🤣",
+          "count": "191"
+        },
+        {
+          "emoji": "🔥",
+          "count": "3"
+        },
+        {
+          "emoji": "👏",
+          "count": "1"
+        }
+      ],
+      "views_label": "32K",
+      "posted_at": "2026-11-26T17:35:20+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/33018"
+    },
+    {
+      "id": "IranianMinds/33017",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ndlCXjkw_KfVN1gkKmSOARrZ9JBZi5_KJmYCO-5kzASGXRpZR-nJymMoAeF1rKN0V5H3MFhUksrpHsN6MNDfUZKn1sd0PWtPFautS2spYk-i0bRTshWoOkjSWSuKe1waFd7WGd7B0ReK1cZTYI6l2alK5rr0f5gF6tIn2eThLvWctLvHw1fJ-jths1q05M29WwgKNfdPMiyKguDBd_K-1kAoZZs5odLFaDz0oA_KSFX4yYh6bCdy94FcLIm0IT3vXFrfaqlW9uRRm6hJPvBmCoU5gUj7wfw3ABWYEvggzK7D4jj7TDS6aWDBbHcFY8zmM3RVmNW9hihQOrBH27BSwg.jpg",
+      "author_photo_path": "channels/iranianminds/media/e01038a5b89c87d97a605c30.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> اوه اوه، اروپا تهدید سنگینی کرده سپاه رو گفته که:<br><br>یبار دیگه توپ شما توی زمینمون بیوفته توپتون رو پاره میکنیم.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "🔴 اوه اوه، اروپا تهدید سنگینی کرده سپاه رو گفته که: یبار دیگه توپ شما توی زمینمون بیوفته توپتون رو پاره میکنیم. @IranianMinds",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "1.42K"
+        },
+        {
+          "emoji": "👍",
+          "count": "670"
+        },
+        {
+          "emoji": "🤣",
+          "count": "575"
+        },
+        {
+          "emoji": "🖕",
+          "count": "15"
+        },
+        {
+          "emoji": "🔥",
+          "count": "2"
+        }
+      ],
+      "views_label": "32.3K",
+      "posted_at": "2026-11-26T17:28:09+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/33017"
+    },
+    {
+      "id": "IranianMinds/33016",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ndlCXjkw_KfVN1gkKmSOARrZ9JBZi5_KJmYCO-5kzASGXRpZR-nJymMoAeF1rKN0V5H3MFhUksrpHsN6MNDfUZKn1sd0PWtPFautS2spYk-i0bRTshWoOkjSWSuKe1waFd7WGd7B0ReK1cZTYI6l2alK5rr0f5gF6tIn2eThLvWctLvHw1fJ-jths1q05M29WwgKNfdPMiyKguDBd_K-1kAoZZs5odLFaDz0oA_KSFX4yYh6bCdy94FcLIm0IT3vXFrfaqlW9uRRm6hJPvBmCoU5gUj7wfw3ABWYEvggzK7D4jj7TDS6aWDBbHcFY8zmM3RVmNW9hihQOrBH27BSwg.jpg",
+      "author_photo_path": "channels/iranianminds/media/e01038a5b89c87d97a605c30.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> این چند وقته انقدر دزدی از فروشگاه‌های مواد غذایی زیاد شده که روی تک تک اجناس دزدگیر نصب کردن!<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "🔴 این چند وقته انقدر دزدی از فروشگاه‌های مواد غذایی زیاد شده که روی تک تک اجناس دزدگیر نصب کردن! @IranianMinds",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranianMinds/33016",
+          "asset_path": null,
+          "thumbnail_url": null,
+          "thumbnail_path": null,
+          "duration_label": "0:00",
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🖕",
+          "count": "1.97K"
+        },
+        {
+          "emoji": "🤣",
+          "count": "267"
+        },
+        {
+          "emoji": "💔",
+          "count": "240"
+        },
+        {
+          "emoji": "❤",
+          "count": "14"
+        }
+      ],
+      "views_label": "32.6K",
+      "posted_at": "2026-11-26T17:19:08+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/33016"
+    },
+    {
+      "id": "IranianMinds/33015",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ndlCXjkw_KfVN1gkKmSOARrZ9JBZi5_KJmYCO-5kzASGXRpZR-nJymMoAeF1rKN0V5H3MFhUksrpHsN6MNDfUZKn1sd0PWtPFautS2spYk-i0bRTshWoOkjSWSuKe1waFd7WGd7B0ReK1cZTYI6l2alK5rr0f5gF6tIn2eThLvWctLvHw1fJ-jths1q05M29WwgKNfdPMiyKguDBd_K-1kAoZZs5odLFaDz0oA_KSFX4yYh6bCdy94FcLIm0IT3vXFrfaqlW9uRRm6hJPvBmCoU5gUj7wfw3ABWYEvggzK7D4jj7TDS6aWDBbHcFY8zmM3RVmNW9hihQOrBH27BSwg.jpg",
+      "author_photo_path": "channels/iranianminds/media/e01038a5b89c87d97a605c30.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> صداوسیما:<br><br>ما حملات سپاه را به کویت به شدت محروم میکنیم.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "🔴 صداوسیما: ما حملات سپاه را به کویت به شدت محروم میکنیم. @IranianMinds",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "988"
+        },
+        {
+          "emoji": "🖕",
+          "count": "830"
+        },
+        {
+          "emoji": "❤",
+          "count": "6"
+        },
+        {
+          "emoji": "👍",
+          "count": "3"
+        }
+      ],
+      "views_label": "32K",
+      "posted_at": "2026-11-26T17:04:51+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/33015"
+    },
+    {
+      "id": "IranianMinds/33014",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ndlCXjkw_KfVN1gkKmSOARrZ9JBZi5_KJmYCO-5kzASGXRpZR-nJymMoAeF1rKN0V5H3MFhUksrpHsN6MNDfUZKn1sd0PWtPFautS2spYk-i0bRTshWoOkjSWSuKe1waFd7WGd7B0ReK1cZTYI6l2alK5rr0f5gF6tIn2eThLvWctLvHw1fJ-jths1q05M29WwgKNfdPMiyKguDBd_K-1kAoZZs5odLFaDz0oA_KSFX4yYh6bCdy94FcLIm0IT3vXFrfaqlW9uRRm6hJPvBmCoU5gUj7wfw3ABWYEvggzK7D4jj7TDS6aWDBbHcFY8zmM3RVmNW9hihQOrBH27BSwg.jpg",
+      "author_photo_path": "channels/iranianminds/media/e01038a5b89c87d97a605c30.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> سخنگوی نیروهای مسلح ایران:<br><br>حمله به کویت اصلا کار ما نبوده دروغ نگید شاید کار ادم فضایی ها بوده.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "🔴 سخنگوی نیروهای مسلح ایران: حمله به کویت اصلا کار ما نبوده دروغ نگید شاید کار ادم فضایی ها بوده. @IranianMinds",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🖕",
+          "count": "2.04K"
+        },
+        {
+          "emoji": "🤣",
+          "count": "828"
+        },
+        {
+          "emoji": "❤",
+          "count": "9"
+        },
+        {
+          "emoji": "👍",
+          "count": "3"
+        }
+      ],
+      "views_label": "33.8K",
+      "posted_at": "2026-11-26T16:35:32+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/33014"
+    },
+    {
+      "id": "IranianMinds/33013",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ndlCXjkw_KfVN1gkKmSOARrZ9JBZi5_KJmYCO-5kzASGXRpZR-nJymMoAeF1rKN0V5H3MFhUksrpHsN6MNDfUZKn1sd0PWtPFautS2spYk-i0bRTshWoOkjSWSuKe1waFd7WGd7B0ReK1cZTYI6l2alK5rr0f5gF6tIn2eThLvWctLvHw1fJ-jths1q05M29WwgKNfdPMiyKguDBd_K-1kAoZZs5odLFaDz0oA_KSFX4yYh6bCdy94FcLIm0IT3vXFrfaqlW9uRRm6hJPvBmCoU5gUj7wfw3ABWYEvggzK7D4jj7TDS6aWDBbHcFY8zmM3RVmNW9hihQOrBH27BSwg.jpg",
+      "author_photo_path": "channels/iranianminds/media/e01038a5b89c87d97a605c30.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> جالبه بدونید که ؛ از سال ١٢٢٧ تا ١٣۵٧ یعنی طی ۱۳۰ سال؛ شش پادشاه تو ایران حکومت کردن که طی این سال‌ها؛ دو جنگ جهانی؛ کودتا و قحطی دیده شد ولی دلار از ۷ ریال فقط به ۷۰ ریال رسید؛ یعنی ۱۰ برابر شد. <br>اما از سال ۱۳۵۷ شروع حکومت آخوندی تا الان؛ یعنی طی ۴۷ سال دلار از ۷ تومن به ۳۰۰ هزار تومن رسیده؛ یعنی ۴۲ هزار برابر شده.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "🔴 جالبه بدونید که ؛ از سال ١٢٢٧ تا ١٣۵٧ یعنی طی ۱۳۰ سال؛ شش پادشاه تو ایران حکومت کردن که طی این سال‌ها؛ دو جنگ جهانی؛ کودتا و قحطی دیده شد ولی دلار از ۷ ریال فقط به ۷۰ ریال رسید؛ یعنی ۱۰ برابر شد. اما از سال ۱۳۵۷ شروع حکومت آخوندی تا الان؛ یعنی طی ۴۷ سال دلار از ۷ تومن به ۳۰۰ هزار تومن رسیده؛ یعنی ۴۲ هزار برابر شده. @IranianMinds",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🖕",
+          "count": "2.1K"
+        },
+        {
+          "emoji": "🤣",
+          "count": "358"
+        },
+        {
+          "emoji": "💔",
+          "count": "304"
+        },
+        {
+          "emoji": "👍",
+          "count": "40"
+        },
+        {
+          "emoji": "❤",
+          "count": "11"
+        }
+      ],
+      "views_label": "35.2K",
+      "posted_at": "2026-11-26T16:28:10+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/33013"
+    },
+    {
+      "id": "IranianMinds/33012",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ndlCXjkw_KfVN1gkKmSOARrZ9JBZi5_KJmYCO-5kzASGXRpZR-nJymMoAeF1rKN0V5H3MFhUksrpHsN6MNDfUZKn1sd0PWtPFautS2spYk-i0bRTshWoOkjSWSuKe1waFd7WGd7B0ReK1cZTYI6l2alK5rr0f5gF6tIn2eThLvWctLvHw1fJ-jths1q05M29WwgKNfdPMiyKguDBd_K-1kAoZZs5odLFaDz0oA_KSFX4yYh6bCdy94FcLIm0IT3vXFrfaqlW9uRRm6hJPvBmCoU5gUj7wfw3ABWYEvggzK7D4jj7TDS6aWDBbHcFY8zmM3RVmNW9hihQOrBH27BSwg.jpg",
+      "author_photo_path": "channels/iranianminds/media/e01038a5b89c87d97a605c30.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> اتحادیه اروپا:<br><br>حملات ایران به کویت و کشته شدن دو ایتالیایی رو با شدیدترین لحن ممکن محکوم میکنیم<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "🔴 اتحادیه اروپا: حملات ایران به کویت و کشته شدن دو ایتالیایی رو با شدیدترین لحن ممکن محکوم میکنیم @IranianMinds",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranianMinds/33012",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/XU3aSrqVYfCXikm8P-bBdqOsSubB-ISPeTNCya7XSZgqsebp-erWm-ISW3Wwvr7W45rcHYp9EHrD0RwVeDOUyVPwl68IQe7dGyFjlP1fWGX-1ZIAgh8bCIkc5UMlu6M2gN0_4Rrp1ekenb5c5z7neOysDK0wIyHNe1y9xw961pe1PCyq7HSNj2K1C5jdLRg0WvSiQbg7JpNEoDCVlRe2qQx9smi83lcumaIMjWqWLaBAkU7iB7uqGw_GGjoQQtQbTkbO8urKMkMVxGA41CyLAhwW3b-ieseSDAwlEe7u8aV_QPgYGa7C8xzp2BlRfiYrCpB07j2bX4fwVfNOyFalMg.jpg",
+          "thumbnail_path": "channels/iranianminds/media/2b21faef11635c17960e9bc7.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🖕",
+          "count": "1.85K"
+        },
+        {
+          "emoji": "🤣",
+          "count": "890"
+        },
+        {
+          "emoji": "❤",
+          "count": "39"
+        },
+        {
+          "emoji": "🔥",
+          "count": "9"
+        },
+        {
+          "emoji": "💔",
+          "count": "5"
+        },
+        {
+          "emoji": "👍",
+          "count": "4"
+        }
+      ],
+      "views_label": "34.1K",
+      "posted_at": "2026-11-26T16:25:52+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/33012"
+    },
+    {
+      "id": "IranianMinds/33010",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ndlCXjkw_KfVN1gkKmSOARrZ9JBZi5_KJmYCO-5kzASGXRpZR-nJymMoAeF1rKN0V5H3MFhUksrpHsN6MNDfUZKn1sd0PWtPFautS2spYk-i0bRTshWoOkjSWSuKe1waFd7WGd7B0ReK1cZTYI6l2alK5rr0f5gF6tIn2eThLvWctLvHw1fJ-jths1q05M29WwgKNfdPMiyKguDBd_K-1kAoZZs5odLFaDz0oA_KSFX4yYh6bCdy94FcLIm0IT3vXFrfaqlW9uRRm6hJPvBmCoU5gUj7wfw3ABWYEvggzK7D4jj7TDS6aWDBbHcFY8zmM3RVmNW9hihQOrBH27BSwg.jpg",
+      "author_photo_path": "channels/iranianminds/media/e01038a5b89c87d97a605c30.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5814369173039484904\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9280.png')\"><b>💀</b></i></tg-emoji><b>شروعی رویایی در بت اینجا</b><br><br><b><tg-emoji emoji-id=\"6084526060521658052\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji></b><b> برابر شارژ اضافی بگیرید</b><tg-emoji emoji-id=\"5372864857341172842\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F98B3.png')\"><b>😳</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5852609349934911278\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i></tg-emoji> <b>۳ واریز اول 500% شارژ اضافی </b><br><tg-emoji emoji-id=\"5470058558500382450\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918A.png')\"><b>👊</b></i></tg-emoji> موجودیتو همین الان پنج برابر کن و بدون هیچ ریسکی بازی کن  ، <b>یک‌میلیون شارژ کن</b>  <tg-emoji emoji-id=\"5852777596688797905\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC85.png')\"><b>⬅️</b></i></tg-emoji><tg-emoji emoji-id=\"5881803780244115771\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i></tg-emoji><br>6,000,000 میلیون موجودی بگیر <br><br><tg-emoji emoji-id=\"5212962322967966165\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B3.png')\"><b>💳</b></i></tg-emoji> واریز درگاه <a href=\"?q=%23%D8%B1%DB%8C%D8%A7%D9%84%DB%8C\">#ریالی</a> و امکان کارت به کارت و واریز از طریق کریپتو<br><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92BB.png')\"><b>💻</b></i>لینک سایت بازی:</b><br><tg-emoji emoji-id=\"5938072524746137114\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92BB.png')\"><b>💻</b></i></tg-emoji><b> </b><a href=\"https://betinja.bet/affiliates/?btag=2755858\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>betinja.bet</b></a><br><b><tg-emoji emoji-id=\"5938072524746137114\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92BB.png')\"><b>💻</b></i></tg-emoji></b><b> </b><a href=\"https://betinja.bet/affiliates/?btag=2755858\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>betinja.bet</b></a><br><tg-emoji emoji-id=\"5231489647946768652\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i></tg-emoji> <b>کانال بونوس های رایگان</b><br><a href=\"https://t.me/betinjabet\" target=\"_blank\"><b>@betinjabet</b></a><br><tg-emoji emoji-id=\"5881732578276282078\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> شرطبندی از طریق ربات r1:<br><a href=\"https://t.me/Betinja_bot\" target=\"_blank\"><b>@Betinja_bot</b></a>",
+      "plain_text": "💀شروعی رویایی در بت اینجا 🤩 برابر شارژ اضافی بگیرید😳 📢 ۳ واریز اول 500% شارژ اضافی 👊 موجودیتو همین الان پنج برابر کن و بدون هیچ ریسکی بازی کن ، یک‌میلیون شارژ کن ⬅️⬇️ 6,000,000 میلیون موجودی بگیر 💳 واریز درگاه #ریالی و امکان کارت به کارت و واریز از طریق کریپتو 💻لینک سایت بازی: 💻 betinja.bet 💻 betinja.bet 🌐 کانال بونوس های رایگان @betinjabet ✅ شرطبندی از طریق ربات r1: @Betinja_bot",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranianMinds/33010",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/HPZ_H11G2S0qdEcKAp2VS0dPvJs9-w91FzLQyTqfNmFRlYx-9ee3NWoUdLUFe4OBZ5kyC9KwcT09fNFFu6oDEU6PtbDegcwZMg0O_47wsktOMZ5E9QOH5BlP3IcEbXCW2ecXpAkmvURdC8_ecjmeeyfKs2uk9J-TZN-JM88Xccq_0qTx1pt2bao_wLrEEI88O9rAr0V9KYQwsWp5JBZKNypof8ltHcjaK11st6ttWr08Y2ItqqKxZsFq5IOb1omgVRPdeAfNb5RukGtbiEGfUdl2_xDGW4zzmO77oLegNO2YDbjaQ6F4yI6-pndliX3jraT-U7VEA6SeLTdOtQXwTA.jpg",
+          "thumbnail_path": "channels/iranianminds/media/0fc8483fa589c13f12a73c80.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🖕",
+          "count": "1.95K"
+        },
+        {
+          "emoji": "🤣",
+          "count": "62"
+        },
+        {
+          "emoji": "❤",
+          "count": "4"
+        }
+      ],
+      "views_label": "31.7K",
+      "posted_at": "2026-11-26T16:25:40+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/33010"
+    },
+    {
+      "id": "IranianMinds/33011",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ndlCXjkw_KfVN1gkKmSOARrZ9JBZi5_KJmYCO-5kzASGXRpZR-nJymMoAeF1rKN0V5H3MFhUksrpHsN6MNDfUZKn1sd0PWtPFautS2spYk-i0bRTshWoOkjSWSuKe1waFd7WGd7B0ReK1cZTYI6l2alK5rr0f5gF6tIn2eThLvWctLvHw1fJ-jths1q05M29WwgKNfdPMiyKguDBd_K-1kAoZZs5odLFaDz0oA_KSFX4yYh6bCdy94FcLIm0IT3vXFrfaqlW9uRRm6hJPvBmCoU5gUj7wfw3ABWYEvggzK7D4jj7TDS6aWDBbHcFY8zmM3RVmNW9hihQOrBH27BSwg.jpg",
+      "author_photo_path": "channels/iranianminds/media/e01038a5b89c87d97a605c30.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5339388159954267063\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9296.png')\"><b>💖</b></i></tg-emoji> <b>دو</b> <b>‌میلیون شارژ کن</b>  <tg-emoji emoji-id=\"5852777596688797905\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC85.png')\"><b>⬅️</b></i></tg-emoji><tg-emoji emoji-id=\"5881803780244115771\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i></tg-emoji><br>12,000,000 میلیون موجودی بگیر <br><tg-emoji emoji-id=\"5965483336741692311\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29CA8.png')\"><b>✨</b></i></tg-emoji> امکانات اپلیکیشن:<br><tg-emoji emoji-id=\"5404652296845936873\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i></tg-emoji> سرعت بالا و رابط کاربری روان<br><tg-emoji emoji-id=\"5895629365869289319\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EAF.png')\"><b>🎯</b></i></tg-emoji> امکان واریز <a href=\"?q=%23%D8%B1%DB%8C%D8%A7%D9%84%DB%8C\">#ریالی</a> و کارت به کارت<br><tg-emoji emoji-id=\"5429405838345265327\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9492.png')\"><b>🔒</b></i></tg-emoji> امنیت بالا <br><tg-emoji emoji-id=\"5354899958329784877\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA7.png')\"><b>🎧</b></i></tg-emoji> پشتیبانی 24 ساعته<br><tg-emoji emoji-id=\"5938072524746137114\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92BB.png')\"><b>💻</b></i></tg-emoji><b> </b><a href=\"https://betinja.bet/affiliates/?btag=2755858\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>betinja.bet</b></a>",
+      "plain_text": "💖 دو ‌میلیون شارژ کن ⬅️⬇️ 12,000,000 میلیون موجودی بگیر ✨ امکانات اپلیکیشن: ⚡ سرعت بالا و رابط کاربری روان 🎯 امکان واریز #ریالی و کارت به کارت 🔒 امنیت بالا 🎧 پشتیبانی 24 ساعته 💻 betinja.bet",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🖕",
+          "count": "1.95K"
+        },
+        {
+          "emoji": "🤣",
+          "count": "65"
+        }
+      ],
+      "views_label": "31.6K",
+      "posted_at": "2026-11-26T16:25:40+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/33011"
+    },
+    {
+      "id": "IranianMinds/33009",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ndlCXjkw_KfVN1gkKmSOARrZ9JBZi5_KJmYCO-5kzASGXRpZR-nJymMoAeF1rKN0V5H3MFhUksrpHsN6MNDfUZKn1sd0PWtPFautS2spYk-i0bRTshWoOkjSWSuKe1waFd7WGd7B0ReK1cZTYI6l2alK5rr0f5gF6tIn2eThLvWctLvHw1fJ-jths1q05M29WwgKNfdPMiyKguDBd_K-1kAoZZs5odLFaDz0oA_KSFX4yYh6bCdy94FcLIm0IT3vXFrfaqlW9uRRm6hJPvBmCoU5gUj7wfw3ABWYEvggzK7D4jj7TDS6aWDBbHcFY8zmM3RVmNW9hihQOrBH27BSwg.jpg",
+      "author_photo_path": "channels/iranianminds/media/e01038a5b89c87d97a605c30.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> برید گوگل و <b>\"</b><code>غزل شماره 2137 دیوان شمس مولوی</code><b>\"</b> رو سرچ کنید تا پشماتون بریزه.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "🔴 برید گوگل و \"غزل شماره 2137 دیوان شمس مولوی\" رو سرچ کنید تا پشماتون بریزه. @IranianMinds",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranianMinds/33009",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/t88US6MCpBqBtGNZHsv_DZ1hfy9fsviyt2pLo2Gh7yeZU7yecZGLlG83d2kOKD3YqWPJZ9fukEe-wJCjzKWIumQmnONTDJQzM3Pf1EzOrjzmhAOE8uSyFUYOignciYT-n8O25zZ1y1sRsR_cDvDwgZOKca7DMn3ZZw1VT_uXIdRA3gx9eUxckxa6TJkZjkWvvtgId1VuKkeRqZNsD6do5lAUkGaKjLN6X0JECyadVazFsRevZ9abKGI6omzr3_q7wmmFALAgUuR-0ExUI9wILAVPaLWb9dLDt7p6_50WtrazUSye8Qiush-LvFuwABsfeOW9r6QG2dhLHlmD486XzQ.jpg",
+          "thumbnail_path": "channels/iranianminds/media/6f9cec691883066c66d04937.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "495"
+        },
+        {
+          "emoji": "❤",
+          "count": "25"
+        },
+        {
+          "emoji": "👍",
+          "count": "13"
+        },
+        {
+          "emoji": "🖕",
+          "count": "8"
+        },
+        {
+          "emoji": "🔥",
+          "count": "2"
+        }
+      ],
+      "views_label": "33K",
+      "posted_at": "2026-11-26T16:05:27+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/33009"
+    },
+    {
+      "id": "IranianMinds/33008",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ndlCXjkw_KfVN1gkKmSOARrZ9JBZi5_KJmYCO-5kzASGXRpZR-nJymMoAeF1rKN0V5H3MFhUksrpHsN6MNDfUZKn1sd0PWtPFautS2spYk-i0bRTshWoOkjSWSuKe1waFd7WGd7B0ReK1cZTYI6l2alK5rr0f5gF6tIn2eThLvWctLvHw1fJ-jths1q05M29WwgKNfdPMiyKguDBd_K-1kAoZZs5odLFaDz0oA_KSFX4yYh6bCdy94FcLIm0IT3vXFrfaqlW9uRRm6hJPvBmCoU5gUj7wfw3ABWYEvggzK7D4jj7TDS6aWDBbHcFY8zmM3RVmNW9hihQOrBH27BSwg.jpg",
+      "author_photo_path": "channels/iranianminds/media/e01038a5b89c87d97a605c30.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> فرمانده مرزبانی عراق از آغاز اجرای دستور بستن همه گذرگاه‌های غیررسمی با ایران از جمله در اقلیم کردستان خبر داد.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "🔴 فرمانده مرزبانی عراق از آغاز اجرای دستور بستن همه گذرگاه‌های غیررسمی با ایران از جمله در اقلیم کردستان خبر داد. @IranianMinds",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🖕",
+          "count": "492"
+        },
+        {
+          "emoji": "👏",
+          "count": "395"
+        },
+        {
+          "emoji": "🤣",
+          "count": "99"
+        },
+        {
+          "emoji": "❤",
+          "count": "30"
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "12"
+        },
+        {
+          "emoji": "👍",
+          "count": "8"
+        },
+        {
+          "emoji": "🔥",
+          "count": "8"
+        }
+      ],
+      "views_label": "33.6K",
+      "posted_at": "2026-11-26T15:40:29+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/33008"
+    },
+    {
       "id": "IranianMinds/33007",
       "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/GOhSbvCYZNxr7GA07ccFtVX5fVmGkhojMKL9Er08pjyct64Hf2sOz7w8wdnZ_mEgwvx42dHutFOJw7Q_DV1RapQJbEnFi37RE7FApYgmt-rc-BT9QoCEXQIBE1ZP-wYdOI5i81oyKr8XpeiEnCh08TiI0cukGoNdR1GzQthfxqdFVQQ5GlZ3YkGHDzCxtX3S95cESdNCQrvp_SEI3IWxH_vI1TBTduROxHdS5lS-jPihPjVhrmXl4oJWc3JXQFSOCzuOAaKTvfJqtWQ0X3hcEznP7mtTJJpre9406ZCtXqOF3WtciM3CFdBV_ETXo9rgZUPWeApGssMUu2Fu2DPl2g.jpg",
-      "author_photo_path": "channels/iranianminds/media/06fa3c76f6e459dd5a45efe6.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ndlCXjkw_KfVN1gkKmSOARrZ9JBZi5_KJmYCO-5kzASGXRpZR-nJymMoAeF1rKN0V5H3MFhUksrpHsN6MNDfUZKn1sd0PWtPFautS2spYk-i0bRTshWoOkjSWSuKe1waFd7WGd7B0ReK1cZTYI6l2alK5rr0f5gF6tIn2eThLvWctLvHw1fJ-jths1q05M29WwgKNfdPMiyKguDBd_K-1kAoZZs5odLFaDz0oA_KSFX4yYh6bCdy94FcLIm0IT3vXFrfaqlW9uRRm6hJPvBmCoU5gUj7wfw3ABWYEvggzK7D4jj7TDS6aWDBbHcFY8zmM3RVmNW9hihQOrBH27BSwg.jpg",
+      "author_photo_path": "channels/iranianminds/media/e01038a5b89c87d97a605c30.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> الان خوش چشم پای بساط نشسته داره تحلیل میکنه:<br><br>داداش ببین ترامپ به ناتو گفته من کمک میکنم شما روسیه رو بگیرید پس شمام کمک کنید ما ایران رو بگیریم.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
       "plain_text": "🔴 الان خوش چشم پای بساط نشسته داره تحلیل میکنه: داداش ببین ترامپ به ناتو گفته من کمک میکنم شما روسیه رو بگیرید پس شمام کمک کنید ما ایران رو بگیریم. @IranianMinds",
       "media": [],
       "reactions": [
         {
+          "emoji": "🖕",
+          "count": "1.99K"
+        },
+        {
           "emoji": "🤣",
-          "count": "202"
+          "count": "523"
         },
         {
           "emoji": "❤",
-          "count": "1"
+          "count": "8"
         },
         {
           "emoji": "👍",
-          "count": "1"
+          "count": "4"
         }
       ],
-      "views_label": "7.1K",
+      "views_label": "36.9K",
       "posted_at": "2026-11-26T14:51:14+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/33007"
@@ -40,8 +796,8 @@
     {
       "id": "IranianMinds/33006",
       "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/GOhSbvCYZNxr7GA07ccFtVX5fVmGkhojMKL9Er08pjyct64Hf2sOz7w8wdnZ_mEgwvx42dHutFOJw7Q_DV1RapQJbEnFi37RE7FApYgmt-rc-BT9QoCEXQIBE1ZP-wYdOI5i81oyKr8XpeiEnCh08TiI0cukGoNdR1GzQthfxqdFVQQ5GlZ3YkGHDzCxtX3S95cESdNCQrvp_SEI3IWxH_vI1TBTduROxHdS5lS-jPihPjVhrmXl4oJWc3JXQFSOCzuOAaKTvfJqtWQ0X3hcEznP7mtTJJpre9406ZCtXqOF3WtciM3CFdBV_ETXo9rgZUPWeApGssMUu2Fu2DPl2g.jpg",
-      "author_photo_path": "channels/iranianminds/media/06fa3c76f6e459dd5a45efe6.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ndlCXjkw_KfVN1gkKmSOARrZ9JBZi5_KJmYCO-5kzASGXRpZR-nJymMoAeF1rKN0V5H3MFhUksrpHsN6MNDfUZKn1sd0PWtPFautS2spYk-i0bRTshWoOkjSWSuKe1waFd7WGd7B0ReK1cZTYI6l2alK5rr0f5gF6tIn2eThLvWctLvHw1fJ-jths1q05M29WwgKNfdPMiyKguDBd_K-1kAoZZs5odLFaDz0oA_KSFX4yYh6bCdy94FcLIm0IT3vXFrfaqlW9uRRm6hJPvBmCoU5gUj7wfw3ABWYEvggzK7D4jj7TDS6aWDBbHcFY8zmM3RVmNW9hihQOrBH27BSwg.jpg",
+      "author_photo_path": "channels/iranianminds/media/e01038a5b89c87d97a605c30.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> ترامپ‌ دیروز با دبیرکل ناتو در مارالاگو نشست داشته و درباره ایران و اوکراین صحبت کردن.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
       "plain_text": "🔴 ترامپ‌ دیروز با دبیرکل ناتو در مارالاگو نشست داشته و درباره ایران و اوکراین صحبت کردن. @IranianMinds",
       "media": [
@@ -57,35 +813,35 @@
       ],
       "reactions": [
         {
+          "emoji": "🖕",
+          "count": "2.02K"
+        },
+        {
           "emoji": "🤣",
-          "count": "155"
+          "count": "281"
         },
         {
           "emoji": "👍",
-          "count": "32"
-        },
-        {
-          "emoji": "👏",
-          "count": "10"
+          "count": "90"
         },
         {
           "emoji": "❤",
-          "count": "7"
+          "count": "36"
         },
         {
-          "emoji": "🖕",
-          "count": "6"
+          "emoji": "👏",
+          "count": "17"
         },
         {
           "emoji": "🔥",
-          "count": "3"
+          "count": "7"
         },
         {
           "emoji": "❤‍🔥",
-          "count": "2"
+          "count": "4"
         }
       ],
-      "views_label": "10.5K",
+      "views_label": "37.3K",
       "posted_at": "2026-11-26T14:38:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/33006"
@@ -3490,788 +4246,6 @@
       "posted_at": "2026-11-24T14:16:53+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/32918"
-    },
-    {
-      "id": "IranianMinds/32917",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/e_1wFq8Nmz6AvLTPo02x_C7C72l0vKLSkWQ_R0sUaWHXUpL77wP2bKnxejRHc0WCbu7kKKSgWOlM_droosm4ynsWXrALb3EYrbA81dYkebRh2A0GIkmWpEAZSgECx9_70CWXJ7J0SqnOdjbiiF5_1agZE-jegSBYI1-93XzkReQyZIwxdkD8Ltf92ZVoUIwv-HY3uwU13yVZQt4DoxWInVxOBdmhbDqmQy21x0H5bJ3hb5BCTzrRgQXcEXShwhscygYLWotGev3fJkLipONoaBNoaQ10rTeABVpZRmkwHIdnelLZ27M17MG7ESNlEMMfeiOM_GEYObijNEy0Pej93w.jpg",
-      "author_photo_path": "channels/iranianminds/media/120aa4a5f839d1abfeac94ee.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> مجتبی خامنه ای ظاهراً جدیداً گفته:<br><br>توصیه من به شما ها این است که بچه دار شوید.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "🔴 مجتبی خامنه ای ظاهراً جدیداً گفته: توصیه من به شما ها این است که بچه دار شوید. @IranianMinds",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "1.39K"
-        },
-        {
-          "emoji": "🤣",
-          "count": "989"
-        },
-        {
-          "emoji": "👍",
-          "count": "665"
-        },
-        {
-          "emoji": "🖕",
-          "count": "378"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "1"
-        },
-        {
-          "emoji": "👏",
-          "count": "1"
-        }
-      ],
-      "views_label": "43.3K",
-      "posted_at": "2026-11-24T14:11:17+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/32917"
-    },
-    {
-      "id": "IranianMinds/32916",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/q0L4skXQkb7FGJu10iTKIbzWqzNvoz8zkfEvTEqKsiku3Iui7t8HGH_NCW3nvbsbscTlqF4E-mxMSNICR6QfRgExOjHm7Znt9wIQmzzRf_58DDN2_w8wY1S78-WyDXKTSNmgkcWRihBzdCpVUN7hLAsnf4y_tM0HPkD5xriSpnyu-OL9588G0pGDZforjEnLmVzku0V4bO_8D5naAkRq0BqRuPwqkCI5cQ3DGDs-5ouy_Iu9RQrSgmRv1ChCGVAD-6Z9K7Ht5eBBKjZgzOU8CWIfrZZfyJ3DZg-KA26l6uXQ0osROVNGKO1bIq0YXCxjpYuYjYtY2oEFAi2It9GFYQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/852714f6d2af794279969e85.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> صحبت‌ های یه پرستار:<br><br>من دیشب با گریه شیفتمو ترک کردم چون از بس که مورد مسمومیت الکلی داشتیم، همه‌شون هم «<b>هوفنبرگ</b>» یا «<b>جوجو</b>» خورده بودن که مسموم شده بودن.<br><blockquote>ما حتی یه فوتی هم داشتیم که یه دختر ۱۸ ساله بوده.</blockquote><br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "🔴 صحبت‌ های یه پرستار: من دیشب با گریه شیفتمو ترک کردم چون از بس که مورد مسمومیت الکلی داشتیم، همه‌شون هم «هوفنبرگ» یا «جوجو» خورده بودن که مسموم شده بودن. ما حتی یه فوتی هم داشتیم که یه دختر ۱۸ ساله بوده. @IranianMinds",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranianMinds/32916",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/r2rGgO7pyM8XygikLQlU69zmCZ5lXNXEVaAf7dcZFcVtRTNeRDaR8X9ZCOgZXNrGBRDNQGmmhKjUwOWKdzOYdMSVCx4Oxw54uzdV-gfe9KXTRw-e5ZNmMl300QjDP3-fr5edZPApjf8O-HHRYpUTmuiidfiqpgmq80aGg9Vb2K1kflYubr9XzNcxfV_orsQIvec_Xy9BDUJkrNPCxL6MZmBDr040SbBV8KXxodJtz38e6wG5BVI-FVXRCHbY7q681VChR0ir8OA4WwLWIHGp8b7lJRG1vZa2MdDhxnMvnvkLpwdKgWCJS5l1exrjePBASLkVSEAA3nabTYo2T4FpSA",
-          "thumbnail_path": "channels/iranianminds/media/598ba41414ae2782013f15af.jpg",
-          "duration_label": "0:42",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "1.47K"
-        },
-        {
-          "emoji": "👍",
-          "count": "697"
-        },
-        {
-          "emoji": "💔",
-          "count": "382"
-        },
-        {
-          "emoji": "🤣",
-          "count": "10"
-        },
-        {
-          "emoji": "🖕",
-          "count": "1"
-        }
-      ],
-      "views_label": "32.9K",
-      "posted_at": "2026-11-24T13:59:20+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/32916"
-    },
-    {
-      "id": "IranianMinds/32915",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/q0L4skXQkb7FGJu10iTKIbzWqzNvoz8zkfEvTEqKsiku3Iui7t8HGH_NCW3nvbsbscTlqF4E-mxMSNICR6QfRgExOjHm7Znt9wIQmzzRf_58DDN2_w8wY1S78-WyDXKTSNmgkcWRihBzdCpVUN7hLAsnf4y_tM0HPkD5xriSpnyu-OL9588G0pGDZforjEnLmVzku0V4bO_8D5naAkRq0BqRuPwqkCI5cQ3DGDs-5ouy_Iu9RQrSgmRv1ChCGVAD-6Z9K7Ht5eBBKjZgzOU8CWIfrZZfyJ3DZg-KA26l6uXQ0osROVNGKO1bIq0YXCxjpYuYjYtY2oEFAi2It9GFYQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/852714f6d2af794279969e85.jpg",
-      "body_html": "یادش بخیر<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "یادش بخیر @IranianMinds",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranianMinds/32915",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/rYMdVD0cn177ewn7m6Z0FqFtwBIECeOMN5vgslaPAo13FA88YVUdtKpWZxttlnJUoE5vfpdVzV9KZKSDnZiJRLP0czBEZUUXoUGG7WvD7NixLt6JL-xSrnhspGbaVRfRZcfpGOBlKevIArHDphc5QeY16onKGabU-ihplDuuXlnBEF-tqMja10ttGEq0tzkCAVYYbAGNpfxYqND_OSxIBKOHTEh41GS17mQodxPMBgUO2Rm_DAkxMkvgTim_r3aki2AHJTs1HsQBUgyPLv9ZVMQKzEbyw-T2D--HSP-NIDnu4jGPMovp_zBjOXlL11DeT7CXYCPRERWcrJ4XFwA5Ig.jpg",
-          "thumbnail_path": "channels/iranianminds/media/c6c9ca57d93bb8d30f891ba4.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.238390092879257
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "1.39K"
-        },
-        {
-          "emoji": "👍",
-          "count": "690"
-        },
-        {
-          "emoji": "🤣",
-          "count": "612"
-        },
-        {
-          "emoji": "🖕",
-          "count": "7"
-        },
-        {
-          "emoji": "🔥",
-          "count": "1"
-        }
-      ],
-      "views_label": "30.6K",
-      "posted_at": "2026-11-24T13:55:05+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/32915"
-    },
-    {
-      "id": "IranianMinds/32914",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/q0L4skXQkb7FGJu10iTKIbzWqzNvoz8zkfEvTEqKsiku3Iui7t8HGH_NCW3nvbsbscTlqF4E-mxMSNICR6QfRgExOjHm7Znt9wIQmzzRf_58DDN2_w8wY1S78-WyDXKTSNmgkcWRihBzdCpVUN7hLAsnf4y_tM0HPkD5xriSpnyu-OL9588G0pGDZforjEnLmVzku0V4bO_8D5naAkRq0BqRuPwqkCI5cQ3DGDs-5ouy_Iu9RQrSgmRv1ChCGVAD-6Z9K7Ht5eBBKjZgzOU8CWIfrZZfyJ3DZg-KA26l6uXQ0osROVNGKO1bIq0YXCxjpYuYjYtY2oEFAi2It9GFYQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/852714f6d2af794279969e85.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> یه بسیجی تو مشهد با افتخار فیلم قتل عام مردم بی‌گناه رو به فروشنده نشون میده، فروشنده ام جوری میرینه به این بسیجی که تا آخر عمر یادش نره.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "🔴 یه بسیجی تو مشهد با افتخار فیلم قتل عام مردم بی‌گناه رو به فروشنده نشون میده، فروشنده ام جوری میرینه به این بسیجی که تا آخر عمر یادش نره. @IranianMinds",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranianMinds/32914",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/JVpEcWiWGNREROrOgxZuVccs14GHrWp4Tcx9bwBQ1-I8KfrxUWsuNhAUkKjjJagMOMt4c-9M6EiPensKBuX7RPn1j4O-1pNENxkjCLwk0D0-zxwYysqP523pmwlLrTZDNbOAOreO__AwsAgZ9YzthBxLy25aj9Vh-ELqfmVLOO4CHCCWUsfanQpb6oQge7MlK3kiE1csIyL1Ro2k-Ed8zmEcdTU-ay2k5CtEfJ7VWyszU9z5LOiZ-VdsRcAXfk5d8AAXXk2ynmHuw0Bp6zKGfsxh1VUmKBL7HZfG3CaCE9I506s2wMxcQniRIXle3LuIwghjpAxmTPDNg2Yokg4hKQ",
-          "thumbnail_path": "channels/iranianminds/media/208a2b4be5207d634c16f7f7.jpg",
-          "duration_label": "2:41",
-          "aspect_ratio": 1.25
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "1.95K"
-        },
-        {
-          "emoji": "👍",
-          "count": "861"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "31"
-        },
-        {
-          "emoji": "💔",
-          "count": "15"
-        },
-        {
-          "emoji": "👏",
-          "count": "9"
-        },
-        {
-          "emoji": "🖕",
-          "count": "8"
-        },
-        {
-          "emoji": "🔥",
-          "count": "7"
-        },
-        {
-          "emoji": "🤣",
-          "count": "6"
-        }
-      ],
-      "views_label": "31.3K",
-      "posted_at": "2026-11-24T13:52:53+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/32914"
-    },
-    {
-      "id": "IranianMinds/32913",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/q0L4skXQkb7FGJu10iTKIbzWqzNvoz8zkfEvTEqKsiku3Iui7t8HGH_NCW3nvbsbscTlqF4E-mxMSNICR6QfRgExOjHm7Znt9wIQmzzRf_58DDN2_w8wY1S78-WyDXKTSNmgkcWRihBzdCpVUN7hLAsnf4y_tM0HPkD5xriSpnyu-OL9588G0pGDZforjEnLmVzku0V4bO_8D5naAkRq0BqRuPwqkCI5cQ3DGDs-5ouy_Iu9RQrSgmRv1ChCGVAD-6Z9K7Ht5eBBKjZgzOU8CWIfrZZfyJ3DZg-KA26l6uXQ0osROVNGKO1bIq0YXCxjpYuYjYtY2oEFAi2It9GFYQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/852714f6d2af794279969e85.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> مایک هاکابی، سفیر ایالات متحده در اسرائیل:<br><br>آمریکایی‌ها متوجه این موضوع نیستند، اما هر روز جان آمریکایی‌ها به دلیل اطلاعاتی که از شرکای خود در اسرائیل به دست می‌آوریم، نجات پیدا می‌کند!!<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "🔴 مایک هاکابی، سفیر ایالات متحده در اسرائیل: آمریکایی‌ها متوجه این موضوع نیستند، اما هر روز جان آمریکایی‌ها به دلیل اطلاعاتی که از شرکای خود در اسرائیل به دست می‌آوریم، نجات پیدا می‌کند!! @IranianMinds",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "1.5K"
-        },
-        {
-          "emoji": "👍",
-          "count": "714"
-        },
-        {
-          "emoji": "🔥",
-          "count": "17"
-        },
-        {
-          "emoji": "👏",
-          "count": "7"
-        },
-        {
-          "emoji": "🤣",
-          "count": "4"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "1"
-        }
-      ],
-      "views_label": "29.2K",
-      "posted_at": "2026-11-24T13:51:07+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/32913"
-    },
-    {
-      "id": "IranianMinds/32912",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/q0L4skXQkb7FGJu10iTKIbzWqzNvoz8zkfEvTEqKsiku3Iui7t8HGH_NCW3nvbsbscTlqF4E-mxMSNICR6QfRgExOjHm7Znt9wIQmzzRf_58DDN2_w8wY1S78-WyDXKTSNmgkcWRihBzdCpVUN7hLAsnf4y_tM0HPkD5xriSpnyu-OL9588G0pGDZforjEnLmVzku0V4bO_8D5naAkRq0BqRuPwqkCI5cQ3DGDs-5ouy_Iu9RQrSgmRv1ChCGVAD-6Z9K7Ht5eBBKjZgzOU8CWIfrZZfyJ3DZg-KA26l6uXQ0osROVNGKO1bIq0YXCxjpYuYjYtY2oEFAi2It9GFYQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/852714f6d2af794279969e85.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> ایدی کوهن؛ معروف‌ترین خبرنگار اسرائیل:<br><br><b>آمریکا و اسرائیل برای حمله به ایران به آمادگی رسیدن.</b><br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "🔴 ایدی کوهن؛ معروف‌ترین خبرنگار اسرائیل: آمریکا و اسرائیل برای حمله به ایران به آمادگی رسیدن. @IranianMinds",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranianMinds/32912",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/D1KoeEAYZUvUe0I5cGAHUCjsKT_21WEv4pBfsl6nM78j3COTF1XRrScs7U3-cUJMipIA15PL767S4DQw2nke_lUXKanpRFedoV08dSK-w9Xsj5uLGrNQ3TmHKK9ZrPp4QH3TJaAdUKE8E1YyArkoCzB5mKmu7VsY6Ycxs6YbPRMM65jukfWRaetBHot1lEs2uEjwFoUcjFKQlCnlMqeyeQGYYNhU5qHXpEwy2R72TUrVygd_R39CQucwd366XZXPcTM5DmVN_O294PcPDUy6qy05a-94_CX8iOAVp7X2SENsdEzngJYz4pj7GqVgg5GhAhdj4ttovaYhehDnUWDUVA.jpg",
-          "thumbnail_path": "channels/iranianminds/media/5c5a3051d30e94345a5c332a.jpg",
-          "duration_label": null,
-          "aspect_ratio": 2.292263610315186
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "1.75K"
-        },
-        {
-          "emoji": "👍",
-          "count": "711"
-        },
-        {
-          "emoji": "🔥",
-          "count": "100"
-        },
-        {
-          "emoji": "🤣",
-          "count": "35"
-        },
-        {
-          "emoji": "🖕",
-          "count": "21"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "4"
-        },
-        {
-          "emoji": "👏",
-          "count": "2"
-        },
-        {
-          "emoji": "💔",
-          "count": "1"
-        }
-      ],
-      "views_label": "31.9K",
-      "posted_at": "2026-11-24T13:24:32+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/32912"
-    },
-    {
-      "id": "IranianMinds/32911",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/q0L4skXQkb7FGJu10iTKIbzWqzNvoz8zkfEvTEqKsiku3Iui7t8HGH_NCW3nvbsbscTlqF4E-mxMSNICR6QfRgExOjHm7Znt9wIQmzzRf_58DDN2_w8wY1S78-WyDXKTSNmgkcWRihBzdCpVUN7hLAsnf4y_tM0HPkD5xriSpnyu-OL9588G0pGDZforjEnLmVzku0V4bO_8D5naAkRq0BqRuPwqkCI5cQ3DGDs-5ouy_Iu9RQrSgmRv1ChCGVAD-6Z9K7Ht5eBBKjZgzOU8CWIfrZZfyJ3DZg-KA26l6uXQ0osROVNGKO1bIq0YXCxjpYuYjYtY2oEFAi2It9GFYQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/852714f6d2af794279969e85.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> پست اکانت دپارتمان جنگ آمریکا ساعاتی پیش:<br><br>هیچ‌کس نمی‌تواند جلوی ما را بگیرد.<br><blockquote>ما وارد عمل نظامی خواهیم شد، دشمن را از بین خواهیم برد و با برتری فناورانه‌ای بی‌رقیب از سرزمین مادری‌مان دفاع خواهیم کرد.</blockquote><br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "🔴 پست اکانت دپارتمان جنگ آمریکا ساعاتی پیش: هیچ‌کس نمی‌تواند جلوی ما را بگیرد. ما وارد عمل نظامی خواهیم شد، دشمن را از بین خواهیم برد و با برتری فناورانه‌ای بی‌رقیب از سرزمین مادری‌مان دفاع خواهیم کرد. @IranianMinds",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranianMinds/32911",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/V-j_Jv61nx842w8G52mPayfotTYzQGS-eYqFRnQDtIUHkZnrPlE0AttInoJpX8OoWCQgxZ44ETP1nOIZKgo0EObv2zG07BiVFlCyZdX9aFgi7n6zTzpAvPPWfLze5Lhrp2Z2wODJX-jytUn5RgMM98aK6DlklwEjZVqNNSjzMUaHhJPXUz3aY4oy-7iDMNx534iOLzWxWxRktdQGfVZZZTjYCpPBQ8U3VXgzk4kCbZN9tHS7cOv-dtG2Tb3Pg9I_I0WK3L_q7jkhQZDkswyczXkMNbSDlgLXX6bAn6cLhyzkKOiTKiVrwBfCC7moN0nnfPCg0YR0IHwGJdtI0kT6_Q",
-          "thumbnail_path": "channels/iranianminds/media/382c2d9fe606b0a857fb6a61.jpg",
-          "duration_label": "0:20",
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🖕",
-          "count": "2.07K"
-        },
-        {
-          "emoji": "❤",
-          "count": "474"
-        },
-        {
-          "emoji": "🤣",
-          "count": "102"
-        },
-        {
-          "emoji": "🔥",
-          "count": "39"
-        },
-        {
-          "emoji": "👍",
-          "count": "12"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "2"
-        }
-      ],
-      "views_label": "33.6K",
-      "posted_at": "2026-11-24T12:48:53+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/32911"
-    },
-    {
-      "id": "IranianMinds/32910",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/q0L4skXQkb7FGJu10iTKIbzWqzNvoz8zkfEvTEqKsiku3Iui7t8HGH_NCW3nvbsbscTlqF4E-mxMSNICR6QfRgExOjHm7Znt9wIQmzzRf_58DDN2_w8wY1S78-WyDXKTSNmgkcWRihBzdCpVUN7hLAsnf4y_tM0HPkD5xriSpnyu-OL9588G0pGDZforjEnLmVzku0V4bO_8D5naAkRq0BqRuPwqkCI5cQ3DGDs-5ouy_Iu9RQrSgmRv1ChCGVAD-6Z9K7Ht5eBBKjZgzOU8CWIfrZZfyJ3DZg-KA26l6uXQ0osROVNGKO1bIq0YXCxjpYuYjYtY2oEFAi2It9GFYQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/852714f6d2af794279969e85.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> بیرانوند:<br><br>زنم از اینکه قرار بود مجردی به تایلند برم(برای دریافت جایزه) ناراحت بود و میخواست که همراهم بیاد ولی من قبول نکردم.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "🔴 بیرانوند: زنم از اینکه قرار بود مجردی به تایلند برم(برای دریافت جایزه) ناراحت بود و میخواست که همراهم بیاد ولی من قبول نکردم. @IranianMinds",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "964"
-        },
-        {
-          "emoji": "🖕",
-          "count": "228"
-        },
-        {
-          "emoji": "❤",
-          "count": "6"
-        },
-        {
-          "emoji": "👏",
-          "count": "1"
-        }
-      ],
-      "views_label": "36.6K",
-      "posted_at": "2026-11-24T11:40:45+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/32910"
-    },
-    {
-      "id": "IranianMinds/32909",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/q0L4skXQkb7FGJu10iTKIbzWqzNvoz8zkfEvTEqKsiku3Iui7t8HGH_NCW3nvbsbscTlqF4E-mxMSNICR6QfRgExOjHm7Znt9wIQmzzRf_58DDN2_w8wY1S78-WyDXKTSNmgkcWRihBzdCpVUN7hLAsnf4y_tM0HPkD5xriSpnyu-OL9588G0pGDZforjEnLmVzku0V4bO_8D5naAkRq0BqRuPwqkCI5cQ3DGDs-5ouy_Iu9RQrSgmRv1ChCGVAD-6Z9K7Ht5eBBKjZgzOU8CWIfrZZfyJ3DZg-KA26l6uXQ0osROVNGKO1bIq0YXCxjpYuYjYtY2oEFAi2It9GFYQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/852714f6d2af794279969e85.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> صحبتای عجیب یه آخوند:<br><br>پزشکیان میگه که توی خونه کاپشن بپوشین، آقای پزشکیان شما زن نداری نمیدونی، خب من موقع رابطه زنم بهم میگه لباساتو در بیار، چطوری کاپشن بپوشم؟<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "🔴 صحبتای عجیب یه آخوند: پزشکیان میگه که توی خونه کاپشن بپوشین، آقای پزشکیان شما زن نداری نمیدونی، خب من موقع رابطه زنم بهم میگه لباساتو در بیار، چطوری کاپشن بپوشم؟ @IranianMinds",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranianMinds/32909",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Fyf9GgUID00z_hhCdDQVBcbZ2r2aCHYnEuShlbuCU_ZX6HvNXHfCvEX5qoTwXmkYYZQGBwJE_s-T9h1eXMO1qfz4Difs3kaT7dyqtx2dTLXzOpszua3Nn7xUH-mWDSPGHQqgyZ8HgcB3YzM3zE1b29o7WN7iW1gyEtXqVT78LFTBFr9k_KkwNrK6PeneFDJafN_3Y8pDcFa248LseR-kpGR2xHExyUfapq6iGGWj1DBCtd0_ikiq-iOZvKXpGIIObMyUAHU0425Iysl3b7nrEa-XE-cavRe0ZmiLqpckA5dLVhKQiHR4D-G9DfM6rNM8AcClDLuhUxyFBWDNlSFCPw",
-          "thumbnail_path": "channels/iranianminds/media/4819d93ee83555c8fc2ccc09.jpg",
-          "duration_label": "0:21",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🖕",
-          "count": "2.58K"
-        },
-        {
-          "emoji": "🤣",
-          "count": "752"
-        },
-        {
-          "emoji": "❤",
-          "count": "17"
-        },
-        {
-          "emoji": "👍",
-          "count": "6"
-        },
-        {
-          "emoji": "👏",
-          "count": "1"
-        }
-      ],
-      "views_label": "42K",
-      "posted_at": "2026-11-24T10:59:37+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/32909"
-    },
-    {
-      "id": "IranianMinds/32908",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/q0L4skXQkb7FGJu10iTKIbzWqzNvoz8zkfEvTEqKsiku3Iui7t8HGH_NCW3nvbsbscTlqF4E-mxMSNICR6QfRgExOjHm7Znt9wIQmzzRf_58DDN2_w8wY1S78-WyDXKTSNmgkcWRihBzdCpVUN7hLAsnf4y_tM0HPkD5xriSpnyu-OL9588G0pGDZforjEnLmVzku0V4bO_8D5naAkRq0BqRuPwqkCI5cQ3DGDs-5ouy_Iu9RQrSgmRv1ChCGVAD-6Z9K7Ht5eBBKjZgzOU8CWIfrZZfyJ3DZg-KA26l6uXQ0osROVNGKO1bIq0YXCxjpYuYjYtY2oEFAi2It9GFYQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/852714f6d2af794279969e85.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> طبق گزارشات دقایقی پیش نخست‌وزیر عراق دستور داد تا تمام گذرگاه‌های مرزی غیررسمی‌ با ایران از جمله گذرگاه‌های موجود در اقلیم کردستان، بسته شوند.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "🔴 طبق گزارشات دقایقی پیش نخست‌وزیر عراق دستور داد تا تمام گذرگاه‌های مرزی غیررسمی‌ با ایران از جمله گذرگاه‌های موجود در اقلیم کردستان، بسته شوند. @IranianMinds",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🖕",
-          "count": "2.01K"
-        },
-        {
-          "emoji": "🤣",
-          "count": "472"
-        },
-        {
-          "emoji": "👍",
-          "count": "129"
-        },
-        {
-          "emoji": "🔥",
-          "count": "45"
-        },
-        {
-          "emoji": "👏",
-          "count": "26"
-        },
-        {
-          "emoji": "❤",
-          "count": "17"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "6"
-        }
-      ],
-      "views_label": "41.3K",
-      "posted_at": "2026-11-24T10:46:50+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/32908"
-    },
-    {
-      "id": "IranianMinds/32907",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/q0L4skXQkb7FGJu10iTKIbzWqzNvoz8zkfEvTEqKsiku3Iui7t8HGH_NCW3nvbsbscTlqF4E-mxMSNICR6QfRgExOjHm7Znt9wIQmzzRf_58DDN2_w8wY1S78-WyDXKTSNmgkcWRihBzdCpVUN7hLAsnf4y_tM0HPkD5xriSpnyu-OL9588G0pGDZforjEnLmVzku0V4bO_8D5naAkRq0BqRuPwqkCI5cQ3DGDs-5ouy_Iu9RQrSgmRv1ChCGVAD-6Z9K7Ht5eBBKjZgzOU8CWIfrZZfyJ3DZg-KA26l6uXQ0osROVNGKO1bIq0YXCxjpYuYjYtY2oEFAi2It9GFYQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/852714f6d2af794279969e85.jpg",
-      "body_html": "دلار به ۲۸۰,۰۰۰ تومان رسید.<br><br>تتر وارد کانال ۲۸۵ هزار تومان شد!<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "دلار به ۲۸۰,۰۰۰ تومان رسید. تتر وارد کانال ۲۸۵ هزار تومان شد! @IranianMinds",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🖕",
-          "count": "2.09K"
-        },
-        {
-          "emoji": "🤣",
-          "count": "150"
-        },
-        {
-          "emoji": "💔",
-          "count": "110"
-        },
-        {
-          "emoji": "❤",
-          "count": "14"
-        },
-        {
-          "emoji": "🔥",
-          "count": "10"
-        },
-        {
-          "emoji": "👍",
-          "count": "3"
-        }
-      ],
-      "views_label": "41.1K",
-      "posted_at": "2026-11-24T10:42:23+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/32907"
-    },
-    {
-      "id": "IranianMinds/32906",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/q0L4skXQkb7FGJu10iTKIbzWqzNvoz8zkfEvTEqKsiku3Iui7t8HGH_NCW3nvbsbscTlqF4E-mxMSNICR6QfRgExOjHm7Znt9wIQmzzRf_58DDN2_w8wY1S78-WyDXKTSNmgkcWRihBzdCpVUN7hLAsnf4y_tM0HPkD5xriSpnyu-OL9588G0pGDZforjEnLmVzku0V4bO_8D5naAkRq0BqRuPwqkCI5cQ3DGDs-5ouy_Iu9RQrSgmRv1ChCGVAD-6Z9K7Ht5eBBKjZgzOU8CWIfrZZfyJ3DZg-KA26l6uXQ0osROVNGKO1bIq0YXCxjpYuYjYtY2oEFAi2It9GFYQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/852714f6d2af794279969e85.jpg",
-      "body_html": "یادی کنیم از این اسباب بازی سپاه که برداشته بودن نفتکش رو آسفالت کرده بودن به اسم ناو پهبادبر شهید باقری که روزای اول جنگ بدون هیچ مقاومتی با اولین موشک آمریکا رفت زیر آب تا  پیست اسکی ماهی ها بشه.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "یادی کنیم از این اسباب بازی سپاه که برداشته بودن نفتکش رو آسفالت کرده بودن به اسم ناو پهبادبر شهید باقری که روزای اول جنگ بدون هیچ مقاومتی با اولین موشک آمریکا رفت زیر آب تا پیست اسکی ماهی ها بشه. @IranianMinds",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranianMinds/32906",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/d4jMWSlEgo6d9Yz6FEIGcbymgLLLJuQE6nBwGRvPJ7n2J6Eh8Kb4dhVC7t6pu0-yjss7O2L4R9Xsy0nicHjYLklQfm6el67f6XSx3i79i-hPC8wcYwc5UpxLcLnYIr5HcduKkOJNoIvxxc2wApUxMuAMsh5cHfnkFlL9MvTn0zNzZXAEDQlwWMTCkvFHLKvzhakWevveo-iAanDbhV9hjlT2y9P6RI67FFunmsE4hE0obeT10qtQxAzJ3QJPjSLyGi8bm30DKyMldXq3wYFsCdV3E81_NnXEi5HIY9_ewjD87dixyYSTj1jeb-epdGxDevG0wD_kd-im-V5pa8tZRQ.jpg",
-          "thumbnail_path": "channels/iranianminds/media/d0bf2cea39cb1ee21a0d2471.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.4134275618374559
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "1.89K"
-        },
-        {
-          "emoji": "❤",
-          "count": "1.36K"
-        },
-        {
-          "emoji": "👍",
-          "count": "527"
-        },
-        {
-          "emoji": "🖕",
-          "count": "6"
-        },
-        {
-          "emoji": "💔",
-          "count": "1"
-        }
-      ],
-      "views_label": "51.7K",
-      "posted_at": "2026-11-24T03:37:27+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/32906"
-    },
-    {
-      "id": "IranianMinds/32905",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/q0L4skXQkb7FGJu10iTKIbzWqzNvoz8zkfEvTEqKsiku3Iui7t8HGH_NCW3nvbsbscTlqF4E-mxMSNICR6QfRgExOjHm7Znt9wIQmzzRf_58DDN2_w8wY1S78-WyDXKTSNmgkcWRihBzdCpVUN7hLAsnf4y_tM0HPkD5xriSpnyu-OL9588G0pGDZforjEnLmVzku0V4bO_8D5naAkRq0BqRuPwqkCI5cQ3DGDs-5ouy_Iu9RQrSgmRv1ChCGVAD-6Z9K7Ht5eBBKjZgzOU8CWIfrZZfyJ3DZg-KA26l6uXQ0osROVNGKO1bIq0YXCxjpYuYjYtY2oEFAi2It9GFYQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/852714f6d2af794279969e85.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> ناو تهاجمی آبی خاکی «<b>مکین آیلند</b>» به همراه دو کشتی جنگی دیگر به همراه 2 هزار نیروی ویژه تفنگداران دریایی ارتش آمریکا از تنگه مالاکا در سنگاپور عبور کردند و در 72 ساعت آینده وارد خاورمیانه می‌شوند.<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "🔴 ناو تهاجمی آبی خاکی «مکین آیلند» به همراه دو کشتی جنگی دیگر به همراه 2 هزار نیروی ویژه تفنگداران دریایی ارتش آمریکا از تنگه مالاکا در سنگاپور عبور کردند و در 72 ساعت آینده وارد خاورمیانه می‌شوند. @IranianMinds",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "1.69K"
-        },
-        {
-          "emoji": "👍",
-          "count": "695"
-        },
-        {
-          "emoji": "🤣",
-          "count": "41"
-        },
-        {
-          "emoji": "🔥",
-          "count": "20"
-        },
-        {
-          "emoji": "🖕",
-          "count": "16"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "2"
-        }
-      ],
-      "views_label": "49.5K",
-      "posted_at": "2026-11-24T03:34:12+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/32905"
-    },
-    {
-      "id": "IranianMinds/32904",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/q0L4skXQkb7FGJu10iTKIbzWqzNvoz8zkfEvTEqKsiku3Iui7t8HGH_NCW3nvbsbscTlqF4E-mxMSNICR6QfRgExOjHm7Znt9wIQmzzRf_58DDN2_w8wY1S78-WyDXKTSNmgkcWRihBzdCpVUN7hLAsnf4y_tM0HPkD5xriSpnyu-OL9588G0pGDZforjEnLmVzku0V4bO_8D5naAkRq0BqRuPwqkCI5cQ3DGDs-5ouy_Iu9RQrSgmRv1ChCGVAD-6Z9K7Ht5eBBKjZgzOU8CWIfrZZfyJ3DZg-KA26l6uXQ0osROVNGKO1bIq0YXCxjpYuYjYtY2oEFAi2It9GFYQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/852714f6d2af794279969e85.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> قیمت جدید بسته‌های اینترنت ADSL مخابرات اعلام شد؛ تعرفه‌ها حداقل ۳ برابر گرون‌تر از قبل شدن!</b><br><br>+- نمیدونم چرا سرعتشون بهتر نمیشه :))<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "🔴 قیمت جدید بسته‌های اینترنت ADSL مخابرات اعلام شد؛ تعرفه‌ها حداقل ۳ برابر گرون‌تر از قبل شدن! +- نمیدونم چرا سرعتشون بهتر نمیشه :)) @IranianMinds",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranianMinds/32904",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/MEu4VjMpCqy_qneCMF0wyHGI5e3ZIJMjWeLJw3N_Vtq_3qb-SABxZvyNQ3Fh0IZx2O0QlBy9PlYc-FEK2sGmt8r2_qSbNvTkTbj1qfmXmAoMV069wwYPsEveEw_mjBzvT2Kj0Ol5MrrDz8KHt2pdyuLOl7-b-IRJcdVwGG2NFEKTu646AfyIRDH4n9XJSWA2oduBJyRzW0C5KWGskfDXVK7wOhQUMm0AdoDu_VcLTs0UJadejOGo3IxVwSlMOGS_8ODkfPKWnd7HsGj4qjaH4S4NbWTBgdbKyaUoVMtx9wPywSlZnbnZSN1W7UEXrdDrz0SLYfmtGVsj2A2nc1ryGA.jpg",
-          "thumbnail_path": "channels/iranianminds/media/11720be792552010080ed538.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.7429193899782136
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "1.41K"
-        },
-        {
-          "emoji": "👍",
-          "count": "828"
-        },
-        {
-          "emoji": "🖕",
-          "count": "291"
-        },
-        {
-          "emoji": "💔",
-          "count": "84"
-        },
-        {
-          "emoji": "🤣",
-          "count": "19"
-        },
-        {
-          "emoji": "🔥",
-          "count": "2"
-        }
-      ],
-      "views_label": "51.7K",
-      "posted_at": "2026-11-23T22:47:27+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/32904"
-    },
-    {
-      "id": "IranianMinds/32902",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/q0L4skXQkb7FGJu10iTKIbzWqzNvoz8zkfEvTEqKsiku3Iui7t8HGH_NCW3nvbsbscTlqF4E-mxMSNICR6QfRgExOjHm7Znt9wIQmzzRf_58DDN2_w8wY1S78-WyDXKTSNmgkcWRihBzdCpVUN7hLAsnf4y_tM0HPkD5xriSpnyu-OL9588G0pGDZforjEnLmVzku0V4bO_8D5naAkRq0BqRuPwqkCI5cQ3DGDs-5ouy_Iu9RQrSgmRv1ChCGVAD-6Z9K7Ht5eBBKjZgzOU8CWIfrZZfyJ3DZg-KA26l6uXQ0osROVNGKO1bIq0YXCxjpYuYjYtY2oEFAi2It9GFYQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/852714f6d2af794279969e85.jpg",
-      "body_html": "<b><tg-emoji emoji-id=\"5197304993920616826\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')\"><b>📣</b></i></tg-emoji></b><b>هرچی شارژ کنی </b><tg-emoji emoji-id=\"6156743908379333431\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><b> برابر موجودی میگیری با بونوس </b><tg-emoji emoji-id=\"5161646173974430757\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰️</b></i></tg-emoji><tg-emoji emoji-id=\"5161646173974430757\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰️</b></i></tg-emoji><tg-emoji emoji-id=\"5163787880891417877\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰️</b></i></tg-emoji><tg-emoji emoji-id=\"5161170510641365984\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰️</b></i></tg-emoji><br><br><b><tg-emoji emoji-id=\"6082371133695334161\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji></b><b><tg-emoji emoji-id=\"6084478936140486282\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji></b><b>درصد شارژ اضافی ویژه این بازی:</b><br><br><tg-emoji emoji-id=\"5215400223714585312\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96B1.png')\"><b>🖱</b></i></tg-emoji><b>به راحتی کسب درامد کن </b><tg-emoji emoji-id=\"5926961826603472005\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B5.png')\"><b>💵</b></i></tg-emoji><tg-emoji emoji-id=\"5417924076503062111\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')\"><b>💰</b></i></tg-emoji><br><br>فقط کافیه شکارچی خوبی باشی و مرغ هارو شکار کنی و پولت چند برابر کنی<tg-emoji emoji-id=\"5278234122081285421\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F988D.png')\"><b>😍</b></i></tg-emoji><tg-emoji emoji-id=\"5197434882321567830\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B5.png')\"><b>💵</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5188234920639632382\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i></tg-emoji> <b>ویدیو </b><a href=\"?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4\"><b>#آموزش</b></a><b> بازی chicky choice رو براتون گذاشتم خیلی راحت و بدون ریسک و میتونی بازی کنی و کلی پول دربیاری<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></b><br>        <br><b><tg-emoji emoji-id=\"5339227691386153993\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9296.png')\"><b>💖</b></i></tg-emoji></b><b> حتما ویدیو رو تا انتها ببینید</b><br><tg-emoji emoji-id=\"5938072524746137114\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92BB.png')\"><b>💻</b></i></tg-emoji><b> </b><a href=\"https://betinja.bet/affiliates/?btag=2755858\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>betinja.bet</b></a><br><b><tg-emoji emoji-id=\"5938072524746137114\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92BB.png')\"><b>💻</b></i></tg-emoji></b><b> </b><a href=\"https://betinja.bet/affiliates/?btag=2755858\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>betinja.bet</b></a><br><tg-emoji emoji-id=\"5231489647946768652\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i></tg-emoji> <b>کانال بونوس های رایگان</b><br><a href=\"https://t.me/betinjabet\" target=\"_blank\"><b>@betinjabet</b></a><br><tg-emoji emoji-id=\"5881732578276282078\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> شرطبندی از طریق ربات a2:<br><a href=\"https://t.me/Betinja_bot\" target=\"_blank\"><b>@Betinja_bot</b></a>",
-      "plain_text": "📣هرچی شارژ کنی 🤩 برابر موجودی میگیری با بونوس 🅰️🅰️🅰️🅰️ 🤩🤩درصد شارژ اضافی ویژه این بازی: 🖱به راحتی کسب درامد کن 💵💰 فقط کافیه شکارچی خوبی باشی و مرغ هارو شکار کنی و پولت چند برابر کنی😍💵 🟢 ویدیو #آموزش بازی chicky choice رو براتون گذاشتم خیلی راحت و بدون ریسک و میتونی بازی کنی و کلی پول دربیاری🔥 💖 حتما ویدیو رو تا انتها ببینید 💻 betinja.bet 💻 betinja.bet 🌐 کانال بونوس های رایگان @betinjabet ✅ شرطبندی از طریق ربات a2: @Betinja_bot",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranianMinds/32902",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/NSe9Ryw7MHCuXaNDK_QO8KjHDgGvktqIRw1Hy9q-PttGP8T75qJHzy79ZUCHtcmTDOJTVdDi6tUx_-XLzdfBmCSUJ4gsvwoLtEq9b6pVlBNoEhYKOgQCiP7IbVoF7mkRP1hfg3xlgZIscF0Zprom0CM82sYtl40EnbT0Dj2Gcm_d6SiZ0i7zlVECZ23-1h6LN-m7HX-qSs3joZsu-BSkt9RWqoeObSabpOdE_I9jrbuH-NgaIlpb15voMijyx2D6AQzuyN4DCg8g0YWUu1h2lTt9mFr7NwBWwqPuDa13NLqcy7N7y_szgP24nJDaT1DhRTEz5YVQZizaDE6weXMDFQ",
-          "thumbnail_path": "channels/iranianminds/media/b3ec5e605546ba0a027f2063.jpg",
-          "duration_label": "0:38",
-          "aspect_ratio": 1
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "1.32K"
-        },
-        {
-          "emoji": "👍",
-          "count": "665"
-        },
-        {
-          "emoji": "🖕",
-          "count": "5"
-        },
-        {
-          "emoji": "🤣",
-          "count": "3"
-        }
-      ],
-      "views_label": "42K",
-      "posted_at": "2026-11-23T22:46:57+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/32902"
-    },
-    {
-      "id": "IranianMinds/32903",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/q0L4skXQkb7FGJu10iTKIbzWqzNvoz8zkfEvTEqKsiku3Iui7t8HGH_NCW3nvbsbscTlqF4E-mxMSNICR6QfRgExOjHm7Znt9wIQmzzRf_58DDN2_w8wY1S78-WyDXKTSNmgkcWRihBzdCpVUN7hLAsnf4y_tM0HPkD5xriSpnyu-OL9588G0pGDZforjEnLmVzku0V4bO_8D5naAkRq0BqRuPwqkCI5cQ3DGDs-5ouy_Iu9RQrSgmRv1ChCGVAD-6Z9K7Ht5eBBKjZgzOU8CWIfrZZfyJ3DZg-KA26l6uXQ0osROVNGKO1bIq0YXCxjpYuYjYtY2oEFAi2It9GFYQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/852714f6d2af794279969e85.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5213205860498549992\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i></tg-emoji> <a href=\"?q=%23%D9%BE%DB%8C%D8%B4%D9%86%D9%87%D8%A7%D8%AF_%D9%88%DB%8C%DA%98%D9%87\"><b>#پیشنهاد_ویژه</b></a><b> </b><tg-emoji emoji-id=\"5215305227627931680\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i></tg-emoji><br><b><tg-emoji emoji-id=\"5420315771991497307\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></tg-emoji></b><b> حتما ویدیو‌ آموزشی بالا رو‌ببینید بازی ساده و بسیار شیرینی که راحت میشه میشه ازش کلی پول درآورد<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918CF09F8FBC.png')\"><b>👌🏼</b></i></b><br><tg-emoji emoji-id=\"6082371133695334161\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><tg-emoji emoji-id=\"6084478936140486282\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji> درصد شارژ بیشتر با هربار شارژ برای بازی مرغ <tg-emoji emoji-id=\"5274026806477857971\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD90.png')\"><b>⭐</b></i></tg-emoji><br><b><tg-emoji emoji-id=\"5197304993920616826\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')\"><b>📣</b></i></tg-emoji></b><b>یک‌میلیون شارژ کن</b>  <tg-emoji emoji-id=\"5852777596688797905\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC85.png')\"><b>⬅️</b></i></tg-emoji><tg-emoji emoji-id=\"5881803780244115771\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i></tg-emoji><br>6,000,000 میلیون موجودی بگیر <br><br><tg-emoji emoji-id=\"5938072524746137114\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92BB.png')\"><b>💻</b></i></tg-emoji><b> </b><a href=\"https://betinja.bet/affiliates/?btag=2755858\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>betinja.bet</b></a>",
-      "plain_text": "⚠️ #پیشنهاد_ویژه ⚠️ 🔥 حتما ویدیو‌ آموزشی بالا رو‌ببینید بازی ساده و بسیار شیرینی که راحت میشه میشه ازش کلی پول درآورد👌🏼 🤩🤩 درصد شارژ بیشتر با هربار شارژ برای بازی مرغ ⭐ 📣یک‌میلیون شارژ کن ⬅️⬇️ 6,000,000 میلیون موجودی بگیر 💻 betinja.bet",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "1.28K"
-        },
-        {
-          "emoji": "👍",
-          "count": "671"
-        },
-        {
-          "emoji": "🖕",
-          "count": "6"
-        },
-        {
-          "emoji": "🤣",
-          "count": "4"
-        }
-      ],
-      "views_label": "48.5K",
-      "posted_at": "2026-11-23T22:46:57+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/32903"
-    },
-    {
-      "id": "IranianMinds/32901",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/q0L4skXQkb7FGJu10iTKIbzWqzNvoz8zkfEvTEqKsiku3Iui7t8HGH_NCW3nvbsbscTlqF4E-mxMSNICR6QfRgExOjHm7Znt9wIQmzzRf_58DDN2_w8wY1S78-WyDXKTSNmgkcWRihBzdCpVUN7hLAsnf4y_tM0HPkD5xriSpnyu-OL9588G0pGDZforjEnLmVzku0V4bO_8D5naAkRq0BqRuPwqkCI5cQ3DGDs-5ouy_Iu9RQrSgmRv1ChCGVAD-6Z9K7Ht5eBBKjZgzOU8CWIfrZZfyJ3DZg-KA26l6uXQ0osROVNGKO1bIq0YXCxjpYuYjYtY2oEFAi2It9GFYQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/852714f6d2af794279969e85.jpg",
-      "body_html": "دلار 279<br><br><br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "دلار 279 @IranianMinds",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "1.4K"
-        },
-        {
-          "emoji": "👍",
-          "count": "617"
-        },
-        {
-          "emoji": "💔",
-          "count": "307"
-        },
-        {
-          "emoji": "🤣",
-          "count": "76"
-        },
-        {
-          "emoji": "🖕",
-          "count": "22"
-        },
-        {
-          "emoji": "🔥",
-          "count": "18"
-        }
-      ],
-      "views_label": "44.7K",
-      "posted_at": "2026-11-23T20:25:36+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/32901"
-    },
-    {
-      "id": "IranianMinds/32900",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/q0L4skXQkb7FGJu10iTKIbzWqzNvoz8zkfEvTEqKsiku3Iui7t8HGH_NCW3nvbsbscTlqF4E-mxMSNICR6QfRgExOjHm7Znt9wIQmzzRf_58DDN2_w8wY1S78-WyDXKTSNmgkcWRihBzdCpVUN7hLAsnf4y_tM0HPkD5xriSpnyu-OL9588G0pGDZforjEnLmVzku0V4bO_8D5naAkRq0BqRuPwqkCI5cQ3DGDs-5ouy_Iu9RQrSgmRv1ChCGVAD-6Z9K7Ht5eBBKjZgzOU8CWIfrZZfyJ3DZg-KA26l6uXQ0osROVNGKO1bIq0YXCxjpYuYjYtY2oEFAi2It9GFYQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/852714f6d2af794279969e85.jpg",
-      "body_html": "<b>گزارش یونیسف :<br><br>سو تغذیه کودکان در ایران 9 برابر کودکان غزه است.</b><br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "گزارش یونیسف : سو تغذیه کودکان در ایران 9 برابر کودکان غزه است. @IranianMinds",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranianMinds/32900",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/qHpmSpqT_PmTyFUUcHlKYJICOGQ1ISUZ8iFh70xbegxvES500PDJDcEcHcLcV1zoouiDwHu9VyGDdKb0UZQFb-PJvYx2sMqDYJHjCq01D8e66QCDgCz3tPfMsxDZWgnObaRRMApLm8ILwB6MWlI-I8ihD9QPC8Tno4O0PeVH9avQ_8FDvj1Xwj3VxLawHwGPwbxRdk4vxImy1tAnf17NkBZmB2MHqjRN5_HAWb32mmxrNMozAlJi_bFMqWVnQzgugIk14NCVraK2AcVdhhmlQ2PePIHdFcA7fnRUW_PhreD1XQkGwJnnArpgCpqKlvMIX4SwR95__OQyvDFHRiaUCA.jpg",
-          "thumbnail_path": "channels/iranianminds/media/57d75cca255e9267f9389102.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.9725000000000374
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "1.68K"
-        },
-        {
-          "emoji": "💔",
-          "count": "1.41K"
-        },
-        {
-          "emoji": "👍",
-          "count": "746"
-        },
-        {
-          "emoji": "🤣",
-          "count": "23"
-        },
-        {
-          "emoji": "🖕",
-          "count": "22"
-        },
-        {
-          "emoji": "🔥",
-          "count": "4"
-        }
-      ],
-      "views_label": "47.8K",
-      "posted_at": "2026-11-23T20:06:34+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranianMinds/32900"
     }
   ]
 }
