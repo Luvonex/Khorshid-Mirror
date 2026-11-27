@@ -1,15 +1,480 @@
 {
   "schema": 2,
-  "fetched_at": "2026-11-27T05:24:39.253Z",
+  "fetched_at": "2026-11-27T12:42:08.374Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
     "description_html": "اطلاع رسانی صحیح از مسیر سقوط جمهوری اسلامی.  برای حقیقت و آزادی. <a href=\"?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86\">#جاوید_ایران</a>",
-    "photo_url": "https://cdn4.telesco.pe/file/SSNYshU57XmFaEpB1xTrpaLySmcjxT9xo05r_MiVhw1wh0dZBnb7fvYtwU3Ay_Isbcu9doBzH0-hNbXIS54ymq9Umr7s-y2nCxUOgHdO8s3uHzE__NIp6mN6_thhL69ME7aBE7CgB-NNNHDAbHtJIlo2v5lhoYC6L4p5UxI2JhqtYggpkiGi1FoF337IvqKtdOlrzTRS1XjDJkoSdIxHXY0ne8ECggqZxjM37gAGlNK90cIpdqBcGfqt-CVRooiHryIYCiuQcygNm18HrNrQ-pEgqr4DK_t_0RGSfXlTqbf8FxS3JYybEWCKDPQJz2YYZwCZykc6lXyrZ7YL5ykicQ.jpg",
-    "photo_path": "channels/iranlix/media/5fa36a6d342e9ba536444dd5.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/n7y1wdEPEDTxU2qQwXaMf3mEfdbn2MkcT7nbcykLXxIydOVvJJnOSuX1XLiAFrcqWGbkBWaxt7a9FpJ2HHiCoNbcKITBwIWLYA0RnBBLPE1Ivlw4v1Rk3uYPXQm-eaN_kFx_RjfOFvDd4cyN2CWkQ8f-ejmWAI5glU0QyFQXQRO-cVT_RMUywNtKuit0HKCUQQr5Sq5wp_b7ij-Uim18sRU_XnzaIxFiyn3hBW6s-f744imTsi1QDk-kBTbjKUTt3vihuTrqLyqumbd2bbuBOyA_HgCix4GzJLRcN2AoBaBM0_2cwiKY3l3lPEujHs8UH6kKcML2VD3cCuQG6p7B9A.jpg",
+    "photo_path": "channels/iranlix/media/64259be0193fa596596d1710.jpg",
     "subscriber_count": "13.5K"
   },
   "posts": [
+    {
+      "id": "iranlix/17259",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/n7y1wdEPEDTxU2qQwXaMf3mEfdbn2MkcT7nbcykLXxIydOVvJJnOSuX1XLiAFrcqWGbkBWaxt7a9FpJ2HHiCoNbcKITBwIWLYA0RnBBLPE1Ivlw4v1Rk3uYPXQm-eaN_kFx_RjfOFvDd4cyN2CWkQ8f-ejmWAI5glU0QyFQXQRO-cVT_RMUywNtKuit0HKCUQQr5Sq5wp_b7ij-Uim18sRU_XnzaIxFiyn3hBW6s-f744imTsi1QDk-kBTbjKUTt3vihuTrqLyqumbd2bbuBOyA_HgCix4GzJLRcN2AoBaBM0_2cwiKY3l3lPEujHs8UH6kKcML2VD3cCuQG6p7B9A.jpg",
+      "author_photo_path": "channels/iranlix/media/64259be0193fa596596d1710.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>هر تخم‌مرغ نزدیک ۲۴ هزار تومان!</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i><b>قیمت یک شانه ۳۰ عددی تخم‌مرغ به ۷۱۴ هزار تومان رسیده است؛ یعنی هر عدد تخم‌مرغ حدود ۲۳ هزار و ۸۰۰ تومان قیمت دارد.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🔻هر تخم‌مرغ نزدیک ۲۴ هزار تومان! 🔸قیمت یک شانه ۳۰ عددی تخم‌مرغ به ۷۱۴ هزار تومان رسیده است؛ یعنی هر عدد تخم‌مرغ حدود ۲۳ هزار و ۸۰۰ تومان قیمت دارد. @iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/17259",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/uFsUoCArwx6KxW9kMqp62WDnBS9WG2-sDj-AW9yIR8SmybLwH439xl1Cfv_inIsjVFWCH99xjoR7GFZ_GMqqahtlD7QBH6uelzATwyBcftpiZZllmPKLTlgja2I_zVvyEGybSyWr2T1mF9UFfAABGe-RFzMqeMnBZQFCfGK7w9QfzC6FqJNM2Xb5WVpQZKIeUFKtugTzfeOz7lbT1RNRxcANclaovP_Msf3guXG1l9lLBxmNZsPa2sn4DHQZ3lR3Wtlucfo-xDyPSeYn1Zq9AjtjBj28FOi2eHjxJmWjgP2PHfJ_HasRcOHYAeJou84NHq3NEw1mvQe1FtuClZFfAw.jpg",
+          "thumbnail_path": "channels/iranlix/media/b1748b129a164bac44feefdd.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.6
+        }
+      ],
+      "reactions": [],
+      "views_label": "32",
+      "posted_at": "2026-11-27T12:37:59+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/17259"
+    },
+    {
+      "id": "iranlix/17258",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/n7y1wdEPEDTxU2qQwXaMf3mEfdbn2MkcT7nbcykLXxIydOVvJJnOSuX1XLiAFrcqWGbkBWaxt7a9FpJ2HHiCoNbcKITBwIWLYA0RnBBLPE1Ivlw4v1Rk3uYPXQm-eaN_kFx_RjfOFvDd4cyN2CWkQ8f-ejmWAI5glU0QyFQXQRO-cVT_RMUywNtKuit0HKCUQQr5Sq5wp_b7ij-Uim18sRU_XnzaIxFiyn3hBW6s-f744imTsi1QDk-kBTbjKUTt3vihuTrqLyqumbd2bbuBOyA_HgCix4GzJLRcN2AoBaBM0_2cwiKY3l3lPEujHs8UH6kKcML2VD3cCuQG6p7B9A.jpg",
+      "author_photo_path": "channels/iranlix/media/64259be0193fa596596d1710.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>عراق در مسیر خلع سلاح نیروهای نیابتی ج.ا؛ حمایت علنی ترامپ از دولت جدید</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>ترامپ در پیامی در شبکه اجتماعی «تروت‌سوشال» نوشت: «ما از تلاش‌های علی الزیدی، نخست‌وزیر عراق، برای اعمال اقتدار دولت در سراسر عراق، متوقف کردن قاچاق نفت این کشور، پایان دادن به فساد و قرار دادن تمامی سلاح‌ها تحت کنترل انحصاری دولت پشتیبانی می‌کنیم»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>پیام دونالد ترامپ یک روز پس از آن منتشر شد که پارلمان عراق به کابینه علی الزیدی رأی اعتماد داد و او در دیدار با سفیران کشورهای عضو اتحادیه اروپا در بغداد تأکید کرد که دولت جدید در مسیر مبارزه با فساد و جلوگیری از قاچاق نفت عقب‌نشینی نخواهد کرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>تلاش برای اعمال اقتدار دولت در عراق به طور مستقیم به نفوذ و فعالیت گروه‌های نیابتی ج.ا بازمی‌گردد؛ گروه‌هایی که طی سال‌های گذشته با در اختیار داشتن سلاح‌های خارج از کنترل دولت و ایجاد شبکه‌های غیررسمی اقتصادی و قاچاق نفت، عملاً ساختاری موازی با حاکمیت رسمی عراق شکل داده‌اند.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🔻عراق در مسیر خلع سلاح نیروهای نیابتی ج.ا؛ حمایت علنی ترامپ از دولت جدید 🔸ترامپ در پیامی در شبکه اجتماعی «تروت‌سوشال» نوشت: «ما از تلاش‌های علی الزیدی، نخست‌وزیر عراق، برای اعمال اقتدار دولت در سراسر عراق، متوقف کردن قاچاق نفت این کشور، پایان دادن به فساد و قرار دادن تمامی سلاح‌ها تحت کنترل انحصاری دولت پشتیبانی می‌کنیم» 🔸پیام دونالد ترامپ یک روز پس از آن منتشر شد که پارلمان عراق به کابینه علی الزیدی رأی اعتماد داد و او در دیدار با سفیران کشورهای عضو اتحادیه اروپا در بغداد تأکید کرد که دولت جدید در مسیر مبارزه با فساد و جلوگیری از قاچاق نفت عقب‌نشینی نخواهد کرد. 🔸تلاش برای اعمال اقتدار دولت در عراق به طور مستقیم به نفوذ و فعالیت گروه‌های نیابتی ج.ا بازمی‌گردد؛ گروه‌هایی که طی سال‌های گذشته با در اختیار داشتن سلاح‌های خارج از کنترل دولت و ایجاد شبکه‌های غیررسمی اقتصادی و قاچاق نفت، عملاً ساختاری موازی با حاکمیت رسمی عراق شکل داده‌اند. @iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/17258",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/RNw5nMNJS1tJ34hYb848AnCnERmAzIrwj6vT2OI3NN7-X8fy1zrrmSuHktPBAnH4FQFBaPyjLekHm2Ly-5d_Vdz775Ym6FVHq192VSeEgxU56ZebpJopIOB46QUMx6oorA7gnLI-CWYUWuEbxPrV1qxMxM7rNIk20U9ZSRHWt-CCaKdR4XoXYGGOEnat2nJETbok1NmRAWDhCtGN-DQKVdewYCJ2Ql2Wzb9m_6jyccIMakRghkvSyjT0JfhAPIybdkkNqP86PvDey-VsALzAij9AkrQT2aGX8MmX3mSH3QAOvGHQrvHJYdm8s9KnojDvxP0C2SIwiCXUerrdqGMFPg.jpg",
+          "thumbnail_path": "channels/iranlix/media/9e4ae88eedbf4e83084a6abf.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.288244766505636
+        }
+      ],
+      "reactions": [],
+      "views_label": "226",
+      "posted_at": "2026-11-27T11:59:07+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/17258"
+    },
+    {
+      "id": "iranlix/17257",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/n7y1wdEPEDTxU2qQwXaMf3mEfdbn2MkcT7nbcykLXxIydOVvJJnOSuX1XLiAFrcqWGbkBWaxt7a9FpJ2HHiCoNbcKITBwIWLYA0RnBBLPE1Ivlw4v1Rk3uYPXQm-eaN_kFx_RjfOFvDd4cyN2CWkQ8f-ejmWAI5glU0QyFQXQRO-cVT_RMUywNtKuit0HKCUQQr5Sq5wp_b7ij-Uim18sRU_XnzaIxFiyn3hBW6s-f744imTsi1QDk-kBTbjKUTt3vihuTrqLyqumbd2bbuBOyA_HgCix4GzJLRcN2AoBaBM0_2cwiKY3l3lPEujHs8UH6kKcML2VD3cCuQG6p7B9A.jpg",
+      "author_photo_path": "channels/iranlix/media/64259be0193fa596596d1710.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>رویترز: هکرها به پلتفرم اصلی رایانش ابری نیروی هوایی آمریکا نفوذ کرده‌اند. این رخداد می‌تواند حجم گسترده‌ای از داده‌های حساس عملیاتی، پرسنلی و لجستیکی را در معرض خطر قرار دهد.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "♦️رویترز: هکرها به پلتفرم اصلی رایانش ابری نیروی هوایی آمریکا نفوذ کرده‌اند. این رخداد می‌تواند حجم گسترده‌ای از داده‌های حساس عملیاتی، پرسنلی و لجستیکی را در معرض خطر قرار دهد. @iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/17257",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qXkQiL7Jtm_EGIXsV8F8tBtAU1cy2Hf56lNSblE_KRtyXeqehlGfxBzBt4mrQR7VeLYVvHc9VJed9rcehJC00fpmru1MHXRfP1dVIhABeUgXPRH7hCHRScOaTk657gccF8CPOBpKZL5Jn-qLt6-DNljnERdqvdQHZsB5Pghxxi5P1Fx-A846yS_gE7JipknECLz6lUFdLW4nocHqJdYc9jvtdhhBhGAZo77xGUMbaGt1OCP2dogU9lYKBWWaMkE7EEUzbVpnOiKGYIt_B14nIjqZ9HyUMvXnQnKH4pD1r5uKxOFzRI_l_utPMyIfq_6l3kWKMZbhC_OowtesSRGXlA.jpg",
+          "thumbnail_path": "channels/iranlix/media/e088e4d72eadad9194e8ddfb.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.3937282229965158
+        }
+      ],
+      "reactions": [],
+      "views_label": "298",
+      "posted_at": "2026-11-27T11:41:04+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/17257"
+    },
+    {
+      "id": "iranlix/17256",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/n7y1wdEPEDTxU2qQwXaMf3mEfdbn2MkcT7nbcykLXxIydOVvJJnOSuX1XLiAFrcqWGbkBWaxt7a9FpJ2HHiCoNbcKITBwIWLYA0RnBBLPE1Ivlw4v1Rk3uYPXQm-eaN_kFx_RjfOFvDd4cyN2CWkQ8f-ejmWAI5glU0QyFQXQRO-cVT_RMUywNtKuit0HKCUQQr5Sq5wp_b7ij-Uim18sRU_XnzaIxFiyn3hBW6s-f744imTsi1QDk-kBTbjKUTt3vihuTrqLyqumbd2bbuBOyA_HgCix4GzJLRcN2AoBaBM0_2cwiKY3l3lPEujHs8UH6kKcML2VD3cCuQG6p7B9A.jpg",
+      "author_photo_path": "channels/iranlix/media/64259be0193fa596596d1710.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>کانال 14» اسرائیل از تحولی قابل توجه خبر داد و اعلام کرد مقام‌های امنیتی اسرائیل از افزایش چشمگیر تلاش‌های ج.ا برای طراحی و اجرای حملاتی به عمق اسرائیل، از جمله آدم‌ربایی و انفجار خودروها با استفاده از بمب‌های دست‌ساز، خبر دادند.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🔻کانال 14» اسرائیل از تحولی قابل توجه خبر داد و اعلام کرد مقام‌های امنیتی اسرائیل از افزایش چشمگیر تلاش‌های ج.ا برای طراحی و اجرای حملاتی به عمق اسرائیل، از جمله آدم‌ربایی و انفجار خودروها با استفاده از بمب‌های دست‌ساز، خبر دادند. @iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/17256",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/NpaKDvG_imd0I6R2XVjsC7bF6LM6-eqWA9gKBOvOGSe8CJ2fC49VTdJcZDd7g0BzBOM_KtwZgg-Q2xCNYb0T3BaZTTkNUg4GsYTyH3Qloq8Ar7v4XKU-c_JpcqZ0WkQG8_q6f6Gj9BeK9J1J6l6R29J10YvQezoEOMTEVJ8apsf7CjEloR6yiwh9LWI8wQvN8aPMow7v6H7DAIteoMFMs0KiCtuZSDWpJ14_d41uJdKuMmv_UvkYMdEh3EcN00HG1PvxR04mctZbgEvRqcmTINsmBXJef6ei4WtRS8kXICEWbaye4DfMbAM4RI5SBj0gFTFUyDI5UqjlmvWUBxaWjQ.jpg",
+          "thumbnail_path": "channels/iranlix/media/3f6222e08b71cdd972839646.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "344",
+      "posted_at": "2026-11-27T11:30:18+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/17256"
+    },
+    {
+      "id": "iranlix/17255",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/n7y1wdEPEDTxU2qQwXaMf3mEfdbn2MkcT7nbcykLXxIydOVvJJnOSuX1XLiAFrcqWGbkBWaxt7a9FpJ2HHiCoNbcKITBwIWLYA0RnBBLPE1Ivlw4v1Rk3uYPXQm-eaN_kFx_RjfOFvDd4cyN2CWkQ8f-ejmWAI5glU0QyFQXQRO-cVT_RMUywNtKuit0HKCUQQr5Sq5wp_b7ij-Uim18sRU_XnzaIxFiyn3hBW6s-f744imTsi1QDk-kBTbjKUTt3vihuTrqLyqumbd2bbuBOyA_HgCix4GzJLRcN2AoBaBM0_2cwiKY3l3lPEujHs8UH6kKcML2VD3cCuQG6p7B9A.jpg",
+      "author_photo_path": "channels/iranlix/media/64259be0193fa596596d1710.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i><b>وزارت بهداشت از مسمومیت ۵۴۳ و جان باختن ۲۳ نفر در پی مسمومیت‌های الکلی روزهای اخیر خبر داد.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "💢وزارت بهداشت از مسمومیت ۵۴۳ و جان باختن ۲۳ نفر در پی مسمومیت‌های الکلی روزهای اخیر خبر داد. @iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/17255",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Nac28RRAExLuoeAH6sg4exkok8XJXoKvLJ6IgWsK8XWHZcG3NGJQ8EvY4RgcrqheJwoifFdFW-4Ffa58z8lGMXhCdMk1VipEReK64Ym63yTflDvMUuh0D2G7V5ASn4s07tK3k7i813eSujESET3Hym6ACBOOolmavJ58exHYzZ52VbY7SQzoATRI1HE88RMBBAexqzVQgzeU6gQyutWZAMOKeCg_99nlbOlU_AwhLnwBEdbLZtYNpKfkxyCCJ5FqXQCQGse5uGFsgYcBGKeVlALzCs9tTYAaJr8sX4mYrfEukIVJfaSUD3MeHHtJ8zFQARF231uMex1XrmWkTBDFyQ.jpg",
+          "thumbnail_path": "channels/iranlix/media/070725e7e0c2e8f56e2cd6e6.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8262499999999837
+        }
+      ],
+      "reactions": [],
+      "views_label": "465",
+      "posted_at": "2026-11-27T10:49:17+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/17255"
+    },
+    {
+      "id": "iranlix/17254",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/n7y1wdEPEDTxU2qQwXaMf3mEfdbn2MkcT7nbcykLXxIydOVvJJnOSuX1XLiAFrcqWGbkBWaxt7a9FpJ2HHiCoNbcKITBwIWLYA0RnBBLPE1Ivlw4v1Rk3uYPXQm-eaN_kFx_RjfOFvDd4cyN2CWkQ8f-ejmWAI5glU0QyFQXQRO-cVT_RMUywNtKuit0HKCUQQr5Sq5wp_b7ij-Uim18sRU_XnzaIxFiyn3hBW6s-f744imTsi1QDk-kBTbjKUTt3vihuTrqLyqumbd2bbuBOyA_HgCix4GzJLRcN2AoBaBM0_2cwiKY3l3lPEujHs8UH6kKcML2VD3cCuQG6p7B9A.jpg",
+      "author_photo_path": "channels/iranlix/media/64259be0193fa596596d1710.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>بحران کمبود گاز، پتروشیمی‌ها را در آستانه توقف تولید قرار داد</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>تولید مواد اولیه پلاستیک ABS تقریباً به صفر رسیده و قیمت برخی گریدها از کمتر از ۲۰۰ هزار تومان به ۳ میلیون تومان در هر کیلوگرم افزایش یافته است؛ بحرانی که می‌تواند پیامدهای سنگینی برای صنایع کشور به همراه داشته باشد.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🔻بحران کمبود گاز، پتروشیمی‌ها را در آستانه توقف تولید قرار داد 🔸تولید مواد اولیه پلاستیک ABS تقریباً به صفر رسیده و قیمت برخی گریدها از کمتر از ۲۰۰ هزار تومان به ۳ میلیون تومان در هر کیلوگرم افزایش یافته است؛ بحرانی که می‌تواند پیامدهای سنگینی برای صنایع کشور به همراه داشته باشد. @iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/17254",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/g2va5QyTqY_Fr9HwoKvAC_OdV0t5y-7Q8GeTYkwgfB9bYK2vm2_TtJnovBbHsXguVUSkbbAeFayvBMSJllWZrKeJxaScfbwCOcOIZXMMkh0Cdnqp75OecAbzQA-tZHDDpZi0rLPTCeBcV1WazRmwwPiItMnM_wdr3gKvGkFxcKKey27dRlTEJqsuGc_EFedORl2nedHn19S_JmCuU9hsokj5PQGd_i_gi2mJVaqsOIL88Kkd7ZSzp2zC62xkAP1kiG9onDw-q4twCwQP_wyH85mfQx3Pnh_UPn_uhOfs1PekArTRfn4bhpLH6Ekkw4emGLCHAYPbiKXiHMTWba3oEA.jpg",
+          "thumbnail_path": "channels/iranlix/media/95365f4456b4709e99d09165.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.596806387225549
+        }
+      ],
+      "reactions": [],
+      "views_label": "481",
+      "posted_at": "2026-11-27T10:36:58+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/17254"
+    },
+    {
+      "id": "iranlix/17253",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/n7y1wdEPEDTxU2qQwXaMf3mEfdbn2MkcT7nbcykLXxIydOVvJJnOSuX1XLiAFrcqWGbkBWaxt7a9FpJ2HHiCoNbcKITBwIWLYA0RnBBLPE1Ivlw4v1Rk3uYPXQm-eaN_kFx_RjfOFvDd4cyN2CWkQ8f-ejmWAI5glU0QyFQXQRO-cVT_RMUywNtKuit0HKCUQQr5Sq5wp_b7ij-Uim18sRU_XnzaIxFiyn3hBW6s-f744imTsi1QDk-kBTbjKUTt3vihuTrqLyqumbd2bbuBOyA_HgCix4GzJLRcN2AoBaBM0_2cwiKY3l3lPEujHs8UH6kKcML2VD3cCuQG6p7B9A.jpg",
+      "author_photo_path": "channels/iranlix/media/64259be0193fa596596d1710.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>آتش‌سوزی عظیم در مکزیک در نزدیکی خط لوله‌ای که توسط شرکت نفت دولتی پترولئوس مکزیکانوس (پمکس) اداره می‌شود، رخ داد</b>.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "♦️آتش‌سوزی عظیم در مکزیک در نزدیکی خط لوله‌ای که توسط شرکت نفت دولتی پترولئوس مکزیکانوس (پمکس) اداره می‌شود، رخ داد. @iranlix",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/iranlix/17253",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/cvCTsgoaG4NZKsnGBOg_u_9Xw6b1d6Usxt_CbXAzOLkQAzUyp8k93RaUzfL_h09pMNrtYUfG-wjuyJk9rgYrGx2ndcWYECIcRV4ApCQMNd_z_ItM1bhYCE9ESW46p5m7w-kevCU8E-APrmLXI1MxOpdnqA5jdjnu3u-lfCq6Rg4p-Dw8FQOcNBlkPQMNGlUB5ioC8HCKoKDzOlFgQSyIUCqQ4HzM6XxCf1LABtw1gv_danClrOAzv2VVQBh0tuYyax3-viuJRbvYd4AuDgJ-kRWAKLWyqJM1jOPWXVJLehhPZC_TNuv0Cxfhytstbcqy-YWFZ_59Gwm9xYIiZ3Ti6Q",
+          "thumbnail_path": "channels/iranlix/media/7842ed83ed61c4166bde9a5f.jpg",
+          "duration_label": "0:44",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "472",
+      "posted_at": "2026-11-27T10:30:58+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/17253"
+    },
+    {
+      "id": "iranlix/17252",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/n7y1wdEPEDTxU2qQwXaMf3mEfdbn2MkcT7nbcykLXxIydOVvJJnOSuX1XLiAFrcqWGbkBWaxt7a9FpJ2HHiCoNbcKITBwIWLYA0RnBBLPE1Ivlw4v1Rk3uYPXQm-eaN_kFx_RjfOFvDd4cyN2CWkQ8f-ejmWAI5glU0QyFQXQRO-cVT_RMUywNtKuit0HKCUQQr5Sq5wp_b7ij-Uim18sRU_XnzaIxFiyn3hBW6s-f744imTsi1QDk-kBTbjKUTt3vihuTrqLyqumbd2bbuBOyA_HgCix4GzJLRcN2AoBaBM0_2cwiKY3l3lPEujHs8UH6kKcML2VD3cCuQG6p7B9A.jpg",
+      "author_photo_path": "channels/iranlix/media/64259be0193fa596596d1710.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i><b>خبرگزاری رویترز گزارش داد که ایالات متحده عراق را تهدید کرده است در صورت اقدام نکردن بغداد برای کاهش نفوذ ج.ا در ساختار دولت این کشور، دسترسی آن به درآمدهای نفتی خود را محدود یا قطع خواهد کرد.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "💢خبرگزاری رویترز گزارش داد که ایالات متحده عراق را تهدید کرده است در صورت اقدام نکردن بغداد برای کاهش نفوذ ج.ا در ساختار دولت این کشور، دسترسی آن به درآمدهای نفتی خود را محدود یا قطع خواهد کرد. @iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/17252",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/hQGB29IeaEm817GTZ4lssksVSBkQTkwrUsD8iWfgCiMMfqHcojdfLDeEzdeb4NMbCETSAVUb6cBmme224-I9ZMdo-ufy-rMt67Tn2y3-1mW07yBvPgqrgCEyJ_Uz9gUkqcdzhRlPfj81SIxuHWUWoGvKtRmnqSpLu2aNfqGM2XM8c9ZclfAIiFciszz064o0DCiEdwtZlCx7P5rHhfFIE1_PjKp_En365JhIc8qxSCc_7yPLM0SB8UQwmEgo812ufwXSr3vl6w7II3QvUmdIn4AmOq2FJGcSpkvUJA6FV-btnYKEkBCJDCN5ErwWxfYnAKlpJcyRrgUOfAmdEEL9qA.jpg",
+          "thumbnail_path": "channels/iranlix/media/e2b1767dc72ba8d009ccf23b.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.797752808988764
+        }
+      ],
+      "reactions": [],
+      "views_label": "521",
+      "posted_at": "2026-11-27T10:09:16+00:00",
+      "edited": true,
+      "permalink": "https://t.me/iranlix/17252"
+    },
+    {
+      "id": "iranlix/17251",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/n7y1wdEPEDTxU2qQwXaMf3mEfdbn2MkcT7nbcykLXxIydOVvJJnOSuX1XLiAFrcqWGbkBWaxt7a9FpJ2HHiCoNbcKITBwIWLYA0RnBBLPE1Ivlw4v1Rk3uYPXQm-eaN_kFx_RjfOFvDd4cyN2CWkQ8f-ejmWAI5glU0QyFQXQRO-cVT_RMUywNtKuit0HKCUQQr5Sq5wp_b7ij-Uim18sRU_XnzaIxFiyn3hBW6s-f744imTsi1QDk-kBTbjKUTt3vihuTrqLyqumbd2bbuBOyA_HgCix4GzJLRcN2AoBaBM0_2cwiKY3l3lPEujHs8UH6kKcML2VD3cCuQG6p7B9A.jpg",
+      "author_photo_path": "channels/iranlix/media/64259be0193fa596596d1710.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i><b>فرمانده نیروی دریایی ارتش ج.ا مدعی شد ارتش آمریکا دو نفتکش ج.ا را به سرقت برده بود، اما نیروهای تکاور نیروی دریایی ج.ا در حالی که آمریکایی‌ها خواب بودند، به این دو کشتی نفوذ کردند و هر دو نفتکش را بلافاصله بازپس گرفتند.</b><br><br><blockquote><b>مگه ارتش امریکا میخوابه الاغ؟ <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><br>مگه بقالی یا سبزی خرد کنیه که شبا تعطیل کنن؟</b></blockquote><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🔺فرمانده نیروی دریایی ارتش ج.ا مدعی شد ارتش آمریکا دو نفتکش ج.ا را به سرقت برده بود، اما نیروهای تکاور نیروی دریایی ج.ا در حالی که آمریکایی‌ها خواب بودند، به این دو کشتی نفوذ کردند و هر دو نفتکش را بلافاصله بازپس گرفتند. مگه ارتش امریکا میخوابه الاغ؟ 😂😂😂 مگه بقالی یا سبزی خرد کنیه که شبا تعطیل کنن؟ @iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/17251",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/lE3w3PJ_3YVurA3XPUU5seJc4-KIyJYrRm4YcKyIN68P_weX5996pYpcDYvS-ZfwOcEAjSUnqoyzjOys54opOO3Bn9oDuFJp3hsBa_TgY7c1__0koKY_sF9IXSimbIXBQEnmGsrkpdCgutp4mAGzp8MqnlbydLiIHYM3KkEqhewIpyYhE-k0JCE3zm6AqlYZXuvwy1bgi2qK84UDboBn7XSyPKjOyguxVy90kkeOSi6iEXQ47BXoerMVaJ32A9AIzFMm5hcjLnwcVwb7P3U3MpyG4Ow_On2rLkdCF-VTZs-HCWApLBYuwJa-E64vGpmGq6V4oFX0UzaDKL3r2Tdq2w.jpg",
+          "thumbnail_path": "channels/iranlix/media/2598a6bfaa67f27d42beb7ac.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7897091722595078
+        }
+      ],
+      "reactions": [],
+      "views_label": "535",
+      "posted_at": "2026-11-27T09:53:50+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/17251"
+    },
+    {
+      "id": "iranlix/17250",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/n7y1wdEPEDTxU2qQwXaMf3mEfdbn2MkcT7nbcykLXxIydOVvJJnOSuX1XLiAFrcqWGbkBWaxt7a9FpJ2HHiCoNbcKITBwIWLYA0RnBBLPE1Ivlw4v1Rk3uYPXQm-eaN_kFx_RjfOFvDd4cyN2CWkQ8f-ejmWAI5glU0QyFQXQRO-cVT_RMUywNtKuit0HKCUQQr5Sq5wp_b7ij-Uim18sRU_XnzaIxFiyn3hBW6s-f744imTsi1QDk-kBTbjKUTt3vihuTrqLyqumbd2bbuBOyA_HgCix4GzJLRcN2AoBaBM0_2cwiKY3l3lPEujHs8UH6kKcML2VD3cCuQG6p7B9A.jpg",
+      "author_photo_path": "channels/iranlix/media/64259be0193fa596596d1710.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i><b>ارتش اسرائیل اعلام کرد در دو حمله هوایی جداگانه در مرکز نوار غزه، چهار تروریست شاخه نظامی حماس، از جمله یکی از افرادی که در حمله هفتم اکتبر ۲۰۲۳ به اسرائیل مشارکت داشت، به هلاکت رسیدند.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🔹ارتش اسرائیل اعلام کرد در دو حمله هوایی جداگانه در مرکز نوار غزه، چهار تروریست شاخه نظامی حماس، از جمله یکی از افرادی که در حمله هفتم اکتبر ۲۰۲۳ به اسرائیل مشارکت داشت، به هلاکت رسیدند. @iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/17250",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Rf7U3IAvlyoTeKszACweD12lmE5xyDqurUvX6Hx2WJvCNj3YkH1zhK4slBQfjuKWdqyKptP5p3YmLhASCeVriTOkN5YcGHVP3HDtxS5vmf17BkGdwomFDd7c2J4U_KSR4JvzEljw4-IxP3x50oM0hku6rfN0saU7UVdsHCKCKGrowUfEpmhnQmcBum3-LKHIzDchOAMKtr_XuJd3-TeyqkIcGNuhD3agf-OqzK_ZssmnL_1LqtKVcvmwR7_El4T3NHzT30zZiSBA7XqDDiUhBvoqg1IPEY4yBNQDEyav4fg6gSiV4oJutIAVAI3JDELW8dVHEbDg81f0qdI5eVvfvQ.jpg",
+          "thumbnail_path": "channels/iranlix/media/b13ae6ce6d9b689c3073b6e2.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.78173719376392
+        }
+      ],
+      "reactions": [],
+      "views_label": "528",
+      "posted_at": "2026-11-27T09:45:41+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/17250"
+    },
+    {
+      "id": "iranlix/17249",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/n7y1wdEPEDTxU2qQwXaMf3mEfdbn2MkcT7nbcykLXxIydOVvJJnOSuX1XLiAFrcqWGbkBWaxt7a9FpJ2HHiCoNbcKITBwIWLYA0RnBBLPE1Ivlw4v1Rk3uYPXQm-eaN_kFx_RjfOFvDd4cyN2CWkQ8f-ejmWAI5glU0QyFQXQRO-cVT_RMUywNtKuit0HKCUQQr5Sq5wp_b7ij-Uim18sRU_XnzaIxFiyn3hBW6s-f744imTsi1QDk-kBTbjKUTt3vihuTrqLyqumbd2bbuBOyA_HgCix4GzJLRcN2AoBaBM0_2cwiKY3l3lPEujHs8UH6kKcML2VD3cCuQG6p7B9A.jpg",
+      "author_photo_path": "channels/iranlix/media/64259be0193fa596596d1710.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>گزارش یدیعوت آحارونوت: رئیس موساد برای حمله بدون آمریکا به ج.ا فشار می‌آورد</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i>روزنامه «یدیعوت آحارونوت» گزارش داد که رومن گوفمن رئیس موساد، ، در جریان نشست‌های امنیتی اخیر از انجام حمله‌ای مستقل از سوی اسرائیل علیه ج.ا، حتی بدون مشارکت آمریکا، حمایت کرده و دلیل این موضع را ادامه توسعه پنهانی تسلیحات شیمیایی از سوی ج.ا عنوان کرده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i>در مقابل، ایال زمیر، رئیس ستاد کل ارتش اسرائیل، ترجیح می‌دهد هرگونه حمله جدید علیه ج.ا با همکاری آمریکا انجام شود. سه هفته پیش، گوفمن راهی واشینگتن شد و داده‌های اطلاعاتی جدیدی درباره پیشرفت برنامه تسلیحات شیمیایی ج.ا را ارائه داد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i>او در جریان این سفر تلاش کرد زمینه را برای انجام حمله‌ای مشترک فراهم کند، اما آمریکایی‌ها تاکنون تصمیمی برای حمله به ج.ا نگرفته‌اند. به گفته منابع امنیتی، داده‌های اطلاعاتی اداره اطلاعات نظامی و موساد با یکدیگر مطابقت دارد. زمیر نیز از انجام حمله حمایت می‌کند، اما معتقد است که در حال حاضر هیچ تهدید قریب‌الوقوعی وجود ندارد.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "♦️گزارش یدیعوت آحارونوت: رئیس موساد برای حمله بدون آمریکا به ج.ا فشار می‌آورد 💢روزنامه «یدیعوت آحارونوت» گزارش داد که رومن گوفمن رئیس موساد، ، در جریان نشست‌های امنیتی اخیر از انجام حمله‌ای مستقل از سوی اسرائیل علیه ج.ا، حتی بدون مشارکت آمریکا، حمایت کرده و دلیل این موضع را ادامه توسعه پنهانی تسلیحات شیمیایی از سوی ج.ا عنوان کرده است. 💢در مقابل، ایال زمیر، رئیس ستاد کل ارتش اسرائیل، ترجیح می‌دهد هرگونه حمله جدید علیه ج.ا با همکاری آمریکا انجام شود. سه هفته پیش، گوفمن راهی واشینگتن شد و داده‌های اطلاعاتی جدیدی درباره پیشرفت برنامه تسلیحات شیمیایی ج.ا را ارائه داد. 💢او در جریان این سفر تلاش کرد زمینه را برای انجام حمله‌ای مشترک فراهم کند، اما آمریکایی‌ها تاکنون تصمیمی برای حمله به ج.ا نگرفته‌اند. به گفته منابع امنیتی، داده‌های اطلاعاتی اداره اطلاعات نظامی و موساد با یکدیگر مطابقت دارد. زمیر نیز از انجام حمله حمایت می‌کند، اما معتقد است که در حال حاضر هیچ تهدید قریب‌الوقوعی وجود ندارد. @iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/17249",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/vu0pyeKWm1HSeBkAJMYo03_Q2rpJvc2Tudizat6nYxoerKQH1D_Ca3sHRwn6WU7CB284_JuIJSQz9IV-pYpLJimIsCte6l0P4NtoXrQFlVRfy06Lu2miO2ffpFtQM5WN4Ch50j7-oo5AFnHYh_Vu1ojSIMusRVuok8kePTEQi55Tsf4jqljaUeLbxwX6AWpwOFtZFpvaynWoUJCr0a7axIrnVmRDisc0eJYRslZmr2X0f4o6ddfQ1_jrP2rl4ydwGfsDhgBq-hr-saxTT__2Z4vyidd34iw_83i4Hx8tlmrgnGZD13BOWa9iXUgI7bTgmubM7wAhZ3Xa7xNpinRuHQ.jpg",
+          "thumbnail_path": "channels/iranlix/media/92058c0c9ca46fd7e8c299e3.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.780722891566253
+        }
+      ],
+      "reactions": [],
+      "views_label": "559",
+      "posted_at": "2026-11-27T09:39:40+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/17249"
+    },
+    {
+      "id": "iranlix/17247",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/n7y1wdEPEDTxU2qQwXaMf3mEfdbn2MkcT7nbcykLXxIydOVvJJnOSuX1XLiAFrcqWGbkBWaxt7a9FpJ2HHiCoNbcKITBwIWLYA0RnBBLPE1Ivlw4v1Rk3uYPXQm-eaN_kFx_RjfOFvDd4cyN2CWkQ8f-ejmWAI5glU0QyFQXQRO-cVT_RMUywNtKuit0HKCUQQr5Sq5wp_b7ij-Uim18sRU_XnzaIxFiyn3hBW6s-f744imTsi1QDk-kBTbjKUTt3vihuTrqLyqumbd2bbuBOyA_HgCix4GzJLRcN2AoBaBM0_2cwiKY3l3lPEujHs8UH6kKcML2VD3cCuQG6p7B9A.jpg",
+      "author_photo_path": "channels/iranlix/media/64259be0193fa596596d1710.jpg",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>جنگنده‌های ارتش اسرائیل طی یک ساعت گذشته مناطقی در زوتر الشرقیه، کفر تبنیت و قنطره در جنوب لبنان را هدف حملات هوایی قرار دادند.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a></div>",
+      "plain_text": "♦️جنگنده‌های ارتش اسرائیل طی یک ساعت گذشته مناطقی در زوتر الشرقیه، کفر تبنیت و قنطره در جنوب لبنان را هدف حملات هوایی قرار دادند. @iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/17247?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Q0Tn-Knj62ny46GVQAxFbYpzhSl2j2O6XQs8ezoagd2oDaEQqRk8R0Af67WQk7sbSAWC7PzHsDiUf_2A-SWQ9yBEX3NmeBfxko0sa86j8jjP1ZUQiSfVGpSHmHFbdSBWKKvq-DKnD4dnpnfDKCP3fv-NEdeub-6ygm51cPFfJ5GJhyLxngjXHvnBxnNrXSsdbpRL2Lg2m1mjUppGIraf7FLBOWyCKQL3hijDe_qSL0b6LK05t0OhHQql4G77LCx7jHinKEfPTDLhK8QHUxvm0Og8z7yLXb65tV0_Z78Sl1JvUfccrcTMQheHPc9dxhrg8N3t7pWJxhVzA94XlWpRMw.jpg",
+          "thumbnail_path": "channels/iranlix/media/180ba0cd271696453a1ab439.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.75
+        },
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/iranlix/17248?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/aufCFCrS4dhpNxu8zxcE5yZhcjyl0KRvBGZ0fgEs9AaKroHSZY5kgDco2uPxI8-xfS9pVZGNQ8yZxt_gM6K7UtKdbfIszXH_Kh-Ok65-ITWqt_0pArxfGEWqd5z64OsdyScF0Dm2fAIh9nfL93_L5y9MC4hNJEdW7np4thsNyA6cIioz8fVYS-UdaT2IKrzyWUeUazRRg-p8tzE6xItwSF21FI-e2NalaJjMCi3fl9SsKlcphUPzLToAb8m9ktMRA9QedKMopQvs3WF-WjwUpbKuXCsEZFElmG8aPirJu--Ydj2_FQ9SbLP_ZWSVKGJ3TEw3HdY1OxtkZsFEFnq-9Q",
+          "thumbnail_path": "channels/iranlix/media/36121d40f0be038f927b4631.jpg",
+          "duration_label": "0:22",
+          "aspect_ratio": null
+        }
+      ],
+      "reactions": [],
+      "views_label": "532",
+      "posted_at": "2026-11-27T09:28:15+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/17247"
+    },
+    {
+      "id": "iranlix/17246",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/n7y1wdEPEDTxU2qQwXaMf3mEfdbn2MkcT7nbcykLXxIydOVvJJnOSuX1XLiAFrcqWGbkBWaxt7a9FpJ2HHiCoNbcKITBwIWLYA0RnBBLPE1Ivlw4v1Rk3uYPXQm-eaN_kFx_RjfOFvDd4cyN2CWkQ8f-ejmWAI5glU0QyFQXQRO-cVT_RMUywNtKuit0HKCUQQr5Sq5wp_b7ij-Uim18sRU_XnzaIxFiyn3hBW6s-f744imTsi1QDk-kBTbjKUTt3vihuTrqLyqumbd2bbuBOyA_HgCix4GzJLRcN2AoBaBM0_2cwiKY3l3lPEujHs8UH6kKcML2VD3cCuQG6p7B9A.jpg",
+      "author_photo_path": "channels/iranlix/media/64259be0193fa596596d1710.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>روزنامه رای‌الیوم:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>ترامپ به ج.ا برای توافق یک ماه مهلت داد و اعلام کرد در صورت عدم توافق به ج.ا حمله خواهد کرد</b>.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🔻روزنامه رای‌الیوم: 🔸ترامپ به ج.ا برای توافق یک ماه مهلت داد و اعلام کرد در صورت عدم توافق به ج.ا حمله خواهد کرد. @iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/17246",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/SKHlJ-UwO7reQMLjhAfjaRDooaiyNpZTFNNEO9FcNqJDATxQslK057XtU6DuYynAijsg0p9YXrl9AJKLF4Y5CuNrJuXw8kLKc4GKmiTFmrYBO4c3P_ML81PWaDtDvZIqrxWxse0U0GmM6kfWZFLnwo-GDHoXkbiKPMTiUJTQ4JEliGMfOf059j66C-RBhkpY9rTsNET6qnhyI1kZbPnrVXX2Y894eyjUZ_Vlwr8MzlPfKHb1FKndWTMYcYGEBNdnj1qdPXpsbAbf9B3aZjvCAWSW0OXzU7AemXz2kSudEo1ZAQrAosf2C2dfaXRYnEcs5Qy_MwfVaPAV97-j3_1Mpw.jpg",
+          "thumbnail_path": "channels/iranlix/media/9aeb5104df2bb62469237360.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "544",
+      "posted_at": "2026-11-27T09:21:28+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/17246"
+    },
+    {
+      "id": "iranlix/17245",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/n7y1wdEPEDTxU2qQwXaMf3mEfdbn2MkcT7nbcykLXxIydOVvJJnOSuX1XLiAFrcqWGbkBWaxt7a9FpJ2HHiCoNbcKITBwIWLYA0RnBBLPE1Ivlw4v1Rk3uYPXQm-eaN_kFx_RjfOFvDd4cyN2CWkQ8f-ejmWAI5glU0QyFQXQRO-cVT_RMUywNtKuit0HKCUQQr5Sq5wp_b7ij-Uim18sRU_XnzaIxFiyn3hBW6s-f744imTsi1QDk-kBTbjKUTt3vihuTrqLyqumbd2bbuBOyA_HgCix4GzJLRcN2AoBaBM0_2cwiKY3l3lPEujHs8UH6kKcML2VD3cCuQG6p7B9A.jpg",
+      "author_photo_path": "channels/iranlix/media/64259be0193fa596596d1710.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>ترامپ درباره ج.ا: <br><br>«همان‌طور که می‌دانید، ناتو اکنون در کنار ما وارد عمل شده است. آن‌ها در بخش‌های مختلفی از ایران حضور دارند و عملکرد بسیار خوبی داشته‌اند.»</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🔻ترامپ درباره ج.ا: «همان‌طور که می‌دانید، ناتو اکنون در کنار ما وارد عمل شده است. آن‌ها در بخش‌های مختلفی از ایران حضور دارند و عملکرد بسیار خوبی داشته‌اند.» @iranlix",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/iranlix/17245",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/RK-OQ0NlcPN6Zx5tuq_GfChNEmOvX1_o8FGL4rCSI1JL0dP-hx1dhRSqRJte5SSPoB0mi-FbtI5c48cJxcqnB4laZqawwUNC41IAy7DkmnyfBh5AlCV9klHqIzYKB-cRFZtpL1kKskAN98tv4G_vzO3Xhe-mDItDZhf1yiXhfi6GIc0zhFcbryKlG9MSyUfn05TG6AYGm5xSyLDQpIkRzczIaZXXeXYiZJZI__QVa4BEair8oKk4XFtejbgPQb-o4jobg3XBMcFSJLnQnV62ZKY_g0XNpYw4YiLp0GCmWwA_M2sHDD8_QR-IW9jWc2pX2jIDBlls5ibc3gZbhZgfWw",
+          "thumbnail_path": "channels/iranlix/media/46e5c32366ac9ed1f0b23b61.jpg",
+          "duration_label": "0:11",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "565",
+      "posted_at": "2026-11-27T09:11:10+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/17245"
+    },
+    {
+      "id": "iranlix/17244",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/n7y1wdEPEDTxU2qQwXaMf3mEfdbn2MkcT7nbcykLXxIydOVvJJnOSuX1XLiAFrcqWGbkBWaxt7a9FpJ2HHiCoNbcKITBwIWLYA0RnBBLPE1Ivlw4v1Rk3uYPXQm-eaN_kFx_RjfOFvDd4cyN2CWkQ8f-ejmWAI5glU0QyFQXQRO-cVT_RMUywNtKuit0HKCUQQr5Sq5wp_b7ij-Uim18sRU_XnzaIxFiyn3hBW6s-f744imTsi1QDk-kBTbjKUTt3vihuTrqLyqumbd2bbuBOyA_HgCix4GzJLRcN2AoBaBM0_2cwiKY3l3lPEujHs8UH6kKcML2VD3cCuQG6p7B9A.jpg",
+      "author_photo_path": "channels/iranlix/media/64259be0193fa596596d1710.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>پست جدید ترامپ: ِوتو</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🔻پست جدید ترامپ: ِوتو @iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/17244",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/n3tyyN_eBuSiRS8bwlnej-LRZ19_9A1aIs0vxzQqILS2QGOhYoZm19QMBKYjY2DAyicdzD8dFxu2fRrcsmfM_eapTpx7aKE0lmQrn8MGAwoehzHaFZE7PF_ii09CdRUW9_RhxTZU7JfRvh9VyWAUiRAyAWIXB0BBxC0oxHPmz8zNZjlipYcC2Ed4bE3d1vq5kqecymyStHqGyzty6AIg4yFSD1KXE-oqxkrmeEGR6-3JlYFU3HoSJ9AvU6Yr8Q9JhRUlfSrUbQS3CuZUeiMHB0VFpNVQt6MO_l30ci3IS6R8KWarq5kcytpi9FVyaNJoIzlOSNTfwuiR0VTCH9t9gQ.jpg",
+          "thumbnail_path": "channels/iranlix/media/1f74d12ef9f4b3e5e21731f2.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "627",
+      "posted_at": "2026-11-27T09:03:52+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/17244"
+    },
+    {
+      "id": "iranlix/17243",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/n7y1wdEPEDTxU2qQwXaMf3mEfdbn2MkcT7nbcykLXxIydOVvJJnOSuX1XLiAFrcqWGbkBWaxt7a9FpJ2HHiCoNbcKITBwIWLYA0RnBBLPE1Ivlw4v1Rk3uYPXQm-eaN_kFx_RjfOFvDd4cyN2CWkQ8f-ejmWAI5glU0QyFQXQRO-cVT_RMUywNtKuit0HKCUQQr5Sq5wp_b7ij-Uim18sRU_XnzaIxFiyn3hBW6s-f744imTsi1QDk-kBTbjKUTt3vihuTrqLyqumbd2bbuBOyA_HgCix4GzJLRcN2AoBaBM0_2cwiKY3l3lPEujHs8UH6kKcML2VD3cCuQG6p7B9A.jpg",
+      "author_photo_path": "channels/iranlix/media/64259be0193fa596596d1710.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i><b>ترامپ: ما به نفت خاورمیانه نیازی نداریم و حضور ما در منطقه از سال‌ها پیش با هدف محافظت از اسرائیل و کشورهای منطقه است.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🔹ترامپ: ما به نفت خاورمیانه نیازی نداریم و حضور ما در منطقه از سال‌ها پیش با هدف محافظت از اسرائیل و کشورهای منطقه است. @iranlix",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/iranlix/17243",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/exhip5Lb0YT6dfC5XyYY8NYbj5tCoImon92jNyfN9d1Sd-OCS8vgUo-GIFBpKXwA9SjSOJA_hCzeEASmLTKB28vL5Qy6nMzRNj9U79OkHcEKyuQlejz5QlHLiPm5yG2IxYC_krjufa0y9vfif_9h-zBcoZ1HoBBm0U5Ver0QvdeT7RQTJoNfyfAnidLrwQHEiHPi3w7jDyYjYvSnSzX_n6xPYbNUYk4AowBJk2q2QaTnQ0vguCB0dZDGvc-kJT2dLXKjTbDIQEnhtLa_G-hHgoyuKFGW_15Kwm4nQ9apoe6etNFmNFewQgeDqL0h2qJbxXR_wtx9ISLEz9Xf91jr0w",
+          "thumbnail_path": "channels/iranlix/media/2d27bd154a8005ff78bfe84c.jpg",
+          "duration_label": "0:27",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "578",
+      "posted_at": "2026-11-27T09:00:24+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/17243"
+    },
+    {
+      "id": "iranlix/17242",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/n7y1wdEPEDTxU2qQwXaMf3mEfdbn2MkcT7nbcykLXxIydOVvJJnOSuX1XLiAFrcqWGbkBWaxt7a9FpJ2HHiCoNbcKITBwIWLYA0RnBBLPE1Ivlw4v1Rk3uYPXQm-eaN_kFx_RjfOFvDd4cyN2CWkQ8f-ejmWAI5glU0QyFQXQRO-cVT_RMUywNtKuit0HKCUQQr5Sq5wp_b7ij-Uim18sRU_XnzaIxFiyn3hBW6s-f744imTsi1QDk-kBTbjKUTt3vihuTrqLyqumbd2bbuBOyA_HgCix4GzJLRcN2AoBaBM0_2cwiKY3l3lPEujHs8UH6kKcML2VD3cCuQG6p7B9A.jpg",
+      "author_photo_path": "channels/iranlix/media/64259be0193fa596596d1710.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>خبرگزاری فرانسه هدف حمله سایبری قرار گرفت</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>منابع خبری گزارش دادند که خبرگزاری فرانسه (AFP) هدف یک حمله سایبری قرار گرفته و در پی آن، سامانه انتشار و توزیع محتوای این خبرگزاری از دسترس خارج شده است.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🔻خبرگزاری فرانسه هدف حمله سایبری قرار گرفت 🔹منابع خبری گزارش دادند که خبرگزاری فرانسه (AFP) هدف یک حمله سایبری قرار گرفته و در پی آن، سامانه انتشار و توزیع محتوای این خبرگزاری از دسترس خارج شده است. @iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/17242",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/jf1u9xGfHNb_BuMD2JLbjhBlKuJkTL1dNFmsuGCnd6Y0v3Bi829GCLjSc9jTuRE_Ondlf0w_IYQEQSrUdIYU9L8VokYnvc_BYwyAIj2IMgo91z8gSpgX1UuLDgy5JouDQegBEjp7FPtj5BjtV0ne-a3sa_nN8tFIDEBBvyv0MbHuLGWNfh95cc6JhFOVgZ4MKnsILKAvN8XFArjPuAZFBmXApR74PdC4dqpd2LHy8LfHaYHMtspbPd-mYVXIM0Xyg7pMQDxFP8_-mDau92TUINM1ldlX7aE9PBkhPe4QK0kAVYr0VgDBDS8yHHUrfXpXhPoQCpqa15vfcMI0oGqGKg.jpg",
+          "thumbnail_path": "channels/iranlix/media/a7e636990e0a16b51d419e12.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "715",
+      "posted_at": "2026-11-27T07:37:02+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/17242"
+    },
+    {
+      "id": "iranlix/17241",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/n7y1wdEPEDTxU2qQwXaMf3mEfdbn2MkcT7nbcykLXxIydOVvJJnOSuX1XLiAFrcqWGbkBWaxt7a9FpJ2HHiCoNbcKITBwIWLYA0RnBBLPE1Ivlw4v1Rk3uYPXQm-eaN_kFx_RjfOFvDd4cyN2CWkQ8f-ejmWAI5glU0QyFQXQRO-cVT_RMUywNtKuit0HKCUQQr5Sq5wp_b7ij-Uim18sRU_XnzaIxFiyn3hBW6s-f744imTsi1QDk-kBTbjKUTt3vihuTrqLyqumbd2bbuBOyA_HgCix4GzJLRcN2AoBaBM0_2cwiKY3l3lPEujHs8UH6kKcML2VD3cCuQG6p7B9A.jpg",
+      "author_photo_path": "channels/iranlix/media/64259be0193fa596596d1710.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>ترامپ درباره ج.ا:<br><br>«مطمئن نیستم که ج.ا از فرصتی که ما به آن می‌دهیم برای رسیدن به توافق، استفاده کند.آیا آنها دیوانه هستند؟ شاید باشند.</b>»<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🔻ترامپ درباره ج.ا: «مطمئن نیستم که ج.ا از فرصتی که ما به آن می‌دهیم برای رسیدن به توافق، استفاده کند.آیا آنها دیوانه هستند؟ شاید باشند.» @iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/17241",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/a5qiMouEePwRIeWUQ3cmAMSFiHPiJQdZqEKJ3nkZoK3yktixWVipHBXVGrYpnH77OYGtAAW4HesgPzBKwm8FNuOlpwlTtp_lktYk4Zj1jHISbFnaAWT3MWtB97X2_A1TlIDFEL66reASWfGDAcx9-Mw_X63ACI2Nt5_SCwdsCsQKFdD4Yn2F5agjxaw2qVA6uEY7_Tis5rTCiQVG2eaisnV54nvuo004hEAN9qU_m0rLHHq4gBC_HpykbPlDS6l11iunDLFDwW3ffo5k-X0m8fdrHBfeDB3q2tPDi5HiCvZlPFMv9YwoWltHRMgCWCnCvUtcE9Wbh_4LfaeEk-QfZQ.jpg",
+          "thumbnail_path": "channels/iranlix/media/dc8e145fea6ece169732f6a2.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.5022123893805406
+        }
+      ],
+      "reactions": [],
+      "views_label": "760",
+      "posted_at": "2026-11-27T07:09:13+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/17241"
+    },
+    {
+      "id": "iranlix/17240",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/n7y1wdEPEDTxU2qQwXaMf3mEfdbn2MkcT7nbcykLXxIydOVvJJnOSuX1XLiAFrcqWGbkBWaxt7a9FpJ2HHiCoNbcKITBwIWLYA0RnBBLPE1Ivlw4v1Rk3uYPXQm-eaN_kFx_RjfOFvDd4cyN2CWkQ8f-ejmWAI5glU0QyFQXQRO-cVT_RMUywNtKuit0HKCUQQr5Sq5wp_b7ij-Uim18sRU_XnzaIxFiyn3hBW6s-f744imTsi1QDk-kBTbjKUTt3vihuTrqLyqumbd2bbuBOyA_HgCix4GzJLRcN2AoBaBM0_2cwiKY3l3lPEujHs8UH6kKcML2VD3cCuQG6p7B9A.jpg",
+      "author_photo_path": "channels/iranlix/media/64259be0193fa596596d1710.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i><b>رسانه‌های عبری: «گوفمن، رئیس موساد خواستار حمله به ج.ا بدون مشارکت آمریکا شد</b>.»<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "💢رسانه‌های عبری: «گوفمن، رئیس موساد خواستار حمله به ج.ا بدون مشارکت آمریکا شد.» @iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/17240",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/BJvqmzepOzGaUdHzeIGo64fzjrMOnpRiS070Pz9a8smZfwEAn6vlM5lbYkV2UO0ljokuM6fJbnzm8jYcMqRA2gcsqF2k9qKd2YBqNAyUCALBqvY4MCsbaUwJkf1WbOM7iADS1Ihqj9lmt5_JiqII1m_WAhPrrKp_8P-70IZ3dvteuacKtnB2yvVxoYdf0H3GeRNMUe06t0Spu6DXNXRCG-tpKr8ATAiZHrQYiRu-fLsKx7RVy-202-_qkJFVqfMMjwXeuC2b7DVXSvu106hgOdqqBgyPZ59aZeRxYDhabdPqJA-5VkSXv1TbDs_jIdva7VzxuP5QBOEDHGXhOFNPGw.jpg",
+          "thumbnail_path": "channels/iranlix/media/a1203ee2ac194ec9b66bee8d.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.436265709156194
+        }
+      ],
+      "reactions": [],
+      "views_label": "743",
+      "posted_at": "2026-11-27T06:57:04+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/17240"
+    },
     {
       "id": "iranlix/17236",
       "author_name": "ایرانلیکس",
@@ -1988,452 +2453,6 @@
       "posted_at": "2026-11-25T10:00:51+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/17145"
-    },
-    {
-      "id": "iranlix/17144",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aVwiTTPt6HWRVUAUT8qyJKQrTRGXHFjslgSfQ7zErlEV2lplnPN5c-1FxeK3NnZJHMIw_lvY_m8Aytmn9rr8rkzDlcxUyoyCKuvz26eptG0mv60gAsx5Is_1-rm1AUoV8e4mwV-Qc1Ih-mEZsusDV4pj5GmCVa7dDzGsMLmiPVNoJCTk4CvTYYzXjDMAVcwBQvQL32iKfWYmsIFu0DoojvZazH8syxTaiQiIXLL_ViRiFBSqDjaemO76EBTtboa7smmHE0Da7qfkrplBpQ79HU2MGiH2Sz5j6sBOB3iJlx7LaIHiq-0Im21bgUjmAEPKERItysc_dhfwOF605yjDhA.jpg",
-      "author_photo_path": "channels/iranlix/media/4532083b79471024d893d4d9.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i><b>شبکه فین‌سن، زیرمجموعه وزارت خزانه‌داری آمریکا، از وقوع یک حمله سایبری و دسترسی غیرمجاز به برخی از سیستم‌های خود خبر داد. این سازمان برای بررسی حادثه، تعدادی از سیستم‌ها را موقتاً غیرفعال کرده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i>هنوز هویت عاملان حمله و احتمال سرقت اطلاعات حساس مشخص نیست. در پی این اختلال، مهلت ارسال برخی گزارش‌های مالی تا ۳۰ دسامبر تمدید شده است.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "💢شبکه فین‌سن، زیرمجموعه وزارت خزانه‌داری آمریکا، از وقوع یک حمله سایبری و دسترسی غیرمجاز به برخی از سیستم‌های خود خبر داد. این سازمان برای بررسی حادثه، تعدادی از سیستم‌ها را موقتاً غیرفعال کرده است. 💢هنوز هویت عاملان حمله و احتمال سرقت اطلاعات حساس مشخص نیست. در پی این اختلال، مهلت ارسال برخی گزارش‌های مالی تا ۳۰ دسامبر تمدید شده است. @iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/17144",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/WgXlDcTx1K5SmjK0f4W6AHu4t4tTLNJyN_fMCLv5wovhvJOIOkFesWC4-M7qgUZODLO7vD7HxHXXKUgZDPQxdSGCz5r2KiMz6TPipOnDPGVrz6IF1tzItsDDHtYgsicI8h6WNVk1xxD1KgMqcKUMhik_Z_iS7utFlY3BGkS6RlfQpD0MYpocyRwSLDzefZf9GbUvO3g8KuwWY-Q9tv6kOUSqQ4eIZcE_vNWRgtKG4LgFoSB4Exuu5CpZ8JimPFFSQ6vGt3WOnsqrf4ohzhyy3xQH_dLgeGk4kli7FOkhf0XQEutIZSRAGOOWNPnLj5r_D6Es0XL94tAZ63LVkF2W5A.jpg",
-          "thumbnail_path": "channels/iranlix/media/6df1385b9e9c4db66d1b7ec7.jpg",
-          "duration_label": null,
-          "aspect_ratio": 2.5
-        }
-      ],
-      "reactions": [],
-      "views_label": "628",
-      "posted_at": "2026-11-25T09:59:25+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/17144"
-    },
-    {
-      "id": "iranlix/17143",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aVwiTTPt6HWRVUAUT8qyJKQrTRGXHFjslgSfQ7zErlEV2lplnPN5c-1FxeK3NnZJHMIw_lvY_m8Aytmn9rr8rkzDlcxUyoyCKuvz26eptG0mv60gAsx5Is_1-rm1AUoV8e4mwV-Qc1Ih-mEZsusDV4pj5GmCVa7dDzGsMLmiPVNoJCTk4CvTYYzXjDMAVcwBQvQL32iKfWYmsIFu0DoojvZazH8syxTaiQiIXLL_ViRiFBSqDjaemO76EBTtboa7smmHE0Da7qfkrplBpQ79HU2MGiH2Sz5j6sBOB3iJlx7LaIHiq-0Im21bgUjmAEPKERItysc_dhfwOF605yjDhA.jpg",
-      "author_photo_path": "channels/iranlix/media/4532083b79471024d893d4d9.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>حاشیه‌های سفر پزشکیان به مشهد؛ از «بشین سر جات» تا شعارهای اعتراضی در شهر</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i>مشهد - سفر پزشکیان به مشهد با حاشیه‌هایی همراه شد. در دیدار پزشکیان با دانشگاهیان در دانشگاه فردوسی، اعتراض یک دانشجو با واکنش تند وی و جمله «بشین سر جات» مواجه شد. همزمان گزارش‌هایی از مشاهده شعارنویسی‌های اعتراضی علیه پزشکیان در برخی نقاط شهر مشهد نیز منتشر شد.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🔻حاشیه‌های سفر پزشکیان به مشهد؛ از «بشین سر جات» تا شعارهای اعتراضی در شهر 💢مشهد - سفر پزشکیان به مشهد با حاشیه‌هایی همراه شد. در دیدار پزشکیان با دانشگاهیان در دانشگاه فردوسی، اعتراض یک دانشجو با واکنش تند وی و جمله «بشین سر جات» مواجه شد. همزمان گزارش‌هایی از مشاهده شعارنویسی‌های اعتراضی علیه پزشکیان در برخی نقاط شهر مشهد نیز منتشر شد. @iranlix",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/iranlix/17143",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/fn0h3r5_MQVODukDiFUV8SXf9EMSMTLqkgJApRb_fHcg6wfwQMOjWC2o3DFOfp0Lugb-vzlD9h7bUlJiVfhjzH-U3x9K1wKsX-JfbBuWaXlQy5Mkhvphqo0QfbEJ1x804kYQgtlEedqe3QBdIrqqfxZsqtWqMQDhB1wvQIHaRkiagYVP3XFeVy7enxK7D72hEdW0zoMCoeEJD15u3amOx-NBCYmIX0aiNAApFoAnchDjEVU8joA9W84CQ9BmH9lncQ5hnnDH_3Ct-XY4V9jdGQ5w7r_85fccU96qdfERdEEmteE038fIioV8rOCyCl5ZSG7QXhBsodcLnDCvUITJ9Q",
-          "thumbnail_path": "channels/iranlix/media/f2768b848c39750ad9daedab.jpg",
-          "duration_label": "0:33",
-          "aspect_ratio": 1.694915254237288
-        }
-      ],
-      "reactions": [],
-      "views_label": "648",
-      "posted_at": "2026-11-25T09:52:50+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/17143"
-    },
-    {
-      "id": "iranlix/17142",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aVwiTTPt6HWRVUAUT8qyJKQrTRGXHFjslgSfQ7zErlEV2lplnPN5c-1FxeK3NnZJHMIw_lvY_m8Aytmn9rr8rkzDlcxUyoyCKuvz26eptG0mv60gAsx5Is_1-rm1AUoV8e4mwV-Qc1Ih-mEZsusDV4pj5GmCVa7dDzGsMLmiPVNoJCTk4CvTYYzXjDMAVcwBQvQL32iKfWYmsIFu0DoojvZazH8syxTaiQiIXLL_ViRiFBSqDjaemO76EBTtboa7smmHE0Da7qfkrplBpQ79HU2MGiH2Sz5j6sBOB3iJlx7LaIHiq-0Im21bgUjmAEPKERItysc_dhfwOF605yjDhA.jpg",
-      "author_photo_path": "channels/iranlix/media/4532083b79471024d893d4d9.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>بدهی ۲ هزار میلیارد تومانی شرکت ملی نفت به شبکه بانکی</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>براساس لیست بدهکاران بانکی، شرکت ملی نفت ایران بیش از ۲ هزار میلیارد تومان به شبکه بانکی بدهکار است. این مقدار تسهیلات پرداخت نشده توسط شرکت ملی نفت اگر بین خانوارهای ایرانی تقسیم شود، می‌توان به هر خانوار ۹۰ میلیون تومان تسهیلات پرداخت کرد.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🔻بدهی ۲ هزار میلیارد تومانی شرکت ملی نفت به شبکه بانکی 🔹براساس لیست بدهکاران بانکی، شرکت ملی نفت ایران بیش از ۲ هزار میلیارد تومان به شبکه بانکی بدهکار است. این مقدار تسهیلات پرداخت نشده توسط شرکت ملی نفت اگر بین خانوارهای ایرانی تقسیم شود، می‌توان به هر خانوار ۹۰ میلیون تومان تسهیلات پرداخت کرد. @iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/17142",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/WtxugOlxubA8fe-nLDcPO5h1-R9i3qirKNn1K-7KIL_uTWtavgGoX-0Vv5U8-BiD2xSF17hA0FMKTy1Q88YVLoSUA7vpFqkBDo-JODjJFDHPeKObkMDGwEcXABCddbB6esw2IVrC2vOpW4uM7-ukBrr2Rj-D-nlDBVi8azkfFa8sWOIVh_oK4C6LRrzyecZSU_JSqf3mr1eJfzO0EZFsYbOziYCkILdFWK0lDfzEhHdywZmkSjRlfconxv_6e-MdRFbE7GjDzpdKayphfCo2IAYa4LhNK7SYNV60iKRAG7jHgEAsDuGlBaPsmcT9Pixvvt_H6y6nhdaUGun1pr-h3Q.jpg",
-          "thumbnail_path": "channels/iranlix/media/e9e0073110d8e19f7ad5ea8b.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.9050000000000062
-        }
-      ],
-      "reactions": [],
-      "views_label": "610",
-      "posted_at": "2026-11-25T09:49:58+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/17142"
-    },
-    {
-      "id": "iranlix/17141",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aVwiTTPt6HWRVUAUT8qyJKQrTRGXHFjslgSfQ7zErlEV2lplnPN5c-1FxeK3NnZJHMIw_lvY_m8Aytmn9rr8rkzDlcxUyoyCKuvz26eptG0mv60gAsx5Is_1-rm1AUoV8e4mwV-Qc1Ih-mEZsusDV4pj5GmCVa7dDzGsMLmiPVNoJCTk4CvTYYzXjDMAVcwBQvQL32iKfWYmsIFu0DoojvZazH8syxTaiQiIXLL_ViRiFBSqDjaemO76EBTtboa7smmHE0Da7qfkrplBpQ79HU2MGiH2Sz5j6sBOB3iJlx7LaIHiq-0Im21bgUjmAEPKERItysc_dhfwOF605yjDhA.jpg",
-      "author_photo_path": "channels/iranlix/media/4532083b79471024d893d4d9.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>تروریست های حوثی‌های یمن چهارشنبه چهارم آذر مدعی شدند پالایشگاه نفت رأس تنوره و منطقه مالی ریاض را هدف قرار داده‌اند.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "♦️تروریست های حوثی‌های یمن چهارشنبه چهارم آذر مدعی شدند پالایشگاه نفت رأس تنوره و منطقه مالی ریاض را هدف قرار داده‌اند. @iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/17141",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/PqRDfq_-Zx3NjtdwQLpDVVAKaZVbHdgOMVBxt7hXTS-oTd8C4HaoQeTITzk3YGh-p-cnAE2hqlFH5A7bN1RaZE_a4tG2RFWJqczktNXzMUMQK4byBIcqBFwCamydtkLJHHDxeE-1z_YImSpcSzQI0DFZUvGKdLfmNGa7gQJpYpdANKEprPPXxSkp3w-QNTsdgrHgS7nVMtqIJ7pVhl3ULNilurutQwp9__eIPOZthl4tzhAPMkFFD9JEsNMFvJEl69M-vxnE-MOWeD0NJTG5k4iAe5ZeEE9pC7lgrjgLvVj6U149e5BSYpoAqQ6gEb0-a91NGVVdsHGtrHLd2hVyTw.jpg",
-          "thumbnail_path": "channels/iranlix/media/ff3b4c8c14a5aadecbb0ab68.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.6096579476861168
-        }
-      ],
-      "reactions": [],
-      "views_label": "625",
-      "posted_at": "2026-11-25T09:32:09+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/17141"
-    },
-    {
-      "id": "iranlix/17140",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aVwiTTPt6HWRVUAUT8qyJKQrTRGXHFjslgSfQ7zErlEV2lplnPN5c-1FxeK3NnZJHMIw_lvY_m8Aytmn9rr8rkzDlcxUyoyCKuvz26eptG0mv60gAsx5Is_1-rm1AUoV8e4mwV-Qc1Ih-mEZsusDV4pj5GmCVa7dDzGsMLmiPVNoJCTk4CvTYYzXjDMAVcwBQvQL32iKfWYmsIFu0DoojvZazH8syxTaiQiIXLL_ViRiFBSqDjaemO76EBTtboa7smmHE0Da7qfkrplBpQ79HU2MGiH2Sz5j6sBOB3iJlx7LaIHiq-0Im21bgUjmAEPKERItysc_dhfwOF605yjDhA.jpg",
-      "author_photo_path": "channels/iranlix/media/4532083b79471024d893d4d9.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i>نعیم ابونحل، فرمانده سازمان امنیتی داخلی حماس، دقایقی پیش در جریان حمله هوایی ارتش اسرائیل به یک چادر در غرب شهر غزه سقط شد.  @iranlix",
-      "plain_text": "♦️نعیم ابونحل، فرمانده سازمان امنیتی داخلی حماس، دقایقی پیش در جریان حمله هوایی ارتش اسرائیل به یک چادر در غرب شهر غزه سقط شد. @iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/17140",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/GbnGyPH_nvE2B5MKmNH_gtjVLGkifyLRF7ncCYQx_YZwu9MPVW0KHxaQJXhSd5ajjKFfVn5gMIqF5p7FtlVUsVF5DWj-i4w3-kw7tKXITwuJGlNYnLe-qbUc92NEdGAK7NAKegTYCm3P247usbi-w0cGakcXXwIF7cXOtunOFZ3ZC6auqdd6otj7yv1GW6eaAkYMQZJROfpNvju-3XJGPxThtljfkDXrKpA_h1uTA1iiEAGsx1kaTedc5ssulY5QPZS0u8E22qFS7013hZOI9dkiFL1l1XBL7X2yWCG78TYPWCPfYK4BE_kZFrBLBYltDSyTs8ZN8QAL4b47aLyS2A.jpg",
-          "thumbnail_path": "channels/iranlix/media/f3752a38679d8b9cb2120027.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "210",
-      "posted_at": "2026-11-25T09:20:54+00:00",
-      "edited": true,
-      "permalink": "https://t.me/iranlix/17140"
-    },
-    {
-      "id": "iranlix/17139",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aVwiTTPt6HWRVUAUT8qyJKQrTRGXHFjslgSfQ7zErlEV2lplnPN5c-1FxeK3NnZJHMIw_lvY_m8Aytmn9rr8rkzDlcxUyoyCKuvz26eptG0mv60gAsx5Is_1-rm1AUoV8e4mwV-Qc1Ih-mEZsusDV4pj5GmCVa7dDzGsMLmiPVNoJCTk4CvTYYzXjDMAVcwBQvQL32iKfWYmsIFu0DoojvZazH8syxTaiQiIXLL_ViRiFBSqDjaemO76EBTtboa7smmHE0Da7qfkrplBpQ79HU2MGiH2Sz5j6sBOB3iJlx7LaIHiq-0Im21bgUjmAEPKERItysc_dhfwOF605yjDhA.jpg",
-      "author_photo_path": "channels/iranlix/media/4532083b79471024d893d4d9.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>تصاویری از حمله عربستان سعودی به بندر الحدیده در یمن، تحت کنترل حوثی ها</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "♦️تصاویری از حمله عربستان سعودی به بندر الحدیده در یمن، تحت کنترل حوثی ها @iranlix",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/iranlix/17139",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/PQ7bpwaFNA4ewfUcdmrgTzwm8lvqfcaj4BUI1cWn1rFl_AQVib0H4qw1hk3k1GoawcnmerxA9Mjd2-1extv3yJ-fbOXqxmdjiBT01ilIlxKMOqWgxnNB3vKjHvbY6IW3H6wH5IjM-u34gLCgdkHZQGz83DMQuXE512r9dp0yA27y3w6VBhc_c6ZdkrhVvm3AWQ7Dy_54UXlnj382w16CukJwR9dZ-V5LvIBonRXpbtOvVf_SH_ZSbsO6jyFaehddkLrAhTe1h7grBCyBR93SzQeYzsxZZZQGwOHH0z5r6aIYyt4_GA43pzaSvAWHwdjPHd8F81PhoXUCwo99fAF8Tg",
-          "thumbnail_path": "channels/iranlix/media/c893b57bb94306fb8fbe78cf.jpg",
-          "duration_label": "1:50",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "310",
-      "posted_at": "2026-11-25T08:50:43+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/17139"
-    },
-    {
-      "id": "iranlix/17138",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aVwiTTPt6HWRVUAUT8qyJKQrTRGXHFjslgSfQ7zErlEV2lplnPN5c-1FxeK3NnZJHMIw_lvY_m8Aytmn9rr8rkzDlcxUyoyCKuvz26eptG0mv60gAsx5Is_1-rm1AUoV8e4mwV-Qc1Ih-mEZsusDV4pj5GmCVa7dDzGsMLmiPVNoJCTk4CvTYYzXjDMAVcwBQvQL32iKfWYmsIFu0DoojvZazH8syxTaiQiIXLL_ViRiFBSqDjaemO76EBTtboa7smmHE0Da7qfkrplBpQ79HU2MGiH2Sz5j6sBOB3iJlx7LaIHiq-0Im21bgUjmAEPKERItysc_dhfwOF605yjDhA.jpg",
-      "author_photo_path": "channels/iranlix/media/4532083b79471024d893d4d9.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i><b>تجمع اعتراضی کارکنان اورژانس ۱۱۵ کرمانشاه مقابل استانداری</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "💢تجمع اعتراضی کارکنان اورژانس ۱۱۵ کرمانشاه مقابل استانداری @iranlix",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/iranlix/17138",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/pfqD5Aikoey0aJwGwBgcJcFun5nfmcSLPgH0H9EjP-NsqJTo0CqIqDOkbZJu4xI07NbnVeluCt9SJJi8piMpp6fkkMxBEAdX-PE4wZ7C78Jiu5MvoHB8VrXYYIi9keGLnLOlSM1n6FfqiChK1jQn06DVV4O7v_YTzLmvMbh5nj0rgxBx9fDaqtXL5tn8ImLPEyIb1_Pqysu-0Q65Ts1vk2YSMrF4Di3NqQbbp5o9HIoGPonxyU_x-O8sYZ1NC4KiY4Yst8tKWydR7RnjMqqQCKAo1vcge9vD7seGf25TWnyIMh5jTa7O6cfoIQ7tlKkPkoHOnikRlcSAozn6OOHGQw",
-          "thumbnail_path": "channels/iranlix/media/4591b0f584efdc97187b6fff.jpg",
-          "duration_label": "0:10",
-          "aspect_ratio": 1.464601769911512
-        }
-      ],
-      "reactions": [],
-      "views_label": "323",
-      "posted_at": "2026-11-25T08:46:22+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/17138"
-    },
-    {
-      "id": "iranlix/17137",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aVwiTTPt6HWRVUAUT8qyJKQrTRGXHFjslgSfQ7zErlEV2lplnPN5c-1FxeK3NnZJHMIw_lvY_m8Aytmn9rr8rkzDlcxUyoyCKuvz26eptG0mv60gAsx5Is_1-rm1AUoV8e4mwV-Qc1Ih-mEZsusDV4pj5GmCVa7dDzGsMLmiPVNoJCTk4CvTYYzXjDMAVcwBQvQL32iKfWYmsIFu0DoojvZazH8syxTaiQiIXLL_ViRiFBSqDjaemO76EBTtboa7smmHE0Da7qfkrplBpQ79HU2MGiH2Sz5j6sBOB3iJlx7LaIHiq-0Im21bgUjmAEPKERItysc_dhfwOF605yjDhA.jpg",
-      "author_photo_path": "channels/iranlix/media/4532083b79471024d893d4d9.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>افتتاح یک پایگاه بسیج کنار دبستان دخترانه</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "♦️افتتاح یک پایگاه بسیج کنار دبستان دخترانه @iranlix",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/iranlix/17137",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/tBQ5J9VM3RcFmX2Zgq9ma2Aafwe93eyrkdZkEM6ObpEbGRs6VWdCgM6ezbSJTjlnsm5N5qoepJvVLg3uLwh6PQD8GGWaVmEpwS0VyloOZvcLBapXu0NyFmYTmXQEGrU6dMD9nOMLyn5waaqWiVezjUcP6yARNIxjPzzEoJbPXlJr_PYRI3PByPaY47YTBIhqaQBrtzOze5Z0vkL3pGu4NYSRcZD84imXWRVJ_5wl4GiknnWYJnGXAmYgp6qucfqx3loswYemUCOhh7mgj-h7E2n3a22dBU8hqcgtjSRo3HsdXPPJ2L9H2owjHqA8tAVxE3ychZjomESd2yjgfOzLGQ",
-          "thumbnail_path": "channels/iranlix/media/a6e6828d6f9f2ab3ce46d7db.jpg",
-          "duration_label": "0:07",
-          "aspect_ratio": 1.1538461538461495
-        }
-      ],
-      "reactions": [],
-      "views_label": "342",
-      "posted_at": "2026-11-25T08:39:13+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/17137"
-    },
-    {
-      "id": "iranlix/17136",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aVwiTTPt6HWRVUAUT8qyJKQrTRGXHFjslgSfQ7zErlEV2lplnPN5c-1FxeK3NnZJHMIw_lvY_m8Aytmn9rr8rkzDlcxUyoyCKuvz26eptG0mv60gAsx5Is_1-rm1AUoV8e4mwV-Qc1Ih-mEZsusDV4pj5GmCVa7dDzGsMLmiPVNoJCTk4CvTYYzXjDMAVcwBQvQL32iKfWYmsIFu0DoojvZazH8syxTaiQiIXLL_ViRiFBSqDjaemO76EBTtboa7smmHE0Da7qfkrplBpQ79HU2MGiH2Sz5j6sBOB3iJlx7LaIHiq-0Im21bgUjmAEPKERItysc_dhfwOF605yjDhA.jpg",
-      "author_photo_path": "channels/iranlix/media/4532083b79471024d893d4d9.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>آتش سوزی در کارگاه چوب بری در خیابان دماوند تهران</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "♦️آتش سوزی در کارگاه چوب بری در خیابان دماوند تهران @iranlix",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/iranlix/17136",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/H6OWtQtdqkec39n5ntqUabuw1jfRmUixZDFFGZcoappmtXJcBCYh95O1sw6QbfkfnIvNLmJm34p9MQInuipMKYw_SH15A3p5RXXZ0lC8dOrypkzPVf_mbhVV2XCCKloxapDTaV7KV27w6ZtYiJ-0xQIz42LEN68nlv13gX4veoo968pjf3ir4Q2r6bukTM6fvkkfmq5FUJ5KkeASFAHOWCxQTu1pUr4YYrZ4qwjdZb5p0bDSI2WWdHjACD_0VcLkGfgF2TsDdjEFUSL_zp2fEnQCCQv9_r0OF107hh6iJDu_lpHzpkRG7i0a6AhIM3HTRn09WeoyFYi0QoCPdrr2Fw",
-          "thumbnail_path": "channels/iranlix/media/eae0252efdce405fac2d712c.jpg",
-          "duration_label": "0:32",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "444",
-      "posted_at": "2026-11-25T08:00:39+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/17136"
-    },
-    {
-      "id": "iranlix/17135",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aVwiTTPt6HWRVUAUT8qyJKQrTRGXHFjslgSfQ7zErlEV2lplnPN5c-1FxeK3NnZJHMIw_lvY_m8Aytmn9rr8rkzDlcxUyoyCKuvz26eptG0mv60gAsx5Is_1-rm1AUoV8e4mwV-Qc1Ih-mEZsusDV4pj5GmCVa7dDzGsMLmiPVNoJCTk4CvTYYzXjDMAVcwBQvQL32iKfWYmsIFu0DoojvZazH8syxTaiQiIXLL_ViRiFBSqDjaemO76EBTtboa7smmHE0Da7qfkrplBpQ79HU2MGiH2Sz5j6sBOB3iJlx7LaIHiq-0Im21bgUjmAEPKERItysc_dhfwOF605yjDhA.jpg",
-      "author_photo_path": "channels/iranlix/media/4532083b79471024d893d4d9.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>هاکبی، سفیر آمریکا در اسرائیل:<br><br>«در هر روزی که جان‌های آمریکایی نجات داده می‌شوند به لطف به اشتراک‌گذاری داده‌های اطلاعاتی است که از شرکای‌مان در اسرائیل دریافت می‌کنیم.</b>»<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🔻هاکبی، سفیر آمریکا در اسرائیل: «در هر روزی که جان‌های آمریکایی نجات داده می‌شوند به لطف به اشتراک‌گذاری داده‌های اطلاعاتی است که از شرکای‌مان در اسرائیل دریافت می‌کنیم.» @iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/17135",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Q0WrEfX3NLpUQnb-VYRsW3erIWqK4BpVhUeg_wb7ZcaAtMfe4qCuuUaw7JGq4L4juu_WhBuMRPDWTTN-UJ9nKOwWUjHbc8_kXl6VE5FEK_Yx-14f2Ya_qZRnAyPZiNLwuAxXn1sTMVJPIuC7of9phGZ26afTNXV-VIw6wXn1LdmWKp6jM92CjonNfrnlnjLjXM3NRZWhDBlm1MJuFpCz1i2_V7uunp7eMhqI4HU4tkRQAH2iXJeJ2jbqK5fS0oyZMfkWfRwHkOJ8xTBKV_Wzrjl-_ggJzcdg4vM6j_IWDYoaZ8mi5M_6Lo3U3ariRWN-AcscJO-dG3ZAbN_-6Zqi8w.jpg",
-          "thumbnail_path": "channels/iranlix/media/7de27996b231b9ac021e69ea.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.7827298050139275
-        }
-      ],
-      "reactions": [],
-      "views_label": "480",
-      "posted_at": "2026-11-25T07:45:56+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/17135"
-    },
-    {
-      "id": "iranlix/17134",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aVwiTTPt6HWRVUAUT8qyJKQrTRGXHFjslgSfQ7zErlEV2lplnPN5c-1FxeK3NnZJHMIw_lvY_m8Aytmn9rr8rkzDlcxUyoyCKuvz26eptG0mv60gAsx5Is_1-rm1AUoV8e4mwV-Qc1Ih-mEZsusDV4pj5GmCVa7dDzGsMLmiPVNoJCTk4CvTYYzXjDMAVcwBQvQL32iKfWYmsIFu0DoojvZazH8syxTaiQiIXLL_ViRiFBSqDjaemO76EBTtboa7smmHE0Da7qfkrplBpQ79HU2MGiH2Sz5j6sBOB3iJlx7LaIHiq-0Im21bgUjmAEPKERItysc_dhfwOF605yjDhA.jpg",
-      "author_photo_path": "channels/iranlix/media/4532083b79471024d893d4d9.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>کان اسرائیل: ردپای برنامه تسلیحات شیمیایی تهران در آرشیو هسته‌ای ج.ا پیدا شد</b>.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>شبکه عمومی کان اسرائیل به نقل از منابع آگاه گزارش داد که اسرائیل بیش از یک دهه از فعالیت‌های ج.ا برای توسعه تسلیحات شیمیایی اطلاع داشته است. بر اساس این گزارش، بخشی از اسناد مرتبط با برنامه تسلیحات شیمیایی ج.ا در آرشیو هسته‌ای ج.ا قرار داشت که اسرائیل در سال ۲۰۱۸ به آن دست یافت، اما این اسناد همراه با مدارک مرتبط با برنامه هسته‌ای از ایران خارج نشدند.<br><br>این گزارش پس از آن منتشر شد که یسرائیل کاتز، وزیر دفاع اسرائیل، سه‌شنبه سوم آذر گفت ج.ا در حال توسعه تسلیحات شیمیایی است و اسرائیل اجازه دستیابی تهران به این تسلیحات را نخواهد داد. او درباره میزان پیشرفت یا محل اجرای این برنامه توضیحی نداد.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🔻کان اسرائیل: ردپای برنامه تسلیحات شیمیایی تهران در آرشیو هسته‌ای ج.ا پیدا شد. ▪️شبکه عمومی کان اسرائیل به نقل از منابع آگاه گزارش داد که اسرائیل بیش از یک دهه از فعالیت‌های ج.ا برای توسعه تسلیحات شیمیایی اطلاع داشته است. بر اساس این گزارش، بخشی از اسناد مرتبط با برنامه تسلیحات شیمیایی ج.ا در آرشیو هسته‌ای ج.ا قرار داشت که اسرائیل در سال ۲۰۱۸ به آن دست یافت، اما این اسناد همراه با مدارک مرتبط با برنامه هسته‌ای از ایران خارج نشدند. این گزارش پس از آن منتشر شد که یسرائیل کاتز، وزیر دفاع اسرائیل، سه‌شنبه سوم آذر گفت ج.ا در حال توسعه تسلیحات شیمیایی است و اسرائیل اجازه دستیابی تهران به این تسلیحات را نخواهد داد. او درباره میزان پیشرفت یا محل اجرای این برنامه توضیحی نداد. @iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/17134",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/cQOXlMld6uShsD_miW3gwwAM46i6lzuJjyjqVz2bgMRPuG28jYIEtfPp5pMfqSTBuqaNihUP3xX3WAqsDDr3QJj5YQZy8Xj5ZRLblgaKUxuYjELwGG3FNeTbYPtbtPsOSu5_zVSqZtzanHJP9TPPV9DpxfTy8HjA7SvsneePItiCTYdut8uroEwhF1Ao2IdieOJessY1hbJYIv5VbsVfWSbOu0GGAZzEHUdMaDTJUPp8-T0-r_4ybe1Vyz9huojJQ0BD9dwXZtPTojB85JQPve5YvGcnZo3_c1vPHOXMk_HfI5Tk6-KDRLD2bK6CEaQPu_x05HVNQqsFhSzybym2KA.jpg",
-          "thumbnail_path": "channels/iranlix/media/c622ddf8190f426c8bea20ae.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "542",
-      "posted_at": "2026-11-25T07:06:21+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/17134"
-    },
-    {
-      "id": "iranlix/17133",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aVwiTTPt6HWRVUAUT8qyJKQrTRGXHFjslgSfQ7zErlEV2lplnPN5c-1FxeK3NnZJHMIw_lvY_m8Aytmn9rr8rkzDlcxUyoyCKuvz26eptG0mv60gAsx5Is_1-rm1AUoV8e4mwV-Qc1Ih-mEZsusDV4pj5GmCVa7dDzGsMLmiPVNoJCTk4CvTYYzXjDMAVcwBQvQL32iKfWYmsIFu0DoojvZazH8syxTaiQiIXLL_ViRiFBSqDjaemO76EBTtboa7smmHE0Da7qfkrplBpQ79HU2MGiH2Sz5j6sBOB3iJlx7LaIHiq-0Im21bgUjmAEPKERItysc_dhfwOF605yjDhA.jpg",
-      "author_photo_path": "channels/iranlix/media/4532083b79471024d893d4d9.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i><b>آنتونیو گوترش، دبیرکل سازمان ملل، درباره خطر استفاده از هوش مصنوعی پیشرفته در کنترل سلاح‌های هسته‌ای هشدار داد و خواستار تصویب قوانین بین‌المللی برای جلوگیری از استفاده مستقل هوش مصنوعی از سلاح‌های مرگبار شد. آمریکا نیز درباره احتمال حملات سایبری با کمک هوش مصنوعی پیشرفته و تهدید زیرساخت‌های حیاتی هشدار داد.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🔸آنتونیو گوترش، دبیرکل سازمان ملل، درباره خطر استفاده از هوش مصنوعی پیشرفته در کنترل سلاح‌های هسته‌ای هشدار داد و خواستار تصویب قوانین بین‌المللی برای جلوگیری از استفاده مستقل هوش مصنوعی از سلاح‌های مرگبار شد. آمریکا نیز درباره احتمال حملات سایبری با کمک هوش مصنوعی پیشرفته و تهدید زیرساخت‌های حیاتی هشدار داد. @iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/17133",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/V_nGToSl3ddDcutN-i8Tj0EI5seG4uyPsp0fZ4FEh6jVI0I8vFLqMIWr6AI9zZntsECYmT7gMQXb8zVLFjMzdb9Og6216Oj9WMf_PTMugPd1rf18-9GhCix8PDmzxe7Z4iD_Y7gKTPhHx2dtZA-fu4pVO6R1Y44m6bhICuA0h0ULv6dGGpQ2evm-m9pb9YtWyfDvstUXef9ehXSInYf474IJom_voUTtVh4rnvozZK1aAOOzp2Uy6_dkuAjigMaqCKM8ax-cwInQdiXSCPKEOpwbZhAQ98gmJJC4LcgrdDi1oJMYsVZqK4UoWdNoqh1eEZQahCT-cs8Mj7FySpuMjA.jpg",
-          "thumbnail_path": "channels/iranlix/media/a053cae080d0692ce517ab6e.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.5065913370998116
-        }
-      ],
-      "reactions": [],
-      "views_label": "552",
-      "posted_at": "2026-11-25T06:52:45+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/17133"
-    },
-    {
-      "id": "iranlix/17132",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aVwiTTPt6HWRVUAUT8qyJKQrTRGXHFjslgSfQ7zErlEV2lplnPN5c-1FxeK3NnZJHMIw_lvY_m8Aytmn9rr8rkzDlcxUyoyCKuvz26eptG0mv60gAsx5Is_1-rm1AUoV8e4mwV-Qc1Ih-mEZsusDV4pj5GmCVa7dDzGsMLmiPVNoJCTk4CvTYYzXjDMAVcwBQvQL32iKfWYmsIFu0DoojvZazH8syxTaiQiIXLL_ViRiFBSqDjaemO76EBTtboa7smmHE0Da7qfkrplBpQ79HU2MGiH2Sz5j6sBOB3iJlx7LaIHiq-0Im21bgUjmAEPKERItysc_dhfwOF605yjDhA.jpg",
-      "author_photo_path": "channels/iranlix/media/4532083b79471024d893d4d9.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>ترامپ: اگر ج.ا غرامت بخواهد، آمریکا هم غرامت می‌خواهد؛ ما برنده‌ایم</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>دونالد ترامپ در گفت‌وگو با نیویورک‌پست، در واکنش به شکایت احتمالی ج.ا علیه آمریکا بابت کشته شدن غیرنظامیان، گفت واشینگتن نیز بابت کشته‌شدن شهروندان آمریکایی از تهران غرامت مطالبه خواهد کرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>ترامپ با اشاره به کشته‌شدن معترضان در ایران و حمله به ناو آمریکایی یواس‌اس کول، اعلام کرد ج.ا طی دهه‌ها مسئول کشته‌شدن شمار زیادی از آمریکایی‌ها بوده است.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🔻ترامپ: اگر ج.ا غرامت بخواهد، آمریکا هم غرامت می‌خواهد؛ ما برنده‌ایم 🔸دونالد ترامپ در گفت‌وگو با نیویورک‌پست، در واکنش به شکایت احتمالی ج.ا علیه آمریکا بابت کشته شدن غیرنظامیان، گفت واشینگتن نیز بابت کشته‌شدن شهروندان آمریکایی از تهران غرامت مطالبه خواهد کرد. 🔸ترامپ با اشاره به کشته‌شدن معترضان در ایران و حمله به ناو آمریکایی یواس‌اس کول، اعلام کرد ج.ا طی دهه‌ها مسئول کشته‌شدن شمار زیادی از آمریکایی‌ها بوده است. @iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/17132",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/EVIl7QGFZ6zwT7vAjdeKfFC-KYmIo8i_5VejG82BfIVUX3LnFq0AAz2Uq4haGUnUtXLfJF0hELDdYfwsiq3LAY8D7WWErS_VtkYv9yHjeOWIr16xbcsF5TJEAj2iFsJ4fkAgupYFu10wpVHFpFmfPCKwM2RZTfH7KMxcEgMoGyzhuWibVH760EIcg0rk-Jos3oAPyQGHz93CwAVMvUt5HdVweu45EBAvQcTIKsyKNaPKJQELQqKijbPlmIZ3ZNrzADb5ND6UbT2Gngn3uaMRpKYzJvbz4udRvM2byjPHv_-0hq2mINuwzUTkiwkSBV2Cmg8xVQcyGk4Tq345DKJcsA.jpg",
-          "thumbnail_path": "channels/iranlix/media/b95bed33debe4fe6eb19bb06.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.5298804780876571
-        }
-      ],
-      "reactions": [],
-      "views_label": "520",
-      "posted_at": "2026-11-25T06:48:56+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/17132"
-    },
-    {
-      "id": "iranlix/17131",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aVwiTTPt6HWRVUAUT8qyJKQrTRGXHFjslgSfQ7zErlEV2lplnPN5c-1FxeK3NnZJHMIw_lvY_m8Aytmn9rr8rkzDlcxUyoyCKuvz26eptG0mv60gAsx5Is_1-rm1AUoV8e4mwV-Qc1Ih-mEZsusDV4pj5GmCVa7dDzGsMLmiPVNoJCTk4CvTYYzXjDMAVcwBQvQL32iKfWYmsIFu0DoojvZazH8syxTaiQiIXLL_ViRiFBSqDjaemO76EBTtboa7smmHE0Da7qfkrplBpQ79HU2MGiH2Sz5j6sBOB3iJlx7LaIHiq-0Im21bgUjmAEPKERItysc_dhfwOF605yjDhA.jpg",
-      "author_photo_path": "channels/iranlix/media/4532083b79471024d893d4d9.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>محکومیت سنگین هواوی در آمریکا به‌دلیل نقض تحریم‌های ج.ا</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>شرکت چینی هواوی در دادگاه فدرال بروکلین نیویورک، در ۱۰ مورد از ۱۲ اتهام کیفری، از جمله کلاهبرداری بانکی، نقض تحریم‌های آمریکا علیه ج.ا و سرقت اسرار تجاری، مجرم شناخته شد.<br><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>این پرونده از سال ۲۰۱۸ در جریان بوده و پیش‌تر به قرار گرفتن هواوی در فهرست سیاه تجاری آمریکا منجر شده بود. منگ وانژو، مدیر مالی ارشد این شرکت نیز که در سال ۲۰۱۸ در کانادا بازداشت شده بود، پس از توافق با دادستانی از پیگرد قضایی معاف شد.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🔻محکومیت سنگین هواوی در آمریکا به‌دلیل نقض تحریم‌های ج.ا 🔸شرکت چینی هواوی در دادگاه فدرال بروکلین نیویورک، در ۱۰ مورد از ۱۲ اتهام کیفری، از جمله کلاهبرداری بانکی، نقض تحریم‌های آمریکا علیه ج.ا و سرقت اسرار تجاری، مجرم شناخته شد. 🔸این پرونده از سال ۲۰۱۸ در جریان بوده و پیش‌تر به قرار گرفتن هواوی در فهرست سیاه تجاری آمریکا منجر شده بود. منگ وانژو، مدیر مالی ارشد این شرکت نیز که در سال ۲۰۱۸ در کانادا بازداشت شده بود، پس از توافق با دادستانی از پیگرد قضایی معاف شد. @iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/17131",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/WCOTgOEI3leMHvR5SHBG-G9veLMho8zOZYjCsCA_S0l7Bdp34a2_6YraF_nIbdhQRVFa3M__vGXKD-j7BUvh1vYWCkNvFZHoHzPeQAO4uJr_Dmo2cryQqGx3qghtzpHlyVxPFeXmpctFKCEJUqKhoQ1m_PN9k_KX4zScIzjNukM49VCXAKDloMVDTqkAy_pZnMxoFEVW_z0LzSqSFVT8mgSSoi866CXABacY3ubdA32LXJB8HLPSDuFTpB1LZ-cLWbX4rdUcAWg0QUATCybkA0sDO0_EKbAWHkkaI7H12cjhyHR9U-E8oaXC_qIAfQqLLWY0rQB_gJFTAgvagnIUeA.jpg",
-          "thumbnail_path": "channels/iranlix/media/9e19e9f87e2bd58c1a4d338b.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "509",
-      "posted_at": "2026-11-25T06:42:18+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/17131"
-    },
-    {
-      "id": "iranlix/17130",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aVwiTTPt6HWRVUAUT8qyJKQrTRGXHFjslgSfQ7zErlEV2lplnPN5c-1FxeK3NnZJHMIw_lvY_m8Aytmn9rr8rkzDlcxUyoyCKuvz26eptG0mv60gAsx5Is_1-rm1AUoV8e4mwV-Qc1Ih-mEZsusDV4pj5GmCVa7dDzGsMLmiPVNoJCTk4CvTYYzXjDMAVcwBQvQL32iKfWYmsIFu0DoojvZazH8syxTaiQiIXLL_ViRiFBSqDjaemO76EBTtboa7smmHE0Da7qfkrplBpQ79HU2MGiH2Sz5j6sBOB3iJlx7LaIHiq-0Im21bgUjmAEPKERItysc_dhfwOF605yjDhA.jpg",
-      "author_photo_path": "channels/iranlix/media/4532083b79471024d893d4d9.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>افشای شبکه نفوذ ج.ا با خبرنگاران جعلی در رسانه‌های غربی؛ استفاده از چت‌جی‌پی‌تی برای انتشار اخبار ضدآمریکایی</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>شبکه ای‌بی‌سی استرالیا گزارش داد یک شبکه نفوذ مستقر در ایران با استفاده از حساب‌های متعدد چت‌جی‌پی‌تی و جعل هویت هفت خبرنگار غربی، نزدیک به ۱۰۰ مقاله انتقادی درباره جنگ آمریکا و ج.ا را برای انتشار به رسانه‌های آنلاین ارائه کرده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>به گفته ای‌بی‌سی، یکی از این هویت‌های جعلی با نام «آلیس جانسون» به‌طور ویژه افکار عمومی استرالیا را هدف گرفته و با انتشار مقالات و بیش از ۱۰۰ پست در شبکه ایکس، به اختلاف میان متحدان آمریکا و هزینه‌های جنگ پرداخته است. شرکت متا نیز این حساب را به شبکه نفوذی مرتبط با ج.ا که از سال ۲۰۲۴ فعال بوده، نسبت داده است.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🔻افشای شبکه نفوذ ج.ا با خبرنگاران جعلی در رسانه‌های غربی؛ استفاده از چت‌جی‌پی‌تی برای انتشار اخبار ضدآمریکایی 🔹شبکه ای‌بی‌سی استرالیا گزارش داد یک شبکه نفوذ مستقر در ایران با استفاده از حساب‌های متعدد چت‌جی‌پی‌تی و جعل هویت هفت خبرنگار غربی، نزدیک به ۱۰۰ مقاله انتقادی درباره جنگ آمریکا و ج.ا را برای انتشار به رسانه‌های آنلاین ارائه کرده است. 🔹به گفته ای‌بی‌سی، یکی از این هویت‌های جعلی با نام «آلیس جانسون» به‌طور ویژه افکار عمومی استرالیا را هدف گرفته و با انتشار مقالات و بیش از ۱۰۰ پست در شبکه ایکس، به اختلاف میان متحدان آمریکا و هزینه‌های جنگ پرداخته است. شرکت متا نیز این حساب را به شبکه نفوذی مرتبط با ج.ا که از سال ۲۰۲۴ فعال بوده، نسبت داده است. @iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/17130",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/S8gS7ebJECIKnwFOXsRtXT_-gHyF1kxR-WmhtpOWZ32bRfMUD2rU_TOwxUCR338udfE8Usdl8SyJjAs3-1bOey_qQUP3fAFcyAN24ROCIvto9l74DxtpcCnKj-vjaEo5CNue1RBjDiV2RqcW3FiMx5bPlH3fWQ_1niRpsZmmogDvH-z17cwUSbHTfk-d5NnqOD6WK9dtoBQLYkoidlIeQgUwcKe6qA1wou_deL9-jl3fFY-RwjbZaZtTjUty-yC0cJvpa-iwwlvVdCgZaGrpg2uJ-GIHeSaXTS5zO3GAJamP6veQA3qfpqIjEkw1LMJhhqes0ReONX6PZTjjcVa6zw.jpg",
-          "thumbnail_path": "channels/iranlix/media/5b63fe70207eea9c1ed2afc6.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8450000000000156
-        }
-      ],
-      "reactions": [],
-      "views_label": "494",
-      "posted_at": "2026-11-25T06:41:04+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/17130"
-    },
-    {
-      "id": "iranlix/17129",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aVwiTTPt6HWRVUAUT8qyJKQrTRGXHFjslgSfQ7zErlEV2lplnPN5c-1FxeK3NnZJHMIw_lvY_m8Aytmn9rr8rkzDlcxUyoyCKuvz26eptG0mv60gAsx5Is_1-rm1AUoV8e4mwV-Qc1Ih-mEZsusDV4pj5GmCVa7dDzGsMLmiPVNoJCTk4CvTYYzXjDMAVcwBQvQL32iKfWYmsIFu0DoojvZazH8syxTaiQiIXLL_ViRiFBSqDjaemO76EBTtboa7smmHE0Da7qfkrplBpQ79HU2MGiH2Sz5j6sBOB3iJlx7LaIHiq-0Im21bgUjmAEPKERItysc_dhfwOF605yjDhA.jpg",
-      "author_photo_path": "channels/iranlix/media/4532083b79471024d893d4d9.jpg",
-      "body_html": "<a class=\"tgme_widget_message_author_name\" href=\"https://t.me/iranlix\"><span dir=\"auto\">ایرانلیکس</span></a> pinned a video",
-      "plain_text": "ایرانلیکس pinned a video",
-      "media": [],
-      "reactions": [],
-      "views_label": null,
-      "posted_at": "2026-11-25T06:38:04+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/17129"
-    },
-    {
-      "id": "iranlix/17128",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aVwiTTPt6HWRVUAUT8qyJKQrTRGXHFjslgSfQ7zErlEV2lplnPN5c-1FxeK3NnZJHMIw_lvY_m8Aytmn9rr8rkzDlcxUyoyCKuvz26eptG0mv60gAsx5Is_1-rm1AUoV8e4mwV-Qc1Ih-mEZsusDV4pj5GmCVa7dDzGsMLmiPVNoJCTk4CvTYYzXjDMAVcwBQvQL32iKfWYmsIFu0DoojvZazH8syxTaiQiIXLL_ViRiFBSqDjaemO76EBTtboa7smmHE0Da7qfkrplBpQ79HU2MGiH2Sz5j6sBOB3iJlx7LaIHiq-0Im21bgUjmAEPKERItysc_dhfwOF605yjDhA.jpg",
-      "author_photo_path": "channels/iranlix/media/4532083b79471024d893d4d9.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>ترامپ: بودجه عملیات نظامی آمریکا علیه ج.ا تا پایان ژانویه تأمین شده است</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i>دونالد ترامپ در گفت‌وگو با روزنامه نیویورک‌پست اعلام کرد بودجه عملیات نظامی آمریکا علیه ج.ا تا پایان ژانویه تأمین شده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i>او همچنین گفت هدف اسرائیل برای سرنگونی ج.ا احتمالاً قابل تحقق است، اما این هدف اصلی او نیست و اولویت واشینگتن جلوگیری از دستیابی ج.ا به سلاح هسته‌ای است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i>ترامپ هشدار داد که توقف زودهنگام عملیات نظامی از سوی دموکرات‌های کنگره می‌تواند آنچه او پیروزی آمریکا می‌داند، به شکست تبدیل کند.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🔻ترامپ: بودجه عملیات نظامی آمریکا علیه ج.ا تا پایان ژانویه تأمین شده است 💢دونالد ترامپ در گفت‌وگو با روزنامه نیویورک‌پست اعلام کرد بودجه عملیات نظامی آمریکا علیه ج.ا تا پایان ژانویه تأمین شده است. 💢او همچنین گفت هدف اسرائیل برای سرنگونی ج.ا احتمالاً قابل تحقق است، اما این هدف اصلی او نیست و اولویت واشینگتن جلوگیری از دستیابی ج.ا به سلاح هسته‌ای است. 💢ترامپ هشدار داد که توقف زودهنگام عملیات نظامی از سوی دموکرات‌های کنگره می‌تواند آنچه او پیروزی آمریکا می‌داند، به شکست تبدیل کند. @iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/17128",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/eHnx-Nzq-wUXINJ0KSfocsSEkDzbnLi_yhwp1vos51lrxa5hSm87Sc5QOQIx379MofenvOde-4qCTb0OygiVEs_4o9qT9Q8YgfPD8Zh_P6lpJOwdiwGoQnCBQm7bqbBOXb_arFrKJUUMeK4SK0OM41Zo4kkPqAtdeElBVW97fApZS50Z3BBFh5t9N1G1RojwT4oNIQcH2YHWtnCT0M8VLSliPEBThV8RtZSrlF7Zss7BADT1ArRVHnomqD4I2d0RRtC0O58UqDnII_K4A7x1WOBEO4OCvn2xCwR1b9nILlKihnz9TtJQ41RUlGO5yBS0AuhZ_4rthIepVjgQcMEn-g.jpg",
-          "thumbnail_path": "channels/iranlix/media/e4996d3fd9d1cd880e15d97e.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.0666666666666667
-        }
-      ],
-      "reactions": [],
-      "views_label": "563",
-      "posted_at": "2026-11-25T06:29:31+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/17128"
-    },
-    {
-      "id": "iranlix/17127",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aVwiTTPt6HWRVUAUT8qyJKQrTRGXHFjslgSfQ7zErlEV2lplnPN5c-1FxeK3NnZJHMIw_lvY_m8Aytmn9rr8rkzDlcxUyoyCKuvz26eptG0mv60gAsx5Is_1-rm1AUoV8e4mwV-Qc1Ih-mEZsusDV4pj5GmCVa7dDzGsMLmiPVNoJCTk4CvTYYzXjDMAVcwBQvQL32iKfWYmsIFu0DoojvZazH8syxTaiQiIXLL_ViRiFBSqDjaemO76EBTtboa7smmHE0Da7qfkrplBpQ79HU2MGiH2Sz5j6sBOB3iJlx7LaIHiq-0Im21bgUjmAEPKERItysc_dhfwOF605yjDhA.jpg",
-      "author_photo_path": "channels/iranlix/media/4532083b79471024d893d4d9.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>تخریب میراث ۳۰۰ ساله مردم ده‌چین با چند مجوز؛ اعتراض اهالی به قطع درختان کهنسال گردو و بادام</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>جمعی از اهالی روستای ده‌چین استان کرمان دیروز در اعتراض به تخریب درختان کهنسال گردو و بادام، مقابل فرمانداری تجمع کردند.این درختان که قدمتی چندصدساله دارند، حاصل تلاش چندین نسل از مردم منطقه هستند. اهالی نسبت به نابودی این میراث طبیعی و تاریخی اعتراض دارند و خواستار توقف تخریب و پاسخگویی مسئولان شده‌اند.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🔻تخریب میراث ۳۰۰ ساله مردم ده‌چین با چند مجوز؛ اعتراض اهالی به قطع درختان کهنسال گردو و بادام 🔸جمعی از اهالی روستای ده‌چین استان کرمان دیروز در اعتراض به تخریب درختان کهنسال گردو و بادام، مقابل فرمانداری تجمع کردند.این درختان که قدمتی چندصدساله دارند، حاصل تلاش چندین نسل از مردم منطقه هستند. اهالی نسبت به نابودی این میراث طبیعی و تاریخی اعتراض دارند و خواستار توقف تخریب و پاسخگویی مسئولان شده‌اند. @iranlix",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/iranlix/17127",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/NQoTytV-FEZ6lNdDEVgAWYK-WqQYWGeUmpIL-bJO5H7-FBZoptPlA0kkO4dPloTcb8pRAxqK6wUj18WZLADfBC8nxDIWLdUSOc4FtaZU3m_-wnQYWsPqCgxCS2GZ1KqehavuraSrXynRGVP-yaOdVOod3F_KvskI0xBvIYcTpEZJaZho-8McafPOF_lL8OOeR6BMJHP3a_e9tsE1ZnCUXGB3Wi913ApxrNxqjHXwfBXGFUo7zKYu4sHNbzawgaYT6gaPCPixNJHT6K6JC1uJnwMdgtxythOZ-3sHwmcEDQQPBAbM3OO9jReKpqkolOGfcr4u7Xyr5KGUgEKDf_M25w",
-          "thumbnail_path": "channels/iranlix/media/7e33d98e0c936a139ec01b16.jpg",
-          "duration_label": "0:51",
-          "aspect_ratio": 0.8064516129032258
-        }
-      ],
-      "reactions": [],
-      "views_label": "590",
-      "posted_at": "2026-11-25T06:22:15+00:00",
-      "edited": true,
-      "permalink": "https://t.me/iranlix/17127"
-    },
-    {
-      "id": "iranlix/17126",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/aVwiTTPt6HWRVUAUT8qyJKQrTRGXHFjslgSfQ7zErlEV2lplnPN5c-1FxeK3NnZJHMIw_lvY_m8Aytmn9rr8rkzDlcxUyoyCKuvz26eptG0mv60gAsx5Is_1-rm1AUoV8e4mwV-Qc1Ih-mEZsusDV4pj5GmCVa7dDzGsMLmiPVNoJCTk4CvTYYzXjDMAVcwBQvQL32iKfWYmsIFu0DoojvZazH8syxTaiQiIXLL_ViRiFBSqDjaemO76EBTtboa7smmHE0Da7qfkrplBpQ79HU2MGiH2Sz5j6sBOB3iJlx7LaIHiq-0Im21bgUjmAEPKERItysc_dhfwOF605yjDhA.jpg",
-      "author_photo_path": "channels/iranlix/media/4532083b79471024d893d4d9.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>طبق گفته وکیل میلاد آرمون، ساعاتی قبل بصورت تلفنی توقف اجرای حکم اعدام به ایشان ابلاغ شده، و  به خانواده میلاد اطلاع داده شده.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "♦️طبق گفته وکیل میلاد آرمون، ساعاتی قبل بصورت تلفنی توقف اجرای حکم اعدام به ایشان ابلاغ شده، و به خانواده میلاد اطلاع داده شده. @iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/17126",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/czTTJtdL8Zneh5DOsXIlMiMA6fDaJ_SB2oz1sT5wKbnGTBpqdg_l-gu7kY7qJd_UO6RP_Mtnm7QPdDYGY9dzhCAm5SvFZ1TUCblMYrcQekJWhTRaG1ox-rKAnk7Ww38DNj_yz3HFR_Y16aG8Rug0uRMoIqlcZ2Qf4ZZZ7d1O3aB5DXjrX5wVKig13ebdU24O4DGIll3tylFkcIB0VsYFTVzSdNTyJLYrOIPJKQ3bJo7MvWoxghdV45f9rrSiCjw8xt21oVIxfmEgR4S3wmuAqRcQ0DRZkwrn-kGOmoHE-db1ZZgV33V-GzoF0RW_EitGTS0BPD6I0ENo2I93KQOiag.jpg",
-          "thumbnail_path": "channels/iranlix/media/9a7bf2df8050ce561beafc94.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.1375968992247998
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.02K",
-      "posted_at": "2026-11-24T23:08:21+00:00",
-      "edited": true,
-      "permalink": "https://t.me/iranlix/17126"
     }
   ]
 }
